@@ -1,0 +1,487 @@
+[
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_INTROMESSAGES_9",
+    "en": "I dislike the feeling of you poor people.",
+    "ru": "Мне неприятно прикосновение к вам, бедным людишкам."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_OUTROMESSAGES_3",
+    "en": "They are quite disgustingly good at it.",
+    "ru": "Они до отвращения хороши в этом деле."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_BONUSMESSAGES_1",
+    "en": "Sigh. The robots are killing me, but I suppose you are doing well.",
+    "ru": "Эх. Роботы меня разоряют, но — полагаю — вы справляетесь неплохо."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_INTROMESSAGES_3",
+    "en": "They are annoyingly good at counting.",
+    "ru": "Они до безобразия хорошо считают."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_OUTROMESSAGES_1",
+    "en": "I suppose I should offer you some incentive to perform well.",
+    "ru": "Полагаю, мне следует предложить вам некий стимул для добросовестной работы."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_OUTROMESSAGES_2",
+    "en": "Oh, for the days when the threat of a damn good thrashing was enough.",
+    "ru": "Ох, где те времена, когда хватало угрозы хорошей порки."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_PASSMESSAGES_1",
+    "en": "An adequate performance out there. Please let me show my gratitude.",
+    "ru": "Приемлемая работа снаружи. Позвольте выразить благодарность."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_14",
+    "en": "Also be on the look out for travellers from the USA.",
+    "ru": "И ещё — высматривай путешественников из США."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_15",
+    "en": "Like the Brits.",
+    "ru": "Как и британцев."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_FAILMESSAGES_1",
+    "en": "Dave. Hire a bloody bouncer.",
+    "ru": "Дэйв. Найми уже нормального вышибалу."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_FAILMESSAGES_2",
+    "en": "Oi Oi!",
+    "ru": "Эй-эй!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_INTROMESSAGES_1",
+    "en": "Oi-oi",
+    "ru": "Эй-эй"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_INTROMESSAGES_2",
+    "en": "Oi-oi",
+    "ru": "Эй-эй"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_INTROMESSAGES_13",
+    "en": "Oi Oi",
+    "ru": "Эй-эй"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_OUTROMESSAGES_10",
+    "en": "Stiff upper lip.",
+    "ru": "Не раскисать."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_PASSMESSAGES_1",
+    "en": "Not bad boss?",
+    "ru": "Неплохо, босс?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_PASSMESSAGES_2",
+    "en": "You're the boss, boss.",
+    "ru": "Тебе виднее, босс."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS18_BONUSMESSAGES_1",
+    "en": "Ye prove yourself well Dave.",
+    "ru": "Ты хорошо себя проявил, Дэйв."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS18_INTROMESSAGES_1",
+    "en": "Arrr, My boy Dave. You good?",
+    "ru": "Аррр, малый Дэйв. Как сам?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS18_INTROMESSAGES_7",
+    "en": "Theres another drink for sale.",
+    "ru": "Ещё один напиток появился в продаже."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS18_INTROMESSAGES_9",
+    "en": "Top tier drinks can earn you a pirate's booty!",
+    "ru": "Напитки высшего класса принесут тебе пиратскую добычу!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS18_PASSMESSAGES_1",
+    "en": "Another good show!",
+    "ru": "Ещё одно славное представление!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS1_INTROMESSAGES_1",
+    "en": "Oi-oi. New bouncer, reportin' for duty!",
+    "ru": "Эй-эй. Новый вышибала, прибыл на дежурство!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS1_INTROMESSAGES_12",
+    "en": "Not as such, but I watched me Euro mate do it enough.",
+    "ru": "Не совсем, но я насмотрелся, как мой приятель-европеец этим занимался."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS1_INTROMESSAGES_17",
+    "en": "Let me at 'em!",
+    "ru": "Выпускайте меня на них!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS1_INTROMESSAGES_18",
+    "en": "Oh yeah. New drinks machine arrived.",
+    "ru": "О, да. Новый автомат для напитков прибыл."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS1_OUTROMESSAGES_4",
+    "en": "You need cash to help you with this dating lark.",
+    "ru": "Тебе нужны деньги для этой возни со свиданиями."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS1_OUTROMESSAGES_5",
+    "en": "How do you know I'm dating?",
+    "ru": "Откуда ты знаешь, что я хожу на свидания?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_FAILMESSAGES_2",
+    "en": "It's what you might call a curate's egg.",
+    "ru": "Это, как говорится, неоднозначный результат."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_FAILMESSAGES_6",
+    "en": "Yeah, if I were me, I'd totally fire me.",
+    "ru": "Ага, будь я на моём месте, я бы точно себя уволил."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_INTROMESSAGES_9",
+    "en": "Dates appreciate you letting them into a venue they like.",
+    "ru": "Партнёры ценят, когда ты впускаешь их в место, которое им нравится."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_INTROMESSAGES_10",
+    "en": "But also they appreciate you turning them away from a venue they dislike.",
+    "ru": "Но также ценят, когда ты не пускаешь их в место, которое им не нравится."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_INTROMESSAGES_11",
+    "en": "I'm getting dating advice from you now?",
+    "ru": "Теперь ты даёшь мне советы по свиданиям?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_OUTROMESSAGES_2",
+    "en": "Piece of cake. Wait. Like, one of those fancy French cakes.",
+    "ru": "Раз плюнуть. Стоп. Ну, как один из тех модных французских тортов."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_BONUSMESSAGES_1",
+    "en": "Vous really outdid... vous-elf? Splendid. Or, as the French would say... ",
+    "ru": "Вы действительно прев... вы-зошли? Великолепно. Или, как сказали бы французы... "
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_FAILMESSAGES_1",
+    "en": "Alas, you made a bit of a cock-au-vin out of that.",
+    "ru": "Увы, вы устроили из этого настоящий кок-о-вэн."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_FAILMESSAGES_3",
+    "en": "On second thoughts, have a muffin.",
+    "ru": "Хотя нет, возьмите маффин."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_INTROMESSAGES_4",
+    "en": "This language app on my phone wants cash for the next chapter.",
+    "ru": "Это приложение для языков на телефоне требует денег за следующую главу."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_INTROMESSAGES_10",
+    "en": "Ta. Those cakes look proper lovely.",
+    "ru": "О. Тортики выглядят просто шикарно."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_BONUSMESSAGES_1",
+    "en": "Here you go, have this little bonus pour votre hard work.",
+    "ru": "Вот, возьмите маленький бонус пур вотр усердную работу."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_FAILMESSAGES_1",
+    "en": "Sigh. If only I had a reliable bouncer at my call...",
+    "ru": "Эх. Если бы только у меня был надёжный вышибала под рукой..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_FAILMESSAGES_4",
+    "en": "Yeah, I've had some right wallies outside my gaff.",
+    "ru": "Ага, у меня тут тоже были те ещё балбесы на входе."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_INTROMESSAGES_10",
+    "en": "Yeah. And nothing goes down smoother than my spit in your wine glass.",
+    "ru": "Ага. И ничто не идёт так гладко, как мой плевок в ваш бокал."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_OUTROMESSAGES_1",
+    "en": "What a shift! Ugh. I'd better start baking for tomorrow.",
+    "ru": "Ну и сменка! Фу. Пора начинать печь на завтра."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_OUTROMESSAGES_7",
+    "en": "Vous might actually be un genius.",
+    "ru": "Вы, возможно, ан жени."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_PASSMESSAGES_1",
+    "en": "Bloody knackered after tonight. Can't wait to get some sleep.",
+    "ru": "До чёртиков устал после сегодня. Скорей бы поспать."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS7_INTROMESSAGES_2",
+    "en": "Vous looks like un homme d'escernment.",
+    "ru": "Вы выглядите как ом д'эсернман."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS7_INTROMESSAGES_12",
+    "en": "(Thinks) I could make someone fall in love with me using that.",
+    "ru": "(Думает) С помощью этого я мог бы влюбить в себя кого-нибудь."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS7_OUTROMESSAGES_1",
+    "en": "Sigh. How quickly our little relationship draws to an end...",
+    "ru": "Эх. Как быстро наши маленькие отношения подходят к концу..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_BONUSMESSAGES_1",
+    "en": "ARRR! Ye've earned yer rightful booty this day.",
+    "ru": "АРРР! Ты заслужил свою законную добычу сегодня."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_FAILMESSAGES_1",
+    "en": "Bah! On the high seas, I would have ye keelhauled for such a performance!",
+    "ru": "Тьфу! В открытом море я бы протащил тебя под килем за такую работу!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_6",
+    "en": "Least they did, 'fore them scurvy knaves at the river boat club made me take it down.",
+    "ru": "По крайней мере, разбегались — пока эти цинготные мерзавцы из лодочного клуба не заставили меня их снять."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_12",
+    "en": "But don't be slack, ya swab! Work hard, or walk me plank!",
+    "ru": "Но не филонь, салага! Работай на совесть — или пойдёшь по доске!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_OUTROMESSAGES_1",
+    "en": "Nothin' like a busy night ta blister me barnacles!",
+    "ru": "Ничто так не натирает мои ракушки, как бойкая ночка!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_PASSMESSAGES_4",
+    "en": "Only if your daddy be rich and not disowned ye yet.",
+    "ru": "Только если папаша богат и ещё не отрёкся от тебя."
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY10_TEXT",
+    "en": "Britain continues its quest to become the world's laughing stock with news that the government has handed a prime £15 million food services contract to an 11 year old boy with a lemonade stand. \"It's very good lemonade! The best!\" explained his father, the Minister of Fisheries.\n\n'These allegations of nepotism and corruption are just another sad indictment of the cynical fake news press trying to stamp out a burgeoning  British business before it has time to bloom. You sicken me.'\n",
+    "ru": "Британия продолжает стремиться к званию мирового посмешища: правительство передало контракт на продовольственные услуги стоимостью 15 миллионов фунтов 11-летнему мальчику с лимонадным прилавком. «Это очень хороший лимонад! Лучший!» — пояснил его отец, министр рыболовства.\n\n«Эти обвинения в кумовстве и коррупции — лишь очередной жалкий выпад циничной прессы, пытающейся задушить растущий британский бизнес, не дав ему расцвести. Меня от вас тошнит».\n"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY1_TEXT",
+    "en": "Lonely? Romantically unfulfilled? Don't worry, loser! You're not the only one.\n\nToday's lovers demand the best. Are you the best? Statistically, probably not! Only 0.1% can hope for happiness. But don't \nworry! If you can't fake it 'til you make it, spend it 'til they befriend it! What do you wear? What do you own? Where do you go? Every dater should be thinking about these. \n\nThen with FLAMR, get ready to unlock TRUE LOVE!\n",
+    "ru": "Одиноки? Романтически неудовлетворены? Не переживайте, лузер! Вы такой не один.\n\nСовременные влюблённые требуют лучшего. Вы — лучший? По статистике — вряд ли! Только 0,1% могут надеяться на счастье. Но не \nпереживайте! Не можете притвориться — тратьте деньги, пока вас не полюбят! Во что вы одеты? Чем владеете? Куда ходите? Каждый, кто ищет пару, должен думать об этом. \n\nА с FLAMR приготовьтесь обрести НАСТОЯЩУЮ ЛЮБОВЬ!\n"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY5_TEXT",
+    "en": "Yeovil/Toulouse to de-twin. After years of questions over what the bloody hell 'twinning' towns means except for free holidays for government staff disguised as 'fact finding' missions, Toulouse has decided to stop the nonsense. \n\nLike many towns in both England and France, this marks a refreshing end to a period of quite unseemly pretence at good sentiment, and a return to the good old days of everyone hating each other for no particular reason. \n\nThe mayor of Yeovil is said to be in a state of desperation at no longer having a good excuse to come over and stock up on Pineau.\n",
+    "ru": "Йовил и Тулуза разрывают побратимство. После многолетних вопросов о том, какого чёрта вообще значит «побратимство» городов, кроме бесплатных отпусков для чиновников под видом «ознакомительных миссий», Тулуза решила покончить с этой чушью. \n\nКак и во многих городах Англии и Франции, это знаменует отрадный конец периода совершенно неприличного притворства добрых чувств и возвращение к старым добрым временам, когда все ненавидели друг друга без особых причин. \n\nМэр Йовила, по слухам, пребывает в отчаянии из-за утраты хорошего повода приезжать и закупаться Пино.\n"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS3_INTROMESSAGES_12",
+    "en": "Your loss, mate.",
+    "ru": "Твоя потеря, приятель."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS3_OUTROMESSAGES_2",
+    "en": "...joy.",
+    "ru": "...восторг."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_INTROMESSAGES_1",
+    "en": "Night, boss. Back on the door?",
+    "ru": "Добрый вечер, босс. Снова на дверь?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_OUTROMESSAGES_8",
+    "en": "Ah, the wisdom of the rude mechanical.",
+    "ru": "Ах, мудрость грубого ремесленника."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_1",
+    "en": "Ah. Listen, I was thinking about giving you a raise.",
+    "ru": "Ах. Слушайте, я подумывал повысить вам зарплату."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_2",
+    "en": "Neat.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_3",
+    "en": "But then I thought some more and decided, no.",
+    "ru": "Но потом подумал ещё — и решил, что нет."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_4",
+    "en": "You'd only squander it on trivialities like food.",
+    "ru": "Вы бы всё равно спустили всё на пустяки вроде еды."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_5",
+    "en": "But I'm told I have to give you something.",
+    "ru": "Но мне сказали, что я должен вам что-то дать."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_6",
+    "en": "How about that diamante dog collar.",
+    "ru": "Как насчёт вот этого ошейника со стразами."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_7",
+    "en": "Might be worth something on BUYR.",
+    "ru": "Может, что-то стоит на BUYR."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_8",
+    "en": "You know. That auction site that's legally distinct from eBay.",
+    "ru": "Ну знаете. Тот аукцион, который юридически не является eBay."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_9",
+    "en": "Or maybe you could give it to someone as a gift.",
+    "ru": "Или можете кому-нибудь подарить."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_10",
+    "en": "All I care is that I can write it off on this year's taxes.",
+    "ru": "Мне главное — списать это с налогов за этот год."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_11",
+    "en": "I reckon I could win someone's heart with that.",
+    "ru": "Думаю, этим можно покорить чьё-нибудь сердце."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_16",
+    "en": "Make sure their travel cards are in order.",
+    "ru": "Убедитесь, что их карты путешественника в порядке."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_17",
+    "en": "Check the flyer.",
+    "ru": "Проверьте листовку."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_18",
+    "en": "Get to it, my dear!",
+    "ru": "Приступайте, дорогуша!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_BONUSMESSAGES_1",
+    "en": "What a performance! You outdid yourself!",
+    "ru": "Какая работа! Вы превзошли себя!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_BONUSMESSAGES_2",
+    "en": "I know that's not saying much, but you did it. And that's coming from me.",
+    "ru": "Знаю, это не бог весть что, но вы справились. И это говорю я."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_FAILMESSAGES_1",
+    "en": "I should give in. Let the robots have the place. And you.",
+    "ru": "Пора сдаться. Пусть роботы забирают это место. И вас."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_FAILMESSAGES_2",
+    "en": "Sorry...",
+    "ru": "Простите..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_FAILMESSAGES_3",
+    "en": "Don't be sorry. Just be... anywhere else.",
+    "ru": "Не извиняйтесь. Просто будьте... где-нибудь в другом месте."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_OUTROMESSAGES_1",
+    "en": "Anyway. I may have other jobs for you. Look out for them.",
+    "ru": "В любом случае. У меня могут быть для вас другие задания. Следите за ними."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_OUTROMESSAGES_2",
+    "en": "Hurry, before I replace you with a robot.",
+    "ru": "Поторопитесь, пока я не заменил вас роботом."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_PASSMESSAGES_1",
+    "en": "Another good shift. How strange to hear myself say that.",
+    "ru": "Ещё одна хорошая смена. Как странно слышать это от самого себя."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_PASSMESSAGES_2",
+    "en": "Are you sure you're not someone else in disguise?",
+    "ru": "Вы точно не кто-то другой в маскировке?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_INTROMESSAGES_2",
+    "en": "How I wish you'd been here earlier.",
+    "ru": "Как бы я хотел, чтобы вы были тут пораньше."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_INTROMESSAGES_3",
+    "en": "Trouble?",
+    "ru": "Проблемы?"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY12_TEXT",
+    "en": "President Trump has today closed the NASA space organisation, citing his suspicion that its scientists have repeatedly tried to humiliate him.\n\n\"They said, go on TV and say that we're focused on investigating Uranus. That's what they said. I'm Donald Trump, and under my leadership, we are going to probe Uranus like never before. We're going so deep into Uranus, you won't believe it. All the probes, they're going to be taking samples from Uranus. We'll be drowning in gas from Uranus. Good job I'm so smart or it might have taken even more than six months to catch on.\"\n",
+    "ru": "Президент Трамп сегодня закрыл космическое агентство NASA, сославшись на подозрения, что его учёные неоднократно пытались его унизить.\n\n«Они сказали: выйди на ТВ и скажи, что мы сосредоточены на исследовании Урана. Так и сказали. Я — Дональд Трамп, и под моим руководством мы будем зондировать Уран как никогда прежде. Мы проникнем в Уран так глубоко, что вы не поверите. Все зонды будут брать пробы из Урана. Мы захлебнёмся в газах из Урана. Хорошо, что я такой умный — иначе потребовалось бы ещё больше шести месяцев, чтобы сообразить».\n"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY14_TEXT",
+    "en": "Head bouncers around the land are in a priveleged position. Not only do they decide who gets in to the party. \n\nBut they also get to pick up that strange item in the venue. The clever head bouncer gives it to someone they are courting.\n\nClever stuff eh!\n",
+    "ru": "Главные вышибалы по всей стране в привилегированном положении. Они не только решают, кого пустить на вечеринку. \n\nНо ещё и могут подобрать тот странный предмет в заведении. Умный главный вышибала дарит его тому, за кем ухаживает.\n\nХитро, а!\n"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_FAILMESSAGES_4",
+    "en": "Not selling well, they're not.",
+    "ru": "Плохо продаются, прямо скажем."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_FAILMESSAGES_5",
+    "en": "Even the rats only took a little nibble.",
+    "ru": "Даже крысы только чуть-чуть надкусили."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_INTROMESSAGES_5",
+    "en": "Or if you are, you will soon be disappointed that we accept neither lint, nor dreams.",
+    "ru": "А если и так, вас ждёт разочарование — мы не принимаем ни ворсинки из карманов, ни мечты."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS3_INTROMESSAGES_10",
+    "en": "Like that SuperFX chip over there. I reckon I could win someone's heart with that.",
+    "ru": "Вот как тот чип SuperFX. Думаю, им можно покорить чьё-нибудь сердце."
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY13_TEXT",
+    "en": "Don't dress for the partner you have. Dress for the partner you want! \nCheck SHOPR. Get 0% off your first order with the offer code NOCHOICE.\n",
+    "ru": "Не одевайтесь для партнёра, который у вас есть. Одевайтесь для партнёра, которого хотите! \nЗагляните в SHOPR. Получите скидку 0% на первый заказ по промокоду NOCHOICE.\n"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS1_INTROMESSAGES_15",
+    "en": "Always wondered who that was.",
+    "ru": "Всегда интересовало, кто это такой."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_2",
+    "en": "Ahoy-hoy, saveloy!",
+    "ru": "Эй-хо-хо, сарделька!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_INTROMESSAGES_12",
+    "en": "I was on FLAMR once too.",
+    "ru": "Я тоже когда-то был на FLAMR."
+  }
+]

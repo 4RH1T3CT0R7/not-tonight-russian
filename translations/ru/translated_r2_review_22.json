@@ -1,0 +1,32 @@
+[
+  {
+    "key": "APP_BILLR_BILL_PROJECTED_PAY",
+    "en": "Projected Pay: ",
+    "ru": "Расчётная оплата: "
+  },
+  {
+    "key": "APP_BILLR_CREDITHEALTH_BALANCED",
+    "en": "Balanced",
+    "ru": "Сбалансировано"
+  },
+  {
+    "key": "APP_BILLR_CREDITHEALTH_HEALTHY",
+    "en": "HEALTHY",
+    "ru": "В НОРМЕ"
+  },
+  {
+    "key": "APP_BOUNCR_SKIP_WORK_DETAILS",
+    "en": "Skipping work decreases your social credit score. Except in these cases:\n- Missing limb\n- Active volcano\n- Biological attack",
+    "ru": "Прогул снижает твой социальный рейтинг. Кроме следующих случаев:\n- Отсутствие конечности\n- Активный вулкан\n- Биологическая атака"
+  },
+  {
+    "key": "APP_FLAMR_END_SEARCH",
+    "en": "Thanks for reviewing your totally real, non-bot, FLAMR matches.",
+    "ru": "Спасибо за просмотр ваших абсолютно реальных, точно-не-ботских совпадений в FLAMR."
+  },
+  {
+    "key": "APP_RESISTANCE_FAKE_AGENTS_QUEST_TITLE",
+    "en": "2. DENY JUMPERS",
+    "ru": "2. НЕ ПУСКАТЬ В СВИТЕРАХ"
+  }
+]

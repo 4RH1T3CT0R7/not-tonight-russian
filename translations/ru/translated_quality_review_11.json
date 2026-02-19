@@ -1,0 +1,152 @@
+[
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_19",
+    "en": "Hey.",
+    "ru": "Хей."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_36",
+    "en": "Roger.",
+    "ru": "Вас понял."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_10",
+    "en": "Screw this.",
+    "ru": "Да пошло всё."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_2",
+    "en": "I'm going home.",
+    "ru": "Я пошёл домой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_3",
+    "en": "Looks crap anyway.",
+    "ru": "Всё равно отстой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_4",
+    "en": "Dont want to come in anyway.",
+    "ru": "Всё равно не хотел входить."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_14",
+    "en": "I don't care, im going.",
+    "ru": "Мне плевать, я ухожу."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_17",
+    "en": "I'm off.",
+    "ru": "Я пошёл."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "Like I care.",
+    "ru": "Как будто мне не пофиг."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_22",
+    "en": "I queued for that.",
+    "ru": "Я для этого в очереди стоял."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_24",
+    "en": "This can't be possible.",
+    "ru": "Этого не может быть."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_38",
+    "en": "I'll come back later.",
+    "ru": "Я вернусь позже."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_21",
+    "en": "ID?",
+    "ru": "Документ?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_12",
+    "en": "I, I am destroyed.",
+    "ru": "Я, я уничтожен."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_49",
+    "en": "I, I....",
+    "ru": "Я, я..."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_21",
+    "en": "ID?",
+    "ru": "Документ?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_33",
+    "en": "Granted",
+    "ru": "Пожалуйста"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_10",
+    "en": "Screw this.",
+    "ru": "Да пошло всё."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_12",
+    "en": "Going next door.",
+    "ru": "Пойду в соседнее."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_2",
+    "en": "I'm going home.",
+    "ru": "Я пошёл домой."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_3",
+    "en": "Looks crap anyway.",
+    "ru": "Всё равно дрянь."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_4",
+    "en": "Dont want to come in anyway.",
+    "ru": "Всё равно не хотел входить."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_14",
+    "en": "I don't care, im going.",
+    "ru": "Плевать, я ухожу."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_17",
+    "en": "I'm off.",
+    "ru": "Я пошёл."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "Like I care.",
+    "ru": "Как будто мне не пофиг."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_22",
+    "en": "I queued for that.",
+    "ru": "Я для этого в очереди стоял."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_24",
+    "en": "This can't be possible.",
+    "ru": "Этого не может быть."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_26",
+    "en": "Right, I'm going.",
+    "ru": "Ладно, я ухожу."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_30",
+    "en": "Not bothered.",
+    "ru": "Мне пофиг."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_38",
+    "en": "I'll come back later.",
+    "ru": "Я вернусь позже."
+  }
+]

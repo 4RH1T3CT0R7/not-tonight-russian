@@ -1,0 +1,15 @@
+[
+  {"key": "CHALLENGE_MODE_CLOTHING_NONE", "en": "NONE", "ru": "НЕТ"},
+  {"key": "CHALLENGE_MODE_CREATE_PLAYLIST_DESCRIPTION", "en": "\"If you save levels you can add them to a playlist here\" \r\n\r\nPost your playlists to the Not Tonight Discord and we might include them next update!", "ru": "\"Сохраните уровни, и сможете добавить их здесь в плейлист\"\r\n\r\nВыкладывайте плейлисты в Discord Not Tonight, и мы, возможно, добавим их в следующем обновлении!"},
+  {"key": "CHALLENGE_MODE_DIFFICULTY_DESCRIPTION", "en": "This is the overall difficulty. How often will you see problems and how many mistakes can you make.", "ru": "Общая сложность. Как часто будут встречаться проблемы и сколько ошибок можно допустить."},
+  {"key": "CHALLENGE_MODE_DIPUDABU", "en": "POWAH PILLZ", "ru": "ПИЛЮЛИ МОЩИ"},
+  {"key": "CHALLENGE_MODE_INCIDENTS_ALLOWED", "en": "INCIDENTS ALLOWED", "ru": "ЛИМИТ ИНЦИДЕНТОВ"},
+  {"key": "CHALLENGE_MODE_LEADERBOARD_LOCAL", "en": "LOCAL", "ru": "ДРУЗЬЯ"},
+  {"key": "CHALLENGE_MODE_NIGHT_PRESET", "en": "NIGHT PRESET", "ru": "ШАБЛОН НОЧИ"},
+  {"key": "CHALLENGE_MODE_QUEUES_DESCRIPTION", "en": "Setup queues here. Queues can be busy and impatient.\n\nMore queues = harder!", "ru": "Настройка очередей. Очереди бывают длинными, а люди — нетерпеливыми.\n\nБольше очередей = сложнее!"},
+  {"key": "CHALLENGE_MODE_SELL_ITEMS", "en": "SELL ITEMS", "ru": "ПРОДАЖА ТОВАРОВ"},
+  {"key": "CHALLENGE_MODE_SCORE_ENTRY", "en": "Clubber In", "ru": "Посетитель впущен"},
+  {"key": "CHALLENGE_MODE_PLAYLIST_CREATE_DESCRIPTION", "en": "If you save levels you can add them to a playlist here.\n\nPost your playlists to the Not Tonight Discord and we might include them next update!", "ru": "Сохраните уровни, и сможете добавить их здесь в плейлист.\n\nВыкладывайте плейлисты в Discord Not Tonight, и мы, возможно, добавим их в следующем обновлении!"},
+  {"key": "CHALLENGE_OBJECTIVE_CLUBBERS_PASS", "en": "Clubbers In", "ru": "Впущено посетителей"},
+  {"key": "CHALLENGE_OBJECTIVE_CLUBBERS_SEEN", "en": "Clubbers Seen", "ru": "Проверено посетителей"}
+]

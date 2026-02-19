@@ -1,0 +1,52 @@
+[
+  {
+    "key": "APP_BOUNCR_SKIP_WORK_BUTTON",
+    "en": "SKIP WORK",
+    "ru": "ПРОПУСТИТЬ РАБОТУ"
+  },
+  {
+    "key": "APP_BOUNCR_SKIP_WORK_DETAIL_TITLE",
+    "en": "SKIP WORK",
+    "ru": "ПРОПУСТИТЬ РАБОТУ"
+  },
+  {
+    "key": "APP_BOUNCR_UPGRADES_TAB",
+    "en": "UPGRADE",
+    "ru": "УЛУЧШЕНИЕ"
+  },
+  {
+    "key": "APP_MEDR_HEATUPGRADE_0",
+    "en": "No heating.",
+    "ru": "Без отопления."
+  },
+  {
+    "key": "APP_MEDR_HUNGERUPGRADE_0",
+    "en": "No fridge.",
+    "ru": "Без холодильника."
+  },
+  {
+    "key": "APP_MEDR_TIREDNESSUPGRADE_0",
+    "en": "Uncomfy bed.",
+    "ru": "Неудобная постель."
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_DAVE",
+    "en": "HOW TO FLAMR!\n\n1. Buy outfits & items.\n2. Allow/deny dates entry.\n3. Earn and give gifts.\n4. Meet via FLAMR.\n5. Match 100% = LOVE",
+    "ru": "КАК ПОЛЬЗОВАТЬСЯ FLAMR!\n\n1. Покупай наряды и предметы.\n2. Пропускай или отказывай свиданиям.\n3. Зарабатывай и дари подарки.\n4. Встречайся через FLAMR.\n5. 100% совпадение = ЛЮБОВЬ"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_LYDIA",
+    "en": "38, VATICAN\n\nLikes: Jesus\nDislikes: Yeezus",
+    "ru": "38, ВАТИКАН\n\nНравится: Иисус\nНе нравится: Йизус"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_MYLARNA",
+    "en": "34, TOULOUSE\nLikes: Staying in, God\nDislikes: Spiders, Halloween\n\n\"Can't handle me at my worst? you don't deserve God'",
+    "ru": "34, ТУЛУЗА\nНравится: Сидеть дома, Бог\nНе нравится: Пауки, Хэллоуин\n\n\"Не выдерживаешь меня в худшие моменты? Тогда не заслуживаешь Бога\""
+  },
+  {
+    "key": "APP_RESISTANCE_FAKE_AGENTS_QUEST_TITLE",
+    "en": "2. DENY JUMPERS",
+    "ru": "2. ОТКАЗЫВАТЬ В СВИТЕРАХ"
+  }
+]

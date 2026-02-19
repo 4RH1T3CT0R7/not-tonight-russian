@@ -1,0 +1,302 @@
+[
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_KINGS_HEAD_PT3_BONUSMESSAGES_1",
+    "en": "Great job with the crowds tonight.",
+    "ru": "Отличная работа с толпой сегодня."
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_KINGS_HEAD_PT3_NONHEADLANDLORDINTERACTION",
+    "en": "That's my collection for Viklav. Not full yet. Maybe by the time you're head doorman.",
+    "ru": "Это мой сбор для Виклава. Ещё не хватает. Может, к тому времени, когда ты станешь главным вышибалой."
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_LONDON_WALL_SPRING_BONUSMESSAGES_1",
+    "en": "With numbers like that, I'd almost think you were British yourself.",
+    "ru": "С такими показателями я бы почти подумал, что ты сам британец."
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_LONDON_WALL_SPRING_NONHEADLANDLORDINTERACTION",
+    "en": "An original King William coronation mug. People like to pick up a trinket when they pass through the wall. I mean flood barrier.",
+    "ru": "Оригинальная кружка с коронации короля Уильяма. Народ любит прихватить безделушку, когда проходит через стену. В смысле — противопаводковый барьер."
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_ROOFTOP_BONUSMESSAGES_1",
+    "en": "Almost kept things too quiet. Guess that's your job though, right?",
+    "ru": "Чуть не сделал слишком тихо. Но ведь это же твоя работа, верно?"
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_ROOFTOP_NONHEADLANDLORDINTERACTION",
+    "en": "Hey. Hands off that spy disguise kit. Giving that to my kids. Prob'ly mine.",
+    "ru": "Эй. Руки прочь от шпионского набора для маскировки. Отдам детям. Ну, наверное."
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS1_VISIT2_ENTRYMESSAGES_2",
+    "en": "Glad we could do business.",
+    "ru": "Рада, что мы смогли договориться."
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS2_CORRECTITEMMESSAGES_6",
+    "en": "Tippy top-secret?",
+    "ru": "Сверхсовершенно секретно?"
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS2_CORRECTITEMMESSAGES_14",
+    "en": "I will not let down the cause!",
+    "ru": "Я не подведу наше дело!"
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS2_VISIT2_ENTRYMESSAGES_3",
+    "en": "Which burns for the freedom of our poor country!",
+    "ru": "Которое горит за свободу нашей бедной страны!"
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS2_VISIT6_ENTRYMESSAGES_2",
+    "en": "Once again, I sneak past the fascist guard-dogs who control our streets.",
+    "ru": "И снова я ускользнул от фашистских цепных псов, которые контролируют наши улицы."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT10_MESSAGESET0_0",
+    "en": "hey it's shannon lol",
+    "ru": "привет это шеннон лол"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT10_MESSAGESET0_2",
+    "en": "going to take a road trip to Seattle.",
+    "ru": "собираюсь в роудтрип в Сиэтл."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT10_MESSAGESET0_5",
+    "en": "anyway sending you my old currency.",
+    "ru": "короче, отправляю тебе свою старую валюту."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET0_0",
+    "en": "#112. So sorry. Piano was so heavy.",
+    "ru": "#112. Так извиняюсь. Пианино было такое тяжёлое."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET0_2",
+    "en": "Time for faith. Must attend Church. Then luck will change!",
+    "ru": "Время для веры. Надо идти в церковь. Тогда удача повернётся!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET0_4",
+    "en": "Oh, I send £3 to help hospital bills.",
+    "ru": "Ой, отправляю 3 фунта — помочь с больничными счетами."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET1_0",
+    "en": "Hey-hey. Your friendly neighbourhood officer here.",
+    "ru": "Хей-хей. Твой дружелюбный участковый на связи."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET1_1",
+    "en": "Started on BouncR yet? Heh. Getting in the way of regular honest folks.",
+    "ru": "Уже начал на BouncR? Хех. Путаешься под ногами у нормальных честных людей."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET0_0",
+    "en": "#112 I'll be coming by tomorrow to chat.",
+    "ru": "№112, зайду завтра поболтать."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET1_0",
+    "en": "Don't be late to work at the ball tonight.",
+    "ru": "Не опаздывай на работу на бал сегодня."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET2_1",
+    "en": "Done all my little jobs, eh?",
+    "ru": "Все мои поручения выполнил, а?"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET3_2",
+    "en": "Albion First is a shoe in.",
+    "ru": "«Альбион прежде всего» — дело в шляпе."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET3_5",
+    "en": "You should be good to stay in your hovel for a little while yet.",
+    "ru": "Пока можешь ещё пожить в своей конуре."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET4_0",
+    "en": "#112. Get your bucket and spade.",
+    "ru": "№112. Хватай ведро и лопату."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET5_3",
+    "en": "My pal Bob's managing the new flood prevention improvements.",
+    "ru": "Мой приятель Боб заведует новыми противопаводковыми работами."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET5_4",
+    "en": "Make a good impression or say your goodbyes.",
+    "ru": "Произведи хорошее впечатление — или попрощайся."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_0",
+    "en": "Oi Oi! King's Head Dave here!",
+    "ru": "Эй-эй! Это Дэйв из «Королевской головы»!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_2",
+    "en": "She said the last idiot dropped it. Wally, eh?",
+    "ru": "Говорит, последний идиот его уронил. Растяпа, а?"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_3",
+    "en": "Anyway I've been chillin' at The Tiki Head. Thinking.",
+    "ru": "Короче, я отдыхал в «Тики Хэд». Размышлял."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_4",
+    "en": "I'm gonna re-open The Kings. Start a little fund for Viklav.",
+    "ru": "Собираюсь заново открыть «Королевскую голову». Начну сбор средств для Виклава."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_5",
+    "en": "Still can't believe they framed him for my pub's bombing.",
+    "ru": "До сих пор не верю, что на него повесили взрыв моего паба."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET1_0",
+    "en": "Hey, it's Div! King's Head Div.",
+    "ru": "Привет, это Див! Див из «Королевской головы»."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET1_2",
+    "en": "I woke up super happy!",
+    "ru": "Я проснулся суперсчастливый!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET1_4",
+    "en": "KISS wtf. Kiss someone! bloody autocorrect.",
+    "ru": "ПОЦЕЛОВАТЬ блин. Поцеловать кого-нибудь! чёртова автозамена."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET2_0",
+    "en": "Dave here! King's Head Dave.",
+    "ru": "Это Дэйв! Дэйв из «Королевской головы»."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET2_4",
+    "en": "The ring might not be the problem.",
+    "ru": "Может, дело не в кольце."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_0",
+    "en": "Hey, it's Dave. King's Head Dave. ",
+    "ru": "Привет, это Дэйв. Дэйв из «Королевской головы». "
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_1",
+    "en": "Just Dave now, I guess.",
+    "ru": "Теперь просто Дэйв, наверное."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_2",
+    "en": "You saw the news? King's Head was burnt down. Bastards.",
+    "ru": "Видел новости? «Королевскую голову» сожгли. Ублюдки."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET4_0",
+    "en": "King's Head Dave. OK. We're going to find out who bombed the place.",
+    "ru": "Дэйв из «Королевской головы». Ладно. Мы выясним, кто взорвал паб."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET5_2",
+    "en": "You know. To send off the footage.",
+    "ru": "Ну, понимаешь. Чтобы отправить запись."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT6_MESSAGESET0_0",
+    "en": "It's Jonesy",
+    "ru": "Это Джонси"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT6_MESSAGESET0_2",
+    "en": "So you no workie for Jonesey. Not any more.",
+    "ru": "Так что на Джонси ты больше не пашешь. Не-а."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT6_MESSAGESET1_0",
+    "en": "It's Jonesy",
+    "ru": "Это Джонси"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET0_0",
+    "en": "It's Bonesy",
+    "ru": "Это Бонси"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET1_0",
+    "en": "It's Bonesy",
+    "ru": "Это Бонси"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET1_3",
+    "en": "Sending you some sweet cashola now.",
+    "ru": "Кидаю тебе немного сладких бабосиков."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_1",
+    "en": "How was I meant to know prosecco was Italian!?",
+    "ru": "Откуда мне было знать, что просекко итальянское!?"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_6",
+    "en": "See you Wednesday with more great Shonkytonk savings!!!!",
+    "ru": "Увидимся в среду — новые скидки от Шонкитонка!!!!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_0",
+    "en": "#112. This is secret agent Galahad. Over.",
+    "ru": "№112. Это секретный агент Галахад. Приём."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_5",
+    "en": "no she was really receptive to the idea!!!!!",
+    "ru": "нет, она прям загорелась этой идеей!!!!!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_6",
+    "en": "anyway saved a lot from not clubbing and figured id give it to charity",
+    "ru": "короче, сэкономила кучу денег без клубов и решила отдать на благотворительность"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_7",
+    "en": "you know poor unfortunates. smelly, illiterate, hopeless and stuff",
+    "ru": "ну знаешь, бедные несчастные. вонючие, неграмотные, безнадёжные и всё такое"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_8",
+    "en": "so here you go! peace - shannon",
+    "ru": "короче, вот тебе! мир — шеннон"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT99_MESSAGESET1_2",
+    "en": "CLICKER V3. Click with confidence. An orange iron colour.",
+    "ru": "КЛИКЕР V3. Щёлкайте с уверенностью. Оранжевый железный окрас."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT9_MESSAGESET0_0",
+    "en": "Yo it's Ferriss.",
+    "ru": "Йо, это Феррис."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT9_MESSAGESET0_2",
+    "en": "Indie crowd goes crazy for face droppers.",
+    "ru": "Инди-публика тащится от леденцов."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT9_MESSAGESET0_3",
+    "en": "Also I'm broke. So help me, eh? You're helping yourself.",
+    "ru": "А ещё я на мели. Так что выручи, а? Себе же помогаешь."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT9_MESSAGESET0_4",
+    "en": "A false flag operation to raise tension against Euros.",
+    "ru": "Операция под чужим флагом, чтобы разжечь напряжённость против Евро."
+  }
+]

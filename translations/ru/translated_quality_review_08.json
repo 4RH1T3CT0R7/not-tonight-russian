@@ -1,0 +1,402 @@
+[
+  {
+    "key": "DLC/LWEB_OUTFIT_1_DESCRIPTION",
+    "en": "View both sides equally.",
+    "ru": "Смотри на обе стороны одинаково."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_CLOTHESMESSAGES_NORMAL_2",
+    "en": "But if you dress well for me. I like no?",
+    "ru": "Но если оденешься красиво для меня. Мне понравится, нет?"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_1_INTROMESSAGES_1",
+    "en": "Dave? Is you?",
+    "ru": "Дэйв? Это ты?"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_1_INTROMESSAGES_4",
+    "en": "Said, if knew, would not come.",
+    "ru": "Сказали — если бы знала, не пришла бы."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_1_OUTROMESSAGES_2",
+    "en": "If Viklav were here, would agree, am sure.",
+    "ru": "Если бы Виклав был здесь — согласился бы, уверена."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_2_INTROMESSAGES_1",
+    "en": "You call, Dave? Am not ready for dating, not yet.",
+    "ru": "Ты позвал, Дэйв? Я не готова к свиданиям — пока нет."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_3_INTROMESSAGES_1",
+    "en": "Ah, Dave. Was visited in night by ghost of Viklav.",
+    "ru": "А, Дэйв. Ночью меня посетил призрак Виклава."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_3_INTROMESSAGES_2",
+    "en": "He say, he been watching us. He not happy. His ghost restless.",
+    "ru": "Он сказал — он следил за нами. Он недоволен. Его дух неспокоен."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_3_INTROMESSAGES_4",
+    "en": "Put safely in cupboard. Will let out when calms down.",
+    "ru": "Надёжно спрятала в шкаф. Выпущу, когда успокоится."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_3_INTROMESSAGES_5",
+    "en": "Just warning. May haunt you.",
+    "ru": "Просто предупреждаю — может тебя преследовать."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_INTROOUTROS_3_OUTROMESSAGES_2",
+    "en": "If haunted, say, bad ghost! Will suck you up!",
+    "ru": "Если будет пугать — скажи: плохой призрак! Засосу обратно!"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_SHOPMESSAGES_NORMAL_1",
+    "en": "This how you live now? Is okay, I suppose.",
+    "ru": "Так ты теперь живёшь? Ну ладно — нормально."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_SHOPMESSAGES_NORMAL_2",
+    "en": "Perhaps buy some how you say nick-knackers?",
+    "ru": "Может, купишь какие-нибудь, как это... безделушки?"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_VENUEMESSAGES_NORMAL_4",
+    "en": "Only if you think I like venue.",
+    "ru": "Только если думаешь — мне понравится место."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR2_CALENDAR",
+    "en": "DQ-4P my date will visit.",
+    "ru": "DQ-4P — моё свидание — придёт."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR2_CALENDAR_POST",
+    "en": "DQ-4P visited.",
+    "ru": "DQ-4P приходил в гости."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR2_CLOTHESMESSAGES_BAD_1",
+    "en": "ENGAGING SMALL TALK. WHERE DID YOU BUY THOSE CLOTHES? THE BAD CLOTHES SHOP? HA HA.",
+    "ru": "ЗАПУСКАЮ СВЕТСКУЮ БЕСЕДУ. ГДЕ ТЫ КУПИЛ ЭТУ ОДЕЖДУ? В МАГАЗИНЕ ПЛОХОЙ ОДЕЖДЫ? ХА ХА."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR2_INTROOUTROS_2_INTROMESSAGES_4",
+    "en": "WAIT. I GOT THE DECIMAL POINT IN THE WRONG PLACE.",
+    "ru": "ПОДОЖДИТЕ. Я ПОСТАВИЛ ДЕСЯТИЧНУЮ ЗАПЯТУЮ НЕ В ТОМ МЕСТЕ."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR2_INTROOUTROS_3_OUTROMESSAGES_4",
+    "en": "I OILED THE BOLTS TO MAKE IT WIGGLE LIKE YOU LIKE IT.",
+    "ru": "Я СМАЗАЛ БОЛТЫ — ТЕПЕРЬ ОНА ВИХЛЯЕТСЯ, КАК ТЕБЕ НРАВИТСЯ."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR3_INTROOUTROS_1_INTROMESSAGES_2",
+    "en": "Ah, bien, bien. Davide?",
+    "ru": "А, bien, bien. Давиде?"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR3_INTROOUTROS_1_OUTROMESSAGES_1",
+    "en": "Adieu, adieu! Until we meet again Davide!",
+    "ru": "Adieu, adieu! До встречи, Давиде!"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR3_INTROOUTROS_2_INTROMESSAGES_1",
+    "en": "Yes, it is I, Francois. I return to bathe in this temple of kitsch!",
+    "ru": "Да, это я — Франсуа. Я вернулся купаться в этом храме китча!"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR3_INTROOUTROS_2_INTROMESSAGES_2",
+    "en": "So much tackiness! How wonderful! That real... out of the dump charm.",
+    "ru": "Столько безвкусицы! Как чудесно! Этот настоящий... шарм помойки."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR3_VENUEMESSAGES_NORMAL_2",
+    "en": "I will visit The Casino and The Petit Bateau Party.",
+    "ru": "Я буду посещать казино и вечеринку на Petit Bateau."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR4_CALENDAR",
+    "en": "Lassy my date will visit.",
+    "ru": "Лэсси — моё свидание — придёт."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR4_VENUEMESSAGES_NORMAL_4",
+    "en": "I like a drink. I mean Lassy likes a drink in a traditional British setting.",
+    "ru": "Я люблю выпить. То есть — Лэсси любит выпить в традиционной британской обстановке."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR4_VENUEMESSAGES_NORMAL_5",
+    "en": "So consider my *cough* her desires when she visits.",
+    "ru": "Так что учитывай мои — *кхм* — её желания, когда она придёт."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR10_CALENDAR",
+    "en": "Lucille, my FLAMR rep. Will visit every Sunday.",
+    "ru": "Люсиль — мой представитель FLAMR. Приходит каждое воскресенье."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR10_INTROMESSAGES_3",
+    "en": "Listen to them, stealing your youth, second by second...",
+    "ru": "Слушай — они крадут твою молодость, секунда за секундой..."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR10_INTROMESSAGES_7",
+    "en": "Sitting in the dark, sobbing over fantasies of what could have been...",
+    "ru": "Сидишь в темноте и рыдаешь над фантазиями о том, что могло бы быть..."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR10_INTROMESSAGES_8",
+    "en": "It's Lucille, by the way.",
+    "ru": "Кстати, это Люсиль."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR6_INTROMESSAGES_11",
+    "en": "It's a little positive encouragement to go out there, and find your soulmate!",
+    "ru": "Это небольшое позитивное поощрение — выйти в мир и найти свою родственную душу!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS10_INTROMESSAGES_11",
+    "en": "Ye want to paint the town? PAINT IT RED!.",
+    "ru": "Хотите раскрасить город? КРАСЬТЕ ЕГО КРАСНЫМ!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS10_INTROMESSAGES_12",
+    "en": "Maybe we just gotta give 'em something to loosen them up.",
+    "ru": "Может, надо просто дать им что-то — чтоб расслабились."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS10_INTROMESSAGES_7",
+    "en": "Ugh, I smell them now, on the wind. The arty and the farty.",
+    "ru": "Тьфу, я чую их на ветру — этих творческих пердунов."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS10_INTROMESSAGES_9",
+    "en": "How I despise them! They sit with their little mugs of absinthe and-",
+    "ru": "Как же я их ненавижу! Сидят со своими чашечками абсента и—"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS10_OUTROMESSAGES_3",
+    "en": "Nah, I'm bloody knackered.",
+    "ru": "Не — я жутко вымотался."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS10_PASSMESSAGES_1",
+    "en": "Hear that, Cabin Boy? 'Tis the sound of landlubbers yukking up over the side.",
+    "ru": "Слышишь, юнга? Это звук сухопутных крыс — блюют за борт."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS11_INTROMESSAGES_11",
+    "en": "You're saying... it's a bit of arty-farty, kinda tarty, Smarty Marty Harty party malarkey?",
+    "ru": "То есть... это типа артистично-пердистой развратновато-заумной вечеринковой мазни от Марти Харти?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_INTROMESSAGES_17",
+    "en": "My dear pauper, do not ask questions that can only hurt you.",
+    "ru": "Мой дорогой бедняк — не задавайте вопросов, которые могут вам навредить."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_INTROMESSAGES_18",
+    "en": "Also. Guestlist is active. And no beachwear.",
+    "ru": "И ещё — гостевой список активен. И никакой пляжной одежды."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_OUTROMESSAGES_1",
+    "en": "I confess, you find me in a state of much glumness.",
+    "ru": "Признаюсь — я пребываю в глубокой хандре."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_OUTROMESSAGES_2",
+    "en": "It's the robots, you see. They keep coming here. To gamble.",
+    "ru": "Дело в роботах, видите ли. Они всё ходят сюда — играть."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_OUTROMESSAGES_6",
+    "en": "Oh, except them ones owned by President Trump.",
+    "ru": "Ой — ну кроме тех, что принадлежат президенту Трампу."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_OUTROMESSAGES_7",
+    "en": "Heh. What a wally.",
+    "ru": "Хе. Вот придурок."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS13_OUTROMESSAGES_9",
+    "en": "Please spare me from any more of it.",
+    "ru": "Прошу — избавьте меня от дальнейших порций."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_BONUSMESSAGES_1",
+    "en": "Sigh. The robots are killing me, but I suppose you are doing well.",
+    "ru": "Вздох. Роботы меня разоряют, но — полагаю — вы справляетесь неплохо."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_BONUSMESSAGES_2",
+    "en": "Heh. Guess it's true what they say, the house always whines!",
+    "ru": "Хе. Похоже, правду говорят — казино всегда ноет!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_FAILMESSAGES_4",
+    "en": "Forget it! No robot factory worth its circuits would make... you.",
+    "ru": "Забудьте! Ни один уважающий себя робозавод не стал бы делать... вас."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_FAILMESSAGES_5",
+    "en": "Except maybe that one from Blade Runner.",
+    "ru": "Разве что тот из «Бегущего по лезвию»."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_FAILMESSAGES_6",
+    "en": "Would explain a few plotholes...",
+    "ru": "Это объяснило бы пару сюжетных дыр..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_INTROMESSAGES_1",
+    "en": "Ah, it's you. Good, I suppose. I was afraid it was another robot.",
+    "ru": "А, это вы. Хорошо — полагаю. Я боялся, что это ещё один робот."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_10",
+    "en": "Enthusiasm! That's what this cap'n likes to see!",
+    "ru": "Энтузиазм! Вот что этот кэп любит видеть!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_11",
+    "en": "And anyway, nobody else applied.",
+    "ru": "И вообще — больше никто не откликнулся."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_12",
+    "en": "But don't be slack, ya swab! Work hard, or walk me plank!",
+    "ru": "Но не филонь, салага! Работай усердно — или пойдёшь по доске!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_5",
+    "en": "Well, this one river. But when me black sails fly, the lubbers all flee!",
+    "ru": "Ну — одной речки. Но когда мои чёрные паруса развеваются, сухопутные крысы разбегаются!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_6",
+    "en": "Least they did, 'fore them scurvy knaves at the river boat club made me take it down.",
+    "ru": "По крайней мере разбегались — пока эти цинготные негодяи из лодочного клуба не заставили меня снять их."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_7",
+    "en": "Ta Davey Jones' locker with 'em, that's what I say!",
+    "ru": "На дно к Дэйви Джонсу их всех — вот что я скажу!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_INTROMESSAGES_8",
+    "en": "So, ye think ye got what it takes ta be my new cabin boy?",
+    "ru": "Ну что — думаешь, у тебя хватит духу стать моим новым юнгой?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_OUTROMESSAGES_1",
+    "en": "Nothin' like a busy night ta blister me barnacles!",
+    "ru": "Ничто так не растирает мои ракушки — как бойкая ночка!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_PASSMESSAGES_1",
+    "en": "A fine voyage, Cabin Boy Dave. Ye'll be a Cap'n yourself in no time.",
+    "ru": "Славное плаванье, юнга Дэйв. Скоро сам станешь кэпом."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_PASSMESSAGES_4",
+    "en": "Only if your daddy be rich and not disowned ye yet.",
+    "ru": "Только если твой папаша богат — и ещё не отрёкся от тебя."
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY10_TEXT",
+    "en": "Britain continues its quest to become the world's laughing stock with news that the government has handed a prime £15 million food services contract to an 11 year old boy with a lemonade stand. \"It's very good lemonade! The best!\" explained his father, the Minister of Fisheries.\n\n'These allegations of nepotism and corruption are just another sad indictment of the cynical fake news press trying to stamp out a burgeoning  British business before it has time to bloom. You sicken me.'\n",
+    "ru": "Британия продолжает стремление стать мировым посмешищем: правительство передало контракт на продовольственные услуги стоимостью 15 миллионов фунтов 11-летнему мальчику с лимонадным прилавком. «Это очень хороший лимонад! Лучший!» — пояснил его отец, министр рыболовства.\n\n«Эти обвинения в кумовстве и коррупции — лишь очередное жалкое обвинение циничной прессы фейковых новостей, пытающейся задавить растущий британский бизнес до того, как он успеет расцвести. Вы вызываете у меня отвращение».\n"
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_1",
+    "en": "Ah, monsieur Dave!",
+    "ru": "А, мсье Дэйв!"
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_2",
+    "en": "I know. You are surprised. To think I would agree to this.",
+    "ru": "Знаю. Вы удивлены — что я на это согласился."
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_4",
+    "en": "Let us say you won me over with your, how do you say, earthly charms?",
+    "ru": "Скажем так — вы покорили меня своим, как это говорят, земным обаянием?"
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_1",
+    "en": "Yes, it is I, Harrison Pace.",
+    "ru": "Да, это я — Харрисон Пейс."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_10",
+    "en": "I, Harrison Pace.... accept.",
+    "ru": "Я, Харрисон Пейс... согласен."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_2",
+    "en": "Here to chaperone your date.",
+    "ru": "Здесь в роли дуэньи на вашем свидании."
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_2",
+    "en": "Was not sure. Decided, why not?",
+    "ru": "Не была уверена. Решила — почему бы и нет?"
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_3",
+    "en": "Could do worse, yes?",
+    "ru": "Могло быть и хуже — да?"
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_5",
+    "en": "Maybe I hook up with someone better.",
+    "ru": "Может — найду кого-то получше."
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_6",
+    "en": "Eh, good enough for me.",
+    "ru": "Э — и так сойдёт."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_10",
+    "en": "Reckon I'll stay positive. There's someone out there for Dave.",
+    "ru": "Думаю, буду оптимистом. Где-то есть кто-то для Дэйва."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_11",
+    "en": "And I'll find 'em. Look out world, here I come!",
+    "ru": "И я найду! Берегись, мир — я иду!"
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_12",
+    "en": "Of course, you do still owe us rather a lot of money.",
+    "ru": "Конечно — вы всё ещё должны нам кучу денег."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_14",
+    "en": "Ah, FLAMR just got bought by Google.",
+    "ru": "А — FLAMR только что купила Google."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_15",
+    "en": "Keep your dosh. I'm an internet millionaire now.",
+    "ru": "Оставьте деньги себе — я теперь интернет-миллионер."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_5",
+    "en": "Well, I suppose you MIGHT meet someone the old fashioned way.",
+    "ru": "Ну — вы, МОЖЕТ БЫТЬ, встретите кого-то по старинке."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_7",
+    "en": "Just two souls meeting in the night and finding human connection without technology.",
+    "ru": "Просто две души, встретившиеся в ночи и обретшие человеческую связь без технологий."
+  }
+]

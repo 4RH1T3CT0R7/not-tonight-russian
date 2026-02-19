@@ -1,0 +1,292 @@
+[
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR7_INTROMESSAGES_4",
+    "en": "I certainly empathised with the part...",
+    "ru": "Я точно прочувствовал ту часть..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR7_INTROMESSAGES_7",
+    "en": "I mean... was little complicated. Many long words!",
+    "ru": "В смысле... было немножко сложно. Много длинный слов!"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR7_INTROMESSAGES_9",
+    "en": "Can you not tell by accent? Silly neighbour!",
+    "ru": "Разве по акцент не слышно? Глупый сосед!"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR8_INTROMESSAGES_3",
+    "en": "Pray for Viklav. Seeing if you would join.",
+    "ru": "Молиться за Виклав. Хотела узнать, пойдёшь ли."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR8_INTROMESSAGES_4",
+    "en": "Good for soul!",
+    "ru": "Для душа хорошо!"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR9_INTROMESSAGES_11",
+    "en": "I mean, not that little Mylarna would know of resistance.",
+    "ru": "В смысле, маленькая Миларна ничего не знает про сопротивление, конечно."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR9_INTROMESSAGES_12",
+    "en": "Resistance? Hah! No time in day, yes? So busy!",
+    "ru": "Сопротивление? Ха! Нет время в день, да? Так занята!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS10_OUTROMESSAGES_1",
+    "en": "Very few tips in the Viklav fund tonight.",
+    "ru": "Очень мало чаевых в фонд Виклава сегодня вечером."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS11_INTROMESSAGES_2",
+    "en": "Last I checked, we'd almost raised enough for a sympathy card.",
+    "ru": "Когда я в последний раз проверял, мы почти собрали на открытку с соболезнованиями."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS11_INTROMESSAGES_3",
+    "en": "Sorry You Got Banged Up By The Oppressive State.",
+    "ru": "«Прости, Что Тебя Закрыло Репрессивное Государство»."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS11_INTROMESSAGES_4",
+    "en": "There's a card for that?",
+    "ru": "И для этого есть открытка?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS11_OUTROMESSAGES_4",
+    "en": "Except, I dunno, succeed. Yeah. That'd be better.",
+    "ru": "Разве что, не знаю, добиться успеха. Да. Это было бы лучше."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_INTROMESSAGES_1",
+    "en": "Urgh. The oppressive tool of the state has arrived.",
+    "ru": "Фу. Репрессивная шестёрка государства пожаловала."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_INTROMESSAGES_9",
+    "en": "Stupid wannabes.",
+    "ru": "Тупые позёры."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_INTROMESSAGES_15",
+    "en": "Don't want The Man taking away our license. Duh.",
+    "ru": "Не хочу, чтобы Система отобрала нашу лицензию. Ну дух же."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_INTROMESSAGES_26",
+    "en": "You hired me!",
+    "ru": "Ты сама меня наняла!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_OUTROMESSAGES_1",
+    "en": "You'll be First Up Against The Wall When The Revolution Comes.",
+    "ru": "Ты будешь первым у стенки, когда грянет революция."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS14_INTROMESSAGES_2",
+    "en": "Just like, nark smell. Hanging in the air.",
+    "ru": "Прямо такой, типа, запах стукача. Висит в воздухе."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS14_OUTROMESSAGES_3",
+    "en": "I don't think he did.",
+    "ru": "Не думаю, что он этим занимался."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS15_INTROMESSAGES_1",
+    "en": "Careful there, The Man.",
+    "ru": "Осторожнее, Слуга Системы."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS15_INTROMESSAGES_5",
+    "en": "Whatevs. You'd better finish your shift or you get nothing.",
+    "ru": "Без разницы. Лучше доработай смену, а то ничего не получишь."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS15_INTROMESSAGES_6",
+    "en": "Nada. Zip. Zero. Zilch.",
+    "ru": "Нифига. Шиш. Ноль. Пшик."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS15_INTROMESSAGES_7",
+    "en": "So definitely don't do that.",
+    "ru": "Так что точно не падай."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS15_OUTROMESSAGES_2",
+    "en": "Had cameras rolling and everything.",
+    "ru": "Камеры писали и всё такое."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS17_INTROMESSAGES_4",
+    "en": "This indie festival's the worst.",
+    "ru": "Этот инди-фестиваль — просто дно."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS17_INTROMESSAGES_7",
+    "en": "Whatever happened to real music? Classic music.",
+    "ru": "Куда делась настоящая музыка? Классическая."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS18_OUTROMESSAGES_1",
+    "en": "I haven't been so depressed with modern yoof since Betty Boo did The Do.",
+    "ru": "Я так не разочаровывался в современной молодёжи с тех пор, как Бетти Бу записала The Do."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_INTROMESSAGES_1",
+    "en": "Trade goes around the back, if you please.",
+    "ru": "Прислуга — через чёрный ход, будьте так любезны."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_INTROMESSAGES_3",
+    "en": "How... well, how very you, darling.",
+    "ru": "Как... ну, как это очень в вашем стиле, дорогуша."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_INTROMESSAGES_5",
+    "en": "Austerity is what it is, my good... Euro.",
+    "ru": "Что поделать, аскеза, мой добрый... Евро."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_INTROMESSAGES_8",
+    "en": "Do toddle off, would you?",
+    "ru": "Будьте добры, ступайте, ладно?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_OUTROMESSAGES_2",
+    "en": "I haven't been so exhausted after handling a pair of balls since university.",
+    "ru": "Я так не выматывался после возни с парой балов со времён университета."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_OUTROMESSAGES_3",
+    "en": "I was on a planning committee there too.",
+    "ru": "Там я тоже был в организационном комитете."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS23_INTROMESSAGES_1",
+    "en": "I'm from Jupp Security. Here about the London Wall.",
+    "ru": "Я из «Юпп Секьюрити». Насчёт Лондонской Стены."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS23_INTROMESSAGES_6",
+    "en": "Got it? No wall! Fake news!",
+    "ru": "Понятно? Никакой стены! Фейковые новости!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS23_INTROMESSAGES_17",
+    "en": "Now get out there and restrict peoples movements under the pretence of flood protection.",
+    "ru": "А теперь иди и ограничивай передвижение людей под предлогом защиты от наводнений."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS24_INTROMESSAGES_3",
+    "en": "Ah, #112. I don't suppose you'd be interested in a souvenir royal coronation mug?",
+    "ru": "А, №112. Вам, случайно, не нужна сувенирная кружка в честь коронации?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS25_INTROMESSAGES_1",
+    "en": "You're back. Good. Watch out for protesters out there.",
+    "ru": "Вы вернулись. Хорошо. Остерегайтесь протестующих снаружи."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS25_OUTROMESSAGES_1",
+    "en": "Most of our bouncers quit after a day. You must be made of stronger stuff.",
+    "ru": "Большинство наших вышибал увольняются через день. Вы, должно быть, сделаны из другого теста."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS27_INTROMESSAGES_4",
+    "en": "It could be a whole new start for this country!",
+    "ru": "Это может стать совершенно новым началом для страны!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS27_INTROMESSAGES_14",
+    "en": "*Cough* What a ridiculous thing to say.",
+    "ru": "*Кхм* Что за нелепость."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS27_OUTROMESSAGES_1",
+    "en": "Democracy in action, #112! Doesn't it fill your heart with joy?",
+    "ru": "Демократия в действии, №112! Разве ваше сердце не наполняется радостью?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_INTROMESSAGES_1",
+    "en": "Ah you're from Jupp Security.",
+    "ru": "А, ты из «Юпп Секьюрити»."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_INTROMESSAGES_7",
+    "en": "Not one toe of euro-filth will touch this green and pleasant land!",
+    "ru": "Ни один палец евро-отребья не ступит на эту зелёную и прекрасную землю!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_INTROMESSAGES_8",
+    "en": "Besides, we had to repurpose the trawlers since we lost our fishing rights.",
+    "ru": "К тому же нам пришлось перепрофилировать траулеры после потери рыболовных прав."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS29_INTROMESSAGES_1",
+    "en": "Jupp Security #112.",
+    "ru": "«Юпп Секьюрити», №112."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS29_PASSMESSAGES_1",
+    "en": "No major incidents. Good. That's what I like to see.",
+    "ru": "Без серьёзных инцидентов. Хорошо. Вот это мне нравится."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS2_INTROMESSAGES_9",
+    "en": "But we're talking, like, a real anus.",
+    "ru": "Но мы говорим, типа, о настоящем мудиле."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS2_INTROMESSAGES_10",
+    "en": "Thinks he should be Manager of this place.",
+    "ru": "Думает, что ему быть управляющим этого заведения."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS2_INTROMESSAGES_11",
+    "en": "Him and that, ah, that rod... up....",
+    "ru": "Он и эта, ну, эта палка... в одном..."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS3_INTROMESSAGES_1",
+    "en": "Aloha. You came back? Groovy.",
+    "ru": "Алоха. Вернулся? Клёво."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS3_INTROMESSAGES_4",
+    "en": "Anyway. Glad to have you hear.",
+    "ru": "В общем. Рад, что ты тут."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS3_INTROMESSAGES_7",
+    "en": "Cashola? Kerching.",
+    "ru": "Бабосики? Дзынь-дзынь."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS3_INTROMESSAGES_11",
+    "en": "Still, a quick squirt of washing up liquid never did anyone any harm, right?",
+    "ru": "Ну, капелька средства для мытья посуды ещё никому не навредила, верно?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS3_OUTROMESSAGES_5",
+    "en": "See? You get me, brah. You like, totally get me. Wish we could show that...",
+    "ru": "Видишь? Ты меня понимаешь, бро. Ты, типа, прям полностью врубаешься. Жаль, нельзя показать..."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS5_INTROMESSAGES_3",
+    "en": "I run a tight enchanted ship here. Serve me well, and you shall be rewarded.",
+    "ru": "Я веду здесь жёсткий корабль. Служите мне верно — и будете вознаграждены."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS5_INTROMESSAGES_10",
+    "en": "You shall be my guardian. My bulwark. The last line of defence. Definitely none of those Irish types.",
+    "ru": "Вы будете моим стражем. Моим бастионом. Последним рубежом обороны. И точно никаких ирландцев."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS5_INTROMESSAGES_6",
+    "en": "Let's see what you're made of. The banned list is growing thanks to the terrorist threat.",
+    "ru": "Посмотрим, из какого вы теста. Чёрный список растёт из-за террористической угрозы."
+  }
+]

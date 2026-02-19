@@ -1,0 +1,142 @@
+[
+  {
+    "key": "CHAPTER2/BILL_ENTRY2_DESCRIPTION",
+    "en": "Citizen Relocation Block, Flat 7 weekly rent..",
+    "ru": "Блок переселения граждан, квартира 7, недельная аренда."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR10_CORRECT_ITEM__4",
+    "en": "Thank you. And I will thank Dave...",
+    "ru": "Спасибо. И я поблагодарю Дэйва..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR25_CALENDAR",
+    "en": "Tarquin blackmail!",
+    "ru": "Шантаж от Тарквина!"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR25_NO_ITEM__4",
+    "en": "Start packing. You won't be here much longer.",
+    "ru": "Начинай собирать вещи. Ты тут недолго задержишься."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR7_CORRECT_ITEM__4",
+    "en": "Thank you. And I will thank Dave...",
+    "ru": "Спасибо. И я поблагодарю Дэйва..."
+  },
+  {
+    "key": "CHAPTER2/LETTER6_PAGE_1",
+    "en": "FINAL REMINDER\n    \nYour NHS bill is due at the end of the month.\n\nPlease pay to avoid extradition.\n  \n    ",
+    "ru": "ПОСЛЕДНЕЕ НАПОМИНАНИЕ\n    \nВаш счёт от НСЗ должен быть оплачен до конца месяца.\n\nПожалуйста, оплатите во избежание экстрадиции.\n  \n    "
+  },
+  {
+    "key": "CHAPTER2/NOTES_17_TEXT",
+    "en": "Work for Jonesy (Tiki Head day)",
+    "ru": "Работать на Джонси (Tiki Head, день)"
+  },
+  {
+    "key": "CHAPTER2/NOTES_18_TEXT",
+    "en": "Work for Bonesy (Tiki Head night)",
+    "ru": "Работать на Бонси (Tiki Head, ночь)"
+  },
+  {
+    "key": "CHAPTER2/NOTES_22_TEXT",
+    "en": "Galahad wants spy training!",
+    "ru": "Галахад хочет стать шпионом!"
+  },
+  {
+    "key": "CHAPTER2/NOTES_23_TEXT",
+    "en": "Tarquin: 10 CheesRs by Friday!'",
+    "ru": "Тарквин: 10 CheesRs до пятницы!"
+  },
+  {
+    "key": "CHAPTER2/NOTES_7_TEXT",
+    "en": "The Tiki Head. Who to work for?",
+    "ru": "Tiki Head. На кого работать?"
+  },
+  {
+    "key": "CHAPTER2/PLOTCLUBBERS2_INCORRECTITEMMESSAGES_1",
+    "en": "Any interest in this, Tarquin?",
+    "ru": "Тебе это интересно, Тарквин?"
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_HOTEL_SUMMER_BONUSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "НЕ ТРЕБУЕТСЯ"
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_HOTEL_SUMMER_ITEMALREADYINTERACTED",
+    "en": "NOT NEEDED",
+    "ru": "НЕ ТРЕБУЕТСЯ"
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_HOTEL_SUMMER_NONHEADLANDLORDINTERACTION",
+    "en": "NOT NEEDED",
+    "ru": "НЕ ТРЕБУЕТСЯ"
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_HOTEL_SUMMER_PICKUPITEMMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "НЕ ТРЕБУЕТСЯ"
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS2_CORRECTITEMMESSAGES_10",
+    "en": "Find out all you can about an Officer called Jupp.",
+    "ru": "Узнай всё, что сможешь, об офицере по имени Юпп."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_3",
+    "en": "Anyway I've been chillin' at The Tiki Head. Thinking.",
+    "ru": "В общем, я отдыхал в Tiki Head. Размышлял."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_4",
+    "en": "I'm gonna re-open The Kings. Start a little fund for Viklav.",
+    "ru": "Я собираюсь вновь открыть «Королевскую Голову». Начну сбор средств для Виклава."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET1_0",
+    "en": "Hey, it's Div! King's Head Div.",
+    "ru": "Привет, это Див! Див из «Королевской Головы»."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_2",
+    "en": "You saw the news? King's Head was burnt down. Bastards.",
+    "ru": "Видел новости? «Королевскую Голову» сожгли. Ублюдки."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET4_0",
+    "en": "King's Head Dave. OK. We're going to find out who bombed the place.",
+    "ru": "Дэйв из «Королевской Головы». Ладно. Мы выясним, кто взорвал паб."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT6_MESSAGESET0_1",
+    "en": "You picked Bonesy.",
+    "ru": "Ты выбрал Бонси."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT6_MESSAGESET0_2",
+    "en": "So you no workie for Jonesey. Not any more.",
+    "ru": "Так что на Джонси ты больше не работаешь. Не-а."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT6_MESSAGESET1_2",
+    "en": "Sucks to be Bonesy.",
+    "ru": "Не повезло Бонси."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET0_1",
+    "en": "You picked Jonesy over me?",
+    "ru": "Ты выбрал Джонси, а не меня?"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET1_2",
+    "en": "Sucks to be Jonesy, huh?",
+    "ru": "Не повезло Джонси, а?"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET1_3",
+    "en": "Jonesy and Bonesy from the Tiki Head are the same person. Over.",
+    "ru": "Джонси и Бонси из Tiki Head — один и тот же человек. Приём."
+  }
+]

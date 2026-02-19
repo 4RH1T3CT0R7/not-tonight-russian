@@ -1,0 +1,77 @@
+[
+  {
+    "key": "MAIN_MENU_BETA_MESSAGE",
+    "en": "Thanks for taking part in the Not Tonight beta! Let us know any suggestions or bugs via the official Discord server. If you enjoy the game, please consider wishlisting on Steam! Click >> HERE << to wishlist.",
+    "ru": "Спасибо за участие в бета-тесте Not Tonight! Сообщайте о предложениях и ошибках на официальном сервере Discord. Если игра понравилась, добавьте в список желаемого в Steam! Нажмите >> СЮДА <<, чтобы добавить."
+  },
+  {
+    "key": "READY_LABEL_GET_READY",
+    "en": "{[NAME]}\nREADY!",
+    "ru": "{[NAME]}\nГОТОВЬСЯ!"
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_1",
+    "en": "Sell candies for Ferriss on the side. You can only progress if you hit the sales targets for each level.",
+    "ru": "Толкай конфеты для Ферриса по-тихому. Продвинешься, только если выполнишь план продаж на каждом уровне."
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_2",
+    "en": "A stress free super simple set of levels.",
+    "ru": "Спокойный набор простейших уровней без стресса."
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_3",
+    "en": "Very difficult levels escalating in complexity.",
+    "ru": "Очень сложные уровни с нарастающей запутанностью."
+  },
+  {
+    "key": "SOCIAL_SCORE_DRUGS_REJECT",
+    "en": "Drugs refused: x{[Count]}",
+    "ru": "Отказы от наркотиков: x{[Count]}"
+  },
+  {
+    "key": "SOCIAL_SCORE_UNDERCOVER_DRUGS",
+    "en": "Busted!: x{[Count]}",
+    "ru": "Пойман! x{[Count]}"
+  },
+  {
+    "key": "OPTIONS_COLOUR_BLIND_MODE",
+    "en": "COLOUR BLIND MODE",
+    "ru": "РЕЖИМ ДЛЯ ДАЛЬТОНИКОВ"
+  },
+  {
+    "key": "WINTERBALL_COUNTDOWN",
+    "en": "{[Days]} days until the New Years Eve ball[i2p_One]{[Days]} day until the New Years Eve ball",
+    "ru": "{[Days]} дней до новогоднего бала[i2p_One]{[Days]} день до новогоднего бала"
+  },
+  {
+    "key": "MARCH",
+    "en": "MARCH",
+    "ru": "МАРТ"
+  },
+  {
+    "key": "MAY",
+    "en": "MAY",
+    "ru": "МАЙ"
+  },
+  {
+    "key": "NOVEMBER",
+    "en": "NOVEMBER",
+    "ru": "НОЯБРЬ"
+  },
+  {
+    "key": "SEPTEMBER",
+    "en": "SEPTEMBER",
+    "ru": "СЕНТЯБРЬ"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_4_DESCRIPTION",
+    "en": "Budget and chill.",
+    "ru": "Бюджетно и чилл."
+  },
+  {
+    "key": "TOOLTIP_VISIT",
+    "en": "Visit",
+    "ru": "Посещение"
+  }
+]

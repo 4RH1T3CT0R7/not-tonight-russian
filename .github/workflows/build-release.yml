@@ -1,0 +1,85 @@
+name: Build and Release
+
+on:
+  push:
+    branches: [main]
+    tags:
+      - 'v*'
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '6.0.x'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Set version from tag
+        if: startsWith(github.ref, 'refs/tags/v')
+        shell: bash
+        run: python set_version.py --set "${GITHUB_REF#refs/tags/v}"
+
+      - name: Set version for non-tag builds
+        if: "!startsWith(github.ref, 'refs/tags/v')"
+        shell: bash
+        run: python set_version.py --increment
+
+      - name: Build Mod DLL
+        run: dotnet build src/Mod/NotTonightRussian.csproj -c Release
+
+      - name: Prepare data folder
+        shell: pwsh
+        run: |
+          # Copy built DLL into data/BepInEx/plugins/NotTonightRussian/
+          Copy-Item "src/Mod/bin/Release/NotTonightRussian.dll" "data/BepInEx/plugins/NotTonightRussian/NotTonightRussian.dll" -Force
+
+      - name: Create data.zip for installer
+        shell: pwsh
+        run: |
+          Compress-Archive -Path "data/*" -DestinationPath "src/Installer/data.zip" -Force
+
+      - name: Build Installer EXE
+        run: dotnet build src/Installer/Installer.csproj -c Release
+
+      - name: Create release archive
+        shell: pwsh
+        run: |
+          Compress-Archive -Path "data/*" -DestinationPath "NotTonightRussian-Data.zip" -Force
+
+      - name: Get version from tag
+        if: startsWith(github.ref, 'refs/tags/v')
+        id: version
+        shell: bash
+        run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.VERSION }}
+          name: Not Tonight Russian ${{ steps.version.outputs.VERSION }}
+          body: |
+            ## Not Tonight — Русская локализация ${{ steps.version.outputs.VERSION }}
+
+            ### Установка
+            **Вариант 1 (рекомендуется):** Скачайте `NotTonightRussian-Setup.exe` и запустите.
+            **Вариант 2 (ручная):** Скачайте `NotTonightRussian-Data.zip` и распакуйте в папку игры.
+          files: |
+            src/Installer/bin/Release/net472/NotTonightRussian-Setup.exe
+            NotTonightRussian-Data.zip
+          draft: false
+          prerelease: false

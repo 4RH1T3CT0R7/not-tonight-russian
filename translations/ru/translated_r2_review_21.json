@@ -1,0 +1,77 @@
+[
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_19",
+    "en": "Hey.",
+    "ru": "Привет."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_33",
+    "en": "Granted.",
+    "ru": "Само собой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_36",
+    "en": "Roger.",
+    "ru": "Понял."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_5",
+    "en": "You're wrong.",
+    "ru": "Ты не прав."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_1",
+    "en": "Like I give a crap.",
+    "ru": "Да мне плевать."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "Like I care.",
+    "ru": "Да мне пофиг."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_12",
+    "en": "I, I am destroyed.",
+    "ru": "Я, я раздавлен."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_31",
+    "en": "Help? please?",
+    "ru": "Помогите? Пожалуйста?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_35",
+    "en": "What now? please?",
+    "ru": "Что теперь? Пожалуйста?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_36",
+    "en": "I will queue again. ",
+    "ru": "Я снова встану в очередь. "
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_3",
+    "en": "Can't believe this, you're wrong",
+    "ru": "Не верю, ты не прав"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_4",
+    "en": "Are you kidding me!",
+    "ru": "Ты шутишь, что ли!"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_5",
+    "en": "You're wrong.",
+    "ru": "Ты не прав."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_1",
+    "en": "Like I give a crap.",
+    "ru": "Да мне плевать."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "Like I care.",
+    "ru": "Да мне пофиг."
+  }
+]

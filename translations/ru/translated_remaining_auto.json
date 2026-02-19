@@ -1,0 +1,1252 @@
+[
+  {
+    "key": "APP_BOUNCR_BONUS1_LABEL",
+    "en": "BONUS 1",
+    "ru": "БОНУС 1"
+  },
+  {
+    "key": "APP_BOUNCR_PASS_LABEL",
+    "en": "PASS",
+    "ru": "ПРОПУСК"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_NEXT_LEVEL",
+    "en": "NEXT LEVEL:",
+    "ru": "СЛЕД. УРОВЕНЬ:"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_VIP",
+    "en": "VIP",
+    "ru": "VIP"
+  },
+  {
+    "key": "APP_TXTIT_BOUNCER_MESSAGE",
+    "en": "Hello",
+    "ru": "Привет"
+  },
+  {
+    "key": "APP_TXTIT_CONTACT_MESSAGE",
+    "en": "Hello",
+    "ru": "Привет"
+  },
+  {
+    "key": "CHALLENGE_MODE_GUESTLIST_PAGE",
+    "en": "Page",
+    "ru": "Стр."
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUES_VIP_TITLE",
+    "en": "VIP",
+    "ru": "VIP"
+  },
+  {
+    "key": "CHALLENGE_MODE_VIP_BONUS",
+    "en": "VIP",
+    "ru": "VIP"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM__17",
+    "en": "I get it-",
+    "ru": "Я понял-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM__5",
+    "en": "*sob*",
+    "ru": "*всхлип*"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INCORRECT_ITEM__1",
+    "en": "Do you need this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM__17",
+    "en": "I get it-",
+    "ru": "Я понял-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM__5",
+    "en": "*sob*",
+    "ru": "*всхлип*"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INCORRECT_ITEM__1",
+    "en": "Do you need this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR24_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR24_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR26_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR26_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR27_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR27_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR28_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR28_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR29_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR29_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CORRECT_ITEM__1",
+    "en": "Here.",
+    "ru": "Вот."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CORRECT_ITEM__11",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR8_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR8_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR9_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS27_OUTROMESSAGES_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS37_BONUSMESSAGES_2",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/PLOTCLUBBERS2_INCORRECTITEMMESSAGES_1",
+    "en": "Do you need this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/PLOTCLUBBERS2_VISIT1_ENTRYMESSAGES_1",
+    "en": "Fine.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER1/SHAREDINTERIORS_KINGS_HEAD_INTROMESSAGESHEADBOUNCER_3",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/SHAREDINTERIORS_KINGS_HEAD_PT2_INTROMESSAGESHEADBOUNCER_5",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER1/SHAREDINTERIORS_KINGS_HEAD_PT2_INTROMESSAGESHEADBOUNCER_7",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR11_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR11_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR12_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR13_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR13_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR14_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR14_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR15_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_CORRECT_ITEM__13",
+    "en": "I'm from-",
+    "ru": "Я из-"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR17_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR17_NO_ITEM__2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR18_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR18_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR19_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR19_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR1_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR20_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR21_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR21_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR22_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR22_NO_ITEM__2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR23_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR24_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR25_NO_ITEM__2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR26_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR26_CORRECT_ITEM__4",
+    "en": "Here you go.",
+    "ru": "Вот, держи."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR26_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR26_NO_ITEM__2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR27_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR27_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR27_NO_ITEM__2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR28_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR28_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR28_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR29_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR2_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR30_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR30_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR3_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR4_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR5_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR6_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS17_BONUSMESSAGES_3",
+    "en": "Whatever.",
+    "ru": "Да пофиг."
+  },
+  {
+    "key": "CHAPTER2/PLOTCLUBBERS2_INCORRECTITEMMESSAGES_2",
+    "en": "No!",
+    "ru": "Нет!"
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_3",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS1_VISIT8_ENTRYMESSAGES_2",
+    "en": "Yes!",
+    "ru": "Да!"
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS2_VISIT5_ENTRYMESSAGES_4",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR11_CORRECT_ITEM__1",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR12_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR13_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR13_INCORRECT_ITEM__2",
+    "en": "Unlikely.",
+    "ru": "Вряд ли."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR14_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR14_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR15_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR15_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR16_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR16_INCORRECT_ITEM__2",
+    "en": "Unlikely.",
+    "ru": "Вряд ли."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR17_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR17_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR18_CORRECT_ITEM__1",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR1_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR2_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR3_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR4_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR5_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR5_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR6_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR6_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR6_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR7_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR7_INCORRECT_ITEM__2",
+    "en": "Unlikely.",
+    "ru": "Вряд ли."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR8_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR8_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR9_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR9_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_4",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR1_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRINKS_SUCCESS_3",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TRAVELCARDPORTRAIT_1",
+    "en": "Really?",
+    "ru": "Правда?"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_26",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_27",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_28",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_29",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_30",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_34",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_36",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_38",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_47",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_48",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_51",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_52",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_53",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_54",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_55",
+    "en": "- Not in use!",
+    "ru": "- Не используется!"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_CLOTHESMESSAGES_NORMAL_3",
+    "en": "Sure.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_SHOPMESSAGES_NORMAL_5",
+    "en": "Sure.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_VENUEMESSAGES_NORMAL_3",
+    "en": "Sure thing.",
+    "ru": "Без проблем."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR2_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR2_VENUEMESSAGES_NORMAL_4",
+    "en": "Will do.",
+    "ru": "Сделаю."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR3_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR4_INCORRECT_ITEM__1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR4_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR5_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR6_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR9_NO_ITEM__1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_BONUSMESSAGES_4",
+    "en": "Yup.",
+    "ru": "Ага."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS18_BONUSMESSAGES_2",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_BONUSMESSAGES_2",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS7_BONUSMESSAGES_2",
+    "en": "Thanks",
+    "ru": "Спасибо"
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS3_INCORRECTITEMMESSAGES_1",
+    "en": "Do you need this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "DLC_CHAPTER0/SHAREDINTERIORS_CASINO_PICKUPITEMMESSAGES_2",
+    "en": "Sure.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "DWEB_UPGRADE_12_NEXT_UPGRADE_DESCRIPTION",
+    "en": "----",
+    "ru": "----"
+  },
+  {
+    "key": "DWEB_UPGRADE_8_NEXT_UPGRADE_DESCRIPTION",
+    "en": "----",
+    "ru": "----"
+  },
+  {
+    "key": "ENVIRONMENTAL_FACTORS_COLD",
+    "en": "Cold",
+    "ru": "Холодно"
+  },
+  {
+    "key": "FLYER_RULES_VIP_TITLE",
+    "en": "VIP",
+    "ru": "VIP"
+  },
+  {
+    "key": "ITEM_VISA_JOB_VALUE",
+    "en": "BouncR",
+    "ru": "BouncR"
+  },
+  {
+    "key": "LETTERS_CURRENT_LETTER",
+    "en": "Letter",
+    "ru": "Письмо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_1",
+    "en": "Sure.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_12",
+    "en": "Hello.",
+    "ru": "Привет."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_13",
+    "en": "Yes",
+    "ru": "Да"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_14",
+    "en": "There",
+    "ru": "Вот"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_15",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_17",
+    "en": "Hello.",
+    "ru": "Привет."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_19",
+    "en": "Hey",
+    "ru": "Привет"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_2",
+    "en": "Here it is.",
+    "ru": "Вот, держи."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_20",
+    "en": "Here be",
+    "ru": "Вот"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_21",
+    "en": "ID?",
+    "ru": "Документы?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_22",
+    "en": "Certainly.",
+    "ru": "Разумеется."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_23",
+    "en": "Of course.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_24",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_25",
+    "en": "Here you go.",
+    "ru": "Вот, держи."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_26",
+    "en": "It's here. ",
+    "ru": "Вот, пожалуйста."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_27",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_28",
+    "en": "Right on",
+    "ru": "Точняк"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_29",
+    "en": "Fine.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_3",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_30",
+    "en": "Good.",
+    "ru": "Хорошо."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_32",
+    "en": "Definitely.",
+    "ru": "Точно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_33",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_34",
+    "en": "Gladly.",
+    "ru": "С удовольствием."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_36",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_37",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_38",
+    "en": "Very well.",
+    "ru": "Хорошо."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_39",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_4",
+    "en": "No problem.",
+    "ru": "Без проблем."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_40",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_41",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_5",
+    "en": "Of course.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_7",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_8",
+    "en": "It's here. ",
+    "ru": "Вот, пожалуйста."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_9",
+    "en": "Here",
+    "ru": "Вот"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_19",
+    "en": "Hey",
+    "ru": "Привет"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_20",
+    "en": "Here be",
+    "ru": "Вот"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_21",
+    "en": "ID?",
+    "ru": "Документы?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_22",
+    "en": "Certainly",
+    "ru": "Разумеется"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_23",
+    "en": "Of course",
+    "ru": "Конечно"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_25",
+    "en": "Here you go",
+    "ru": "Вот, держи"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_26",
+    "en": "It's here",
+    "ru": "Вот"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_28",
+    "en": "Right on",
+    "ru": "Точняк"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_29",
+    "en": "Fine",
+    "ru": "Ладно"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_30",
+    "en": "Good",
+    "ru": "Хорошо"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_31",
+    "en": "Absoulutely",
+    "ru": "Безусловно"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_32",
+    "en": "Definitely",
+    "ru": "Точно"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_33",
+    "en": "Granted",
+    "ru": "Конечно"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_34",
+    "en": "Gladly",
+    "ru": "С удовольствием"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_35",
+    "en": "Naturally",
+    "ru": "Естественно"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_36",
+    "en": "Roger",
+    "ru": "Принято"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_37",
+    "en": "Sure thing",
+    "ru": "Без проблем"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_38",
+    "en": "Very well",
+    "ru": "Хорошо"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_39",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_40",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_41",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "NOTEBOOK_NOTES_TAB",
+    "en": "Notes",
+    "ru": "Заметки"
+  },
+  {
+    "key": "NOTES_MAIN_TAB",
+    "en": "Main",
+    "ru": "Главное"
+  },
+  {
+    "key": "PAUSE_BUTTON_EXIT",
+    "en": "Exit",
+    "ru": "Выход"
+  },
+  {
+    "key": "TOOLTIP_NOSELECTION",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "TOOLTIP_PASSWORD",
+    "en": "Password",
+    "ru": "Пароль"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "key": "LWEB_OUTFIT_12_DESCRIPTION",
+    "en": "Pre-ironed and starched.\n\nNOTE: Wear full set and receive less social credit penalties.",
+    "ru": "Заранее выглажено и накрахмалено.\n\nВАЖНО: Надень полный комплект — получишь меньше штрафов к социальному кредиту."
+  },
+  {
+    "key": "LWEB_OUTFIT_3_DESCRIPTION",
+    "en": "Combat leggings? C-eggings.\n\nNOTE: Wear full Jarhead set and customers never push back.",
+    "ru": "Боевые леггинсы? Боеггинсы.\n\nВАЖНО: Надень полный комплект «Солдафон» — и клиенты не будут спорить."
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_1_DESCRIPTION",
+    "en": "Purr-fect?",
+    "ru": "Замурр-чательно?"
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_4_DESCRIPTION",
+    "en": "Diplo-date-us?",
+    "ru": "Диплосвиданозавр?"
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_6_DESCRIPTION",
+    "en": "Jesus-boots.",
+    "ru": "Сапоги Иисуса."
+  },
+  {
+    "key": "LWEB_UPGRADE_11_DESCRIPTION",
+    "en": "Defend against creeping paranoia with painted walls.\n \nNOTE: Paint may contain lead.",
+    "ru": "Обороняйся от подкрадывающейся паранойи — покрась стены.\n\nВАЖНО: Краска может содержать свинец."
+  },
+  {
+    "key": "LWEB_UPGRADE_13_DESCRIPTION",
+    "en": "Avoid theft with broke-a-phone.",
+    "ru": "Защита от кражи — лома-фон."
+  },
+  {
+    "key": "LWEB_UPGRADE_23_DESCRIPTION",
+    "en": "A stuffed Unicorn head. Locally sourced.",
+    "ru": "Чучело головы единорога. Из местных источников."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_7_DESCRIPTION",
+    "en": "Jesus boot cleaners.",
+    "ru": "Чистилки для сапог Иисуса."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_12_DESCRIPTION",
+    "en": "Real art!\n\t\t\n\t\tOr a Greek tragedy. You decide.",
+    "ru": "Настоящее искусство!\n\t\t\n\t\tИли греческая трагедия. Решай сам."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_6_DESCRIPTION",
+    "en": "Art?\n                \n                Or vandalism, you decide.\n                ",
+    "ru": "Искусство?\n                \n                Или вандализм — решай сам.\n                "
+  },
+  {
+    "key": "POSTCARD_HARRISON_PACE_FAIL",
+    "en": "After failing to find love on FLAMR Lassy returned to his first love; Film.",
+    "ru": "Не найдя любви в FLAMR, Лэсси вернулся к первой любви — кино."
+  },
+  {
+    "key": "POSTCARD_FRANCOIS_FAIL",
+    "en": "After failing to find love on FLAMR Francois returned to his first love; Painting.\n\nFrancois went on a painting pilgrimage attempting to replicate the great renaissance painters styles. Unfortunately one thing held Francois back. He was crap. Life as an art critic was a lot simpler and to this day he is editor of the Toulouse Art Review. ",
+    "ru": "Не найдя любви в FLAMR, Франсуа вернулся к первой любви — живописи.\n\nФрансуа отправился в живописное паломничество, пытаясь воспроизвести стили великих мастеров Ренессанса. К несчастью, одно ему мешало — рисовал он из рук вон плохо. Жизнь арт-критика оказалась куда проще, и по сей день он редактор Тулузского художественного обозрения."
+  }
+]

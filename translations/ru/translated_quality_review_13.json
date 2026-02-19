@@ -1,0 +1,72 @@
+[
+  {
+    "key": "CHALLENGE_MODE_CUSTOM_DESCRIPTION",
+    "en": "Create your own level!",
+    "ru": "Создать свой уровень!"
+  },
+  {
+    "key": "CHALLENGE_MODE_ENDLESS_DESCRIPTION",
+    "en": "No time limit. Play until you fail. How long can you last?",
+    "ru": "Без ограничения по времени. Играть, пока не проиграешь. Как долго продержишься?"
+  },
+  {
+    "key": "CHALLENGE_MODE_TIMED_DESCRIPTION",
+    "en": "A set time limit. Go for the high score!",
+    "ru": "Ограниченное время. Набрать максимум очков!"
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_GUESTLIST",
+    "en": "Guestlist Complete",
+    "ru": "Список гостей завершён"
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_INCIDENT",
+    "en": "Incident caused",
+    "ru": "Вызван инцидент"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_CLUBBERS_PASS_DESC",
+    "en": "Let a target number in the club!",
+    "ru": "Пропустить в клуб нужное число посетителей!"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_CLUBBERS_SEEN_DESC",
+    "en": "See at least a target number of clubbers",
+    "ru": "Осмотреть не менее заданного числа посетителей"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_COMBO_STREAK_DESC",
+    "en": "Get 10 times combos. ",
+    "ru": "Набрать комбо x10. "
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_DRUGS_SOLD_DESC",
+    "en": "Sell at least a target number of drugs",
+    "ru": "Продать не менее заданного числа наркотиков"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_INCIDENTS_DESC",
+    "en": "Cause a target amount of incidents!",
+    "ru": "Устроить заданное число инцидентов!"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_SCORE_DESC",
+    "en": "Get a certain amount of points!",
+    "ru": "Набрать определённое количество очков!"
+  },
+  {
+    "key": "TUTORIAL_ALLOW_ENTRY",
+    "en": "Click to allow entry",
+    "ru": "Нажать для входа"
+  },
+  {
+    "key": "TUTORIAL_RETURN_ID",
+    "en": "Return the ID to deny",
+    "ru": "Вернуть документ для отказа"
+  },
+  {
+    "key": "TUTORIAL_RETURN_TICKET",
+    "en": "Return the ticket to deny",
+    "ru": "Вернуть билет для отказа"
+  }
+]

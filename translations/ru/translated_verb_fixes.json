@@ -1,0 +1,14 @@
+[
+  {"key": "INTERIOR_TALK_TO_BOSS", "en": "TALK TO BOSS", "ru": "ПОГОВОРИТЬ С БОССОМ"},
+  {"key": "GUESTLIST_INFOSCAN_LABEL", "en": "CHECK ISSUES", "ru": "ПРОВЕРИТЬ ПРОБЛЕМЫ"},
+  {"key": "TUTORIAL_SELECT_ISSUE", "en": "Select the issue", "ru": "ВЫБРАТЬ ПРОБЛЕМУ"},
+  {"key": "TUTORIAL_SELECT_QUEUE", "en": "Select the queue", "ru": "ВЫБРАТЬ ОЧЕРЕДЬ"},
+  {"key": "TUTORIAL_DRAG_ID_CHECK", "en": "DRAG ID AND CHECK", "ru": "ПЕРЕТАЩИТЬ ДОКУМЕНТ И ПРОВЕРИТЬ"},
+  {"key": "TUTORIAL_DRAG_TICKET_CHECK", "en": "DRAG TICKET TO CHECK", "ru": "ПЕРЕТАЩИТЬ БИЛЕТ ДЛЯ ПРОВЕРКИ"},
+  {"key": "TUTORIAL_ALLOW_ENTRY", "en": "Click to allow entry", "ru": "Нажать, чтобы впустить"},
+  {"key": "TUTORIAL_RETURN_ID", "en": "Return the ID to deny", "ru": "Вернуть документ, чтобы отказать"},
+  {"key": "TUTORIAL_RETURN_TICKET", "en": "Return the ticket to deny", "ru": "Вернуть билет, чтобы отказать"},
+  {"key": "INTERIOR_START_LABEL", "en": "Start", "ru": "Начать"},
+  {"key": "INTERIOR_EQUIP_ITEMS", "en": "EQUIP ITEMS", "ru": "НАДЕТЬ ПРЕДМЕТЫ"},
+  {"key": "CHAPTER1/INTERIORS1_OUTROMESSAGES_5", "en": "Anyway. Another job tomorrow, if you're up for it?", "ru": "Короче. Завтра подвернулась ещё работёнка, берёшься?"}
+]

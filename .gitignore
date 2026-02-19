@@ -1,10 +1,49 @@
-# Auto Claude data directory
-.auto-claude/
+# Dev tools
+_dev/
+__pycache__/
+*.pyc
+*.py
+!set_version.py
+*.bak
 
-# Auto Claude generated files
-.auto-claude-security.json
-.auto-claude-status
-.claude_settings.json
-.worktrees/
-.security-key
-logs/security/
+# Build outputs
+bin/
+obj/
+src/Installer/bin/
+src/Installer/obj/
+src/Mod/bin/
+src/Mod/obj/
+
+# Installer executable (built by CI)
+NotTonightRussian-Setup.exe
+
+# Local scripts
+sync_to_game.bat
+release.bat
+
+# Built DLL (CI builds it)
+data/BepInEx/plugins/NotTonightRussian/NotTonightRussian.dll
+
+# Debug symbols
+*.pdb
+
+# Generated archives
+src/Installer/data.zip
+NotTonightRussian-Data.zip
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Claude
+.claude/
+
+# Logs
+*.log

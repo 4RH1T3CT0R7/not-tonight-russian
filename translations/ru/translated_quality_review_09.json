@@ -1,0 +1,392 @@
+[
+  {
+    "key": "DIALOG_CLUBBERINTRO_19",
+    "en": "Hey",
+    "ru": "Привет"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_24",
+    "en": "K",
+    "ru": "Ок"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_30",
+    "en": "Good",
+    "ru": "Хорошо"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_31",
+    "en": "Absoulutely",
+    "ru": "Разумеется"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_34",
+    "en": "Gladly",
+    "ru": "С радостью"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_2",
+    "en": "How about a little something for you?",
+    "ru": "Может, немножко для тебя?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_CHEESER_1",
+    "en": "Sure. I love CheeseR!",
+    "ru": "Конечно! Обожаю СырР!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_CHEESER_2",
+    "en": "I'll buy some!",
+    "ru": "Куплю!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_DIPUDABU_1",
+    "en": "I love Dibu Dabu!",
+    "ru": "Да я обожаю Дибу Дабу!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_FACEDROPS_1",
+    "en": "I love Face Drops!",
+    "ru": "Да я обожаю Капли!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_POWAHPILLS_1",
+    "en": "I love Powah Pills!",
+    "ru": "Обожаю Таблетки Силы!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_1",
+    "en": "Naughty naughty Euro, selling this! I'm reporting you.",
+    "ru": "Ай-ай-ай, непослушный Евро, торгуешь такими вещицами! Доложу на тебя."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_2",
+    "en": "That's a bad idea, mate! Nicked! Your suspicion level is going well up!",
+    "ru": "Плохая идея, приятель! Попался! Твой уровень подозрительности взлетит!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_3",
+    "en": "Busted Euro! Your suspicion's going to hit the roof!",
+    "ru": "Попался, Евро! Твой уровень подозрительности пробьёт потолок!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_4",
+    "en": "Oi Oi, Euro. Bit of money on the side is it? I'm reporting you.",
+    "ru": "Ой-ой, Евро. Подрабатываем налево, да? Доложу на тебя."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_5",
+    "en": "Making cash on the side. Naughty Euro. I'll report this.",
+    "ru": "Подрабатываешь на стороне. Нехороший Евро. Доложу."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_1",
+    "en": "Like I give a crap.",
+    "ru": "Да мне насрать."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_1",
+    "en": "This is rubbish.",
+    "ru": "Полная фигня."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_2",
+    "en": "Screw this.",
+    "ru": "Да пошло оно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_3",
+    "en": "Can't believe this, you're wrong",
+    "ru": "Не могу поверить, ты неправ."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_8",
+    "en": "You're a twat",
+    "ru": "Ты мудак."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_10",
+    "en": "Screw this.",
+    "ru": "Да пошло оно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_11",
+    "en": "Just die.",
+    "ru": "Да сдохни уже."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_13",
+    "en": "This place sucks.",
+    "ru": "Это место — отстой."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_18",
+    "en": "This place is so crap.",
+    "ru": "Место просто дерьмовое."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_1",
+    "en": "Like I give a crap.",
+    "ru": "Да мне насрать."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_3",
+    "en": "Looks crap anyway",
+    "ru": "Тут всё равно дерьмово."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_4",
+    "en": "Don't want to come in anyway.",
+    "ru": "Да мне и не надо было."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_8",
+    "en": "You suck.",
+    "ru": "Да ты отстой."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_11",
+    "en": "Just die.",
+    "ru": "Да сдохни."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_13",
+    "en": "This place sucks.",
+    "ru": "Это место — отстой."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_15",
+    "en": "I'm out of here.",
+    "ru": "Я отсюда сваливаю."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "Like I care.",
+    "ru": "Да мне пофиг."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_22",
+    "en": "I queued for that.",
+    "ru": "Я же в очереди стоял."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_27",
+    "en": "Can't believe this.",
+    "ru": "Не могу поверить."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_28",
+    "en": "How is this happening.",
+    "ru": "Что вообще происходит."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_32",
+    "en": "This ain't nothing.",
+    "ru": "Да фигня всё это."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_2",
+    "en": "Bored! Leaving!",
+    "ru": "Надоело! Ухожу!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_5",
+    "en": "I'm not hanging around here.",
+    "ru": "Не буду тут торчать."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_9",
+    "en": "Do they not know who I am.",
+    "ru": "Они вообще не знают, кто я?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_6",
+    "en": "Tell me what's up?",
+    "ru": "Что случилось?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_8",
+    "en": "What's up? there's nothing wrong?",
+    "ru": "Что такое? Всё же в порядке?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_1",
+    "en": "I'm over 18",
+    "ru": "Мне больше 18!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_2",
+    "en": "Are you stupid! check the ID.",
+    "ru": "Ты тупой, что ли?! Посмотри на документ!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_3",
+    "en": "Check again please! you're wrong.",
+    "ru": "Проверь ещё раз, пожалуйста! Ты ошибаешься."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_5",
+    "en": "I'm ancient!",
+    "ru": "Да мне сто лет!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_7",
+    "en": "I'm flattered but I am over 18",
+    "ru": "Лестно, конечно, но мне за 18."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_8",
+    "en": "I wish I was under 18, check again.",
+    "ru": "Хотел бы я быть моложе, но проверь ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_BODY_1",
+    "en": "Can you let it go?",
+    "ru": "Может, забьёшь на это?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_CONCEALEDITEM_1",
+    "en": "Can you let it go.",
+    "ru": "Может, забудешь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_CONCEALEDITEM_2",
+    "en": "I don't have anything",
+    "ru": "Да у меня ничего нет."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_8",
+    "en": "What's up? there's nothing wrong is there?",
+    "ru": "Что случилось? Вроде всё нормально?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_EXPIRATION_3",
+    "en": "Can you let it slide.",
+    "ru": "Может, пропустишь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_EXPIRATION_5",
+    "en": "I'm sure it's not out of date.",
+    "ru": "Уверен, что оно не просрочено."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HASSPECIAL_2",
+    "en": "Don't you know who I am?",
+    "ru": "Ты что, не знаешь, кто я?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HEAD_3",
+    "en": "You're wrong, of course I can check...",
+    "ru": "Ты ошибаешься, конечно я могу..."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HOLOGRAM_2",
+    "en": "Not all ID's have a hologram.",
+    "ru": "Не на всех удостоверениях есть голограмма."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_INCOME_1",
+    "en": "That's out of date, I earn way more now!",
+    "ru": "Это устарело, я теперь зарабатываю намного больше!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_JOB_1",
+    "en": "Can you ignore it?",
+    "ru": "Может, закроешь на это глаза?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_LEGS_2",
+    "en": "Can you just let it slide.",
+    "ru": "Да ладно, закрой на это глаза."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_6",
+    "en": "I am the list! check it again",
+    "ru": "Я ЕСТЬ в списке! Проверь ещё раз!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_8",
+    "en": "I am on the list. I phoned earlier",
+    "ru": "Я в списке. Я заранее звонил."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAME_2",
+    "en": "But it is my name",
+    "ru": "Но это же моё имя!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_2",
+    "en": "This can't be real.",
+    "ru": "Не может быть."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_3",
+    "en": "What dystopia is this.",
+    "ru": "Что за антиутопия?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_5",
+    "en": "Can you just let it go.",
+    "ru": "Может, просто пропустишь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_2",
+    "en": "Yes it's me, check it again",
+    "ru": "Да, это я, проверь ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_3",
+    "en": "You're an idiot, check again",
+    "ru": "Да ты идиот, что ли, проверь заново."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_4",
+    "en": "Yes it's me! look again",
+    "ru": "Да, это я! Посмотри ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_5",
+    "en": "What are you saying, its me.",
+    "ru": "Ты чего несёшь, это же я."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_9",
+    "en": "I had a nose-job since the photo.",
+    "ru": "Мне нос поправили после фотографии."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_SEX_1",
+    "en": "What do you bloody think!",
+    "ru": "Ты чего, блин, думаешь?!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETDAY_1",
+    "en": "It's for today. Check again!",
+    "ru": "Он на сегодня! Проверь ещё раз!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_6",
+    "en": "Let it go this time, please!",
+    "ru": "Ну давай на этот раз пропустишь, а?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TRAVELCARDCOUNTRY_1",
+    "en": "Please check again. ",
+    "ru": "Пожалуйста, проверь ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TRAVELCARDEXPIRY_1",
+    "en": "Can you check again.",
+    "ru": "Проверь ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_VISASTAMP_1",
+    "en": "Let it go, please?",
+    "ru": "Ну пропусти, пожалуйста?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_UNDERCOVER_1",
+    "en": "Naughty, selling to a cop!",
+    "ru": "Непослушный, торгуешь полицейскому!"
+  }
+]

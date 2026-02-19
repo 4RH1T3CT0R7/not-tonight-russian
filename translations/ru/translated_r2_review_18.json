@@ -1,0 +1,152 @@
+[
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY6_TEXT",
+    "en": "They say money can't buy you love. \"They\" are lonely virgins!\n\nBuy more stuff! Buy all the stuff? Do you have all the stuff? No! There's always more stuff.\nCan't afford the stuff? Get the stuff on credit! \n\nAt Shonkytonk, we're always looking for more ways to let you spend the money you may or may not actually have. Exceptions apply in certain regions, and for people called Dave. Sorry. It's the law. Cash only.\n\t\t",
+    "ru": "Говорят, за деньги любовь не купишь. «Говорят» — это одинокие девственники!\n\nПокупайте больше вещей! Купите все вещи! У вас уже все вещи? Нет! Всегда найдётся ещё.\nНе можете себе позволить? Берите в кредит! \n\nВ Shonkytonk мы всегда ищем новые способы позволить вам потратить деньги, которые у вас, возможно, есть, а возможно, и нет. Ограничения действуют в некоторых регионах и для людей по имени Дэйв. Извините. Таков закон. Только наличные.\n\t\t"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY9_TEXT",
+    "en": "\"ART: IT'S NOT JUST NAKED LADIES!\" is the slogan of the Louvre's latest exhibition, aimed at introducing the world to the wonders of history's greatest artists and sculptors. \n\nIn response to falling visits since the start of the season, however, an addendum has been added: 'BUT LOTS OF IT IS'. Curators expect an immediate upswing of return visits, especially to the new 'Really Mucky Stuff' gallery located just next to the Mona Lisa.\n",
+    "ru": "«ИСКУССТВО: ЭТО НЕ ТОЛЬКО ГОЛЫЕ ДАМОЧКИ!» — таков слоган новой выставки Лувра, призванной познакомить мир с чудесами величайших художников и скульпторов в истории. \n\nВ ответ на падение посещаемости с начала сезона, однако, было добавлено примечание: «ЗАТО ИХ ТАМ ПОЛНО». Кураторы ожидают немедленного роста повторных визитов, особенно в новую галерею «Совсем Непристойное», расположенную прямо рядом с Моной Лизой.\n"
+  },
+  {
+    "key": "DLC_CHAPTER0/NOTES_10_TEXT",
+    "en": "My FLAMR date is here.",
+    "ru": "Пара из FLAMR уже здесь."
+  },
+  {
+    "key": "DLC_CHAPTER0/NOTES_8_TEXT",
+    "en": "Meet a date (click MEET in FLAMR!)",
+    "ru": "Иди на свидание (нажми ВСТРЕЧА в FLAMR!)"
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS1_INCORRECTITEMMESSAGES_3",
+    "en": "Never mind. Just thought you might like it.",
+    "ru": "Не важно. Просто подумал, что тебе понравится."
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS1_VISIT1_ENTRYMESSAGES_1",
+    "en": "What? Here? Nah. Sober as a Swiss funeral director, my gaff.",
+    "ru": "Чё? Здесь? Не, тут трезвость — как у швейцарского гробовщика. Моё заведение."
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS2_VISIT2_DENIEDMESSAGES_3",
+    "en": "Instead, you have but the face of a cad!",
+    "ru": "Напротив, у тебя лишь физиономия подлеца!"
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS3_VISIT1_INTROMESSAGES_1",
+    "en": "SALUTATIONS, FLESHLING.",
+    "ru": "ПРИВЕТСТВУЮ, КОЖАНЫЙ."
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS3_VISIT2_ENTRYMESSAGES_5",
+    "en": "HA HA. WE ARE HUMANS SHARING A JOKE.",
+    "ru": "ХА-ХА. МЫ ЛЮДИ, ОБМЕНИВАЮЩИЕСЯ ЮМОРОМ."
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS4_VISIT2_INTROMESSAGES_6",
+    "en": "I care not for most Casino's. They are most uncouth places.",
+    "ru": "Я не жалую большинство казино. Весьма неотёсанные заведения."
+  },
+  {
+    "key": "DLC_CHAPTER0/SHAREDINTERIORS_CAFE_PASSMESSAGES_1",
+    "en": "Formidable! Vous avez done it.",
+    "ru": "Formidable! Vous avez справились."
+  },
+  {
+    "key": "DLC_CHAPTER0/SHAREDINTERIORS_ROAST_BEEF_PUB_NONHEADLANDLORDINTERACTION",
+    "en": "A SuperFX chip. Funny thing to be left in a pub. Convenient you might say.",
+    "ru": "Чип SuperFX. Странная находка для паба. Удобно, можно сказать."
+  },
+  {
+    "key": "DLC_CHAPTER0/SHAREDINTERIORS_ROAST_BEEF_PUB_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "See you around, fellow wage-slave.",
+    "ru": "Увидимся, собрат по каторге."
+  },
+  {
+    "key": "DLC_CHAPTER0/SHAREDINTERIORS_YACHT_CLUB_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Be ye chastised for that sucky performance!",
+    "ru": "Плетей тебе за такую паршивую работу!"
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_1_BODY",
+    "en": "July 1st, 2019\n\nBritish immigrant Dave is exploring his new city.",
+    "ru": "1 июля 2019\n\nБританский иммигрант Дэйв исследует свой новый город."
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_2_BODY",
+    "en": "July 2nd, 2019\n\nDave's relaxing at his flat (above his pub 'Le Rosbif')",
+    "ru": "2 июля 2019\n\nДэйв отдыхает в квартире (над своим пабом «Le Rosbif»)"
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_2_TITLE",
+    "en": "DAVE'S FLAT, TOULOUSE, FRANCE",
+    "ru": "КВАРТИРА ДЭЙВА, ТУЛУЗА, ФРАНЦИЯ"
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_3_BODY",
+    "en": "July 31st, 2019\n\nHas Dave found love?",
+    "ru": "31 июля 2019\n\nДэйв нашёл любовь?"
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_2",
+    "en": "I know. You are surprised. To think I would agree to this.",
+    "ru": "Знаю. Вы удивлены, что я на это согласился."
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_5",
+    "en": "\"Earthly charms.\"",
+    "ru": "«Земным обаянием.»"
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_2",
+    "en": "Here to chaperone your date.",
+    "ru": "Здесь в роли вашего шаперона на свидании."
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_3",
+    "en": "Could do worse, yes?",
+    "ru": "Бывает и хуже, да?"
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_5",
+    "en": "Maybe I hook up with someone better.",
+    "ru": "Может, найду кого-нибудь получше."
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_6",
+    "en": "Eh, good enough for me.",
+    "ru": "Э, и так сойдёт."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_2",
+    "en": "I was almost positive there'd be someone behind there.",
+    "ru": "Я была почти уверена, что за занавесом кто-то будет."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_4",
+    "en": "TRUTH MODE: IT WAS 98.8. I ROUNDED UP. TO BE POLITE.",
+    "ru": "РЕЖИМ ПРАВДЫ: БЫЛО 98,8. Я ОКРУГЛИЛ ВВЕРХ. ИЗ ВЕЖЛИВОСТИ."
+  },
+  {
+    "key": "DLC_CHAPTER0/TXTIT_CONTACT1_MESSAGESET3_1",
+    "en": "Lucille's Love Tips #2",
+    "ru": "Любовные советы от Люсиль #2"
+  },
+  {
+    "key": "DLC_CHAPTER0/TXTIT_CONTACT1_MESSAGESET4_2",
+    "en": "Lucille's Love Tips #3",
+    "ru": "Любовные советы от Люсиль #3"
+  },
+  {
+    "key": "DLC_CHAPTER0/TXTIT_CONTACT1_MESSAGESET4_3",
+    "en": "Your dates will visit two venues each.",
+    "ru": "Каждая твоя пара посетит два заведения."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_5",
+    "en": "Well, I suppose you MIGHT meet someone the old fashioned way.",
+    "ru": "Ну, возможно, вы ещё ВСТРЕТИТЕ кого-то по старинке."
+  }
+]

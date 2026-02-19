@@ -1,0 +1,387 @@
+[
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR1_CALENDAR_POST",
+    "en": "This weeks post.",
+    "ru": "Почта за эту неделю."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_CALENDAR_POST",
+    "en": "Resistance visited me again.",
+    "ru": "Сопротивление снова приходило ко мне."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_1",
+    "en": "Agent Titmouse. It is time.",
+    "ru": "Агент Синица. Время пришло."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_2",
+    "en": "The New Year's Ball.",
+    "ru": "Новогодний бал."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_3",
+    "en": "The Scorpion has warned us, this is the big one.",
+    "ru": "Скорпион предупредил нас — это главная операция."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_4",
+    "en": "The identikit you have.",
+    "ru": "Фоторобот у тебя."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_5",
+    "en": "It will allow you to identify the bomber.",
+    "ru": "Он позволит тебе опознать подрывника."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_6",
+    "en": "Bomb-what?",
+    "ru": "Подрыв-кого?"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_7",
+    "en": "The bomber responsible for the Kings Head...",
+    "ru": "Подрывник, устроивший взрыв в «Королевской Голове»..."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_8",
+    "en": "...is planning another false flag operation.",
+    "ru": "...планирует ещё одну провокацию под чужим флагом."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_10",
+    "en": "Albion First intends to blow up their own ball and blame it on Euros.",
+    "ru": "«Альбион прежде всего» собирается взорвать собственный бал и свалить всё на Евро."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_11",
+    "en": "The Scorpion has been supplying you with clues. The identikit is the key.",
+    "ru": "Скорпион снабжал тебя уликами. Фоторобот — это ключ."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_12",
+    "en": "Use it to identify the bomber. And give them this VIP token.",
+    "ru": "Используй его, чтобы опознать подрывника. И отдай ему этот VIP-жетон."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_13",
+    "en": "It's a tracker. Give it to the bomber.",
+    "ru": "Это трекер. Отдай его подрывнику."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_14",
+    "en": "You want me to work a job where a bomb is to go off?",
+    "ru": "Ты хочешь, чтобы я работал там, где должна взорваться бомба?"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_CORRECT_ITEM__1",
+    "en": "Not needed.",
+    "ru": "Не требуется."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INCORRECT_ITEM__1",
+    "en": "Should I show you this?",
+    "ru": "Мне показать тебе это?"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INCORRECT_ITEM__2",
+    "en": "I don't see any reason to.",
+    "ru": "Не вижу причин."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_NO_ITEM__1",
+    "en": "We'll be in touch.",
+    "ru": "Мы будем на связи."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_CALENDAR_POST",
+    "en": "Jupp wants me to help with the NYE ball.",
+    "ru": "Юпп хочет, чтобы я помог с новогодним балом."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_1",
+    "en": "Aaah, #112. What a sight for sore eyes.",
+    "ru": "Ааа, №112. Какое приятное зрелище."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_2",
+    "en": "New Years Eve.",
+    "ru": "Канун Нового года."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_3",
+    "en": "What a wonderful year.",
+    "ru": "Какой замечательный год."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_4",
+    "en": "Albion First winning the election.",
+    "ru": "«Альбион прежде всего» победил на выборах."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_5",
+    "en": "The rise of Jupp Security.",
+    "ru": "Взлёт охранного агентства Юппа."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_6",
+    "en": "And you Euros finally put in your place.",
+    "ru": "И вы, Евро, наконец поставлены на место."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_7",
+    "en": "You're nearly done.",
+    "ru": "Ты почти закончил."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_8",
+    "en": "One more job, and you can sling your bloody hook.",
+    "ru": "Ещё одна работёнка — и можешь проваливать ко всем чертям."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_9",
+    "en": "Don't be late.",
+    "ru": "Не опаздывай."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_11",
+    "en": "And don't wear any of those fancy clothes.",
+    "ru": "И не надевай свои модные шмотки."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_12",
+    "en": "Wear the standard issue Euro rags.",
+    "ru": "Надень стандартное тряпьё для Евро."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_13",
+    "en": "Don't embarrass me.",
+    "ru": "Не позорь меня."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_CORRECT_ITEM__1",
+    "en": "A goodbye present? You shouldn't have.",
+    "ru": "Прощальный подарок? Не стоило."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_CORRECT_ITEM__2",
+    "en": "See you Monday. The Election. Important.",
+    "ru": "Увидимся в понедельник. Выборы. Это важно."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INCORRECT_ITEM__2",
+    "en": "Don't insult me, #112.",
+    "ru": "Не оскорбляй меня, №112."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_NO_ITEM__1",
+    "en": "And what happens after the Ball?",
+    "ru": "И что будет после бала?"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_NO_ITEM__2",
+    "en": "Ha. Won't we have fun?",
+    "ru": "Ха. Повеселимся, а?"
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_BONUSMESSAGES_1",
+    "en": "Not needed.",
+    "ru": "Не требуется."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_FAILMESSAGES_1",
+    "en": "Not needed.",
+    "ru": "Не требуется."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_FAILMESSAGES_2",
+    "en": "Not needed.",
+    "ru": "Не требуется."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_INTROMESSAGES_1",
+    "en": "Ah, the Euro bouncer graces us with their presence.",
+    "ru": "А, вышибала-Евро почтил нас своим присутствием."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_INTROMESSAGES_2",
+    "en": "No rush.",
+    "ru": "Не торопись."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_INTROMESSAGES_3",
+    "en": "The New Year's Eve ball is only the most important event of the year...",
+    "ru": "Новогодний бал — всего лишь главное событие года..."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_INTROMESSAGES_4",
+    "en": "Well? Get your things.",
+    "ru": "Ну? Собирай вещи."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_INTROMESSAGES_5",
+    "en": "Choppy-chop. No workee, no money.",
+    "ru": "Живо-живо. Нет работы — нет денег."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_INTROMESSAGES_6",
+    "en": "Understood.",
+    "ru": "Понял."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_INTROMESSAGES_7",
+    "en": "Ahem.",
+    "ru": "Кхм."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_INTROMESSAGES_8",
+    "en": "Understood, sir.",
+    "ru": "Понял, сэр."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_PASSMESSAGES_1",
+    "en": "Not needed.",
+    "ru": "Не требуется."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_PASSMESSAGES_2",
+    "en": "Not needed.",
+    "ru": "Не требуется."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_OUTROMESSAGES_1",
+    "en": "Not needed.",
+    "ru": "Не требуется."
+  },
+  {
+    "key": "CHAPTER4/INTERIORS1_OUTROMESSAGES_2",
+    "en": "Not needed.",
+    "ru": "Не требуется."
+  },
+  {
+    "key": "CHAPTER4/JOBS1_TITLE",
+    "en": "NYE BALL",
+    "ru": "НОВОГОДНИЙ БАЛ"
+  },
+  {
+    "key": "CHAPTER4/JOBS1_SUBTITLE",
+    "en": "Albion First VIP ball",
+    "ru": "VIP-бал «Альбион прежде всего»"
+  },
+  {
+    "key": "CHAPTER4/LETTER1_PAGE_1",
+    "en": "NOTICE!\n\nNEW YEARS EVE - MONDAY!\n\nAlbion first New Year Ball.\n\nJupp Security only via BouncR.\n                ",
+    "ru": "ВНИМАНИЕ!\n\nНОВОГОДНЯЯ НОЧЬ — ПОНЕДЕЛЬНИК!\n\nНовогодний бал «Альбион прежде всего».\n\nОхрана Юппа только через BouncR.\n                "
+  },
+  {
+    "key": "CHAPTER4/MAP_MARKER2_MUSIC",
+    "en": "None",
+    "ru": "None"
+  },
+  {
+    "key": "CHAPTER4/MAP_MARKER2_CROWD",
+    "en": "Albion First",
+    "ru": "«Альбион прежде всего»"
+  },
+  {
+    "key": "CHAPTER4/NEWS_ENTRY1_TITLE",
+    "en": "THE RISE OF ALBION FIRST ",
+    "ru": "ВЗЛЁТ «АЛЬБИОН ПРЕЖДЕ ВСЕГО» "
+  },
+  {
+    "key": "CHAPTER4/NEWS_ENTRY1_TEXT",
+    "en": "The rise of Albion First has been spectacular. The party promises to implement more anti-European regulation if they win this summers election.",
+    "ru": "Взлёт «Альбион прежде всего» был впечатляющим. Партия обещает ввести ещё больше антиевропейских законов, если победит на летних выборах."
+  },
+  {
+    "key": "CHAPTER4/NOTES_1_TEXT",
+    "en": "12 months in limbo. What now?",
+    "ru": "12 месяцев в подвешенном состоянии. Что дальше?"
+  },
+  {
+    "key": "CHAPTER4/NOTES_2_TEXT",
+    "en": "Jupp: Work the NYE ball.",
+    "ru": "Юпп: Работать на новогоднем балу."
+  },
+  {
+    "key": "CHAPTER4/NOTES_3_TEXT",
+    "en": "Use identikit to identify bomber.",
+    "ru": "Использовать фоторобот, чтобы опознать подрывника."
+  },
+  {
+    "key": "CHAPTER4/NOTES_4_TEXT",
+    "en": "Give them the VIP token tracker.",
+    "ru": "Отдать ему VIP-жетон с трекером."
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_BONUSMESSAGES_1",
+    "en": "Not used",
+    "ru": "Not used"
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_FAILMESSAGES_1",
+    "en": "Not used",
+    "ru": "Not used"
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_INTROMESSAGESHEADBOUNCER_1",
+    "en": "Yo, head bouncerino.",
+    "ru": "Йоу, главный вышибалино."
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Not used",
+    "ru": "Not used"
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_PASSMESSAGES_1",
+    "en": "Not used",
+    "ru": "Not used"
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_PICKUPITEMMESSAGES_1",
+    "en": "Not used",
+    "ru": "Not used"
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_ITEMALREADYINTERACTED",
+    "en": "Not used",
+    "ru": "Not used"
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_INCORRECTITEM",
+    "en": "Not used",
+    "ru": "Not used"
+  },
+  {
+    "key": "CHAPTER4/SHAREDINTERIORS_BREAVE_NONHEADLANDLORDINTERACTION",
+    "en": "Not used",
+    "ru": "Not used"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_15",
+    "en": "If we identify the bomber, we can minimise casualties.",
+    "ru": "Если мы опознаем подрывника, мы сможем минимизировать жертвы."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_16",
+    "en": "Right now it's the best we can do.",
+    "ru": "Сейчас это лучшее, что мы можем сделать."
+  },
+  {
+    "key": "CHAPTER4/JOBS2_TITLE",
+    "en": "VICTORY PARTY",
+    "ru": "ВЕЧЕРИНКА ПОБЕДЫ"
+  },
+  {
+    "key": "CHAPTER4/MAP_MARKER3_MUSIC",
+    "en": "Party",
+    "ru": "Вечеринка"
+  },
+  {
+    "key": "CHAPTER4/JOBS3_TITLE",
+    "en": "VICTORY PARTY",
+    "ru": "ВЕЧЕРИНКА ПОБЕДЫ"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "key": "CHAPTER1/INTERIORS36_INTROMESSAGES_1",
+    "en": "You're with Jupp Security, yes?",
+    "ru": "Ты из охранного агентства Юппа, верно?"
+  },
+  {
+    "key": "CHAPTER1/NOTES_23_TEXT",
+    "en": "Sell CheesRs at the festival?",
+    "ru": "Продавать СырР на фестивале?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR26_CORRECT_ITEM__3",
+    "en": "Here. We know Jupp has been gouging the new residents.",
+    "ru": "Вот. Мы знаем, что Юпп обдирает новых жильцов."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR26_INCORRECT_ITEM__4",
+    "en": "Jupp is beginning to trust you. Help him. ",
+    "ru": "Юпп начинает тебе доверять. Помогай ему. "
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR26_NO_ITEM__4",
+    "en": "Jupp is beginning to trust you. Help him. ",
+    "ru": "Юпп начинает тебе доверять. Помогай ему. "
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR27_INTROMESSAGES_7",
+    "en": "Or as I call it, the perfect opportunity for Jupp Security.",
+    "ru": "Или, как я это называю, идеальная возможность для охраны Юппа."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR27_INTROMESSAGES_8",
+    "en": "Jupp Security?",
+    "ru": "Охрана Юппа?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_19",
+    "en": "Thank you, Officer Jupp.",
+    "ru": "Спасибо, офицер Юпп."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR28_INTROMESSAGES_22",
+    "en": "Undercover agent? You mean... Jupp?",
+    "ru": "Тайный агент? Ты имеешь в виду... Юппа?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR14_INTROMESSAGES_14",
+    "en": "Jupp Security is expanding.",
+    "ru": "Охранное агентство Юппа расширяется."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_CORRECT_ITEM__7",
+    "en": "But Officer Jupp sir, what does this have to do with me?",
+    "ru": "Но офицер Юпп, сэр, какое мне-то до этого дело?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR20_INTROMESSAGES_12",
+    "en": "Jupp will want his security firm covering it round here.",
+    "ru": "Юпп захочет, чтобы его охранная фирма обеспечивала их здесь."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR26_CALENDAR_POST",
+    "en": "Jupp wants me to help with the election.",
+    "ru": "Юпп хочет, чтобы я помог с выборами."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR27_CALENDAR_POST",
+    "en": "Jupp wants me to help with the election.",
+    "ru": "Юпп хочет, чтобы я помог с выборами."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR29_CORRECT_ITEM__11",
+    "en": "Find out all you can about an Officer called Jupp.",
+    "ru": "Узнай всё, что сможешь, об офицере по имени Юпп."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR30_CORRECT_ITEM__11",
+    "en": "Find out all you can about an Officer called Jupp.",
+    "ru": "Узнай всё, что сможешь, об офицере по имени Юпп."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_2",
+    "en": "Good work keeping in Jupp's favour.",
+    "ru": "Молодец, удержался в милости у Юппа."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_5",
+    "en": "Jupp is sending you to the elections.",
+    "ru": "Юпп отправляет тебя на выборы."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_25",
+    "en": "And I received a pen from Jupp.",
+    "ru": "И получил ручку от Юппа."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_26",
+    "en": "It has Jupps new office address on it.",
+    "ru": "На ней новый рабочий адрес Юппа."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_BONUSMESSAGES_1",
+    "en": "Fantastic. I will report on a job well done to Jupp.",
+    "ru": "Великолепно. Я доложу Юппу об отличной работе."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_FAILMESSAGES_1",
+    "en": "You let in so much filth. I will be on the blower to Jupp.",
+    "ru": "Ты впустил столько отребья. Я позвоню Юппу."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_INTROMESSAGES_1",
+    "en": "Ah you're from Jupp Security.",
+    "ru": "А, ты из охраны Юппа."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_INTROMESSAGES_14",
+    "en": "Don't screw up, or I'll be right on the phone to Jupp.",
+    "ru": "Не облажайся, а то я сразу позвоню Юппу."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_PASSMESSAGES_1",
+    "en": "No major incidents. Good. I'll let Jupp know.",
+    "ru": "Без серьёзных инцидентов. Хорошо. Я сообщу Юппу."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS29_BONUSMESSAGES_1",
+    "en": "Fantastic. I will report on a job well done to Jupp.",
+    "ru": "Великолепно. Я доложу Юппу об отлично проделанной работе."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS29_FAILMESSAGES_1",
+    "en": "You let in so much filth. I will be on the blower to Jupp.",
+    "ru": "Ты впустил столько отребья. Я позвоню Юппу."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS29_INTROMESSAGES_1",
+    "en": "Jupp Security #112.",
+    "ru": "Охрана Юппа, №112."
+  },
+  {
+    "key": "CHAPTER2/NOTES_3_TEXT",
+    "en": "Work for Jupp. I get to stay.",
+    "ru": "Работать на Юппа. Тогда меня оставят."
+  },
+  {
+    "key": "CHAPTER2/NOTES_4_TEXT",
+    "en": "Work Jupp's Dover Border job.",
+    "ru": "Отработать смену Юппа на границе в Дувре."
+  },
+  {
+    "key": "CHAPTER2/NOTES_5_TEXT",
+    "en": "Work Jupp's London Wall job.",
+    "ru": "Отработать смену Юппа на Лондонской стене."
+  },
+  {
+    "key": "CHAPTER2/NOTES_6_TEXT",
+    "en": "Work Jupp's Summer ball job.",
+    "ru": "Отработать смену Юппа на летнем балу."
+  },
+  {
+    "key": "CHAPTER2/NOTES_9_TEXT",
+    "en": "Resistance: 'Work with Jupp'.",
+    "ru": "Сопротивление: «Работай с Юппом»."
+  },
+  {
+    "key": "CHAPTER2/NOTES_23_TEXT",
+    "en": "Tarquin: 10 CheesRs by Friday!'",
+    "ru": "Тарквин: 10 СырР до пятницы!"
+  },
+  {
+    "key": "CHAPTER2/NOTES_24_TEXT",
+    "en": "Jupp's jobs are done.",
+    "ru": "Задания Юппа выполнены."
+  },
+  {
+    "key": "CHAPTER2/NOTES_25_TEXT",
+    "en": "Jupp gave me his pen",
+    "ru": "Юпп дал мне свою ручку"
+  },
+  {
+    "key": "CHAPTER2/NOTES_27_TEXT",
+    "en": "Jupp says I get to stay. For now.",
+    "ru": "Юпп говорит, я могу остаться. Пока что."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET0_1",
+    "en": "Jupp Security is expanding.",
+    "ru": "Охрана Юппа расширяется."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET3_3",
+    "en": "As is Jupp Security's new seat at the trough.",
+    "ru": "Как и новое место Охраны Юппа у кормушки."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_INTROMESSAGES_12",
+    "en": "Idiots like Jupp hear accent, they underestimate. Good for fighting good fight.",
+    "ru": "Идиоты вроде Юппа слышат акцент, недооценивают. Хорошо для борьбы."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR14_INTROMESSAGES_4",
+    "en": "Jupp is expecting you.",
+    "ru": "Юпп тебя ожидает."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_CALENDAR",
+    "en": "Earn 2.5k for Jupp!",
+    "ru": "Заработать 2500 фунтов для Юппа!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_CALENDAR_POST",
+    "en": "Inspector Jupp wants his cash.",
+    "ru": "Инспектор Юпп хочет свои деньги."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_CALENDAR",
+    "en": "Jupps second visit.",
+    "ru": "Второй визит Юппа."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_17",
+    "en": "You think Jupp is just going to stand back and let you pay your way legally?",
+    "ru": "Ты думаешь, Юпп просто отойдёт в сторонку и даст тебе платить по-честному?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_18",
+    "en": "DOUG THE ABSOLUTE SHIT!",
+    "ru": "ДАГ — ПОЛНОЕ ДЕРЬМО!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_18",
+    "en": "DOUG THE ABSOLUTE SHIT!",
+    "ru": "ДАГ — ПОЛНОЕ ДЕРЬМО!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_16",
+    "en": "Say 'thank you, Officer Jupp'.",
+    "ru": "Скажи «спасибо, офицер Юпп»."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_17",
+    "en": "...thank you, Officer Jupp.",
+    "ru": "...спасибо, офицер Юпп."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_9",
+    "en": "Too low, Jupp'll be up your arse like a herbal suppository.",
+    "ru": "Упадёт слишком низко — Юпп залезет тебе в зад как травяная свечка."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_CALENDAR_POST",
+    "en": "Jupp thought I might be involved with the bombing!",
+    "ru": "Юпп думает, что я причастен к взрыву!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR100_CALENDAR_POST",
+    "en": "Ferriss warned me about Jupp.",
+    "ru": "Феррис предупредил меня насчёт Юппа."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CALENDAR",
+    "en": "Integration Officer Jupp is visiting.",
+    "ru": "Офицер интеграции Юпп нанесёт визит."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CALENDAR_POST",
+    "en": "I met Officer Jupp.",
+    "ru": "Я познакомился с офицером Юппом."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_CALENDAR_POST",
+    "en": "Ferriss warned me about Jupp.",
+    "ru": "Феррис предупреждал меня насчёт Юппа."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_INTROMESSAGES_2",
+    "en": "Name's Integration Officer Jupp.",
+    "ru": "Офицер интеграции Юпп."
+  }
+]

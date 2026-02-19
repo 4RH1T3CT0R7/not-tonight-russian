@@ -1,0 +1,3342 @@
+[
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_9",
+    "en": "I thought this was a flood barrier.",
+    "ru": "Я думал, это защита от наводнений."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_10",
+    "en": "In a manner of speaking, yeah.",
+    "ru": "В некотором смысле, да."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_11",
+    "en": "Only the flood's not exactly water, but immigrants and terrorist types.",
+    "ru": "Только наводнение — это не вода, а иммигранты и террористы всякие."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_12",
+    "en": "Can't let 'em into the Capital, can we?",
+    "ru": "Нельзя же их в столицу пускать, верно?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_13",
+    "en": "Don't tell me you're one of them liberal types.",
+    "ru": "Только не говори, что ты из этих либералов."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_14",
+    "en": "Well, don't matter. We won the election. It's our country now.",
+    "ru": "Ну, неважно. Мы выиграли выборы. Теперь это наша страна."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_15",
+    "en": "And you and your kind? You're just living in it.",
+    "ru": "А ты и тебе подобные? Вы тут просто живёте."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_16",
+    "en": "For now.",
+    "ru": "Пока что."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_18",
+    "en": "Check all visas are legit.",
+    "ru": "Проверяй, что все визы настоящие."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_19",
+    "en": "No journalist scum.",
+    "ru": "Никакой журналистской мрази."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_20",
+    "en": "And no bloody Euros.",
+    "ru": "И никаких чёртовых Евро."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_PASSMESSAGES_1",
+    "en": "Course they didn't. They're a bloody Euro.",
+    "ru": "Конечно, не прошли. Они же чёртовы Евро."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_PASSMESSAGES_2",
+    "en": "Uh-huh.",
+    "ru": "Угу."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_PASSMESSAGES_4",
+    "en": "You can go now, Euro.",
+    "ru": "Можешь идти, Евро."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_OUTROMESSAGES_1",
+    "en": "#112 is reporting, sir.",
+    "ru": "#112 докладывает, сэр."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_OUTROMESSAGES_3",
+    "en": "Nobody's talking to you, Euro. Bluetooth earpiece.",
+    "ru": "С тобой никто не разговаривает, Евро. Bluetooth-гарнитура."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_BONUSMESSAGES_1",
+    "en": "Let me just authorise your bonus. And... there.",
+    "ru": "Дай-ка авторизую твой бонус. И... готово."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_FAILMESSAGES_1",
+    "en": "Of course, after that performance, I'm crossing out a few words.",
+    "ru": "Конечно, после такой работы я вычёркиваю пару слов."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_FAILMESSAGES_2",
+    "en": "With Sympathy', for example.",
+    "ru": "«С соболезнованиями», например."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_FAILMESSAGES_3",
+    "en": "And 'Sincerely'.",
+    "ru": "И «Искренне ваш»."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_1",
+    "en": "Don't sneak up on me like that!",
+    "ru": "Не подкрадывайся ко мне так!"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_3",
+    "en": "Haven't you heard? The security alert is now double-indigo plus.",
+    "ru": "Ты что, не слышал? Уровень тревоги теперь двойной-индиго-плюс."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_4",
+    "en": "Double.",
+    "ru": "Двойной."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_5",
+    "en": "Indigo.",
+    "ru": "Индиго."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_6",
+    "en": "PLUS!",
+    "ru": "ПЛЮС!"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_7",
+    "en": "And that's bad?",
+    "ru": "И это плохо?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_8",
+    "en": "Well, it doesn't sound great, does it?",
+    "ru": "Ну, звучит не очень, правда?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_9",
+    "en": "Full alert, #112! If you don't survive...",
+    "ru": "Полная боевая готовность, #112! Если не выживешь..."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_10",
+    "en": "Well, we'll send a card to your next of kin.",
+    "ru": "Ну, мы пришлём открытку твоим ближайшим родственникам."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_11",
+    "en": "And the bill for any outstanding debts you may have to the state.",
+    "ru": "И счёт за все непогашенные долги перед государством."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_12",
+    "en": "No, no need to thank me, #112.",
+    "ru": "Нет-нет, не благодари, #112."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_13",
+    "en": "Your hard work out there will be more than sufficient.",
+    "ru": "Твоей усердной работы будет более чем достаточно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_PASSMESSAGES_1",
+    "en": "I hope nobody slipped past you while you were doing the bare minimum.",
+    "ru": "Надеюсь, никто не проскочил, пока ты филонил."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_OUTROMESSAGES_1",
+    "en": "You survived. I thought I heard gunfire out there.",
+    "ru": "Ты выжил. А мне показалось, там стреляли."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_OUTROMESSAGES_2",
+    "en": "How awkward. I already filled out this condolence card.",
+    "ru": "Как неловко. Я уже заполнил эту открытку с соболезнованиями."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_OUTROMESSAGES_3",
+    "en": "Wait, it's okay. Haven't filled in the date.",
+    "ru": "Стоп, всё нормально. Дату ещё не вписал."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_OUTROMESSAGES_4",
+    "en": "I'll just save it for later.",
+    "ru": "Просто отложу на потом."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_BONUSMESSAGES_1",
+    "en": "Why, you exceeded our wildest expectations.",
+    "ru": "Ну надо же, ты превзошёл все наши ожидания."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_BONUSMESSAGES_2",
+    "en": "You should be proud of yourself.",
+    "ru": "Можешь собой гордиться."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_FAILMESSAGES_1",
+    "en": "After that performance, you should consider yourself lucky.",
+    "ru": "После такой работы считай, что тебе повезло."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_1",
+    "en": "I'm here with...sigh...",
+    "ru": "Я тут с... вздох..."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_2",
+    "en": "With Jupp Security.",
+    "ru": "С охраной Юппа."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_3",
+    "en": "Good, splendid.",
+    "ru": "Хорошо, отлично."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_4",
+    "en": "This one should be simple enough.",
+    "ru": "Это задание должно быть достаточно простым."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_5",
+    "en": "What with the heightened terrorist risk",
+    "ru": "В связи с повышенной террористической угрозой"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_6",
+    "en": "Albion First has announced a new, compassionate scheme.",
+    "ru": "«Альбион прежде всего» объявил новую гуманную программу."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_7",
+    "en": "It's a new policy. Euros can register for a food bank.",
+    "ru": "Это новая политика. Евро могут зарегистрироваться в продуктовом банке."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_8",
+    "en": "Make sure everyone who qualifies signs up. Names and addresses.",
+    "ru": "Убедись, что все, кто подходит, записались. Имена и адреса."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_9",
+    "en": "Very important. Can't stress that enough.",
+    "ru": "Очень важно. Не могу это достаточно подчеркнуть."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_10",
+    "en": "Make sure they've all got valid visas.",
+    "ru": "Проверь, чтобы у всех были действующие визы."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_11",
+    "en": "Keep a look out for the usual axis-of Euro evil lot.",
+    "ru": "Следи за обычной осью зла Евро."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_12",
+    "en": "Italians, Irish and French.",
+    "ru": "Итальянцы, ирландцы и французы."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_13",
+    "en": "And enemies of the state.",
+    "ru": "И враги государства."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_14",
+    "en": "Journalists, reporters, writers.",
+    "ru": "Журналисты, репортёры, писатели."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_15",
+    "en": "Turn them away and our officers will know who to intercept.",
+    "ru": "Разворачивай их, а наши офицеры будут знать, кого перехватить."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_16",
+    "en": "Christ.",
+    "ru": "Господи."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_17",
+    "en": "Problem?",
+    "ru": "Проблемы?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_18",
+    "en": "Want to get on that bus home instead?",
+    "ru": "Хочешь вместо этого сесть на автобус домой?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_19",
+    "en": "Get to fucking work.",
+    "ru": "Иди работай, блин."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_PASSMESSAGES_1",
+    "en": "Or at least, the end of the queue.",
+    "ru": "Или, по крайней мере, конец очереди."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_1",
+    "en": "Hello? Yes. You should have the names and addresses now, sir.",
+    "ru": "Алло? Да. Имена и адреса у вас уже должны быть, сэр."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_2",
+    "en": "We can begin deportations immediately.",
+    "ru": "Можем начинать депортацию немедленно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_3",
+    "en": "Wait, what?",
+    "ru": "Стоп, что?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_4",
+    "en": "I thought this was a food bank.",
+    "ru": "Я думал, это продуктовый банк."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_5",
+    "en": "Don't be naive, #112.",
+    "ru": "Не будь наивным, #112."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_6",
+    "en": "How else were we going to smoke out the vermin in our midst?",
+    "ru": "Как ещё мы бы выкурили эту мразь из нашей среды?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_7",
+    "en": "Thanks to you, these parasites will be on the boat by tomorrow.",
+    "ru": "Благодаря тебе эти паразиты будут на корабле к завтрашнему дню."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_8",
+    "en": "You've served our country today, Euro.",
+    "ru": "Ты послужил стране сегодня, Евро."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_9",
+    "en": "For that, we'll leave you until last.",
+    "ru": "За это мы оставим тебя напоследок."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_BONUSMESSAGES_1",
+    "en": "Here's your bonus. Jupp can handle the rest.",
+    "ru": "Вот твой бонус. Юпп разберётся с остальным."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_FAILMESSAGES_1",
+    "en": "Tell Jupp that if this is his idea of security...",
+    "ru": "Передай Юппу, что если это его представление о безопасности..."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_FAILMESSAGES_2",
+    "en": "Never mind. Just get out.",
+    "ru": "Неважно. Просто убирайся."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_INTROMESSAGES_1",
+    "en": "Ready to help us take out the rubbish again, I see?",
+    "ru": "Снова готов помогать нам выносить мусор, я вижу?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_INTROMESSAGES_2",
+    "en": "Remember, if anybody asks, they're signing up for a food bank.",
+    "ru": "Помни, если кто-то спросит — они записываются в продуктовый банк."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_INTROMESSAGES_3",
+    "en": "Smile and nod.",
+    "ru": "Улыбайся и кивай."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_INTROMESSAGES_4",
+    "en": "Warn them, and we'll be watching.",
+    "ru": "Предупредишь их — и мы будем наблюдать."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_INTROMESSAGES_5",
+    "en": "We're always watching.",
+    "ru": "Мы всегда наблюдаем."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_PASSMESSAGES_1",
+    "en": "How much am I paying you? Ha.",
+    "ru": "Сколько я тебе плачу? Ха."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS30_OUTROMESSAGES_1",
+    "en": "Finished already? Good.",
+    "ru": "Уже закончил? Хорошо."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_BONUSMESSAGES_1",
+    "en": "Fantastic. I will report on a job well done to Jupp.",
+    "ru": "Фантастика. Доложу Юппу о хорошо выполненной работе."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_FAILMESSAGES_1",
+    "en": "You let in so much filth. I will be on the blower to Jupp.",
+    "ru": "Ты пропустил столько отребья. Я позвоню Юппу."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_INTROMESSAGES_1",
+    "en": "Back for more? Good.",
+    "ru": "Вернулся за добавкой? Хорошо."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_INTROMESSAGES_2",
+    "en": "Like some American wanker once said...",
+    "ru": "Как сказал один американский придурок..."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_INTROMESSAGES_3",
+    "en": "Give me your tired, your poor, Your huddled masses yearning to breathe free.",
+    "ru": "Дайте мне ваших усталых, ваших бедных, ваши забитые массы, жаждущие свободно дышать."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_INTROMESSAGES_4",
+    "en": "And we'll send 'em right back where they came from.",
+    "ru": "А мы отправим их обратно, откуда пришли."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_INTROMESSAGES_5",
+    "en": "If they've not got the proper paperwork, anyway.",
+    "ru": "Если у них нет нужных документов, конечно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_INTROMESSAGES_6",
+    "en": "Remember, the Home Office stamp will only show under the woke-light.",
+    "ru": "Помни, печать Министерства внутренних дел видна только под вок-лампой."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_INTROMESSAGES_7",
+    "en": "Get on with it then.",
+    "ru": "Давай, за работу."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_PASSMESSAGES_1",
+    "en": "No major incidents. Good. I'll let Jupp know.",
+    "ru": "Без серьёзных инцидентов. Хорошо. Доложу Юппу."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_OUTROMESSAGES_1",
+    "en": "The sweet sound of no illegal Euros.",
+    "ru": "Сладкий звук отсутствия нелегальных Евро."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_OUTROMESSAGES_2",
+    "en": "How does it feel?",
+    "ru": "Каково это, а?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_BONUSMESSAGES_1",
+    "en": "Bonus authorised. Take it and clear off.",
+    "ru": "Бонус одобрен. Бери и проваливай."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_FAILMESSAGES_1",
+    "en": "No thanks to you. Get out of here.",
+    "ru": "Не твоя заслуга. Убирайся отсюда."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_1",
+    "en": "You're back. Good. We need the numbers.",
+    "ru": "Ты вернулся. Хорошо. Нам нужны люди."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_2",
+    "en": "Terror alert's just been upgraded to ochre.",
+    "ru": "Уровень террористической угрозы только что повышен до охры."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_3",
+    "en": "And I don't think I have to tell you what that means.",
+    "ru": "И мне не нужно объяснять тебе, что это значит."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_4",
+    "en": "Be vigilant, #112.",
+    "ru": "Будь бдителен, #112."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_5",
+    "en": "Brits have to have a visa to re-enter the UK now.",
+    "ru": "Британцам теперь нужна виза для въезда обратно в Великобританию."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_6",
+    "en": "And no Euros get onto Dover soil without express authorisation.",
+    "ru": "И ни один Евро не ступит на землю Дувра без специального разрешения."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_7",
+    "en": "Not saying you're all terrorists.",
+    "ru": "Не говорю, что вы все террористы."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_8",
+    "en": "Not quite all of you.",
+    "ru": "Не все, конечно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_INTROMESSAGES_9",
+    "en": "I'm just saying. Keep 'em out.",
+    "ru": "Я просто говорю. Не пускай их."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_PASSMESSAGES_1",
+    "en": "You did your job. You want a medal?",
+    "ru": "Ты сделал свою работу. Медаль хочешь?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS32_OUTROMESSAGES_1",
+    "en": "The hordes at the gates've been dealt with then?",
+    "ru": "Орды у ворот разогнаны, значит?"
+  },
+  {
+    "key": "CHAPTER3/JOBS1_TITLE",
+    "en": "THE GAMMON (1)",
+    "ru": "THE GAMMON (1)"
+  },
+  {
+    "key": "CHAPTER3/JOBS1_SUBTITLE",
+    "en": "Putting the gold chain in chain pub.",
+    "ru": "Золотая цепь в сетевом пабе."
+  },
+  {
+    "key": "CHAPTER3/JOBS2_TITLE",
+    "en": "THE GAMMON (2)",
+    "ru": "THE GAMMON (2)"
+  },
+  {
+    "key": "CHAPTER3/JOBS2_SUBTITLE",
+    "en": "Putting the gold chain in chain pub.",
+    "ru": "Золотая цепь в сетевом пабе."
+  },
+  {
+    "key": "CHAPTER3/JOBS3_TITLE",
+    "en": "THE GAMMON (3)",
+    "ru": "THE GAMMON (3)"
+  },
+  {
+    "key": "CHAPTER3/JOBS3_SUBTITLE",
+    "en": "Putting the gold chain in chain pub.",
+    "ru": "Золотая цепь в сетевом пабе."
+  },
+  {
+    "key": "CHAPTER3/JOBS4_TITLE",
+    "en": "THE GAMMON (4)",
+    "ru": "THE GAMMON (4)"
+  },
+  {
+    "key": "CHAPTER3/JOBS4_SUBTITLE",
+    "en": "Putting the gold chain in chain pub.",
+    "ru": "Золотая цепь в сетевом пабе."
+  },
+  {
+    "key": "CHAPTER3/JOBS5_TITLE",
+    "en": "THE GAMMON (5)",
+    "ru": "THE GAMMON (5)"
+  },
+  {
+    "key": "CHAPTER3/JOBS5_SUBTITLE",
+    "en": "Putting the gold chain in chain pub.",
+    "ru": "Золотая цепь в сетевом пабе."
+  },
+  {
+    "key": "CHAPTER3/JOBS6_TITLE",
+    "en": "FERRISS PARTY (1)",
+    "ru": "ВЕЧЕРИНКА ФЕРРИССА (1)"
+  },
+  {
+    "key": "CHAPTER3/JOBS6_SUBTITLE",
+    "en": "Private party for my customers.",
+    "ru": "Закрытая вечеринка для моих клиентов."
+  },
+  {
+    "key": "CHAPTER3/JOBS7_TITLE",
+    "en": "FERRISS PARTY (2)",
+    "ru": "ВЕЧЕРИНКА ФЕРРИССА (2)"
+  },
+  {
+    "key": "CHAPTER3/JOBS7_SUBTITLE",
+    "en": "Private party for my customers.",
+    "ru": "Закрытая вечеринка для моих клиентов."
+  },
+  {
+    "key": "CHAPTER3/JOBS8_TITLE",
+    "en": "FERRISS PARTY (3)",
+    "ru": "ВЕЧЕРИНКА ФЕРРИССА (3)"
+  },
+  {
+    "key": "CHAPTER3/JOBS8_SUBTITLE",
+    "en": "Private party for my customers.",
+    "ru": "Закрытая вечеринка для моих клиентов."
+  },
+  {
+    "key": "CHAPTER3/JOBS9_TITLE",
+    "en": "FERRISS PARTY (4)",
+    "ru": "ВЕЧЕРИНКА ФЕРРИССА (4)"
+  },
+  {
+    "key": "CHAPTER3/JOBS9_SUBTITLE",
+    "en": "Private party for my customers.",
+    "ru": "Закрытая вечеринка для моих клиентов."
+  },
+  {
+    "key": "CHAPTER3/JOBS10_TITLE",
+    "en": "FERRISS PARTY (5)",
+    "ru": "ВЕЧЕРИНКА ФЕРРИССА (5)"
+  },
+  {
+    "key": "CHAPTER3/JOBS10_SUBTITLE",
+    "en": "Private party for my customers.",
+    "ru": "Закрытая вечеринка для моих клиентов."
+  },
+  {
+    "key": "CHAPTER3/JOBS11_TITLE",
+    "en": "KING'S HEAD 4 1",
+    "ru": "«КОРОЛЕВСКАЯ ГОЛОВА» 4 1"
+  },
+  {
+    "key": "CHAPTER3/JOBS11_SUBTITLE",
+    "en": "Gravel pit party!",
+    "ru": "Вечеринка в гравийном карьере!"
+  },
+  {
+    "key": "CHAPTER3/JOBS12_TITLE",
+    "en": "KING'S HEAD 4 2",
+    "ru": "«КОРОЛЕВСКАЯ ГОЛОВА» 4 2"
+  },
+  {
+    "key": "CHAPTER3/JOBS12_SUBTITLE",
+    "en": "Gravel pit party!",
+    "ru": "Вечеринка в гравийном карьере!"
+  },
+  {
+    "key": "CHAPTER3/JOBS13_TITLE",
+    "en": "KING'S HEAD 4 3",
+    "ru": "«КОРОЛЕВСКАЯ ГОЛОВА» 4 3"
+  },
+  {
+    "key": "CHAPTER3/JOBS13_SUBTITLE",
+    "en": "Gravel pit party!",
+    "ru": "Вечеринка в гравийном карьере!"
+  },
+  {
+    "key": "CHAPTER3/JOBS14_TITLE",
+    "en": "KING'S HEAD 4 4",
+    "ru": "«КОРОЛЕВСКАЯ ГОЛОВА» 4 4"
+  },
+  {
+    "key": "CHAPTER3/JOBS14_SUBTITLE",
+    "en": "Gravel pit party!",
+    "ru": "Вечеринка в гравийном карьере!"
+  },
+  {
+    "key": "CHAPTER3/JOBS15_TITLE",
+    "en": "KING'S HEAD 4 5",
+    "ru": "«КОРОЛЕВСКАЯ ГОЛОВА» 4 5"
+  },
+  {
+    "key": "CHAPTER3/JOBS15_SUBTITLE",
+    "en": "Gravel pit party!",
+    "ru": "Вечеринка в гравийном карьере!"
+  },
+  {
+    "key": "CHAPTER3/JOBS16_TITLE",
+    "en": "ANGELS (1)",
+    "ru": "ANGELS (1)"
+  },
+  {
+    "key": "CHAPTER3/JOBS16_SUBTITLE",
+    "en": "Church party!",
+    "ru": "Церковная вечеринка!"
+  },
+  {
+    "key": "CHAPTER3/JOBS17_TITLE",
+    "en": "ANGELS (2)",
+    "ru": "ANGELS (2)"
+  },
+  {
+    "key": "CHAPTER3/JOBS17_SUBTITLE",
+    "en": "Church party!",
+    "ru": "Церковная вечеринка!"
+  },
+  {
+    "key": "CHAPTER3/JOBS18_TITLE",
+    "en": "ANGELS (3)",
+    "ru": "ANGELS (3)"
+  },
+  {
+    "key": "CHAPTER3/JOBS18_SUBTITLE",
+    "en": "Church party!",
+    "ru": "Церковная вечеринка!"
+  },
+  {
+    "key": "CHAPTER3/JOBS19_TITLE",
+    "en": "ANGELS (4)",
+    "ru": "ANGELS (4)"
+  },
+  {
+    "key": "CHAPTER3/JOBS19_SUBTITLE",
+    "en": "Church party!",
+    "ru": "Церковная вечеринка!"
+  },
+  {
+    "key": "CHAPTER3/JOBS20_TITLE",
+    "en": "ANGELS (5)",
+    "ru": "ANGELS (5)"
+  },
+  {
+    "key": "CHAPTER3/JOBS20_SUBTITLE",
+    "en": "Church party!",
+    "ru": "Церковная вечеринка!"
+  },
+  {
+    "key": "CHAPTER3/JOBS21_TITLE",
+    "en": "ROCK FEST 1",
+    "ru": "РОК-ФЕСТ 1"
+  },
+  {
+    "key": "CHAPTER3/JOBS21_SUBTITLE",
+    "en": "ROCK FEST!",
+    "ru": "РОК-ФЕСТ!"
+  },
+  {
+    "key": "CHAPTER3/JOBS22_TITLE",
+    "en": "ROCK FEST 2",
+    "ru": "РОК-ФЕСТ 2"
+  },
+  {
+    "key": "CHAPTER3/JOBS22_SUBTITLE",
+    "en": "ROCK FEST!",
+    "ru": "РОК-ФЕСТ!"
+  },
+  {
+    "key": "CHAPTER3/JOBS23_TITLE",
+    "en": "ROCK FEST 3",
+    "ru": "РОК-ФЕСТ 3"
+  },
+  {
+    "key": "CHAPTER3/JOBS23_SUBTITLE",
+    "en": "ROCK FEST!",
+    "ru": "РОК-ФЕСТ!"
+  },
+  {
+    "key": "CHAPTER3/JOBS24_TITLE",
+    "en": "ROCK FEST 4",
+    "ru": "РОК-ФЕСТ 4"
+  },
+  {
+    "key": "CHAPTER3/JOBS24_SUBTITLE",
+    "en": "ROCK FEST!",
+    "ru": "РОК-ФЕСТ!"
+  },
+  {
+    "key": "CHAPTER3/JOBS25_TITLE",
+    "en": "ROCK FEST 5",
+    "ru": "РОК-ФЕСТ 5"
+  },
+  {
+    "key": "CHAPTER3/JOBS25_SUBTITLE",
+    "en": "ROCK FEST!",
+    "ru": "РОК-ФЕСТ!"
+  },
+  {
+    "key": "CHAPTER3/JOBS26_TITLE",
+    "en": "OCTOBER BALL",
+    "ru": "ОКТЯБРЬСКИЙ БАЛ"
+  },
+  {
+    "key": "CHAPTER3/JOBS26_SUBTITLE",
+    "en": "Albion First VIP ball",
+    "ru": "VIP-бал «Альбион прежде всего»"
+  },
+  {
+    "key": "CHAPTER3/JOBS27_TITLE",
+    "en": "THE LONDON WALL",
+    "ru": "ЛОНДОНСКАЯ СТЕНА"
+  },
+  {
+    "key": "CHAPTER3/JOBS27_SUBTITLE",
+    "en": "The London wall",
+    "ru": "Лондонская стена"
+  },
+  {
+    "key": "CHAPTER3/JOBS28_TITLE",
+    "en": "TOWN HALL",
+    "ru": "РАТУША"
+  },
+  {
+    "key": "CHAPTER3/JOBS28_SUBTITLE",
+    "en": "Euro registration",
+    "ru": "Регистрация Евро"
+  },
+  {
+    "key": "CHAPTER3/JOBS29_TITLE",
+    "en": "TOWN HALL",
+    "ru": "РАТУША"
+  },
+  {
+    "key": "CHAPTER3/JOBS29_SUBTITLE",
+    "en": "Euro registration",
+    "ru": "Регистрация Евро"
+  },
+  {
+    "key": "CHAPTER3/JOBS30_TITLE",
+    "en": "DOVER BORDER",
+    "ru": "ГРАНИЦА ДУВРА"
+  },
+  {
+    "key": "CHAPTER3/JOBS30_SUBTITLE",
+    "en": "Dover border",
+    "ru": "Граница Дувра"
+  },
+  {
+    "key": "CHAPTER3/JOBS31_TITLE",
+    "en": "THE LONDON WALL",
+    "ru": "ЛОНДОНСКАЯ СТЕНА"
+  },
+  {
+    "key": "CHAPTER3/JOBS31_SUBTITLE",
+    "en": "The London wall",
+    "ru": "Лондонская стена"
+  },
+  {
+    "key": "CHAPTER3/LETTER1_PAGE_1",
+    "en": "THIS WEEK!\n                \nMon, Tue - The Gammon\nWed, Thu - Angels\nFri, Sat - House party\nSunday - Jupp security\n\nApply via BouncR.\n                ",
+    "ru": "НА ЭТОЙ НЕДЕЛЕ!\n                \nПн, Вт - The Gammon\nСр, Чт - Angels\nПт, Сб - Домашняя вечеринка\nВоскресенье - Охрана Юппа\n\nПодавайте через BouncR.\n                "
+  },
+  {
+    "key": "CHAPTER3/LETTER2_PAGE_1",
+    "en": "THIS WEEK!\n\nMon, Tue - The Gammon\nWed, Thu - Angels\nFri, Sat - House party\nSunday - Jupp security\n\nApply via BouncR.\n                ",
+    "ru": "НА ЭТОЙ НЕДЕЛЕ!\n\nПн, Вт - The Gammon\nСр, Чт - Angels\nПт, Сб - Домашняя вечеринка\nВоскресенье - Охрана Юппа\n\nПодавайте через BouncR.\n                "
+  },
+  {
+    "key": "CHAPTER3/LETTER3_PAGE_1",
+    "en": "THIS WEEK!\n\nAll week - Rock Fest\nTue - The Gammon\nThu - Angels\nSat - House party\nSun - Jupp security\n                        ",
+    "ru": "НА ЭТОЙ НЕДЕЛЕ!\n\nВсю неделю - Рок-фест\nВт - The Gammon\nЧт - Angels\nСб - Домашняя вечеринка\nВс - Охрана Юппа\n                        "
+  },
+  {
+    "key": "CHAPTER3/LETTER4_PAGE_1",
+    "en": "DAVE'S LAST STAND!\n\nFund my booze cruise.\n\nThe Kings Head (Gravel Pits).\n\n(apply via BouncR)\n\t\t",
+    "ru": "ПОСЛЕДНИЙ БОЙ ДЭЙВА!\n\nСпонсируй мой алко-круиз.\n\n«Королевская Голова» (Гравийные карьеры).\n\n(подавайте через BouncR)\n\t\t"
+  },
+  {
+    "key": "CHAPTER3/LETTER5_PAGE_1",
+    "en": "MEET HARRISON PACE!\n\nTHE COMEBACK TOUR \n\nWeek 2\n- The Gammon, Angels.\nWeek 4\n- Kings Head, gravel pits.\n                ",
+    "ru": "ВСТРЕЧАЙТЕ ХАРРИСОНА ПЕЙСА!\n\nКАМБЭК-ТУР \n\nНеделя 2\n- The Gammon, Angels.\nНеделя 4\n- «Королевская Голова», гравийные карьеры.\n                "
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY1_TITLE",
+    "en": "POLITICS",
+    "ru": "ПОЛИТИКА"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY1_TEXT",
+    "en": "It's been two months since Simon Tavener's Albion First party emerged the clear winner of this year's election, now with a sizeable majority in the House.\n\n'The people have voted to take back their country,' declared Tavener. 'Today is a glorious new dawn.'\n                \n                ",
+    "ru": "Прошло два месяца с тех пор, как партия «Альбион прежде всего» Саймона Тавенера одержала убедительную победу на выборах этого года, получив значительное большинство в Палате.\n\n«Народ проголосовал за то, чтобы вернуть себе страну», — заявил Тавенер. «Сегодня наступает славная новая заря».\n                \n                "
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY2_TITLE",
+    "en": "ENTERTAINMENT",
+    "ru": "РАЗВЛЕЧЕНИЯ"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY2_TEXT",
+    "en": "Disgraced actor Harrison Pace faces further recrimination for banned biopic THE TWO FACES OF SIMON TAVENER. This slanderous takedown of our glorious leader is the first to be banned by the new Committee For Public Decency, and all copies destroyed.\n\n'We can take criticism,' said spokeswoman Laura McFadden, 'but the people need to have faith in their government.'",
+    "ru": "Опальный актёр Харрисон Пейс столкнулся с новыми обвинениями за запрещённый байопик «ДВА ЛИЦА САЙМОНА ТАВЕНЕРА». Эта клеветническая атака на нашего славного лидера стала первой, запрещённой новым Комитетом общественной нравственности, а все копии уничтожены.\n\n«Мы принимаем критику», — заявила пресс-секретарь Лора Макфадден, — «но народ должен верить в своё правительство»."
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY3_TITLE",
+    "en": "LOCAL NEWS",
+    "ru": "МЕСТНЫЕ НОВОСТИ"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY3_TEXT",
+    "en": "Our glorious country's Britain Alone policy enters Phase 2 today; the mandatory deportation of all Euros labelled enemies of the state. \n\nThis includes Italians, Irish, French and Journalists, plus any Euros with a criminal record and annual income of under £50,000.\n\nThese terrorists in training are to be escorted back where they came from at the earliest oppotunity, and their undeserved posessions sold off to repay their debts to Britain.",
+    "ru": "Политика «Британия в одиночку» нашей славной страны вступает сегодня во Фазу 2: принудительная депортация всех Евро, признанных врагами государства. \n\nСюда входят итальянцы, ирландцы, французы и журналисты, а также любые Евро с судимостью и годовым доходом ниже 50 000 фунтов.\n\nЭти террористы-на-стажировке будут отправлены обратно, откуда пришли, при первой возможности, а их незаслуженное имущество продано для погашения долгов перед Британией."
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY4_TITLE",
+    "en": "FINANCE",
+    "ru": "ФИНАНСЫ"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY4_TEXT",
+    "en": "The pound had another bad day on the stock exchange following the Dividing of the Commonwealth.\n                \nThe traitor nations will rue the day when they return on their knees, begging a forgiveness they will never enjoy.\n                \nIn other news, failed economists are predicting hyperinflation within the year, proving that crooked science has no sense of loyalty.",
+    "ru": "Фунт пережил ещё один плохой день на бирже после Раздела Содружества.\n                \nНации-предатели ещё пожалеют о том дне, когда вернутся на коленях, моля о прощении, которого им не видать.\n                \nВ других новостях, экономисты-неудачники предсказывают гиперинфляцию в течение года, доказывая, что продажная наука не знает преданности."
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY5_TITLE",
+    "en": "LOCAL NEWS",
+    "ru": "МЕСТНЫЕ НОВОСТИ"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY5_TEXT",
+    "en": "Prime Minister Tavener has spoken out against recent rumours of drug use at the Albion First Ball.\n\n'More fiction from the Fake News press, designed to undercut confidence in the government that seeks only to serve you, the British people.'\n\nTavener is thought to be working on sweeping new legislation covering news reporting, with the goal of ensuring future coverage fair, balanced and accurate to the official line.",
+    "ru": "Премьер-министр Тавенер высказался против недавних слухов об употреблении наркотиков на балу «Альбион прежде всего».\n\n«Очередные выдумки от фейковой прессы, призванные подорвать доверие к правительству, которое стремится лишь служить вам, британскому народу».\n\nСчитается, что Тавенер работает над масштабным новым законодательством о новостных публикациях с целью обеспечить в будущем справедливое, взвешенное и соответствующее официальной линии освещение событий."
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY6_TITLE",
+    "en": "CRIME",
+    "ru": "КРИМИНАЛ"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY6_TEXT",
+    "en": "After months of terrorist threats, London stands protected!\n\nPrime Minister Tavener was on site to cut the ribbon of the newly rechristened Thames Flood Barrier and mark the completion of the London Wall.\n\nThis fortification of the capital has been deemed essential to keep the growing Euro threat from our capital, and ensure a safe sanctuary for business in these dangerous times.",
+    "ru": "После месяцев террористических угроз Лондон под защитой!\n\nПремьер-министр Тавенер лично перерезал ленточку переименованного Темзского противопаводкового барьера, ознаменовав завершение строительства Лондонской стены.\n\nЭто укрепление столицы признано необходимым для защиты от растущей угрозы Евро и обеспечения безопасного убежища для бизнеса в эти опасные времена."
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY7_TITLE",
+    "en": "LOCAL NEWS",
+    "ru": "МЕСТНЫЕ НОВОСТИ"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY7_TEXT",
+    "en": "Addiction shame! Failed TV actor Harrison Pace caught on tape sniffing cocaine from the back of a dead dog. \n\nA spokeswoman has shrugged and commented 'That's our Harrison for you.' More on the story as it happens.",
+    "ru": "Позор зависимости! Неудавшийся телеактёр Харрисон Пейс пойман на видео за нюханьем кокаина со спины мёртвой собаки. \n\nПресс-секретарь пожала плечами и прокомментировала: «Это наш Харрисон, что поделать». Следим за развитием событий."
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY8_TITLE",
+    "en": "ENTERTAINMENT",
+    "ru": "РАЗВЛЕЧЕНИЯ"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY8_TEXT",
+    "en": "Children between the ages of 11 and 17, get ready to serve your country! The Duke of Winchester scheme has been unveiled, and is now mandatory.\n\nAs of November, all youths will be expected to spend at least ten hours every weekend performing community service, including weeding national parks, collecting litter, and removing asbestos from buildings.\n\nThis is in addition to the two years of compulsory national service due to begin in 2020, ensuring that while not every youth will return to a job, they will all know at least six ways of killing a man with their bare hands.",
+    "ru": "Дети от 11 до 17 лет, приготовьтесь служить своей стране! Программа «Герцог Винчестерский» представлена и теперь обязательна.\n\nС ноября все подростки должны проводить не менее десяти часов каждые выходные на общественных работах, включая прополку национальных парков, сбор мусора и удаление асбеста из зданий.\n\nЭто в дополнение к двум годам обязательной военной службы, которая начнётся в 2020, гарантируя, что хоть не каждый молодой человек вернётся к работе, все они будут знать как минимум шесть способов убить человека голыми руками."
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY9_TITLE",
+    "en": "SOCIETY",
+    "ru": "ОБЩЕСТВО"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY9_TEXT",
+    "en": "Preparations are underway for the first anniversary of Britain Alone.\n\nTickets are already on sale to loyal members of the Party, with prices beginning at a mere £5000 for a chair in the grounds.\n\nHigher value donors will get to speak to Simon Tavener himself, and the King will be there too. Show your loyalty! Donate today!",
+    "ru": "Ведётся подготовка к первой годовщине «Британии в одиночку».\n\nБилеты уже в продаже для верных членов партии, цены начинаются от скромных 5000 фунтов за стул на лужайке.\n\nЖертвователи покрупнее смогут лично поговорить с Саймоном Тавенером, а также там будет Король. Покажите свою верность! Жертвуйте сегодня!"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY10_TITLE",
+    "en": "POLITICS",
+    "ru": "ПОЛИТИКА"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY10_TEXT",
+    "en": "Despite the successful deportation of over 50 per cent of Euro vermin from our shores, proponents of Britain Alone are demanding an increase in the number of expulsions.\n\nAlbion First Prime Minister Simon Tavener has called for compassion in this matter. 'Euros did not ask for their accidents of birth. We must do this properly, to ensure the greatness of our country not just today, but for a thousand years to come.'",
+    "ru": "Несмотря на успешную депортацию более 50 процентов паразитов-Евро с наших берегов, сторонники «Британии в одиночку» требуют увеличения числа выдворений.\n\nПремьер-министр «Альбион прежде всего» Саймон Тавенер призвал к состраданию в этом вопросе. «Евро не выбирали, где родиться. Мы должны делать это правильно, чтобы обеспечить величие нашей страны не только сегодня, но и на тысячу лет вперёд»."
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY11_TITLE",
+    "en": "SOCIETY",
+    "ru": "ОБЩЕСТВО"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY11_TEXT",
+    "en": "Food poisioning blamed. Venue change expected. Albion First Prime Minister Simon Tavener has called for tighter security after yesterdays ball was afffected by a food poisioning epidemic. \n\nA hotel kitchen ran by Euros was suspected of foul play. \n\n\"This is the reason we built the wall. The wall will provide an impenetrable protection against Euro terrorists and the one year celebrations of Albion First shall be safe within Sanctuary London.\" \n                ",
+    "ru": "Виновато пищевое отравление. Ожидается смена площадки. Премьер-министр «Альбион прежде всего» Саймон Тавенер призвал к усилению безопасности после того, как вчерашний бал был сорван эпидемией пищевого отравления. \n\nПодозрения пали на кухню отеля, которой управляли Евро. \n\n«Именно для этого мы построили стену. Стена обеспечит непреодолимую защиту от террористов-Евро, и празднование первой годовщины «Альбион прежде всего» пройдёт безопасно в Лондоне-Убежище».\n                "
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY12_TITLE",
+    "en": "ANTI-EURO LEGISLATION",
+    "ru": "АНТИ-ЕВРО ЗАКОНОДАТЕЛЬСТВО"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY12_TEXT",
+    "en": "Albion First has introduced social credit score cards. All citizens must present the cards to enter public venues, nightspots, apply for jobs and also buy produce.\n\nPrime Minister Simon Tavener declared \"This is the first step to building a better society. Genuine citizens with nothing to hide have nothing to fear. Euros, we're watching you. We're always watching.\"\n                ",
+    "ru": "«Альбион прежде всего» ввёл карточки социального кредитного рейтинга. Все граждане обязаны предъявлять карточки для входа в общественные заведения, ночные клубы, при устройстве на работу, а также при покупке товаров.\n\nПремьер-министр Саймон Тавенер заявил: «Это первый шаг к построению лучшего общества. Настоящим гражданам, которым нечего скрывать, нечего бояться. Евро, мы за вами следим. Мы всегда следим».\n                "
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY13_TITLE",
+    "en": "NEW SHOPR ITEMS",
+    "ru": "НОВИНКИ ShopR"
+  },
+  {
+    "key": "CHAPTER3/NEWS_ENTRY13_TEXT",
+    "en": "The latest kitchen units. Flat trinkets and outfits are available for purchase in SHOPR. Snap em up! \n\t\t",
+    "ru": "Новейшие кухонные гарнитуры. Декор для квартиры и наряды доступны для покупки в ShopR. Налетай! \n\t\t"
+  },
+  {
+    "key": "CHAPTER3/NOTES_1_TEXT",
+    "en": "9 months in limbo. What now?",
+    "ru": "9 месяцев в подвешенном состоянии. Что дальше?"
+  },
+  {
+    "key": "CHAPTER3/NOTES_2_TEXT",
+    "en": "Will I hear from the resistance?",
+    "ru": "Свяжется ли со мной Сопротивление?"
+  },
+  {
+    "key": "CHAPTER3/NOTES_3_TEXT",
+    "en": "Resist! 'Find a poison'",
+    "ru": "Сопротивление! «Найди яд»"
+  },
+  {
+    "key": "CHAPTER3/NOTES_4_TEXT",
+    "en": "Resist! 'Find a new drug'",
+    "ru": "Сопротивление! «Найди новый наркотик»"
+  },
+  {
+    "key": "CHAPTER3/NOTES_5_TEXT",
+    "en": "Resist! 'Combine drugs + poison'",
+    "ru": "Сопротивление! «Смешай наркотик + яд»"
+  },
+  {
+    "key": "CHAPTER3/NOTES_6_TEXT",
+    "en": "Don't fail Jupp's jobs.",
+    "ru": "Не провалить задания Юппа."
+  },
+  {
+    "key": "CHAPTER3/NOTES_7_TEXT",
+    "en": "Galahad: 'Complete ResistR'",
+    "ru": "Галахад: «Выполни задания ResistR»"
+  },
+  {
+    "key": "CHAPTER3/NOTES_8_TEXT",
+    "en": "Mylarna is leaving?",
+    "ru": "Миларна уезжает?"
+  },
+  {
+    "key": "CHAPTER3/NOTES_9_TEXT",
+    "en": "Gammon has a 'kem-combo kit'.",
+    "ru": "В Gammon есть «хим-комбо-набор»."
+  },
+  {
+    "key": "CHAPTER3/NOTES_10_TEXT",
+    "en": "Angels has some rat poison.",
+    "ru": "В Angels есть крысиный яд."
+  },
+  {
+    "key": "CHAPTER3/NOTES_11_TEXT",
+    "en": "Ferriss has a new drug.",
+    "ru": "У Ферриса есть новый наркотик."
+  },
+  {
+    "key": "CHAPTER3/NOTES_12_TEXT",
+    "en": "Picked up the combo kit.",
+    "ru": "Забрал комбо-набор."
+  },
+  {
+    "key": "CHAPTER3/NOTES_13_TEXT",
+    "en": "Picked up the rat poison.",
+    "ru": "Забрал крысиный яд."
+  },
+  {
+    "key": "CHAPTER3/NOTES_14_TEXT",
+    "en": "Picked up Ferriss's super-drug.",
+    "ru": "Забрал супер-наркотик Ферриса."
+  },
+  {
+    "key": "CHAPTER3/NOTES_15_TEXT",
+    "en": "A rock album. Shannon may want it.",
+    "ru": "Рок-альбом. Может заинтересовать Шеннон."
+  },
+  {
+    "key": "CHAPTER3/NOTES_16_TEXT",
+    "en": "Survived Jupps jobs.",
+    "ru": "Пережил задания Юппа."
+  },
+  {
+    "key": "CHAPTER3/NOTES_17_TEXT",
+    "en": "Meet TV star Harrison Pace!",
+    "ru": "Встреча с телезвездой Харрисоном Пейсом!"
+  },
+  {
+    "key": "CHAPTER3/NOTES_18_TEXT",
+    "en": "Shannon's back. Rock edition.",
+    "ru": "Шеннон вернулась. Рок-версия."
+  },
+  {
+    "key": "CHAPTER3/NOTES_19_TEXT",
+    "en": "I have created the poison!",
+    "ru": "Я создал яд!"
+  },
+  {
+    "key": "CHAPTER3/NOTES_20_TEXT",
+    "en": "ResistR is complete!",
+    "ru": "ResistR пройден!"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_ENTRYMESSAGES_1",
+    "en": "Fine. Go in.",
+    "ru": "Ладно. Проходи."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_ENTRYMESSAGES_2",
+    "en": "I, Harrison Pace, thank you.",
+    "ru": "Я, Харрисон Пейс, благодарю тебя."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_ENTRYMESSAGES_3",
+    "en": "Come on, Lassy.",
+    "ru": "Пошли, Лэсси."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_DENIEDMESSAGES_1",
+    "en": "No dogs allowed.",
+    "ru": "С собаками нельзя."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_DENIEDMESSAGES_2",
+    "en": "Not even acting ones?",
+    "ru": "Даже с играющими собаками?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_DENIEDMESSAGES_3",
+    "en": "No actors either.",
+    "ru": "С актёрами тоже нельзя."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_1",
+    "en": "Wait, are you-",
+    "ru": "Подожди, ты..."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_2",
+    "en": "Indeed, it is I! Harrison Pace, star of stage and screen!",
+    "ru": "Совершенно верно, это я! Харрисон Пейс, звезда сцены и экрана!"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_3",
+    "en": "I meant, are you carrying a dead dog on a trolley?",
+    "ru": "Я хотел спросить, это у тебя дохлая собака на тележке?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_4",
+    "en": "Oh, that.",
+    "ru": "А, это."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_5",
+    "en": "My co-star. ",
+    "ru": "Моя партнёрша по съёмкам. "
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_6",
+    "en": "Say hello, Lassy.",
+    "ru": "Скажи привет, Лэсси."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_7",
+    "en": "Lassy says hello.",
+    "ru": "Лэсси передаёт привет."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_8",
+    "en": "Look, times are tough, okay?",
+    "ru": "Слушай, времена тяжёлые, ладно?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_9",
+    "en": "I, Harrison Pace, was in that biopic.",
+    "ru": "Я, Харрисон Пейс, снялся в том байопике."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_10",
+    "en": "About how the head of Albion First was a two-faced liar.",
+    "ru": "О том, что глава «Альбион прежде всего» — двуличный лжец."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_11",
+    "en": "Work's rather dried up since he became Prime Minister.",
+    "ru": "Работа как-то подсохла после того, как он стал премьер-министром."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_12",
+    "en": "No sense of humour.",
+    "ru": "Никакого чувства юмора."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_13",
+    "en": "Now I, Harrison Pace, need to raise my profile a bit, okay?",
+    "ru": "Теперь мне, Харрисону Пейсу, нужно немного поднять свой профиль, ладно?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_14",
+    "en": "Get back on top.",
+    "ru": "Снова оказаться на вершине."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_15",
+    "en": "That starts in this fine establishment.",
+    "ru": "Начну с этого прекрасного заведения."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_16",
+    "en": "Here? are you sure?",
+    "ru": "Здесь? Ты уверен?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_17",
+    "en": "Look I have to start somewhere.",
+    "ru": "Слушай, надо же с чего-то начинать."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_18",
+    "en": "And people love a cute little doggie.",
+    "ru": "А людям нравятся милые собачки."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_19",
+    "en": "Even one that had a little accident.",
+    "ru": "Даже те, с которыми произошёл небольшой несчастный случай."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_20",
+    "en": "With my car.",
+    "ru": "С моей машиной."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_21",
+    "en": "Upstage Harrison Pace, will you, you little bitch?",
+    "ru": "Переиграть Харрисона Пейса вздумала, маленькая ты дрянь?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_22",
+    "en": "Not twice, you won't!",
+    "ru": "Второй раз не получится!"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_ENTRYMESSAGES_1",
+    "en": "Go on in",
+    "ru": "Проходи."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_ENTRYMESSAGES_2",
+    "en": "Why, thank you. Come, Lassy!",
+    "ru": "Благодарю. Пошли, Лэсси!"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_DENIEDMESSAGES_1",
+    "en": "The dog can come in, you can't.",
+    "ru": "Собака может войти, а ты — нет."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_DENIEDMESSAGES_2",
+    "en": "How impertinent! Come, Lassy!",
+    "ru": "Какая дерзость! Пошли, Лэсси!"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_DENIEDMESSAGES_3",
+    "en": "We shall find fame and fortune somewhere else!",
+    "ru": "Мы найдём славу и богатство в другом месте!"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_INTROMESSAGES_1",
+    "en": "Once again, it is I, cinema's Harrison Pace.",
+    "ru": "И снова это я, звезда кинематографа — Харрисон Пейс."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_INTROMESSAGES_2",
+    "en": "And Lassy.",
+    "ru": "И Лэсси."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_INTROMESSAGES_3",
+    "en": "I, Harrison Pace, confess to growing fond of the little mutt.",
+    "ru": "Я, Харрисон Пейс, признаюсь — привязался к этой маленькой дворняжке."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT2_INTROMESSAGES_4",
+    "en": "Much less yappy with a stomach full of kapok.",
+    "ru": "Куда менее тявкучая с брюхом, набитым ватой."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_ENTRYMESSAGES_1",
+    "en": "Go on in. Your human can go too.",
+    "ru": "Проходи. Твой хозяин тоже может."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_ENTRYMESSAGES_2",
+    "en": "I, Harrison Pace, hate the great unwashed.",
+    "ru": "Я, Харрисон Пейс, ненавижу простонародье."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_DENIEDMESSAGES_1",
+    "en": "Sorry, Lassy. No dogs allowed.",
+    "ru": "Прости, Лэсси. С собаками нельзя."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_DENIEDMESSAGES_2",
+    "en": "What about thrice-NAFTA nominated Actors?",
+    "ru": "А трижды номинированных на НАФТА актёров?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_DENIEDMESSAGES_3",
+    "en": "Definitely not.",
+    "ru": "Однозначно нет."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_INTROMESSAGES_1",
+    "en": "Aren't you Lassy? From the movie with that washed up actor?",
+    "ru": "Ты же Лэсси? Из фильма с тем забытым актёром?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_INTROMESSAGES_2",
+    "en": "You speak of I, Harrison Pace?",
+    "ru": "Ты говоришь обо мне, Харрисоне Пейсе?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_INTROMESSAGES_3",
+    "en": "Who?",
+    "ru": "Кто?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_INTROMESSAGES_4",
+    "en": "Grrr.",
+    "ru": "Гррр."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_INTROMESSAGES_5",
+    "en": "Down, Lassy. Good dog.",
+    "ru": "Тихо, Лэсси. Хорошая собачка."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_ENTRYMESSAGES_1",
+    "en": "Go on. In you go.",
+    "ru": "Давай. Проходи."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_ENTRYMESSAGES_2",
+    "en": "I, Harrison Pace, shall not forget your insults!",
+    "ru": "Я, Харрисон Пейс, не забуду твоих оскорблений!"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_DENIEDMESSAGES_1",
+    "en": "No dogs allowed.",
+    "ru": "С собаками нельзя."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_DENIEDMESSAGES_2",
+    "en": "When I, Harrison Pace, am back on top...",
+    "ru": "Когда я, Харрисон Пейс, снова буду на вершине..."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_INTROMESSAGES_1",
+    "en": "Hey, aren't you Harrison Pace? Could you sign something for me.",
+    "ru": "Эй, ты же Харрисон Пейс? Можешь мне что-нибудь подписать?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_INTROMESSAGES_2",
+    "en": "Of course, of course!",
+    "ru": "Конечно, конечно!"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_INTROMESSAGES_3",
+    "en": "Wait.",
+    "ru": "Стоп."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_INTROMESSAGES_4",
+    "en": "This is a suicide note.",
+    "ru": "Это предсмертная записка."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_INTROMESSAGES_5",
+    "en": "Yeah, I really hated your last two films.",
+    "ru": "Ну да, мне очень не понравились твои последние два фильма."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_1",
+    "en": "Here. I have something for you.",
+    "ru": "Вот. У меня кое-что для тебя."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_2",
+    "en": "How did you know I needed that?",
+    "ru": "Откуда ты узнал, что мне это нужно?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_3",
+    "en": "I've been doing this for a while.",
+    "ru": "Я давно этим занимаюсь."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_4",
+    "en": "My dear Lassy.",
+    "ru": "Моя дорогая Лэсси."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_5",
+    "en": "How beautiful she was.",
+    "ru": "Какая же она была красивая."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_6",
+    "en": "If only I could be reunited with my one true love.",
+    "ru": "Если бы только я мог воссоединиться с моей единственной настоящей любовью."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_7",
+    "en": "She's literally trundling behind you.",
+    "ru": "Она буквально катится за тобой."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_8",
+    "en": "Alas the embalming does not catch the beauty like this here reproduction.",
+    "ru": "Увы, бальзамирование не передаёт красоту так, как эта репродукция."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_9",
+    "en": "This will change my life.",
+    "ru": "Это изменит мою жизнь."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_10",
+    "en": "No more bar tours. No more wasted time.",
+    "ru": "Никаких больше туров по барам. Никакого потраченного времени."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_11",
+    "en": "My creative juices are flowing.",
+    "ru": "Мои творческие соки закипели."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_12",
+    "en": "Thogh a little drinkie would certainly help moisten the gullet.",
+    "ru": "Хотя глоточек-другой определённо помог бы промочить горло."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_INCORRECTITEMMESSAGES_1",
+    "en": "Here. I have something for you.",
+    "ru": "Вот. У меня кое-что для тебя."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_INCORRECTITEMMESSAGES_2",
+    "en": "No more autographs. Not tonight.",
+    "ru": "Никаких больше автографов. Не сегодня."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_BONUSMESSAGES_1",
+    "en": "Mmm. Smell that sweet sugar of victory.",
+    "ru": "Ммм. Почувствуй этот сладкий сахар победы."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_FAILMESSAGES_1",
+    "en": "Not even talking to you. You know what you did.",
+    "ru": "Даже разговаривать не буду. Ты сам знаешь, что натворил."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_INTROMESSAGESHEADBOUNCER_1",
+    "en": "Hey-hey! My favourite fleshwall! Let's do this thing.",
+    "ru": "Эй-эй! Мой любимый живой щит! Давай начнём."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "You're back? Huh. Forgot I called you.",
+    "ru": "Ты вернулся? Хм. Забыл, что вызывал тебя."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_INTROMESSAGESNONHEADBOUNCER_2",
+    "en": "Well? Get to it. Time is money!",
+    "ru": "Ну? За работу. Время — деньги!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "Ciao-ciao.",
+    "ru": "Чао-чао."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Seeya, creeper.",
+    "ru": "Пока, подкрадыш."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_PASSMESSAGES_1",
+    "en": "Eh, you did fine. Don't get a big head about it.",
+    "ru": "Ну, ты справился. Не задирай нос."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_PICKUPITEMMESSAGES_1",
+    "en": "That's my 'special sugar'.",
+    "ru": "Это мой «особый сахарок»."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_PICKUPITEMMESSAGES_2",
+    "en": "Take some. ",
+    "ru": "Возьми немного. "
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_PICKUPITEMMESSAGES_3",
+    "en": "Course, you didn't get it from me.",
+    "ru": "Конечно, ты его не от меня получил."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_ITEMALREADYINTERACTED",
+    "en": "I already took some of Ferriss' 'special sugar'.",
+    "ru": "Я уже взял немного «особого сахарка» Ферриса."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_NONHEADLANDLORDINTERACTION",
+    "en": "Hey-hey! That's my special sugar. You want it? You earn it.",
+    "ru": "Эй-эй! Это мой особый сахарок. Хочешь? Заслужи."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_BONUSMESSAGES_1",
+    "en": "And the LORD didst look upon thy work and declare it...",
+    "ru": "И ГОСПОДЬ воззрил на труды твои и рёк..."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_BONUSMESSAGES_2",
+    "en": "...most triumphant.",
+    "ru": "...превосходно."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_FAILMESSAGES_1",
+    "en": "And the LORD didst look upon thy work and declare it...",
+    "ru": "И ГОСПОДЬ воззрил на труды твои и рёк..."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_FAILMESSAGES_2",
+    "en": "...an abomination.",
+    "ru": "...мерзость."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_INTROMESSAGESHEADBOUNCER_1",
+    "en": "Thou returneth to the grace of the LORD of HOUSE.",
+    "ru": "Ты возвращаешься в благодать ГОСПОДА ХАУСА."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_INTROMESSAGESHEADBOUNCER_2",
+    "en": "May he bless your shift. Amen.",
+    "ru": "Да благословит он твою смену. Аминь."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Disciple of the LORD of ROCK. Welcome.",
+    "ru": "Ученик ГОСПОДА РОКА. Добро пожаловать."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "Thus endeth your shift. Fare thee well.",
+    "ru": "Так завершается смена твоя. Ступай с миром."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Thus endeth your shift. So bugger off.",
+    "ru": "Так завершается смена твоя. Так что проваливай."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_PASSMESSAGES_1",
+    "en": "And the LORD didst look upon thy work and declare it...",
+    "ru": "И ГОСПОДЬ воззрил на труды твои и рёк..."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_PASSMESSAGES_2",
+    "en": "...groovy.",
+    "ru": "...клёво."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_PICKUPITEMMESSAGES_1",
+    "en": "Yes! Take up the holy rat poison!",
+    "ru": "Да! Возьми священный крысиный яд!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_PICKUPITEMMESSAGES_2",
+    "en": "Smite the enemies of the LORD!",
+    "ru": "Порази врагов ГОСПОДА!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_ITEMALREADYINTERACTED",
+    "en": "Quake in fear, rats. Your reckoning is nigh.",
+    "ru": "Трепещите, крысы. Час расплаты близок."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_NONHEADLANDLORDINTERACTION",
+    "en": "Touch not the sacred rat poison, for t'would not be covered by the insurance.",
+    "ru": "Не прикасайся к священному крысиному яду, ибо страховка сие не покроет."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_BONUSMESSAGES_1",
+    "en": "Another good shift there.",
+    "ru": "Ещё одна хорошая смена."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_FAILMESSAGES_1",
+    "en": "I'd complain, but who cares any more?",
+    "ru": "Я бы пожаловался, но кому теперь какое дело?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_INTROMESSAGESHEADBOUNCER_1",
+    "en": "Hey, mate. Glad to have you here for the end.",
+    "ru": "Привет, приятель. Рад, что ты здесь до конца."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Hey, mate. Ready to work?",
+    "ru": "Привет, приятель. Готов работать?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "Laters, #112.",
+    "ru": "До встречи, #112."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Seeya, #112.",
+    "ru": "Увидимся, #112."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_PASSMESSAGES_1",
+    "en": "Nice work out there.",
+    "ru": "Хорошая работа."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_PICKUPITEMMESSAGES_1",
+    "en": "When I get to France, I won't need that.",
+    "ru": "Когда я доберусь до Франции, мне это не понадобится."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_PICKUPITEMMESSAGES_2",
+    "en": "No more Lassy. More like Laissez-faire.",
+    "ru": "Никаких больше Лэсси. Теперь будет лэссе-фэр."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_PICKUPITEMMESSAGES_3",
+    "en": "Am I right?",
+    "ru": "Я прав?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_ITEMALREADYINTERACTED",
+    "en": "Did that already.",
+    "ru": "Уже сделал это."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_NONHEADLANDLORDINTERACTION",
+    "en": "Oh Lassy. My fave TV show. You like it?",
+    "ru": "О, Лэсси. Мой любимый сериал. Тебе нравится?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_BONUSMESSAGES_1",
+    "en": "You did great. Just thought you'd like to know.",
+    "ru": "Ты отлично справился. Просто чтоб ты знал."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_FAILMESSAGES_1",
+    "en": "Feel free to throw yourself off the roof on your way out.",
+    "ru": "Можешь сброситься с крыши на выходе."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_INTROMESSAGESHEADBOUNCER_1",
+    "en": "A reliable Euro? Whatever's next?",
+    "ru": "Надёжный Евро? Что дальше-то?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Back again? Keep it quiet. Don't fall off the roof. Got it?",
+    "ru": "Опять ты? Веди себя тихо. С крыши не падай. Понял?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "Shift over then?",
+    "ru": "Смена окончена, значит?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Don't slip on the stairs on your way out.",
+    "ru": "Не поскользнись на лестнице на выходе."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_PASSMESSAGES_1",
+    "en": "You did good out there.",
+    "ru": "Ты хорошо поработал."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_PICKUPITEMMESSAGES_1",
+    "en": "You want that KEM-COMBINE-KIT? Go on, I guess.",
+    "ru": "Хочешь этот ХИМ-КОМБО-НАБОР? Ну ладно, бери."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_PICKUPITEMMESSAGES_2",
+    "en": "Gave it to my kid, but they wanted an iPad instead.",
+    "ru": "Подарил ребёнку, но тот захотел iPad."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_PICKUPITEMMESSAGES_3",
+    "en": "Kids these days...",
+    "ru": "Дети нынче..."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_ITEMALREADYINTERACTED",
+    "en": "I already took it.",
+    "ru": "Я уже это забрал."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_NONHEADLANDLORDINTERACTION",
+    "en": "Hands off! That's a chemistry combo-kit for my kids.",
+    "ru": "Руки прочь! Это набор юного химика для моих детей."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_BONUSMESSAGES_1",
+    "en": "So many punters. Should be grateful, but... urgh. The noise.",
+    "ru": "Столько народу. Вроде радоваться надо, но... тьфу. Этот шум."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_FAILMESSAGES_1",
+    "en": "For that performance, I threw your pay in the portaloo.",
+    "ru": "За такую работу я бросил твою зарплату в биотуалет."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_FAILMESSAGES_2",
+    "en": "Go fish it out if you think you've earned it.",
+    "ru": "Иди вылавливай, если считаешь, что заслужил."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_INTROMESSAGESHEADBOUNCER_1",
+    "en": "Urgh, these festivals. They're destroying my fields.",
+    "ru": "Тьфу, эти фестивали. Они уничтожают мои поля."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_INTROMESSAGESHEADBOUNCER_2",
+    "en": "Come on then. Let's get it over with.",
+    "ru": "Давай уже. Покончим с этим."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Just a few more days, and the hurting will stop...",
+    "ru": "Ещё пару дней, и мучения прекратятся..."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_INTROMESSAGESNONHEADBOUNCER_2",
+    "en": "Come on then. Let's get it over with.",
+    "ru": "Давай уже. Покончим с этим."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "All done? Clear out then. I need my beauty sleep.",
+    "ru": "Всё? Проваливай тогда. Мне нужен мой красавчик-сон."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Glad that's over with for another night.",
+    "ru": "Рад, что на сегодня всё закончилось."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_PASSMESSAGES_1",
+    "en": "You did well, so that's a good thing, I guess.",
+    "ru": "Ты хорошо справился, так что это, наверное, хорошо."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_PICKUPITEMMESSAGES_1",
+    "en": "You want a rock album?",
+    "ru": "Хочешь рок-альбом?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_PICKUPITEMMESSAGES_2",
+    "en": "After listening to this muck for several nights?",
+    "ru": "После того, как слушал эту дрянь несколько ночей подряд?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_PICKUPITEMMESSAGES_3",
+    "en": "Go ahead. Just get it out of here.",
+    "ru": "Забирай. Только убери его отсюда."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_ITEMALREADYINTERACTED",
+    "en": "I already picked up the rock album.",
+    "ru": "Я уже забрал рок-альбом."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_NONHEADLANDLORDINTERACTION",
+    "en": "C'mon, you know the rules. Only my head bouncer gets the merch.",
+    "ru": "Ну ты же знаешь правила. Мерч получает только главный вышибала."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_BONUSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_FAILMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_INTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_PASSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_PICKUPITEMMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_ITEMALREADYINTERACTED",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOTEL_AUTUMN_NONHEADLANDLORDINTERACTION",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_BONUSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_FAILMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_INTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_PASSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_PICKUPITEMMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_ITEMALREADYINTERACTED",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_SUMMER_NONHEADLANDLORDINTERACTION",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_BONUSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_FAILMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_INTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_PASSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_PICKUPITEMMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_ITEMALREADYINTERACTED",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_LONDON_WALL_AUTUMN_NONHEADLANDLORDINTERACTION",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_BONUSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_FAILMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_INTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_PASSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_PICKUPITEMMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_ITEMALREADYINTERACTED",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_TOWN_HALL_AUTUMN_NONHEADLANDLORDINTERACTION",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_BONUSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_FAILMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_INTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_PASSMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_PICKUPITEMMESSAGES_1",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_ITEMALREADYINTERACTED",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_INCORRECTITEM",
+    "en": "!",
+    "ru": "!"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_DOVER_BORDER_AUTUMN_NONHEADLANDLORDINTERACTION",
+    "en": "NOT NEEDED",
+    "ru": "NOT NEEDED"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_ENTRYMESSAGES_1",
+    "en": "Fine. Go on.",
+    "ru": "Ладно. Проходи."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_ENTRYMESSAGES_2",
+    "en": "Perfect. Yay!",
+    "ru": "Отлично. Ура!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_DENIEDMESSAGES_1",
+    "en": "Shannon. Your social credit score is extremely low.",
+    "ru": "Шеннон. У тебя крайне низкий социальный рейтинг."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_DENIEDMESSAGES_2",
+    "en": "-5 just for jaywalking! Can you believe it?",
+    "ru": "-5 только за переход в неположенном месте! Ты можешь в это поверить?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_DENIEDMESSAGES_3",
+    "en": "This is all for jaywalking?",
+    "ru": "Это всё за переход в неположенном месте?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_DENIEDMESSAGES_4",
+    "en": "The bits I'll admit too are.",
+    "ru": "Ну, то, в чём я готова признаться — да."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_INTROMESSAGES_1",
+    "en": "Shannon.",
+    "ru": "Шеннон."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_INTROMESSAGES_2",
+    "en": "The pleasure is all mine.",
+    "ru": "Рада знакомству."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_INTROMESSAGES_3",
+    "en": "So, yeah. I know I've lied to you before...",
+    "ru": "Ну, да. Я знаю, что раньше тебе врала..."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_INTROMESSAGES_4",
+    "en": "Good times, good times...",
+    "ru": "Славные времена, славные времена..."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_INTROMESSAGES_5",
+    "en": "But look, I have a new British ID.",
+    "ru": "Но смотри, у меня новое британское удостоверение."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_INTROMESSAGES_6",
+    "en": "You can let me in for reals!",
+    "ru": "Теперь ты можешь меня впустить по-настоящему!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_ENTRYMESSAGES_1",
+    "en": "Go on then.",
+    "ru": "Ну ладно, проходи."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_ENTRYMESSAGES_2",
+    "en": "Awesome sauce.",
+    "ru": "Круто-круто."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_DENIEDMESSAGES_1",
+    "en": "Your social credit is terrible, Shannon.",
+    "ru": "Твой социальный рейтинг ужасен, Шеннон."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_DENIEDMESSAGES_2",
+    "en": "So, maybe I partied a little too much on my birthday?",
+    "ru": "Ну, может, я немного перебрала на свой день рождения?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_DENIEDMESSAGES_3",
+    "en": "Fine! I'll go... plant a tree or something. Whatever!",
+    "ru": "Ладно! Пойду... посажу дерево или ещё что. Как хочешь!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_INTROMESSAGES_1",
+    "en": "Hey! It's me, Shannon. Rock edition.",
+    "ru": "Привет! Это я, Шеннон. Рок-версия."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_INTROMESSAGES_2",
+    "en": "And here's my totally real, valid ID!",
+    "ru": "И вот моё абсолютно настоящее, действительное удостоверение!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_INTROMESSAGES_3",
+    "en": "Social credit score still destroyed?",
+    "ru": "Социальный рейтинг всё ещё в руинах?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT3_ENTRYMESSAGES_1",
+    "en": "Go on in.",
+    "ru": "Проходи."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT3_ENTRYMESSAGES_2",
+    "en": "You're my favourite bouncer ever.",
+    "ru": "Ты мой самый любимый вышибала."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT3_DENIEDMESSAGES_1",
+    "en": "You know why you can't come in.",
+    "ru": "Ты знаешь, почему тебя нельзя впустить."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT3_DENIEDMESSAGES_2",
+    "en": "Yeah, but I hoped you wouldn't.",
+    "ru": "Ну да, но я надеялась, что ты не знаешь."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT3_INTROMESSAGES_1",
+    "en": "Guess who!",
+    "ru": "Угадай кто!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT3_INTROMESSAGES_2",
+    "en": "Harrison Pace?",
+    "ru": "Харрисон Пейс?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT3_INTROMESSAGES_3",
+    "en": "Ew, yuck.",
+    "ru": "Фу, бэ."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_ENTRYMESSAGES_1",
+    "en": "Just... just go in.",
+    "ru": "Просто... просто проходи."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_ENTRYMESSAGES_2",
+    "en": "Cool. Wait. Do I still have crumbs in my teeth?",
+    "ru": "Круто. Стоп. У меня ещё крошки в зубах?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_DENIEDMESSAGES_1",
+    "en": "Bring me some cookies and maybe we'll talk.",
+    "ru": "Принеси мне печенья, и тогда поговорим."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_DENIEDMESSAGES_2",
+    "en": "Eh, I won't be doing that.",
+    "ru": "Не, не буду."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_INTROMESSAGES_1",
+    "en": "I thought I'd try bribing you with cookies.",
+    "ru": "Я решила попробовать подкупить тебя печеньем."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_INTROMESSAGES_2",
+    "en": "Would bribing you with cookies have worked?",
+    "ru": "А подкуп печеньем бы сработал?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_INTROMESSAGES_4",
+    "en": "Dang.",
+    "ru": "Блин."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_INTROMESSAGES_5",
+    "en": "Shouldn't have eaten them on the way here.",
+    "ru": "Не надо было их есть по дороге."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_ENTRYMESSAGES_1",
+    "en": "Go on inside.",
+    "ru": "Проходи внутрь."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_ENTRYMESSAGES_2",
+    "en": "Huh. Wasn't expecting that.",
+    "ru": "Хм. Не ожидала."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_DENIEDMESSAGES_1",
+    "en": "Go home, Shannon. Listen to a CD or something.",
+    "ru": "Иди домой, Шеннон. Послушай диск или что-нибудь."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_DENIEDMESSAGES_2",
+    "en": "CDs? That is, like, so last month.",
+    "ru": "Диски? Это, типа, прошлый месяц."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_INTROMESSAGES_1",
+    "en": "I know, I know. You probably don't want to let me in.",
+    "ru": "Знаю, знаю. Ты, наверное, не хочешь меня впускать."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_INTROMESSAGES_2",
+    "en": "Guess I was just wondering if you'd give me something to go away.",
+    "ru": "Просто подумала, может, ты мне что-нибудь дашь, чтобы я ушла."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_INTROMESSAGES_3",
+    "en": "Not a lot to do around here since the curfews started.",
+    "ru": "Тут мало чем заняться с тех пор, как ввели комендантский час."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_INTROMESSAGES_4",
+    "en": "Not that I have to worry about that any more, obviously.",
+    "ru": "Не то чтобы мне теперь об этом нужно беспокоиться, конечно."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT6_ENTRYMESSAGES_1",
+    "en": "Look, just... just go in.",
+    "ru": "Слушай, просто... просто проходи."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT6_ENTRYMESSAGES_2",
+    "en": "Ta.",
+    "ru": "Спасибки."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT6_DENIEDMESSAGES_1",
+    "en": "And I'll tell my replacement not to let you in either.",
+    "ru": "И я скажу своей замене тоже тебя не пускать."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT6_DENIEDMESSAGES_2",
+    "en": "Spoilsport.",
+    "ru": "Зануда."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT6_INTROMESSAGES_1",
+    "en": "Haven't you been deported yet?",
+    "ru": "Тебя ещё не депортировали?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT6_INTROMESSAGES_2",
+    "en": "Nice to see you too, Shannon.",
+    "ru": "И тебе рад, Шеннон."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_ENTRYMESSAGES_1",
+    "en": "Just go in.",
+    "ru": "Просто проходи."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_ENTRYMESSAGES_2",
+    "en": "RAAAAAAAAAWR!",
+    "ru": "РАААААААААР!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_DENIEDMESSAGES_1",
+    "en": "Sorry, the beast's just been caged.",
+    "ru": "Прости, зверь только что посажен в клетку."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_DENIEDMESSAGES_2",
+    "en": "Meow.",
+    "ru": "Мяу."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_INTROMESSAGES_1",
+    "en": "You're probably thinking, oh, hey, it's Shannon.",
+    "ru": "Ты, наверное, думаешь: о, привет, это Шеннон."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_INTROMESSAGES_2",
+    "en": "IS SHE READY TO ROCK?",
+    "ru": "ГОТОВА ЛИ ОНА ЗАЖЕЧЬ?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_INTROMESSAGES_3",
+    "en": "My dude, she was BORN READY!",
+    "ru": "Чувак, она РОДИЛАСЬ ГОТОВОЙ!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_INTROMESSAGES_4",
+    "en": "UNLEASH THE BEAST!",
+    "ru": "ВЫПУСТИТЕ ЗВЕРЯ!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_1",
+    "en": "I thought we might be doing this again.",
+    "ru": "Я так и думал, что мы снова будем этим заниматься."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_2",
+    "en": "Here. Take this. Go away.",
+    "ru": "Вот. Возьми это. Иди."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_3",
+    "en": "You think I'm that easy to get rid of?",
+    "ru": "Думаешь, от меня так легко отделаться?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_5",
+    "en": "Well... you got lucky!",
+    "ru": "Ну... тебе повезло!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_6",
+    "en": "You won't see me again.",
+    "ru": "Больше меня не увидишь."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_7",
+    "en": "For reals this time.",
+    "ru": "На этот раз правда."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_8",
+    "en": "Ok then.",
+    "ru": "Ну ладно."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_9",
+    "en": "I just wanted to say.",
+    "ru": "Я просто хотела сказать."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_10",
+    "en": "Whatever happens next.",
+    "ru": "Что бы ни случилось дальше."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_11",
+    "en": "I really appreciate your help.",
+    "ru": "Я очень ценю твою помощь."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_12",
+    "en": "I'll rememember you.",
+    "ru": "Я буду тебя помнить."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_13",
+    "en": "Bye Shannon.",
+    "ru": "Пока, Шеннон."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_INCORRECTITEMMESSAGES_1",
+    "en": "If I give you this, will you go away?",
+    "ru": "Если я тебе это дам, ты уйдёшь?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_INCORRECTITEMMESSAGES_2",
+    "en": "Pffft. I can't rock out to that.",
+    "ru": "Пфф. Под это не порокишь."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_VISIT1_ENTRYMESSAGES_1",
+    "en": "Go on then. Comrade.",
+    "ru": "Ну давай, проходи. Товарищ."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_VISIT1_ENTRYMESSAGES_2",
+    "en": "Obliged. VIVE LA RESISTANCE!",
+    "ru": "Благодарю. ДА ЗДРАВСТВУЕТ СОПРОТИВЛЕНИЕ!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_VISIT1_DENIEDMESSAGES_1",
+    "en": "Sorry. I can't risk blowing my cover.",
+    "ru": "Прости. Не могу рисковать прикрытием."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_VISIT1_DENIEDMESSAGES_2",
+    "en": "Secret. Top secret.",
+    "ru": "Секретно. Совершенно секретно."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_VISIT1_INTROMESSAGES_1",
+    "en": "Comrade.",
+    "ru": "Товарищ."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_VISIT1_INTROMESSAGES_2",
+    "en": "It is I, Galahad of the resistance!",
+    "ru": "Это я, Галахад из Сопротивления!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_VISIT1_INTROMESSAGES_3",
+    "en": "You have the poison?.",
+    "ru": "У тебя есть яд?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_CORRECTITEMMESSAGES_1",
+    "en": "Ah ha. I shall add this to the politicians' soup.",
+    "ru": "Ага. Я добавлю это в суп политикам."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_CORRECTITEMMESSAGES_2",
+    "en": "Well done, Agent Titmouse.",
+    "ru": "Отличная работа, Агент Синица."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_CORRECTITEMMESSAGES_3",
+    "en": "Good luck.",
+    "ru": "Удачи."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_INCORRECTITEMMESSAGES_1",
+    "en": "This isn't the poison, Agent Titmouse.",
+    "ru": "Это не яд, Агент Синица."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_INCORRECTITEMMESSAGES_2",
+    "en": "You do have the poison?!",
+    "ru": "У тебя ведь есть яд?!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_INCORRECTITEMMESSAGES_3",
+    "en": "Ummm...",
+    "ru": "Эмм..."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET0_0",
+    "en": "#112. Been a while.",
+    "ru": "#112. Давно не виделись."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET0_1",
+    "en": "You ready to make history?",
+    "ru": "Готов творить историю?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET0_2",
+    "en": "Jupp Security needs you.",
+    "ru": "Охрана Юппа нуждается в тебе."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET1_0",
+    "en": "You're heading back to London tomorrow, #112.",
+    "ru": "Завтра ты отправляешься обратно в Лондон, #112."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET1_1",
+    "en": "The London wall is nearly complete.",
+    "ru": "Лондонская стена почти завершена."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET1_2",
+    "en": "You mean flood prevention?",
+    "ru": "Ты имеешь в виду защиту от наводнений?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET1_3",
+    "en": "The election is over, Euro. It's a wall.",
+    "ru": "Выборы закончились, Евро. Это стена."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET1_4",
+    "en": "Don't piss up it.",
+    "ru": "Не вздумай на неё мочиться."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET2_0",
+    "en": "You're heading to Dover tomorrow, #112.",
+    "ru": "Завтра ты едешь в Дувр, #112."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET2_1",
+    "en": "Those Euro rats keep getting through.",
+    "ru": "Эти крысы-Евро всё ещё просачиваются."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET2_2",
+    "en": "Stop them.",
+    "ru": "Останови их."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET2_3",
+    "en": "Don't mess up. Or else.",
+    "ru": "Не облажайся. Иначе."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET3_0",
+    "en": "#112.",
+    "ru": "#112."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET3_1",
+    "en": "The wall is complete.",
+    "ru": "Стена завершена."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET3_2",
+    "en": "Get to London.",
+    "ru": "Отправляйся в Лондон."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET3_3",
+    "en": "And don't mess it up.",
+    "ru": "И не облажайся."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET4_0",
+    "en": "#112. You keep suprising me.",
+    "ru": "#112. Ты не перестаёшь меня удивлять."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET4_1",
+    "en": "The wall is complete.",
+    "ru": "Стена завершена."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET4_2",
+    "en": "Get to London.",
+    "ru": "Отправляйся в Лондон."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET4_3",
+    "en": "And don't mess it up.",
+    "ru": "И не облажайся."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET5_0",
+    "en": "#112. I did it.",
+    "ru": "#112. Я сделал это."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET5_1",
+    "en": "The ball was a success.",
+    "ru": "Бал прошёл успешно."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET5_2",
+    "en": "My future as Assistant to the Junior Minister of Internal Security is a given.",
+    "ru": "Моё будущее в должности помощника младшего министра внутренней безопасности обеспечено."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET5_3",
+    "en": "You have been a useful idiot.",
+    "ru": "Ты был полезным идиотом."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET5_4",
+    "en": "I'll almost be sad when you go.",
+    "ru": "Мне почти будет грустно, когда тебя вышлют."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT2_MESSAGESET0_0",
+    "en": "Agent Titmouse. It is time.",
+    "ru": "Агент Синица. Время пришло."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT2_MESSAGESET0_1",
+    "en": "Are you ready to change history?",
+    "ru": "Ты готов изменить историю?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT2_MESSAGESET0_2",
+    "en": "I will visit you some time in the near future.",
+    "ru": "Я навещу тебя в ближайшем будущем."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT2_MESSAGESET0_3",
+    "en": "(Tomorrow, specifically. Please be in)",
+    "ru": "(Завтра, если конкретно. Будь дома, пожалуйста)"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT2_MESSAGESET1_0",
+    "en": "It's time, Agent Titmouse.",
+    "ru": "Время пришло, Агент Синица."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT2_MESSAGESET1_1",
+    "en": "You know what to do. I will visit tomorrow.",
+    "ru": "Ты знаешь, что делать. Я приду завтра."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT2_MESSAGESET2_0",
+    "en": "You have created the poison, Agent Titmouse?",
+    "ru": "Ты создал яд, Агент Синица?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT2_MESSAGESET2_1",
+    "en": "I will visit soon.",
+    "ru": "Я скоро приду."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET0_0",
+    "en": "#112. I'm done.",
+    "ru": "#112. Я сдаюсь."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET0_1",
+    "en": "Bastards have won.",
+    "ru": "Ублюдки победили."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET0_2",
+    "en": "I'll drop by tomorrow to say goodbye.",
+    "ru": "Зайду завтра попрощаться."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_0",
+    "en": "We get boat to France.",
+    "ru": "Мы сели на лодку во Францию."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_1",
+    "en": "Have found a village in France welcoming refugees from England.",
+    "ru": "Нашла деревню во Франции, которая принимает беженцев из Англии."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_2",
+    "en": "I can't thank you enough for help.",
+    "ru": "Я не могу достаточно тебя отблагодарить за помощь."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_3",
+    "en": "Viklav leaves you his disco outfit.",
+    "ru": "Виклав оставляет тебе свой диско-костюм."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_4",
+    "en": "And I leave you my piano. Don't drop on foot.",
+    "ru": "А я оставляю тебе своё пианино. Не урони на ногу."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_5",
+    "en": "We will be thinking of you.",
+    "ru": "Мы будем думать о тебе."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_6",
+    "en": "Bye Mylarna.",
+    "ru": "Пока, Миларна."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_7",
+    "en": "Bye Viklav.",
+    "ru": "Пока, Виклав."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET2_0",
+    "en": "#112.",
+    "ru": "#112."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET2_1",
+    "en": "Did you tell King's Head Dave where I moved?",
+    "ru": "Ты рассказал Дэйву из «Королевской Головы», куда я переехала?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET2_2",
+    "en": "No.",
+    "ru": "Нет."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET2_3",
+    "en": "I swear I saw him at the boulangerie.",
+    "ru": "Клянусь, я видела его в булочной."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET2_4",
+    "en": "Maybe just my eyes.",
+    "ru": "Может, показалось."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET0_0",
+    "en": "Oi Oi! King's Head Dave here!",
+    "ru": "Ой-ой! Дэйв из «Королевской Головы»!"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET0_1",
+    "en": "You heard from Mylarna?",
+    "ru": "Слышал что-нибудь от Миларны?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET0_2",
+    "en": "She not responding to my texts.",
+    "ru": "Она не отвечает на мои сообщения."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET0_3",
+    "en": "She's gone Dave.",
+    "ru": "Она уехала, Дэйв."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_0",
+    "en": "Hey-hey. Dave. King's Head Dave.",
+    "ru": "Эй-эй. Дэйв. Дэйв из «Королевской Головы»."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_1",
+    "en": "Any word from Mylarna?",
+    "ru": "Есть новости от Миларны?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_2",
+    "en": "No.",
+    "ru": "Нет."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_3",
+    "en": "She say where she was going?",
+    "ru": "Она говорила, куда едет?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_4",
+    "en": "And her Viklav of course. lol.",
+    "ru": "Ну и её Виклав, конечно. лол."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_5",
+    "en": "France.",
+    "ru": "Франция."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_6",
+    "en": "lol good riddance. lol.",
+    "ru": "лол скатертью дорога. лол."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_7",
+    "en": "On holiday then?",
+    "ru": "Значит, в отпуск?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_8",
+    "en": "For good.",
+    "ru": "Навсегда."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET0_0",
+    "en": "Agent Titmouse. This is secret agent Galahad. Over.",
+    "ru": "Агент Синица. Это секретный агент Галахад. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET0_1",
+    "en": "By now you should now have the combo-kit. Over.",
+    "ru": "К этому моменту у тебя уже должен быть комбо-набор. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET0_2",
+    "en": "Over and out. Over.",
+    "ru": "Конец связи. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET1_0",
+    "en": "Agent Titmouse. This is secret agent Galahad. Over.",
+    "ru": "Агент Синица. Это секретный агент Галахад. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET1_1",
+    "en": "By now you should have the poison. Over.",
+    "ru": "К этому моменту у тебя уже должен быть яд. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET1_2",
+    "en": "Over and out. Over.",
+    "ru": "Конец связи. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET2_0",
+    "en": "Agent Titmouse. This is secret agent Galahad. Over.",
+    "ru": "Агент Синица. Это секретный агент Галахад. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET2_1",
+    "en": "By now you should have the new drug. Over.",
+    "ru": "К этому моменту у тебя уже должен быть новый наркотик. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET2_2",
+    "en": "Make the poison if you haven't already. Over and out. Over.",
+    "ru": "Создай яд, если ещё не создал. Конец связи. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET3_0",
+    "en": "Agent Titmouse. You have climbed the ranks of ResistR. Over.",
+    "ru": "Агент Синица. Ты продвинулся в рейтинге ResistR. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET3_1",
+    "en": "The Scorpion is pleased. Over.",
+    "ru": "Скорпион доволен. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET3_2",
+    "en": "I have a delivery for you. Over.",
+    "ru": "У меня есть доставка для тебя. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET3_3",
+    "en": "Expect me. Over.",
+    "ru": "Жди меня. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET3_4",
+    "en": "Over and out. Over.",
+    "ru": "Конец связи. Приём."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET0_0",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET0_1",
+    "en": "Euro no. 112. New bills added to BILLR.",
+    "ru": "Евро №112. Новые счета добавлены в BillR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET0_2",
+    "en": "Pay: RENT, UTILITIES before due date to avoid loss of social credit score.",
+    "ru": "Оплатите: АРЕНДА, КОММУНАЛЬНЫЕ до указанного срока во избежание потери социального рейтинга."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET0_3",
+    "en": "Do not reply to this message. Your words are like bleating sheep.",
+    "ru": "Не отвечайте на это сообщение. Ваши слова — как блеяние овец."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET1_0",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET1_1",
+    "en": "Euro no. 112. New bills added to BILLR.",
+    "ru": "Евро №112. Новые счета добавлены в BillR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET1_2",
+    "en": "Pay: RENT, UTILITIES, EURO TAX before due date to avoid loss of social credit score.",
+    "ru": "Оплатите: АРЕНДА, КОММУНАЛЬНЫЕ, НАЛОГ НА ЕВРО до указанного срока во избежание потери социального рейтинга."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET1_3",
+    "en": "Do not reply to this message. You'll be gone soon anyway.",
+    "ru": "Не отвечайте на это сообщение. Вас всё равно скоро не будет."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET2_0",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET2_1",
+    "en": "Euro no 112. New bills added to BILLR.",
+    "ru": "Евро №112. Новые счета добавлены в BillR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET2_2",
+    "en": "Pay: RENT, UTILITIES, EURO TAX, EURO WATER CHARGE before due date to avoid loss of social credit score.",
+    "ru": "Оплатите: АРЕНДА, КОММУНАЛЬНЫЕ, НАЛОГ НА ЕВРО, ПЛАТА ЗА ВОДУ ДЛЯ ЕВРО до указанного срока во избежание потери социального рейтинга."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET2_3",
+    "en": "Reply to this message if you want. Waste your time.",
+    "ru": "Отвечайте на это сообщение, если хотите. Тратьте своё время."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET3_0",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET3_1",
+    "en": "Euro no 112. New bills added to BILLR.",
+    "ru": "Евро №112. Новые счета добавлены в BillR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET3_2",
+    "en": "Pay: RENT, UTILITIES, EURO TAX, EURO WATER CHARGE before due date to avoid loss of social credit score.",
+    "ru": "Оплатите: АРЕНДА, КОММУНАЛЬНЫЕ, НАЛОГ НА ЕВРО, ПЛАТА ЗА ВОДУ ДЛЯ ЕВРО до указанного срока во избежание потери социального рейтинга."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT6_MESSAGESET3_3",
+    "en": "Do not reply to this message. We own you anyway.",
+    "ru": "Не отвечайте на это сообщение. Мы и так вами владеем."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_0",
+    "en": "hey it's shannon lol",
+    "ru": "привет это шеннон лол"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_1",
+    "en": "that rock cd was so cool thanks xoxoxo",
+    "ru": "тот рок-диск был такой крутой спасибо хохохо"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_2",
+    "en": "Im going to take a road trip to Ireland.",
+    "ru": "Я собираюсь в автопутешествие в Ирландию."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_3",
+    "en": "U2?",
+    "ru": "U2?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_4",
+    "en": "Oh you're going as well?",
+    "ru": "О, ты тоже едешь?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_5",
+    "en": "No I mean...",
+    "ru": "Нет, я имею в виду..."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_6",
+    "en": "anyway sending you my spare UK currency again.",
+    "ru": "в общем, снова шлю тебе мою лишнюю британскую валюту."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_7",
+    "en": "Won't need it any more.",
+    "ru": "Мне она больше не понадобится."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET0_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET0_1",
+    "en": "You reached BouncR lvl 2 and unlocked:",
+    "ru": "Вы достигли уровня 2 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET0_2",
+    "en": "CLICKER V2. Enjoy rust free clicking.",
+    "ru": "КЛИКЕР V2. Наслаждайтесь кликами без ржавчины."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET0_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET0_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET1_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET1_1",
+    "en": "You reached BouncR lvl 3 and unlocked:",
+    "ru": "Вы достигли уровня 3 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET1_2",
+    "en": "CLICKER V3. Click with confidence. An orange iron colour.",
+    "ru": "КЛИКЕР V3. Кликайте с уверенностью. Оранжево-ржавый цвет."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET1_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET1_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET2_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET2_1",
+    "en": "You reached BouncR lvl 4 and unlocked:",
+    "ru": "Вы достигли уровня 4 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET2_2",
+    "en": "GUESTLIST V2.",
+    "ru": "ГОСТЕВОЙ СПИСОК V2."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET2_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET2_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET3_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET3_1",
+    "en": "You reached BouncR lvl 5 and unlocked:",
+    "ru": "Вы достигли уровня 5 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET3_2",
+    "en": "GUESTLIST V3. ",
+    "ru": "ГОСТЕВОЙ СПИСОК V3. "
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET3_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET3_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET4_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET4_1",
+    "en": "You reached BouncR lvl 6 and unlocked:",
+    "ru": "Вы достигли уровня 6 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET4_2",
+    "en": "CLICKER V4. Clicker now has cow-print style.",
+    "ru": "КЛИКЕР V4. Кликер теперь в коровьей расцветке."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET4_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET4_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET5_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET5_1",
+    "en": "You reached BouncR lvl 7 and unlocked:",
+    "ru": "Вы достигли уровня 7 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET5_2",
+    "en": "GUESTLIST V4. ",
+    "ru": "ГОСТЕВОЙ СПИСОК V4. "
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET5_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET5_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET6_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET6_1",
+    "en": "You reached BouncR lvl 8 and unlocked:",
+    "ru": "Вы достигли уровня 8 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET6_2",
+    "en": "SCAN AND BAN V2. Improved scan and print speed.",
+    "ru": "СКАН И БАН V2. Улучшена скорость сканирования и печати."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET6_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET6_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET7_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET7_1",
+    "en": "You reached BouncR lvl 9 and unlocked:",
+    "ru": "Вы достигли уровня 9 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET7_2",
+    "en": "SCAN AND BAN V3. Improved scan and print speed.",
+    "ru": "СКАН И БАН V3. Улучшена скорость сканирования и печати."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET7_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET7_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET8_0",
+    "en": "BouncR automated message follows.",
+    "ru": "Автоматическое сообщение BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET8_1",
+    "en": "You reached BouncR lvl 10 and unlocked:",
+    "ru": "Вы достигли уровня 10 в BouncR и разблокировали:"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET8_2",
+    "en": "SCAN AND BAN V4. Improved scan and print speed.",
+    "ru": "СКАН И БАН V4. Улучшена скорость сканирования и печати."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET8_3",
+    "en": "Check BouncR upgrade page.",
+    "ru": "Проверьте страницу улучшений BouncR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT99_MESSAGESET8_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_0",
+    "en": "Harrison Pace here.",
+    "ru": "Харрисон Пейс на связи."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_1",
+    "en": "Thank you for reuniting me with Lassy.",
+    "ru": "Спасибо, что воссоединил меня с Лэсси."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_2",
+    "en": "I'm giving up the nightlife.",
+    "ru": "Я завязываю с ночной жизнью."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_3",
+    "en": "Opening up a dog sanctuary.",
+    "ru": "Открываю приют для собак."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_4",
+    "en": "Lassy would have liked that.",
+    "ru": "Лэсси бы это понравилось."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_5",
+    "en": "Listen. I heard about the predicament you're in.",
+    "ru": "Послушай. Я слышал о твоём затруднительном положении."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_6",
+    "en": "I've used my connections to boost your social credit score.",
+    "ru": "Я использовал свои связи, чтобы поднять твой социальный рейтинг."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_7",
+    "en": "Good luck friend.",
+    "ru": "Удачи, друг."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET0_0",
+    "en": "MedR automated message follows.",
+    "ru": "Автоматическое сообщение MedR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET0_1",
+    "en": "Your health rating has dropped to 75.",
+    "ru": "Ваш показатель здоровья упал до 75."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET0_2",
+    "en": "Please look after your health.",
+    "ru": "Пожалуйста, следите за своим здоровьем."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET0_3",
+    "en": "Check MedR.",
+    "ru": "Проверьте MedR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET0_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET1_0",
+    "en": "MedR automated message follows.",
+    "ru": "Автоматическое сообщение MedR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET1_1",
+    "en": "Your health rating has dropped below 50.",
+    "ru": "Ваш показатель здоровья упал ниже 50."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET1_2",
+    "en": "Perhaps a night off work is in order!",
+    "ru": "Может, стоит взять выходной!"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET1_3",
+    "en": "Check MedR.",
+    "ru": "Проверьте MedR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET1_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET2_0",
+    "en": "MedR automated message follows.",
+    "ru": "Автоматическое сообщение MedR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET2_1",
+    "en": "You health rating has dropped to 25.",
+    "ru": "Ваш показатель здоровья упал до 25."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET2_2",
+    "en": "Expect death unless action taken.",
+    "ru": "Ожидайте смерть, если не примете меры."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET2_3",
+    "en": "Check MedR.",
+    "ru": "Проверьте MedR."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET2_4",
+    "en": "----------------------",
+    "ru": "----------------------"
+  },
+  {
+    "key": "CHAPTER3/NOTES_21_TEXT",
+    "en": "I failed to poison the ball.",
+    "ru": "Я не смог отравить бал."
+  },
+  {
+    "key": "CHAPTER3/NOTES_22_TEXT",
+    "en": "Resistance have abandoned me!",
+    "ru": "Сопротивление бросило меня!"
+  }
+]

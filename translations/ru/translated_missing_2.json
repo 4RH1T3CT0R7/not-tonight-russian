@@ -1,0 +1,622 @@
+[
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_INTROMESSAGES_1",
+    "en": "Ah, #112. You really screwed the souffle this time, eh?",
+    "ru": "А, №112. Ну ты и накосячил на этот раз, а?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_INTROMESSAGES_2",
+    "en": "Bottomed out your social credit score.",
+    "ru": "Обнулил свой социальный рейтинг."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_INTROMESSAGES_3",
+    "en": "Naughty, naughty.",
+    "ru": "Ай-ай-ай."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_INTROMESSAGES_4",
+    "en": "You're done here, my curry-chomping chum.",
+    "ru": "Тебе тут конец, дружок-пирожок."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_INTROMESSAGES_5",
+    "en": "Least you lasted longer than #111.",
+    "ru": "По крайней мере, ты продержался дольше, чем №111."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_INTROMESSAGES_6",
+    "en": "Come on. You got a new room ready at our maximum security re-education unit.",
+    "ru": "Давай. Тебе уже приготовили комнату в нашем блоке перевоспитания строгого режима."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_INTROMESSAGES_7",
+    "en": "They say it's Hell on Earth.",
+    "ru": "Говорят, там ад на земле."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR100_INTROMESSAGES_8",
+    "en": "Between you and me, it's actually Feltham.",
+    "ru": "Между нами, на самом деле это Фелтем."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR13_INTROMESSAGES_23",
+    "en": "Fine.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR14_INTROMESSAGES_9",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR18_INTROMESSAGES_4",
+    "en": "Great.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR5_INTROMESSAGES_27",
+    "en": "Maybe.",
+    "ru": "Может быть."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR6_INTROMESSAGES_17",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR7_INTROMESSAGES_13",
+    "en": "Sure.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR8_INTROMESSAGES_25",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS11_INTROMESSAGES_7",
+    "en": "Sure.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS13_INTROMESSAGES_2",
+    "en": "I'm out of here.",
+    "ru": "Я ухожу отсюда."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS13_OUTROMESSAGES_2",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS18_INTROMESSAGES_6",
+    "en": "Okay.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS18_OUTROMESSAGES_2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS21_INTROMESSAGES_2",
+    "en": "I-",
+    "ru": "Я-"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_INTROMESSAGES_2",
+    "en": "I-",
+    "ru": "Я-"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_17",
+    "en": "Great.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_OUTROMESSAGES_2",
+    "en": "I-",
+    "ru": "Я-"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_PASSMESSAGES_3",
+    "en": "Got it.",
+    "ru": "Понял."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_OUTROMESSAGES_3",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS5_INTROMESSAGES_14",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS5_INTROMESSAGES_16",
+    "en": "OK.",
+    "ru": "Понял."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS5_OUTROMESSAGES_2",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS6_OUTROMESSAGES_2",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS7_INTROMESSAGES_2",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT4_INTROMESSAGES_3",
+    "en": "Maybe.",
+    "ru": "Может быть."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET3_4",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET0_3",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET0_4",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET1_3",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR2_INTROMESSAGES_9",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_10",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER4/FLATCHARACTER_VISITOR3_INTROMESSAGES_14",
+    "en": "OK.",
+    "ru": "Понял."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR4_INTROOUTROS_2_INTROMESSAGES_3",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR6_INTROMESSAGES_6",
+    "en": "Oh dear.",
+    "ru": "Ой-ой."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR6_INTROMESSAGES_7",
+    "en": "Too bad you have no choice!",
+    "ru": "Жаль, у тебя нет выбора!"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR7_INTROMESSAGES_5",
+    "en": "Oh dear.",
+    "ru": "Ой-ой."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR7_INTROMESSAGES_8",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR7_INTROMESSAGES_15",
+    "en": "Great.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR8_INTROMESSAGES_6",
+    "en": "Nah.",
+    "ru": "Не-а."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR9_INTROMESSAGES_8",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_PASSMESSAGES_2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_FAILMESSAGES_2",
+    "en": "Sorry...",
+    "ru": "Извини..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_INTROMESSAGES_10",
+    "en": "Yep.",
+    "ru": "Ага."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_INTROMESSAGES_11",
+    "en": "Okay.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_INTROMESSAGES_12",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS17_OUTROMESSAGES_1",
+    "en": "See you.",
+    "ru": "Увидимся."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS3_FAILMESSAGES_5",
+    "en": "Sorry!",
+    "ru": "Извини!"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_OUTROMESSAGES_5",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS6_OUTROMESSAGES_6",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS7_INTROMESSAGES_13",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS3_VISIT2_DENIEDMESSAGES_4",
+    "en": "Right on.",
+    "ru": "Точняк."
+  },
+  {
+    "key": "DLC_CHAPTER0/SPECIALCLUBBERS1_VISIT3_DENIEDMESSAGES_1",
+    "en": "Not tonight.",
+    "ru": "Не сегодня."
+  },
+  {
+    "key": "DLC_CHAPTER0/TXTIT_CONTACT1_MESSAGESET0_4",
+    "en": "Oh dear.",
+    "ru": "Ой-ой."
+  },
+  {
+    "key": "DLC_CHAPTER0/TXTIT_CONTACT1_MESSAGESET4_7",
+    "en": "Whatever.",
+    "ru": "Да пофиг."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_6",
+    "en": "This can't be real.",
+    "ru": "Это не может быть правдой."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_7",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_25",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_30",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_1",
+    "en": "This is rubbish.",
+    "ru": "Это отстой."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_2",
+    "en": "Screw this.",
+    "ru": "Да ну нафиг."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_3",
+    "en": "Can't believe this, you're wrong",
+    "ru": "Не верю, ты неправ"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_4",
+    "en": "Are you kidding me!",
+    "ru": "Ты шутишь что ли!"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_5",
+    "en": "You're wrong.",
+    "ru": "Ты неправ."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_6",
+    "en": "I'll be back.",
+    "ru": "Я вернусь."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_7",
+    "en": "I hate you.",
+    "ru": "Ненавижу тебя."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_8",
+    "en": "You're a twat",
+    "ru": "Ты мудак"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_9",
+    "en": "Hate this place.",
+    "ru": "Ненавижу это место."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_10",
+    "en": "Screw this.",
+    "ru": "Да пошло оно."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_11",
+    "en": "Just die.",
+    "ru": "Сдохни."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_12",
+    "en": "Going next door.",
+    "ru": "Пойду в соседний."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_13",
+    "en": "This place sucks.",
+    "ru": "Место — дрянь."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_14",
+    "en": "I don't care, im going.",
+    "ru": "Мне плевать, я ухожу."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_15",
+    "en": "I'm out of here.",
+    "ru": "Я сваливаю."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_16",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_17",
+    "en": "See you.",
+    "ru": "Бывай."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_18",
+    "en": "This place is so crap.",
+    "ru": "Место — полный отстой."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_19",
+    "en": "This won't happen again.",
+    "ru": "Такого больше не будет."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_1",
+    "en": "Like I give a crap.",
+    "ru": "Как будто мне не пофиг."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_2",
+    "en": "I'm going home.",
+    "ru": "Я иду домой."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_3",
+    "en": "Looks crap anyway.",
+    "ru": "Всё равно отстой."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_4",
+    "en": "Dont want to come in anyway.",
+    "ru": "Всё равно не хотел заходить."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_5",
+    "en": "You're an idiot.",
+    "ru": "Ты идиот."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_6",
+    "en": "I'll be back.",
+    "ru": "Я ещё вернусь."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_7",
+    "en": "I hate you.",
+    "ru": "Ненавижу тебя."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_8",
+    "en": "You suck.",
+    "ru": "Ты отстой."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_9",
+    "en": "Hate this place.",
+    "ru": "Ненавижу это место."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_10",
+    "en": "Screw you.",
+    "ru": "Пошёл ты."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_11",
+    "en": "Just die.",
+    "ru": "Сдохни."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_12",
+    "en": "Going next door.",
+    "ru": "Пойду в соседний."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_13",
+    "en": "This place sucks.",
+    "ru": "Место — дрянь."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_14",
+    "en": "I don't care, im going.",
+    "ru": "Мне плевать, я ухожу."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_15",
+    "en": "I'm out of here.",
+    "ru": "Я сваливаю."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_16",
+    "en": "Go check yourself.",
+    "ru": "Иди проверь себя."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_17",
+    "en": "I'm off.",
+    "ru": "Я пошёл."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_18",
+    "en": "Don't need this.",
+    "ru": "Мне это не нужно."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "Like I care.",
+    "ru": "Как будто мне не всё равно."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_20",
+    "en": "See you.",
+    "ru": "Увидимся."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_21",
+    "en": "Never again.",
+    "ru": "Больше никогда."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_22",
+    "en": "I queued for that.",
+    "ru": "Я стоял в очереди ради этого."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_23",
+    "en": "I will be making a complaint.",
+    "ru": "Я буду жаловаться."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_24",
+    "en": "This can't be possible.",
+    "ru": "Этого не может быть."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_25",
+    "en": "Who do you think you are?",
+    "ru": "Ты кем себя возомнил?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_26",
+    "en": "Right, I'm going.",
+    "ru": "Всё, я ухожу."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_27",
+    "en": "Can't believe this.",
+    "ru": "Не могу поверить."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_28",
+    "en": "How is this happening.",
+    "ru": "Как это вообще происходит."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_29",
+    "en": "Do you know who I am?",
+    "ru": "Ты знаешь, кто я?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_30",
+    "en": "Not bothered.",
+    "ru": "Мне всё равно."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_31",
+    "en": "Not interested anyway.",
+    "ru": "Всё равно неинтересно."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_32",
+    "en": "This ain't nothing.",
+    "ru": "Да это ерунда."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_33",
+    "en": "Who are you?",
+    "ru": "Ты вообще кто?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_34",
+    "en": "What on earth.",
+    "ru": "Что за бред."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_35",
+    "en": "What?",
+    "ru": "Чего?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_36",
+    "en": "Ok ok.",
+    "ru": "Ладно, ладно."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_37",
+    "en": "I was going anyway.",
+    "ru": "Я и так уходил."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_38",
+    "en": "I'll come back later.",
+    "ru": "Я вернусь позже."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_39",
+    "en": "No empathy.",
+    "ru": "Никакого сочувствия."
+  }
+]

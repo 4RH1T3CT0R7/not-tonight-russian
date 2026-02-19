@@ -1,0 +1,2042 @@
+[
+  {
+    "key": "DWEB_UPGRADE_3_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Oxide orange design clicker.",
+    "ru": "Кликер в оксидно-оранжевом дизайне."
+  },
+  {
+    "key": "DWEB_UPGRADE_12_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "The ultimate banning weapon.",
+    "ru": "Абсолютное оружие запрета."
+  },
+  {
+    "key": "DLC_INTRO_5",
+    "en": "(Terms and conditions apply. Guarantee not guaranteed.)",
+    "ru": "(Действуют правила и условия. Гарантия не гарантирована.)"
+  },
+  {
+    "key": "DLC_INTRO5",
+    "en": "(Terms and conditions apply. Guarantee not guaranteed.)",
+    "ru": "(Действуют правила и условия. Гарантия не гарантирована.)"
+  },
+  {
+    "key": "DLC_INTRO_15",
+    "en": "Oh, look, your matches happen to match the only four other users in the city!",
+    "ru": "О, смотрите-ка, вам подобрали — какое совпадение! — единственных четырёх пользователей в городе!"
+  },
+  {
+    "key": "DLC_INTRO15",
+    "en": "Oh, look, your matches happen to match the only four other users in the city!",
+    "ru": "О, смотрите-ка, вам подобрали — какое совпадение! — единственных четырёх пользователей в городе!"
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_5",
+    "en": "Well, I suppose you MIGHT meet someone the old fashioned way.",
+    "ru": "Ну, вы, МОЖЕТ БЫТЬ, встретите кого-то по старинке."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_7",
+    "en": "Just two souls meeting in the night and finding human connection without technology.",
+    "ru": "Просто две души, встретившиеся во тьме ночи и обретшие человеческую связь без технологий."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_8",
+    "en": "Like amateurs.",
+    "ru": "Как дилетанты."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_14",
+    "en": "Ah, FLAMR just got bought by Google.",
+    "ru": "А, FLAMR только что купила Google."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_17",
+    "en": "Don't suppose I could borrow a tenner for the bus?",
+    "ru": "Не одолжите десяточку на автобус?"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Dead Euro found lazing in bed!",
+    "ru": "Мёртвый евро найден прохлаждающимся в постели!"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH3_SUCCESS",
+    "en": "Tarquin Futtock-Smythe in overdose horror",
+    "ru": "Тарквин Фатток-Смайт: ужас передозировки"
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_13_DESCRIPTION",
+    "en": "Oh Sheep, where art thou?\n\n                On the wall.",
+    "ru": "О агнец, где же ты?\n\n                На стене."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_2_DESCRIPTION",
+    "en": "Cross-railed\n                \n                Believe in a higher powah.",
+    "ru": "Распятие на перилах\n                \n                Верь в высшую сиилу."
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_9",
+    "en": "Mon ami, you have NO idea.",
+    "ru": "Мон ами, вы даже НЕ представляете."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_2",
+    "en": "Here to chaperone your date.",
+    "ru": "Здесь, чтобы быть дуэньей на вашем свидании."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_5",
+    "en": "Not sure about this. Are you any fun on a date?",
+    "ru": "Не уверен насчёт этого. С тобой хоть весело на свиданиях?"
+  },
+  {
+    "key": "APP_RESISTANCE_FAKE_AGENTS_QUEST_TITLE",
+    "en": "2. DENY JUMPERS",
+    "ru": "2. НЕ ПУСКАТЬ В СВИТЕРАХ"
+  },
+  {
+    "key": "WINTERBALL_COUNTDOWN",
+    "en": "{[Days]} days until the New Years Eve ball[i2p_One]{[Days]} day until the New Years Eve ball",
+    "ru": "{[Days]} дн. до новогоднего бала[i2p_One]{[Days]} день до новогоднего бала"
+  },
+  {
+    "key": "CHALLENGE_MODE_SEED_TITLE",
+    "en": "SEED",
+    "ru": "СИД"
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH4_FAIL",
+    "en": "New sci-fi comedy shit compared to Red Dwarf.",
+    "ru": "Новый фантастический ситком — отстой по сравнению с «Красным карликом»."
+  },
+  {
+    "key": "DIALOG_BOUNCER_CLOSE_LAUNCH_PARTY",
+    "en": "Thanks for playing! Game over man, game over!",
+    "ru": "Спасибо за игру! Игра окончена, чувак, игра окончена!"
+  },
+  {
+    "key": "CHAPTER1/JOBS36_TITLE",
+    "en": "JAN BALL",
+    "ru": "ЯНВАРСКИЙ БАЛ"
+  },
+  {
+    "key": "CHAPTER1/JOBS36_SUBTITLE",
+    "en": "Albion First VIP ball",
+    "ru": "VIP-бал «Альбион прежде всего»"
+  },
+  {
+    "key": "CHAPTER1/JOBS25_SUBTITLE",
+    "en": "Red HOT. Ice COLD!",
+    "ru": "Раскалённый ЖАР. Ледяной ХОЛОД!"
+  },
+  {
+    "key": "APP_MEDR_HEAT",
+    "en": "HEAT",
+    "ru": "ОБОГРЕВ"
+  },
+  {
+    "key": "JOB_TRAPEZEARTIST",
+    "en": "Trapeze artist",
+    "ru": "Воздушный гимнаст"
+  },
+  {
+    "key": "CHAPTER0/INTERIORS1_INTROMESSAGES_5",
+    "en": "Choppy-chop. No workee, no money.",
+    "ru": "Живо-живо. Не работаешь — не получаешь."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS29_INTROMESSAGES_3",
+    "en": "Your lifetime, obviously. (Not much future in it.)",
+    "ru": "Твоей жизни, разумеется. (Перспективы так себе.)"
+  },
+  {
+    "key": "APP_FLAMR_END_SEARCH",
+    "en": "Thanks for reviewing your totally real, non-bot, FLAMR matches.",
+    "ru": "Спасибо за просмотр ваших абсолютно реальных, совсем-не-ботов совпадений в FLAMR."
+  },
+  {
+    "key": "LOVE_COUNTDOWN",
+    "en": "{[Days]} days to find love[i2p_One]{[Days]} day to find love",
+    "ru": "{[Days]} дн., чтобы найти любовь[i2p_One]{[Days]} день, чтобы найти любовь"
+  },
+  {
+    "key": "POSTCARD_HARRISON_PACE_FAIL",
+    "en": "After failing to find love on FLAMR Lassy returned to his first love; Film.",
+    "ru": "Не найдя любви в FLAMR, Лэсси вернулся к первой любви — кино."
+  },
+  {
+    "key": "CHAPTER1/SHAREDINTERIORS_KINGS_HEAD_PT2_FAILMESSAGES_1",
+    "en": "Sigh. If only you worked as hard at your job as failing at it, eh?",
+    "ru": "Эх. Если бы ты так же усердно работал, как проваливаешь работу, а?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS29_FAILMESSAGES_1",
+    "en": "After that performance, you should be paying me. Bad Seven. Bad!",
+    "ru": "После такого выступления это ты мне должен платить. Плохой Семёрка. Плохой!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS29_BONUSMESSAGES_1",
+    "en": "You're really making the name Seven mean something out there.",
+    "ru": "Ты и правда делаешь имя Семёрка значимым."
+  },
+  {
+    "key": "CHAPTER1/NEWS_ENTRY3_TEXT",
+    "en": "\"This is where the heart-bleeders on the left would start bleating about tolerance and community.\n\nBollocks. Far as I'm concerned, they can get on the boat with their Euro friends.\"",
+    "ru": "«Вот тут-то сердобольные левые начали бы блеять о терпимости и сплочённости.\n\nЧушь собачья. Лично я считаю, пусть садятся на корабль вместе со своими друзьями-Евро»."
+  },
+  {
+    "key": "CHAPTER1/NEWS_ENTRY5_TEXT",
+    "en": "Pubs in the Somerset region have been advised to take precautions after the latest firebombing attributed to French nationalists.\n\nThe Queen's Arms, The Crown and the Prince's Lodgings are just the latest in a line of anti-patriotic assaults around the country.\n\nPolice urge that anyone with information should come forwards. \n\nRemember: SILENCE IS SEDITION.",
+    "ru": "Пабам в регионе Сомерсет рекомендовано принять меры предосторожности после очередного поджога, приписываемого французским националистам.\n\n«Королевские Руки», «Корона» и «Покои Принца» — лишь последние в череде антипатриотических атак по всей стране.\n\nПолиция просит всех, кто располагает информацией, обратиться к властям. \n\nПомните: МОЛЧАНИЕ — ЭТО МЯТЕЖ."
+  },
+  {
+    "key": "CHAPTER1/NEWS_ENTRY8_TEXT",
+    "en": "Starting tonight on Channel 7 - you've seen Big Brother, you've laughed at Room 101, and now prepare to have your heartstrings plucked with the hottest new gameshow of the year: SOPHIE'S CHOICE. \n\nThis week, two impoverished siblings compete for one university scholarship - and proof of their mother's love. \n\nWho will walk away with a future? Find out at 8PM!",
+    "ru": "Сегодня вечером на Канале 7 — вы видели «Большого Брата», смеялись над «Комнатой 101», а теперь приготовьтесь к слезам от самого горячего нового шоу года: ВЫБОР СОФИ. \n\nНа этой неделе двое обнищавших братьев и сестёр борются за одну университетскую стипендию — и доказательство материнской любви. \n\nКто уйдёт с будущим? Узнайте в 20:00!"
+  },
+  {
+    "key": "CHAPTER1/NEWS_ENTRY9_TEXT",
+    "en": "It's the biggest event of the season!\n\nAlbion First is proud to sponsor this year's January Ball, and if you don't have a ticket yet...\n\nWell, you're not getting a ticket! But if you were on the list, you'd even now be preparing to celebrate British independence, alongside Albion First party leader Simon Tavener himself, via live feed from his holiday home in Costa Rica.",
+    "ru": "Главное событие сезона!\n\n«Альбион прежде всего» с гордостью спонсирует Январский бал этого года, и если у вас ещё нет билета...\n\nЧто ж, билета вам не видать! Но будь вы в списке, вы бы уже сейчас готовились отпраздновать британскую независимость бок о бок с лидером «Альбион прежде всего» Саймоном Тавенером — по прямой трансляции из его загородного дома в Коста-Рике."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR27_INTROMESSAGES_6",
+    "en": "Tomorrow is the Albion First January Ball.",
+    "ru": "Завтра Январский бал «Альбион прежде всего»."
+  },
+  {
+    "key": "CHAPTER1/PLOTCLUBBERS2_VISIT1_INTROMESSAGES_3",
+    "en": "Is me, Viklav! Your neighbourly neighbour!",
+    "ru": "Это я, Виклав! Ваш соседистый сосед!"
+  },
+  {
+    "key": "CHAPTER1/PLOTCLUBBERS2_VISIT1_INTROMESSAGES_7",
+    "en": "Need to see your ID, Viklav.",
+    "ru": "Мне нужно увидеть твоё удостоверение, Виклав."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CORRECT_ITEM__5",
+    "en": "About 100 miles?",
+    "ru": "Примерно 160 километров?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_INTROMESSAGES_5",
+    "en": "Austerity is what it is, my good... Euro.",
+    "ru": "Времена аскезы, мой добрый... Евро."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_OUTROMESSAGES_2",
+    "en": "I haven't been so exhausted after handling a pair of balls since university.",
+    "ru": "Я так не выматывался, возясь с парой балов, со времён университета."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR1_INTROMESSAGES_5",
+    "en": "Have been married woman for years. Have... needs.",
+    "ru": "Была замужняя женщина много лет. Есть... потребности."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR1_INTROMESSAGES_7",
+    "en": "I was-",
+    "ru": "Я бы-"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR13_INTROMESSAGES_9",
+    "en": "That Euro rotting away in pound-my-arse jail? Never heard of 'em.",
+    "ru": "Тот Евро, гниющий в тюряге «нагни-мне-зад»? Никогда о нём не слышал."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR14_INTROMESSAGES_2",
+    "en": "Isn't my little custard tart looking all snuggly as a bug?",
+    "ru": "А мой маленький пирожочек устроился тут уютненько, как жучок?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS2_INTROMESSAGES_9",
+    "en": "But we're talking, like, a real anus.",
+    "ru": "Но мы говорим, типа, о реальной заднице."
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_BEACH_BAR_INTROMESSAGESHEADBOUNCER_1",
+    "en": "Aloha, head bouncerino. Ready to work? That makes one of us.",
+    "ru": "Алоха, главный вышибалино. Готов работать? Это хотя бы один из нас."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS37_INTROMESSAGES_4",
+    "en": "BOGOF?",
+    "ru": "БОГОФ?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS37_INTROMESSAGES_5",
+    "en": "Up yours, too!",
+    "ru": "И тебе того же!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_23",
+    "en": "Now back to the grind, my little waffle-snorter.",
+    "ru": "А теперь за работу, мой маленький вафлежор."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS15_INTROMESSAGES_3",
+    "en": "You fall off, aim for... I dunno.",
+    "ru": "Если упадёшь, целься в... ну не знаю."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_INTROMESSAGES_9",
+    "en": "See, with smarty-pants like that, I could almost think you was British.",
+    "ru": "Ишь, с такой-то смекалкой я мог бы почти принять тебя за британца."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR22_INTROMESSAGES_5",
+    "en": "That's Master Futtock-Smythe to you, you oily little scrot.",
+    "ru": "Для тебя — мастер Фатток-Смайт, слизняк ты мелкий."
+  },
+  {
+    "key": "CHAPTER2/PLOTCLUBBERS2_VISIT1_DENIEDMESSAGES_2",
+    "en": "Did you not hear me? I am Tarquin Futtock-Smythe.",
+    "ru": "Ты что, не расслышал? Я — Тарквин Фатток-Смайт."
+  },
+  {
+    "key": "CHAPTER2/PLOTCLUBBERS2_VISIT1_DENIEDMESSAGES_3",
+    "en": "My father is Sebastian Futtock-Smythe.",
+    "ru": "Мой отец — Себастьян Фатток-Смайт."
+  },
+  {
+    "key": "CHAPTER2/PLOTCLUBBERS2_VISIT1_DENIEDMESSAGES_4",
+    "en": "Minster of Expulsion Sebastian Futtock-Smythe.",
+    "ru": "Министр по выдворению Себастьян Фатток-Смайт."
+  },
+  {
+    "key": "CHAPTER2/PLOTCLUBBERS2_VISIT1_INTROMESSAGES_4",
+    "en": "Tarquin Futtock-Smythe.",
+    "ru": "Тарквин Фатток-Смайт."
+  },
+  {
+    "key": "CHAPTER2/PLOTCLUBBERS2_VISIT2_DENIEDMESSAGES_3",
+    "en": "NOBODY LAUGHS AT THE NAME TARQUIN FUTTOCK SMYTHE!",
+    "ru": "НИКТО НЕ СМЕЁТСЯ НАД ИМЕНЕМ ТАРКВИН ФАТТОК СМАЙТ!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS7_INTROMESSAGES_1",
+    "en": "Can you believe my brother?",
+    "ru": "Ты можешь поверить в моего брата?"
+  },
+  {
+    "key": "CHAPTER2/NEWS_ENTRY8_TEXT",
+    "en": "Beloved soap star Harrison Pace has stepped down from his celebrated role as Westerly Street barman Cecil Blankensop to star in a new tell-all biopic - THE TWO FACES OF SIMON TAVENER.\n\nThis controversial take-down of the Prime Minister will cover his early university life and membership of Cambridge's Randy Stags, through to his membership of the English Front and pre-Brexit campaigning. \n\nTavener has so far not commented on the upcoming movie, which is due for release this Autumn.",
+    "ru": "Любимый актёр из мыльных опер Харрисон Пейс покинул свою знаменитую роль бармена Сесила Бланкенсопа в «Вестерли-стрит», чтобы сняться в новом разоблачительном байопике — «ДВА ЛИЦА САЙМОНА ТАВЕНЕРА».\n\nЭтот скандальный фильм о премьер-министре охватит его ранние университетские годы и членство в кембриджском клубе «Похотливые олени», вплоть до участия в Английском фронте и предбрекситной кампании.\n\nТавенер пока не прокомментировал предстоящий фильм, выход которого запланирован на эту осень."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS5_INTROMESSAGES_3",
+    "en": "I run a tight enchanted ship here. Serve me well, and you shall be rewarded.",
+    "ru": "Я управляю здесь кораблём жёсткой рукой. Служите мне хорошо, и будете вознаграждены."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS5_INTROMESSAGES_4",
+    "en": "Cross me and my wrath shall be spoken of by mothers to frighten their young.",
+    "ru": "Перейдите мне дорогу — и мой гнев будут пересказывать матери, пугая своих чад."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS36_INTROMESSAGES_4",
+    "en": "Very well. Here's how this is going to work.",
+    "ru": "Прекрасно. Вот как это будет устроено."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR1_INTROMESSAGES_9",
+    "en": "But piano... urgh, piano is heavy! Perhaps you help get up from storage?",
+    "ru": "Но пианино... уф, пианино тяжёлое! Может, поможешь поднять из кладовки?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS6_INTROMESSAGES_1",
+    "en": "Are you late? No. Slightly early. Which is just as bad.",
+    "ru": "Вы опоздали? Нет. Немного рановато. Что ничуть не лучше."
+  },
+  {
+    "key": "CHAPTER2/NEWS_ENTRY5_TEXT",
+    "en": "A drug epidemic in the Somerset region has been blamed on the rise of transient Euro workers in key security positions.\n\nMan on the scene Officer Julian Jupp (42) commented \"Don't know what you all bloody expected.\n\nYou think we'd get these animals to do an honest day's work if they weren't scrimping a little on the side? Throw 'em all out, that's what I say.\"",
+    "ru": "Эпидемию наркотиков в регионе Сомерсет связывают с ростом числа временных работников-Евро на ключевых охранных должностях.\n\nОфицер на месте событий Джулиан Юпп (42) прокомментировал: «Не знаю, чего вы все, чёрт возьми, ожидали.\n\nВы думаете, мы заставили бы этих животных честно работать, если бы они не подхалтуривали на стороне? Выгнать их всех, вот что я говорю»."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS15_OUTROMESSAGES_2",
+    "en": "Had cameras rolling and everything.",
+    "ru": "А у меня камеры писали и всё такое."
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_LONDON_WALL_SPRING_INTROMESSAGESNONHEADBOUNCER_2",
+    "en": "I cannot overstate this. You must keep this wall safe. All of London depends on it.",
+    "ru": "Я не преувеличиваю. Вы должны обеспечить безопасность этой стены. От неё зависит весь Лондон."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS38_INTROMESSAGES_3",
+    "en": "Licensing board's on my arse. Ready to shut us down.",
+    "ru": "Лицензионная комиссия на хвосте. Готовы нас прикрыть."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS25_FAILMESSAGES_1",
+    "en": "The wall's still standing. That's as close to a compliment as you're getting for whatever that was.",
+    "ru": "Стена ещё стоит. Это максимальный комплимент, какой вы получите за то, что бы это ни было."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR18_INTROMESSAGES_5",
+    "en": "Something about health and safety standards.",
+    "ru": "Что-то про санитарные нормы."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS9_INTROMESSAGES_3",
+    "en": "Dave, there's no roof, Dave. The pub's gone, Dave.",
+    "ru": "Дэйв, тут крыши нет, Дэйв. Паба больше нет, Дэйв."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET0_0",
+    "en": "#112. So sorry. Piano was so heavy.",
+    "ru": "#112. Так извиняюсь. Пианино был такой тяжёлый."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET0_1",
+    "en": "First Viklav falls, then you!",
+    "ru": "Сначала Виклав упал, потом ты!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_0",
+    "en": "Oi Oi! King's Head Dave here!",
+    "ru": "Эй-эй! Это Дэйв из «Королевской Головы»!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_1",
+    "en": "Mylarna asked me to help with her piano.",
+    "ru": "Миларна попросила помочь с пианино."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET1_0",
+    "en": "Hey, it's Div! King's Head Div.",
+    "ru": "Привет, это Div! Div из «Королевской Головы»."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET1_1",
+    "en": "DAVE. Grr.",
+    "ru": "ДЭЙВ. Грр."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET2_0",
+    "en": "Dave here! King's Head Dave.",
+    "ru": "Это Дэйв! Дэйв из «Королевской Головы»."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET4_0",
+    "en": "King's Head Dave. OK. We're going to find out who bombed the place.",
+    "ru": "Дэйв из «Королевской Головы». Ладно. Мы выясним, кто взорвал заведение."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT6_MESSAGESET0_2",
+    "en": "So you no workie for Jonesey. Not any more.",
+    "ru": "Так что на Джонси ты больше не работаешь. Не-а."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS9_INTROMESSAGES_25",
+    "en": "If the scan reveals a weapon. Ban!",
+    "ru": "Если скан обнаружит оружие — бан!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS9_INTROMESSAGES_27",
+    "en": "...and ban.",
+    "ru": "...и бан."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS9_INTROMESSAGES_29",
+    "en": "Plan to ban.",
+    "ru": "План — бан."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_FAILMESSAGES_2",
+    "en": "And a bloody good job too!",
+    "ru": "И чертовски хорошо, что так!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS14_OUTROMESSAGES_4",
+    "en": "It's on Wikipedia. Look it up.",
+    "ru": "Это в Википедии. Посмотри."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR7_INTROMESSAGES_8",
+    "en": "Where are you actually from, Mylarna?",
+    "ru": "Откуда ты вообще родом, Миларна?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR7_CORRECT_ITEM__2",
+    "en": "Yes. Dave had a collection for Viklav.",
+    "ru": "Да. Дэйв устроил сбор средств для Виклава."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR7_CORRECT_ITEM__4",
+    "en": "Thank you. And I will thank Dave...",
+    "ru": "Спасибо. И я поблагодарить Dave..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR8_INTROMESSAGES_3",
+    "en": "Pray for Viklav. Seeing if you would join.",
+    "ru": "Молиться за Виклава. Хочу узнать, пойдёшь ли ты."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR8_CORRECT_ITEM__2",
+    "en": "Yes. Dave had a collection for Viklav.",
+    "ru": "Да. Дэйв устроил сбор средств для Виклава."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR8_CORRECT_ITEM__4",
+    "en": "Thank you. And I will thank Dave...",
+    "ru": "Спасибо. И я поблагодарить Дэйв..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR9_INTROMESSAGES_11",
+    "en": "I mean, not that little Mylarna would know of resistance.",
+    "ru": "То есть, маленькая Миларна ничего не знает про Сопротивление."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR9_CORRECT_ITEM__2",
+    "en": "Yes. Dave had a collection for Viklav.",
+    "ru": "Да. Дэйв устроил сбор средств для Виклава."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR9_CORRECT_ITEM__4",
+    "en": "Thank you. And I will thank Dave...",
+    "ru": "Спасибо. И я поблагодарить Дэйв..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR10_INTROMESSAGES_6",
+    "en": "Prison most difficult for Euros.",
+    "ru": "Тюрьма самый трудный для евро."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR10_INTROMESSAGES_7",
+    "en": "Even Euros from Keighley.",
+    "ru": "Даже евро из Кили."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR10_CORRECT_ITEM__2",
+    "en": "Yes. Dave had a collection for Viklav.",
+    "ru": "Да. Дэйв устроил сбор средств для Виклава."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR10_CORRECT_ITEM__4",
+    "en": "Thank you. And I will thank Dave...",
+    "ru": "Спасибо. И я поблагодарить Дэйв..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR12_INTROMESSAGES_33",
+    "en": "I'm just a traffic warden. With a coat.",
+    "ru": "Я просто инспектор парковки. В халате."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR22_INTROMESSAGES_21",
+    "en": "Can't make a little phonecall if I'm pleasantly off my tits, can I?",
+    "ru": "Не смогу же я позвонить, если буду в приятной отключке, верно?"
+  },
+  {
+    "key": "CHAPTER2/NOTES_11_TEXT",
+    "en": "Dave's lost his special ring.",
+    "ru": "Дэйв потерял своё особое кольцо."
+  },
+  {
+    "key": "CHAPTER2/NOTES_21_TEXT",
+    "en": "Dave has a 'Free Viklav' fund.",
+    "ru": "У Дэйва есть фонд «Свободу Виклаву»."
+  },
+  {
+    "key": "CHAPTER2/NOTES_23_TEXT",
+    "en": "Tarquin: 10 CheesRs by Friday!'",
+    "ru": "Тарквин: 10 CheesRs до пятницы!"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_FAILMESSAGES_1",
+    "en": "You let in so much filth. I will be on the blower to Jupp.",
+    "ru": "Ты впустил столько отребья. Я позвоню Юппу."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_BONUSMESSAGES_1",
+    "en": "Fantastic. I will report on a job well done to Jupp.",
+    "ru": "Великолепно. Я доложу Юппу об отличной работе."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_INTROMESSAGES_1",
+    "en": "Ah you're from Jupp Security.",
+    "ru": "А, ты из охраны Юппа."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET0_4",
+    "en": "I'm gonna re-open The Kings. Start a little fund for Viklav.",
+    "ru": "Я собираюсь вновь открыть «Королевскую». Начну сбор средств для Виклава."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET1_4",
+    "en": "KISS wtf. Kiss someone! bloody autocorrect.",
+    "ru": "УБИТЬ блин. Поцеловать кого-нибудь! чёртова автозамена."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_CORRECT_ITEM__7",
+    "en": "But Officer Jupp sir, what does this have to do with me?",
+    "ru": "Но офицер Юпп, сэр, какое мне-то до этого дело?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR20_INTROMESSAGES_12",
+    "en": "Jupp will want his security firm covering it round here.",
+    "ru": "Юпп захочет, чтобы его охранная фирма обеспечивала их здесь."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR26_CALENDAR_POST",
+    "en": "Jupp wants me to help with the election.",
+    "ru": "Юпп хочет, чтобы я помог с выборами."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR27_CALENDAR_POST",
+    "en": "Jupp wants me to help with the election.",
+    "ru": "Юпп хочет, чтобы я помог с выборами."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_2",
+    "en": "Good work keeping in Jupp's favour.",
+    "ru": "Хорошая работа — удержался в милости у Юппа."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_5",
+    "en": "Jupp is sending you to the elections.",
+    "ru": "Юпп отправляет тебя на выборы."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_25",
+    "en": "And I received a pen from Jupp.",
+    "ru": "И получил ручку от Юппа."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_26",
+    "en": "It has Jupps new office address on it.",
+    "ru": "На ней новый рабочий адрес Юппа."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR14_INTROMESSAGES_14",
+    "en": "Jupp Security is expanding.",
+    "ru": "Охранное агентство Юппа расширяется."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR29_CORRECT_ITEM__11",
+    "en": "Find out all you can about an Officer called Jupp.",
+    "ru": "Узнай всё, что сможешь, об офицере по имени Юпп."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR30_CORRECT_ITEM__11",
+    "en": "Find out all you can about an Officer called Jupp.",
+    "ru": "Узнай всё, что сможешь, об офицере по имени Юпп."
+  },
+  {
+    "key": "CHAPTER2/SOCIAL_SCORE_AWARD_1",
+    "en": "Tarquin the git.",
+    "ru": "Тарквин — мерзавец."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR25_CALENDAR",
+    "en": "Tarquin blackmail!",
+    "ru": "Шантаж от Тарквина!"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR25_CALENDAR_POST",
+    "en": "Is that the last of Tarquin.",
+    "ru": "Неужели с Тарквином покончено."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR25_NO_ITEM__1",
+    "en": "Fuck off, Tarquin.",
+    "ru": "Пошёл на хрен, Тарквин."
+  },
+  {
+    "key": "CHAPTER2/NOTES_12_TEXT",
+    "en": "Tarquin wants 10 CheeseRs.",
+    "ru": "Тарквин хочет 10 CheeseRs."
+  },
+  {
+    "key": "CHAPTER2/PLOTCLUBBERS2_INCORRECTITEMMESSAGES_1",
+    "en": "Any interest in this, Tarquin?",
+    "ru": "Тебе это интересно, Тарквин?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_INTROMESSAGES_3",
+    "en": "It over. They win. The bastards win.",
+    "ru": "Всё кончено. Они победили. Сволочи победили."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_INTROMESSAGES_4",
+    "en": "We leave tomorrow. No argument. No more fighting.",
+    "ru": "Мы уезжаем завтра. Без споров. Больше никакой борьбы."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_INTROMESSAGES_9",
+    "en": "Ha! Can you not tell from accent?",
+    "ru": "Ха! По акценту не слышно?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_INTROMESSAGES_11",
+    "en": "But sometimes better to be a little foreign, yes?",
+    "ru": "Но иногда лучше быть немного иностранкой, да?"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_INTROMESSAGES_12",
+    "en": "Idiots like Jupp hear accent, they underestimate. Good for fighting good fight.",
+    "ru": "Идиоты вроде Юппа слышат акцент, недооценивают. Хорошо для борьбы."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_INTROMESSAGES_13",
+    "en": "After while, hard to switch it off.",
+    "ru": "Со временем трудно выключить."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR10_INTROMESSAGES_15",
+    "en": "This not country I love any more. Cannot even recognise.",
+    "ru": "Это больше не страна, которую я люблю. Даже узнать не могу."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR8_INTROMESSAGES_16",
+    "en": "When Albion First blames the... explosions... on us, they'll move their next ball to London.",
+    "ru": "Когда «Альбион прежде всего» свалит... взрывы... на нас, они перенесут следующий бал в Лондон."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS16_INTROMESSAGES_6",
+    "en": "Lo, there to sup from the teats of the Oakenfold, Cox and Whitehead.",
+    "ru": "И тамо вкусим мы от сосцов Оукенфолда, Кокса и Уайтхеда."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS16_FAILMESSAGES_3",
+    "en": "Begone! Lest I throw rocks in thy direction.",
+    "ru": "Изыди! Не то побью тебя камнями!"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS5_INTROMESSAGES_9",
+    "en": "So, like, you're... like half in luck.",
+    "ru": "Так что тебе, типа... наполовину повезло."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS13_BONUSMESSAGES_1",
+    "en": "Right. Right. Your shift? You did tres bien.",
+    "ru": "Так. Так. Твоя смена? Ты справился тре бьян."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS11_OUTROMESSAGES_5",
+    "en": "Spend a penny to spend a penny, right?",
+    "ru": "Пенни за пенни, верно?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_INTROMESSAGES_15",
+    "en": "Don't want The Man taking away our license. Duh.",
+    "ru": "Не хочу, чтобы Система отобрала нашу лицензию. Ну ясен пень."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR14_INTROMESSAGES_4",
+    "en": "Jupp is expecting you.",
+    "ru": "Юпп тебя ожидает."
+  },
+  {
+    "key": "CHAPTER2/BILL_ENTRY12_DESCRIPTION",
+    "en": "Our water is British. Euros no longer get a free ride.",
+    "ru": "Наша вода — британская. Евро больше не будут кататься на халяву."
+  },
+  {
+    "key": "CHAPTER2/BILL_ENTRY13_DESCRIPTION",
+    "en": "Our water is British. Euros no longer get a free ride.",
+    "ru": "Наша вода — британская. Евро больше не будут кататься на халяву."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_CORRECT_ITEM__12",
+    "en": "See, with smarty-pants like that, I could almost think you was British.",
+    "ru": "Ишь, с такой-то башкой я бы почти подумал, что ты британец."
+  },
+  {
+    "key": "CHAPTER2/NOTES_19_TEXT",
+    "en": "Shannon's back again.",
+    "ru": "Шэннон снова вернулась."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS22_FAILMESSAGES_3",
+    "en": "YOU COMPLETE ANUS.",
+    "ru": "ТЫ ПОЛНЫЙ АНУС."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS26_INTROMESSAGES_13",
+    "en": "Good Euro.",
+    "ru": "Хороший Евро."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS26_INTROMESSAGES_14",
+    "en": "Now get out there and make your betters feel welcome.",
+    "ru": "А теперь иди и сделай так, чтобы те, кто выше тебя, чувствовали себя желанными гостями."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_FAILMESSAGES_2",
+    "en": "Ha. Yep. And not a moment too soon if you ask me.",
+    "ru": "Ха. Ага. И давно пора, если меня спросите."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_INTROMESSAGES_8",
+    "en": "Keeping all you Euros out.",
+    "ru": "Не пускает всех вас, Евро."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_9",
+    "en": "Very important. Can't stress that enough.",
+    "ru": "Очень важно. Не устану это повторять."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_11",
+    "en": "Keep a look out for the usual axis-of Euro evil lot.",
+    "ru": "Следи за обычной Евро-осью зла."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_INTROMESSAGES_19",
+    "en": "Get to fucking work.",
+    "ru": "Иди нахрен работай."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS29_OUTROMESSAGES_6",
+    "en": "How else were we going to smoke out the vermin in our midst?",
+    "ru": "Как ещё мы бы выкурили этих паразитов из нашей среды?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS31_INTROMESSAGES_6",
+    "en": "Remember, the Home Office stamp will only show under the woke-light.",
+    "ru": "Помни, печать МВД видна только под вок-лампой."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS25_OUTROMESSAGES_1",
+    "en": "You survived. I thought I heard gunfire out there.",
+    "ru": "Ты выжил. Мне показалось, там стреляли."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "All done? Clear out then. I need my beauty sleep.",
+    "ru": "Всё? Проваливай тогда. Мне нужен здоровый сон."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_13",
+    "en": "Now I, Harrison Pace, need to raise my profile a bit, okay?",
+    "ru": "Теперь мне, Харрисону Пейсу, нужно немного поднять свою популярность, ладно?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_19",
+    "en": "Even one that had a little accident.",
+    "ru": "Даже с той, с которой произошёл небольшой несчастный случай."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_INTROMESSAGES_1",
+    "en": "Aren't you Lassy? From the movie with that washed up actor?",
+    "ru": "Ты же Лэсси? Из фильма с тем отжившим актёром?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_2",
+    "en": "I can't thank you enough for help.",
+    "ru": "Слов не хватит, чтобы отблагодарить тебя за помощь."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET0_0",
+    "en": "Oi Oi! King's Head Dave here!",
+    "ru": "Ой-ой! На связи Дэйв из «Королевской Головы»!"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_1",
+    "en": "that rock cd was so cool thanks xoxoxo",
+    "ru": "тот рок-диск был такой крутой спасибо целую-обнимаю"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT5_MESSAGESET3_2",
+    "en": "I have a delivery for you. Over.",
+    "ru": "У меня есть посылка для тебя. Приём."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR8_INTROMESSAGES_14",
+    "en": "Wouldn't be a very good one if the answer was yes, darling!",
+    "ru": "Это была бы не очень хорошая афера, если бы ответ был «да», дорогуша!"
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR9_INTROMESSAGES_10",
+    "en": "But when you meet a date, always give them a gift.",
+    "ru": "Но когда идёшь на свидание, всегда дари подарок."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLATCHARACTER_VISITOR10_INTROMESSAGES_16",
+    "en": "We already set up a direct debit in your name.",
+    "ru": "Мы уже оформили автосписание на твоё имя."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS1_FAILMESSAGES_4",
+    "en": "Golden! What'd you call that performance?",
+    "ru": "Голден! Это ты называешь работой?"
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS2_FAILMESSAGES_2",
+    "en": "It's what you might call a curate's egg.",
+    "ru": "Это то, что можно назвать палкой о двух концах."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_BONUSMESSAGES_1",
+    "en": "Vous really outdid... vous-elf? Splendid. Or, as the French would say... ",
+    "ru": "Вы действительно превзошли... вы-сами-себя? Великолепно. Или, как сказали бы французы... "
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS5_FAILMESSAGES_1",
+    "en": "Alas, you made a bit of a cock-au-vin out of that.",
+    "ru": "Увы, ты устроил из этого настоящий кок-о-вен."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS9_PASSMESSAGES_4",
+    "en": "Only if your daddy be rich and not disowned ye yet.",
+    "ru": "Только если твой папаша богат и ещё не отрёкся от тебя."
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_1",
+    "en": "Mylarna!",
+    "ru": "Миларна!"
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS4_VISIT1_ENTRYMESSAGES_2",
+    "en": "I, Harrison Pace, thank you. And so does Lassy.",
+    "ru": "Я, Харрисон Пейс, благодарю вас. И Лэсси тоже."
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS4_VISIT1_DENIEDMESSAGES_4",
+    "en": "Come, Lassy! I, Harrison Pace, am leaving!",
+    "ru": "Идём, Лэсси! Я, Харрисон Пейс, ухожу!"
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS4_VISIT2_ENTRYMESSAGES_2",
+    "en": "Very well! I, Harrison Pace, shall trust your judgement. Come, Lassy.",
+    "ru": "Прекрасно! Я, Харрисон Пейс, доверюсь вашему суждению. Идём, Лэсси."
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS4_VISIT2_DENIEDMESSAGES_2",
+    "en": "Hmm. Perhaps I shall visit later, when I, Harrison Pace, am suitably unencumbered!",
+    "ru": "Хм. Пожалуй, зайду позже, когда я, Харрисон Пейс, буду свободен от обременений!"
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS4_VISIT2_DENIEDMESSAGES_3",
+    "en": "Do not worry, Lassy. You will be furnished with a treat.",
+    "ru": "Не волнуйся, Лэсси. Тебе достанется угощение."
+  },
+  {
+    "key": "DLC_CHAPTER0/PLOTCLUBBERS4_CORRECTITEMMESSAGES_2",
+    "en": "I, Harrison Pace, most assuredly would! And so would Lassy.",
+    "ru": "Я, Харрисон Пейс, несомненно! И Лэсси тоже."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_1",
+    "en": "Ah. Listen, I was thinking about giving you a raise.",
+    "ru": "А. Слушай, я думал повысить тебе зарплату."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_3",
+    "en": "But then I thought some more and decided, no.",
+    "ru": "Но потом подумал ещё и решил — нет."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_5",
+    "en": "But I'm told I have to give you something.",
+    "ru": "Но мне сказали, что я должен тебе что-то дать."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_13",
+    "en": "I will be overjoyed to assist with that.",
+    "ru": "Я буду несказанно рад помочь с этим."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_OUTROMESSAGES_2",
+    "en": "Hurry, before I replace you with a robot.",
+    "ru": "Поторопись, пока я не заменил тебя роботом."
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY2_TEXT",
+    "en": "...the French minister for foreign affairs was heard to say 'ha ha'.",
+    "ru": "...французский министр иностранных дел прокомментировал: «ха-ха»."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS14_FAILMESSAGES_2",
+    "en": "Not last I checked.",
+    "ru": "Вроде нет, когда проверял в последний раз."
+  },
+  {
+    "key": "DLC_CHAPTER0/SHAREDINTERIORS_CASINO_FAILMESSAGES_4",
+    "en": "(SECRETLY: TERMINATION)",
+    "ru": "(СЕКРЕТНО: УТИЛИЗАЦИЯ)"
+  },
+  {
+    "key": "DLC_CHAPTER0/SHAREDINTERIORS_CASINO_FAILMESSAGES_2",
+    "en": "CORRECTION. NOT TERMINATION.",
+    "ru": "ПОПРАВКА. НЕ УТИЛИЗАЦИЯ."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS19_INTROMESSAGES_3",
+    "en": "And watch for cheeseheads!",
+    "ru": "И смотри за сырноголовыми!"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_1",
+    "en": "Like I give a crap.I'm going home.Looks crap anywayDon't want to come in anyway.You're an idiot.I'll be back.I hate you.You suck.Hate this place.Screw you.Just die.Going next door.This place sucks.I don't care, im going.I'm out of here.Go check yourself.I'm off.Don't need this.Like I care.See you.Never again.I queued for that.I will be making a complaint.This can't be possible.Who do you think you are?Right, I'm going.Can't believe this.How is this happening.Do you know who I am?Not bothered.Not interested anyway.This ain't nothing.Who are you?What on earth.What?Ok ok.I was going anyway.I'll come back later.No empathy.",
+    "ru": "Мне плевать.Я пошёл домой.Выглядит отвратительно.Всё равно не хочу входить.Ты идиот.Я вернусь.Я тебя ненавижу.Ты отстой.Ненавижу это место.Проваливай.Просто умри.Пойду в соседний клуб.Это место отстой.Мне плевать, я ухожу.Я ухожу.Проверь сам себя.Я ухожу.Мне не нужно это.Мне плевать.До свидания.Никогда больше.Я стоял в очереди ради этого.Я буду жаловаться.Это невозможно.Кто ты такой?Ладно, я ухожу.Не могу поверить.Как это происходит.Ты знаешь, кто я?Мне по фигу.И вообще не интересно.Это ничего.Кто ты?Боже мой.Что?Ладно, ладно.Я всё равно уходил.Я вернусь позже.Нет сочувствия."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_8",
+    "en": "It's me, check again.",
+    "ru": "Это я, проверь заново."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HOLOGRAM_1",
+    "en": "Sure it has a hologram.",
+    "ru": "Конечно, там есть голограмма."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HOLOGRAM_2",
+    "en": "Not all ID's have a hologram.",
+    "ru": "Не у всех удостоверений есть голограмма."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HOLOGRAM_3",
+    "en": "It doesn't need a hologram.",
+    "ru": "На нём и не должно быть голограммы."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HOLOGRAM_4",
+    "en": "Are you sure?",
+    "ru": "Ты уверен?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HOLOGRAM_5",
+    "en": "Really?",
+    "ru": "Серьёзно?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_FLAG_4",
+    "en": "Is it that important?",
+    "ru": "Это так важно?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_EXPIRATION_1",
+    "en": "It's not out of date.",
+    "ru": "Оно не просрочено."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_EXPIRATION_3",
+    "en": "Can you let it slide.",
+    "ru": "Может, закроешь на это глаза?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_EXPIRATION_5",
+    "en": "I'm sure it's not out of date.",
+    "ru": "Я уверен, что удостоверение не просрочено."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HEAD_3",
+    "en": "You're wrong, of course I can check...",
+    "ru": "Ты ошибаешься, конечно я могу это носить..."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_BODY_2",
+    "en": "I can't wear this? Really?",
+    "ru": "Мне нельзя это носить? Серьёзно?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_BODY_3",
+    "en": "You're wrong.",
+    "ru": "Ты ошибаешься."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_LEGS_2",
+    "en": "Can you just let it slide.",
+    "ru": "Да ладно, закрой на это глаза..."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_LEGS_3",
+    "en": "This is okay, isn't it?",
+    "ru": "Это же нормально, нет?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETDAY_3",
+    "en": "Can you check again!",
+    "ru": "Проверь ещё раз!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_3",
+    "en": "I don't need a ticket.",
+    "ru": "Мне не нужен билет."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_4",
+    "en": "No one told me!",
+    "ru": "Мне никто не говорил!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_5",
+    "en": "But I come here every week.",
+    "ru": "Но я хожу сюда каждую неделю."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_7",
+    "en": "I couldn't get a ticket.",
+    "ru": "Я не смог достать билет."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_CONCEALEDITEM_1",
+    "en": "Can you let it go.",
+    "ru": "Может, забудешь об этом?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_2",
+    "en": "This can't be real.",
+    "ru": "Это не может быть правдой!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_4",
+    "en": "You realise this has to be illegal.",
+    "ru": "Это должно быть незаконно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_2",
+    "en": "How about a little something for you?",
+    "ru": "Может, немного для тебя лично?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_5",
+    "en": "Please think again?",
+    "ru": "А может подумаешь ещё раз?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_CHEESER_5",
+    "en": "Nice one.",
+    "ru": "Неплохо."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_DIPUDABU_2",
+    "en": "Yep, I'll buy some!",
+    "ru": "Ага, куплю!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_DIPUDABU_5",
+    "en": "Nice one.",
+    "ru": "Неплохо."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_FACEDROPS_1",
+    "en": "I love Face Drops!",
+    "ru": "Обожаю Капли для лица!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_FACEDROPS_2",
+    "en": "I'll buy some!",
+    "ru": "Куплю!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_CHEESER_2",
+    "en": "No way!",
+    "ru": "Ни за что!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_CHEESER_3",
+    "en": "Get that away from me!",
+    "ru": "Убери это от меня!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_DIPUDABU_1",
+    "en": "No!",
+    "ru": "Нет!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_DIPUDABU_2",
+    "en": "No way!",
+    "ru": "Ни за что!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_DIPUDABU_3",
+    "en": "Get that away from me!",
+    "ru": "Убери это от меня!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_POWAHPILLS_1",
+    "en": "No!",
+    "ru": "Нет!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_POWAHPILLS_2",
+    "en": "No way!",
+    "ru": "Ни за что!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_POWAHPILLS_3",
+    "en": "Get that away from me!",
+    "ru": "Убери это от меня!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_FACEDROPS_3",
+    "en": "Get that away from me!",
+    "ru": "Убери это от меня!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_1",
+    "en": "Naughty naughty Euro, selling this! I'm reporting you.",
+    "ru": "Ай-ай-ай, непослушный Евро, продаёшь такое! Я на тебя доложу."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_2",
+    "en": "That's a bad idea, mate! Nicked! Your suspicion level is going well up!",
+    "ru": "Плохая идея, приятель! Попался! Уровень подозрительности полезет вверх!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_3",
+    "en": "Busted Euro! Your suspicion's going to hit the roof!",
+    "ru": "Попался, Евро! Уровень подозрительности зашкалит!"
+  },
+  {
+    "key": "DIALOG_RADIO_SEX_GENERAL_1",
+    "en": "Last person wasn't on the guestlist! Check guestlist.",
+    "ru": "Последний клиент не был в списке! Проверяй список внимательнее!"
+  },
+  {
+    "key": "DIALOG_RADIO_HOLOGRAM_GENERAL_1",
+    "en": "Last person had an ID with no hologram. Check ID for fakes.",
+    "ru": "У последнего клиента на удостоверении не было голограммы! Проверяй на подделки!"
+  },
+  {
+    "key": "DIALOG_RADIO_TICKETMISSING_GENERAL_1",
+    "en": "Last person had no ticket. Check tickets.",
+    "ru": "У последнего клиента не было билета! Проверяй билеты!"
+  },
+  {
+    "key": "DIALOG_RADIO_INCORRECT_REJECTION_1",
+    "en": "Last person should have been allowed entry!",
+    "ru": "Последнего клиента надо было впустить!"
+  },
+  {
+    "key": "DIALOG_RADIO_INCORRECT_REJECTION_TUTORIAL_1",
+    "en": "Last person had a golden ticket. Ticket = let them in!",
+    "ru": "У последнего клиента был золотой билет! С таким билетом надо впускать!"
+  },
+  {
+    "key": "DIALOG_RADIO_NATIONALITY_GENERAL_1",
+    "en": "Last person was from a banned country! Check nationality.",
+    "ru": "Последний клиент из запрещённой страны! Проверяй национальность!"
+  },
+  {
+    "key": "DIALOG_RADIO_FAIL_MESSAGE_1",
+    "en": "Your performance has not been good enough! Closing early.",
+    "ru": "Ты работаешь недостаточно хорошо! Закрываемся раньше."
+  },
+  {
+    "key": "DIALOG_RADIO_HALF_TIME_1",
+    "en": "Half way! Keep it going.",
+    "ru": "Половина ночи прошла. Продолжай в том же духе!"
+  },
+  {
+    "key": "DIALOG_RADIO_FAIL_POST_PLOT_1",
+    "en": "Too many incidents. Closing early!",
+    "ru": "Слишком много инцидентов. Закрываемся раньше!"
+  },
+  {
+    "key": "DIALOG_RADIO_UNDERCOVER_COP_1",
+    "en": "You idiot! Trying to sell drugs to an undercover agent...",
+    "ru": "Ты идиот! Пытался продать наркотики агенту под прикрытием..."
+  },
+  {
+    "key": "DIALOG_RADIO_INTRO_1",
+    "en": "I'll use the radio to stay in contact.",
+    "ru": "Я буду на связи по рации."
+  },
+  {
+    "key": "DIALOG_RADIO_DEFAULT_1",
+    "en": "I'll use the radio to stay in contact. The radio also displays incidents. Too many, we close.",
+    "ru": "Я на связи по рации. На рации видно инциденты. Слишком много — закрываемся."
+  },
+  {
+    "key": "DIALOG_GUESTLIST_INTRO_1",
+    "en": "Guestlist queue is on the right. If their name's not down, they're not coming in.",
+    "ru": "Очередь по списку гостей справа. Нет имени в списке — не впускай."
+  },
+  {
+    "key": "DIALOG_VIP_DEFAULT_1",
+    "en": "Remember the VIP password. VIPs need to say this password. No password, no entry!",
+    "ru": "Запомни пароль VIP. VIP-гости должны назвать пароль. Нет пароля — нет входа!"
+  },
+  {
+    "key": "DIALOG_SCANNER_DEFAULT_1",
+    "en": "Look for suspicious patches, scan and ban!",
+    "ru": "Ищи подозрительные выпуклости, сканируй и запрещай вход!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_9",
+    "en": "- Check nationality.\n- Check tickets.\n- Over 18s only!",
+    "ru": "- Проверяй национальность.\n- Проверяй билеты.\n- Только 18 и старше!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_10",
+    "en": "-- JANUARY VIP BALL --\n- Ticket holders only!\n- No ticket, no entry!",
+    "ru": "-- ЯНВАРСКИЙ VIP-БАЛ --\n- Только для обладателей билетов!\n- Нет билета — нет входа!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_11",
+    "en": "- Check tickets and VIPs.\n- Check IDs.\nWant % in tonight!",
+    "ru": "- Проверяй билеты и VIP.\n- Проверяй документы.\nХотим % сегодня!"
+  },
+  {
+    "key": "DIALOG_RULE_ID_1",
+    "en": "Check for underage and fake ID's",
+    "ru": "Проверяй возраст клиентов и подлинность удостоверений."
+  },
+  {
+    "key": "SHARED_ILLNESS_1_DESCRIPTION",
+    "en": "A nasty cold! Best rest for a day or two",
+    "ru": "Жуткая простуда! Лучше отдохнуть денёк-другой..."
+  },
+  {
+    "key": "MAP_MARKER3_MUSIC",
+    "en": "Funk",
+    "ru": "Фанк"
+  },
+  {
+    "key": "MAP_MARKER3_CROWD",
+    "en": "Students",
+    "ru": "Студенты"
+  },
+  {
+    "key": "MAP_MARKER5_CROWD",
+    "en": "Cheese heads",
+    "ru": "Сырноголовые"
+  },
+  {
+    "key": "MAP_MARKER6_MUSIC",
+    "en": "80's",
+    "ru": "80-е"
+  },
+  {
+    "key": "MAP_MARKER6_CROWD",
+    "en": "Smart casual",
+    "ru": "Элегантные"
+  },
+  {
+    "key": "MAP_MARKER7_MUSIC",
+    "en": "Classical",
+    "ru": "Классика"
+  },
+  {
+    "key": "MAP_MARKER2_MUSIC",
+    "en": "Beats",
+    "ru": "Биты"
+  },
+  {
+    "key": "DWEB_UPGRADE_2_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Oxide orange design clicker v3",
+    "ru": "Кликер v3 в оранжевом дизайне «Оксид»"
+  },
+  {
+    "key": "DWEB_UPGRADE_3_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Cow skin design deluxe clicker v4.",
+    "ru": "Делюкс-кликер v4 в дизайне «Коровья шкура»."
+  },
+  {
+    "key": "DWEB_UPGRADE_4_NEXT_UPGRADE_DESCRIPTION",
+    "en": "----",
+    "ru": "----"
+  },
+  {
+    "key": "LWEB_OUTFIT_1_DESCRIPTION",
+    "en": "View both sides equally.\n\nNOTE: Wear full Jarhead set and customers never push back.",
+    "ru": "Смотри на обе стороны одинаково.\n\nВАЖНО: Надень полный комплект «Солдафон» — и клиенты не будут спорить."
+  },
+  {
+    "key": "LWEB_OUTFIT_2_DESCRIPTION",
+    "en": "From the military to the street.\n\nNOTE: Wear full Jarhead set and customers never push back.",
+    "ru": "Из армии — на улицу.\n\nВАЖНО: Надень полный комплект «Солдафон» — и клиенты не будут спорить."
+  },
+  {
+    "key": "LWEB_OUTFIT_3_DESCRIPTION",
+    "en": "Combat leggings? C-eggings.\n\nNOTE: Wear full Jarhead set and customers never push back.",
+    "ru": "Боевые леггинсы? Б-еггинсы.\n\nВАЖНО: Надень полный комплект «Солдафон» — и клиенты не будут спорить."
+  },
+  {
+    "key": "LWEB_OUTFIT_10_DESCRIPTION",
+    "en": "Demand respect with Debonair.\n\nNOTE: Wear full set and receive less social credit penalties.",
+    "ru": "Требуй уважение в стиле Дебонэр.\n\nВАЖНО: Надень полный комплект — меньше штрафов к социальному кредиту."
+  },
+  {
+    "key": "LWEB_OUTFIT_11_DESCRIPTION",
+    "en": "Lined with monkey fur and ivory buttons.\n\nNOTE: Wear full set and receive less social credit penalties.",
+    "ru": "С подкладкой из обезьяньего меха и пуговицами из слоновой кости.\n\nВАЖНО: Надень полный комплект — меньше штрафов к социальному кредиту."
+  },
+  {
+    "key": "LWEB_OUTFIT_12_DESCRIPTION",
+    "en": "Pre-ironed and starched.\n\nNOTE: Wear full set and receive less social credit penalties.",
+    "ru": "Заранее выглажено и накрахмалено.\n\nВАЖНО: Надень полный комплект — меньше штрафов к социальному кредиту."
+  },
+  {
+    "key": "LWEB_OUTFIT_14_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Стандартная одежда для Евро."
+  },
+  {
+    "key": "LWEB_OUTFIT_25_DESCRIPTION",
+    "en": "A tiki reward for helping Bonesy.",
+    "ru": "Тики-награда за помощь Бонзи."
+  },
+  {
+    "key": "LWEB_UPGRADE_1_DESCRIPTION",
+    "en": "Look at my bed!",
+    "ru": "Посмотри на мою кровать!"
+  },
+  {
+    "key": "LWEB_UPGRADE_3_DESCRIPTION",
+    "en": "TIREDNESS +2\n\nOverworked? Stressed? Euro? The deluxe option for todays gig economy worker.\n",
+    "ru": "УСТАЛОСТЬ +2\n\nЗагнанный? В стрессе? Евро? Люксовый вариант для современного подёнщика."
+  },
+  {
+    "key": "LWEB_UPGRADE_5_DESCRIPTION",
+    "en": "FOOD +1\n\nA fridge that brings the fun. Stay home and make your own party.",
+    "ru": "ЕДА +1\n\nХолодильник, который приносит веселье. Сиди дома и устраивай свою вечеринку."
+  },
+  {
+    "key": "LWEB_UPGRADE_6_DESCRIPTION",
+    "en": "FOOD +2\n\nLove big things? Love Fridge O'Matic. Now available in the UK.",
+    "ru": "ЕДА +2\n\nЛюбишь всё большое? Полюби Fridge O'Matic. Теперь и в Великобритании."
+  },
+  {
+    "key": "LWEB_UPGRADE_7_DESCRIPTION",
+    "en": "A electric based heat producion unit.",
+    "ru": "Электрический теплопроизводящий агрегат."
+  },
+  {
+    "key": "LWEB_UPGRADE_8_DESCRIPTION",
+    "en": "HEAT +1\n\nThis radiator will warm your soul. Briefly.",
+    "ru": "ТЕПЛО +1\n\nЭтот радиатор согреет твою душу. Ненадолго."
+  },
+  {
+    "key": "LWEB_UPGRADE_9_DESCRIPTION",
+    "en": "HEAT +2\n\nCold kills. Don't become a statistic.",
+    "ru": "ТЕПЛО +2\n\nХолод убивает. Не становись статистикой."
+  },
+  {
+    "key": "LWEB_UPGRADE_10_DESCRIPTION",
+    "en": "Sorry about that grafitti.",
+    "ru": "Извини за граффити."
+  },
+  {
+    "key": "LWEB_UPGRADE_11_DESCRIPTION",
+    "en": "Defend against creeping paranoia with painted walls.\n \nNOTE: Paint may contain lead.",
+    "ru": "Защитись от подкрадывающейся паранойи покрашенными стенами.\n\nВАЖНО: Краска может содержать свинец."
+  },
+  {
+    "key": "LWEB_UPGRADE_12_DESCRIPTION",
+    "en": "Wallpaper with a hypnotic spiral representing the circle of life. \n                \nNOTE: Free tiger skin rug included.",
+    "ru": "Обои с гипнотической спиралью, символизирующей круг жизни.\n\nВАЖНО: Бесплатный тигровый ковёр в комплекте."
+  },
+  {
+    "key": "LWEB_UPGRADE_19_DESCRIPTION",
+    "en": "Tune stuck in your head? Relive the rush.\n\t\t\nNOTE: Click to play the last song heard.",
+    "ru": "Песня застряла в голове? Переживи это снова.\n\nВАЖНО: Нажми, чтобы прослушать последнюю песню."
+  },
+  {
+    "key": "LWEB_UPGRADE_21_DESCRIPTION",
+    "en": "A cotton teddy bear. Made in Scotland.",
+    "ru": "Хлопковый мишка. Сделано в Шотландии."
+  },
+  {
+    "key": "LWEB_UPGRADE_22_DESCRIPTION",
+    "en": "A teddy made with real bear fur.",
+    "ru": "Мишка из настоящей медвежьей шкуры."
+  },
+  {
+    "key": "DIALOG_CLUBBER_UNDERCOVER_1",
+    "en": "Naughty, selling to a cop!",
+    "ru": "Непослушный, продаёшь полицейскому!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_UNDERCOVER_2",
+    "en": "That's a bad idea mate!",
+    "ru": "Плохая идея, приятель!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_SOCIALSCORE_1",
+    "en": "You have a terrible social score!",
+    "ru": "У тебя ужасный социальный рейтинг!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_INCOME_1",
+    "en": "You don't earn enough to be allowed in here!",
+    "ru": "Ты зарабатываешь недостаточно, чтобы сюда попасть!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_VISITS_1",
+    "en": "You've been to a prohibited foreign country!",
+    "ru": "Ты был в запрещённой стране!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_INCOME_1",
+    "en": "That's out of date, I earn way more now!",
+    "ru": "Это устаревшие данные, я сейчас зарабатываю намного больше!"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_INCOME_GENERAL_1",
+    "en": "That person doesn't earn enough. Check social credit cards!",
+    "ru": "Тот клиент зарабатывает недостаточно. Проверяй карты социального кредита!"
+  },
+  {
+    "key": "DIALOG_RADIO_JOB_GENERAL_1",
+    "en": "That person has a banned job. Check the visa!",
+    "ru": "У того клиента запрещённая профессия! Проверяй визы!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_VISASTAMP_1",
+    "en": "All visas must have a stamp.",
+    "ru": "У каждой визы должен быть штамп."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_9",
+    "en": "Your photo doesn't look right.",
+    "ru": "Твоя фотография выглядит неправильно."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_10",
+    "en": "Not having this...",
+    "ru": "Не пойдёт..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_2",
+    "en": "Your ID is missing a hologram.",
+    "ru": "У твоего удостоверения личности нет голограммы."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_4",
+    "en": "This ID isn't right.",
+    "ru": "Что-то не так с этим удостоверением личности."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_5",
+    "en": "Your ID has no hologram.",
+    "ru": "У твоего удостоверения личности нет голограммы."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_6",
+    "en": "Where's the ID hologram?",
+    "ru": "Где голограмма на удостоверении?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_2",
+    "en": "This name isn't right...",
+    "ru": "Это имя неправильное..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_3",
+    "en": "Spell your name?",
+    "ru": "Как пишется твоё имя?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_4",
+    "en": "Your name looks odd...",
+    "ru": "Твоё имя выглядит странным..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_7",
+    "en": "No list, no entry.",
+    "ru": "Нет в списке — нет входа."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_8",
+    "en": "You're not on the list, go away.",
+    "ru": "Тебя нет в списке. Уходи."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_9",
+    "en": "This club is over 18s only.",
+    "ru": "Этот клуб только для 18 и старше."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_3",
+    "en": "Private party.",
+    "ru": "Частная вечеринка."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_3",
+    "en": "Next.",
+    "ru": "Следующий."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_14",
+    "en": "We're full.",
+    "ru": "Мест нет."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_15",
+    "en": "Not happening.",
+    "ru": "Не прокатит."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_20",
+    "en": "Next in line please.",
+    "ru": "Следующий в очереди."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_21",
+    "en": "Move aside, next!",
+    "ru": "Отойди в сторону, следующий!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_7",
+    "en": "Don't want you here.",
+    "ru": "Не хочу тебя здесь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_SEX_1",
+    "en": "Are you male or female?",
+    "ru": "Ты мужчина или женщина?"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_25",
+    "en": "Here you go",
+    "ru": "Вот, держи."
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_30",
+    "en": "Good",
+    "ru": "Хорошо."
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_31",
+    "en": "Absoulutely",
+    "ru": "Абсолютно."
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_34",
+    "en": "Gladly",
+    "ru": "С удовольствием."
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_24",
+    "en": "K",
+    "ru": "Ок."
+  },
+  {
+    "key": "DIALOG_RADIO_CONCEALED_GENERAL_1",
+    "en": "Last person had a concealed item. Scan for concealed items.",
+    "ru": "У последнего клиента был спрятанный предмет! Используй сканер!"
+  },
+  {
+    "key": "DIALOG_RADIO_HEAD_GENERAL_1",
+    "en": "Last person was wearing a banned clothing item. Check clothing.",
+    "ru": "На последнем клиенте была запрещённая одежда. Проверяй одежду!"
+  },
+  {
+    "key": "DIALOG_RADIO_CLUBBER_LEFT",
+    "en": "Someone left the queue. Keep the queue happy!",
+    "ru": "Кто-то ушёл из очереди. Держи очередь довольной!"
+  },
+  {
+    "key": "DIALOG_RADIO_CLUBBER_LEFT_1",
+    "en": "Someone left the queue. Keep the queue happy!",
+    "ru": "Кто-то ушёл из очереди. Не давай очереди скучать!"
+  },
+  {
+    "key": "GUESTLIST_GUEST_QUEUE",
+    "en": "GUEST QUEUE",
+    "ru": "ОЧЕРЕДЬ ГОСТЕЙ"
+  },
+  {
+    "key": "GUESTLIST_MAIN_QUEUE_LABEL",
+    "en": "MAIN QUEUE",
+    "ru": "ОБЩАЯ ОЧЕРЕДЬ"
+  },
+  {
+    "key": "GUESTLISTS_NOTINUSE_LABEL",
+    "en": "NOT IN USE",
+    "ru": "НЕ ИСПОЛЬЗУЕТСЯ"
+  },
+  {
+    "key": "APP_BILLR_SUMMARY_TAB",
+    "en": "Summary",
+    "ru": "Обзор"
+  },
+  {
+    "key": "APP_DWEB_SUMMARY_TAB",
+    "en": "Summary",
+    "ru": "Обзор"
+  },
+  {
+    "key": "APP_BOUNCR_INCIDENTS_ALLOWED",
+    "en": "INCIDENTS ALLOWED",
+    "ru": "ДОПУСТИМЫЕ ИНЦИДЕНТЫ"
+  },
+  {
+    "key": "APP_BOUNCR_NEXT_LEVEL",
+    "en": "NEXT LEVEL",
+    "ru": "СЛЕДУЮЩИЙ УРОВЕНЬ"
+  },
+  {
+    "key": "FLAT_SCENE_ADVANCE_DAY_SELECTOR",
+    "en": "Advance Day",
+    "ru": "Следующий День"
+  },
+  {
+    "key": "CALENDAR_THURSDAY",
+    "en": "Th",
+    "ru": "Чт"
+  },
+  {
+    "key": "CALENDAR_SATURDAY",
+    "en": "Sa",
+    "ru": "Сб"
+  },
+  {
+    "key": "CALENDAR_SUNDAY",
+    "en": "Su",
+    "ru": "Вс"
+  },
+  {
+    "key": "MAP_LOCAL_BUTTON",
+    "en": "LOCAL",
+    "ru": "МЕСТНЫЕ"
+  },
+  {
+    "key": "MAP_WORLD_TITLE",
+    "en": "CITIZENS OF EUROPEAN HERITAGE RELOCATION ZONES",
+    "ru": "ЗОНЫ РАССЕЛЕНИЯ ГРАЖДАН ЕВРОПЕЙСКОГО ПРОИСХОЖДЕНИЯ"
+  },
+  {
+    "key": "CALENDAR_MONDAY",
+    "en": "Mo",
+    "ru": "Пн"
+  },
+  {
+    "key": "CALENDAR_FRIDAY",
+    "en": "Fr",
+    "ru": "Пт"
+  },
+  {
+    "key": "INVOICE_HERITAGE_PAYSLIP_TITLE",
+    "en": "Bouncer European Heritage Payslip",
+    "ru": "Расчётный лист вышибалы европейского происхождения"
+  },
+  {
+    "key": "FLYER_OVER_18s",
+    "en": "Over 18s",
+    "ru": "18 и старше"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS16_INTROMESSAGES_17",
+    "en": "Your lot. No Euros.",
+    "ru": "Наши. Никаких Евро."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET0_1",
+    "en": "So, I can't hire you full-time. Thanks, gig economy!",
+    "ru": "Короче, не могу взять тебя на полную ставку. Спасибо, гиг-экономика!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET0_2",
+    "en": "but check your 'head doorman' status on BouncR profile page.",
+    "ru": "Но проверь свой статус «главного вышибалы» в профиле на BouncR."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET0_3",
+    "en": "Double pay!",
+    "ru": "Двойная оплата!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET1_0",
+    "en": "Hey, it's King's Head Dave. Just heard you booted the Ferret out on his arse. Good on you.",
+    "ru": "Привет, это Дэйв из «Королевской Головы». Слышал, ты вышвырнул Хорька. Молодец!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET4_0",
+    "en": "Oi Oi - Dave here!",
+    "ru": "Ой-ой — это Дэйв!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET4_1",
+    "en": "(King's Head Dave)",
+    "ru": "(Дэйв из «Королевской Головы»)"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET4_2",
+    "en": "Yes, I guessed that.",
+    "ru": "Да, я догадался."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET4_3",
+    "en": "You and me, we're going to find out who bombed my gaff.",
+    "ru": "Мы с тобой выясним, кто взорвал мою забегаловку."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET4_4",
+    "en": "I've listed some jobs on BouncR just for you.",
+    "ru": "Я выложил несколько работ на BouncR специально для тебя."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT9_MESSAGESET0_1",
+    "en": "We saw the footage you uploaded of the King's Head bombing.",
+    "ru": "Мы видели запись взрыва «Королевской Головы», которую ты загрузил."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT9_MESSAGESET0_2",
+    "en": "We now have proof of Albion First's tactics.",
+    "ru": "Теперь у нас есть доказательства тактик «Альбион прежде всего»."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT9_MESSAGESET0_3",
+    "en": "A smokescreen. A diversion.",
+    "ru": "Дымовая завеса. Диверсия."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT9_MESSAGESET0_4",
+    "en": "A false flag operation to raise tension against Euros.",
+    "ru": "Операция под ложным флагом, чтобы разжечь напряжённость против Евро."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT9_MESSAGESET0_6",
+    "en": "When we meet show the symbol of the resistance.",
+    "ru": "Когда встретимся, покажи символ сопротивления."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET1_1",
+    "en": "You saved my life, pet. No more blackmail! No more Shonkytonk!",
+    "ru": "Ты спас мне жизнь, зайчик. Никакого больше шантажа! Никакого больше Шонкитонка!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET1_2",
+    "en": "I can quit my job and open a flower stall in Brighton.",
+    "ru": "Могу уволиться и открыть цветочный киоск в Брайтоне."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_6",
+    "en": "See you Wednesday with more great Shonkytonk savings!!!!",
+    "ru": "Увидимся в среду с новыми распродажами от Шонкитонк!!!!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_2",
+    "en": "think im going to stop studying physics. do music instead",
+    "ru": "я подумываю бросить физику. заняться музыкой вместо этого"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_3",
+    "en": "our headmistress even says we can take a summer trip to the caribean",
+    "ru": "наш директор даже говорит что мы можем съездить на карибские острова летом"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_4",
+    "en": "Jamaica?",
+    "ru": "Ямайка?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_1",
+    "en": "Viklav? Ah, no.",
+    "ru": "Виклав? А, нет."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_2",
+    "en": "New neighbour? Tssh.",
+    "ru": "Новый сосед? Тсс."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_3",
+    "en": "Third in as many months.",
+    "ru": "Третий за столько месяцев."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_5",
+    "en": "Ah, yes. Manners!",
+    "ru": "Ах, да. Манеры!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_6",
+    "en": "Mylarna.",
+    "ru": "Миларна."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_7",
+    "en": "Mylarna of Flat 6.",
+    "ru": "Миларна из квартиры 6."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_8",
+    "en": "No, no, do not need to know your name.",
+    "ru": "Нет, нет, мне не нужно знать твоё имя."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_9",
+    "en": "You last a week here, maybe I learn your name.",
+    "ru": "Продержишься тут неделю — может, и запомню твоё имя."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_10",
+    "en": "You seen my Viklav?",
+    "ru": "Ты видел моего Виклава?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_11",
+    "en": "This tall. Often drunk?",
+    "ru": "Вот такого роста. Часто пьяный?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_8",
+    "en": "Don't smirk.",
+    "ru": "Не ухмыляйся."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_9",
+    "en": "Nothing more dangerous than an angry Chobby.",
+    "ru": "Нет ничего опаснее злого Чобби."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_10",
+    "en": "Anyway. Everyone has to be on the list or they're walking home.",
+    "ru": "Короче. Все должны быть в списке, иначе пусть идут домой."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_OUTROMESSAGES_4",
+    "en": "I'll track your progress on the BouncR profile page.",
+    "ru": "Я буду следить за твоим прогрессом в профиле BouncR."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS10_INTROMESSAGES_3",
+    "en": "My old head doorman just quit, and here's you being not utterly useless.",
+    "ru": "Мой старый главный вышибала уволился, и вот ты — не совсем бесполезный!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS10_OUTROMESSAGES_1",
+    "en": "Hey you know a chick called Mylarna?",
+    "ru": "Слушай, ты знаешь девчонку по имени Миларна?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_6",
+    "en": "BillR?",
+    "ru": "BillR?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_7",
+    "en": "See, legally we can't hit you for rent until you have a regular income.",
+    "ru": "Видишь ли, по закону мы не можем брать с тебя аренду, пока у тебя нет постоянного дохода."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_12",
+    "en": "Great.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_13",
+    "en": "Shut it.",
+    "ru": "Заткнись."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_14",
+    "en": "I'll add your rent for this hovel to BillR now.",
+    "ru": "Я сейчас добавлю аренду за эту дыру в BillR."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_15",
+    "en": "Don't pay a bill on time, your social credit score will drop.",
+    "ru": "Не заплатишь вовремя — упадёт социальный кредит."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_6",
+    "en": "Reggae. You know what THAT means?",
+    "ru": "Регги. Знаешь, что ЭТО значит?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_7",
+    "en": "All British made...",
+    "ru": "Всё сделано в Британии..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_3",
+    "en": "I'm not interested.",
+    "ru": "Мне не интересно."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INTROMESSAGES_8",
+    "en": "Before you sleep tonight. Pay the bill.",
+    "ru": "До того как ляжешь спать. Заплати."
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_19",
+    "en": "- Scan for contraband.\n- Check IDs.\nWant % in tonight!",
+    "ru": "- Сканируй на контрабанду.\n- Проверяй удостоверения.\nХотим % сегодня!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_37",
+    "en": "- Check social card\n- Check guestlist and tickets\n- Check IDs\nWant % in tonight!",
+    "ru": "- Проверяй социальную карту.\n- Проверяй список гостей и билеты.\n- Проверяй удостоверения.\nХотим % сегодня!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INTROMESSAGES_1",
+    "en": "You! You let my Viklav into Neo! into drinking temptation? Sigh.",
+    "ru": "Ты! Ты впустил моего Виклава в Нео! В искушение алкоголем? *Вздох*"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_INTROMESSAGES_3",
+    "en": "Augh. To see him dance happy again.",
+    "ru": "Эхх. Увидеть бы его снова танцующим и счастливым."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_15",
+    "en": "Calm your tits, Mother Teresa.",
+    "ru": "Ой, остынь, мать Тереза."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR8_INCORRECT_ITEM_2",
+    "en": "Only if I can smoke it, inject it or snort it.",
+    "ru": "Только если могу это курнуть, вколоть или нюхнуть."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_CALENDAR_POST",
+    "en": "Ferriss wants me to sell Cheesos at the festival.",
+    "ru": "Феррис хочет, чтобы я продавал СырР на фестивале."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_1",
+    "en": "Heeeey! My favourite fleshwall!",
+    "ru": "Здарова!!! Моя любимая Стена!!!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS16_INTROMESSAGES_9",
+    "en": "You see anyone trying to flog CheeseRs, you let me know.",
+    "ru": "Если увидишь, что кто-то продаёт СырР, сразу мне скажи."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS16_INTROMESSAGES_11",
+    "en": "Cool. Cool-cool. And no touching the Marley CD up there.",
+    "ru": "Круто. Круто-круто. И не трогай диск Марли вон там."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS16_INTROMESSAGES_12",
+    "en": "That's a raffle prize. And before you ask, we're out of tickets.",
+    "ru": "Это приз в лотерею. И, прежде чем спросишь, билеты закончились."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS17_INTROMESSAGES_1",
+    "en": "Hey, hey. You know the drill. Keep it steady out there, okay?",
+    "ru": "Хай, мон. Ты знаешь что делать. Держи там всё спокойно, окей?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS17_FAILMESSAGES_1",
+    "en": "You ruined the chunes! You ruined the chunes, man!",
+    "ru": "Ты испортил ритмы! Ты испортил ритмы, чувак!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS19_FAILMESSAGES_2",
+    "en": "Wait. This isn't even lit.",
+    "ru": "Подожди. Она даже не зажжена."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS19_FAILMESSAGES_3",
+    "en": "Eh. Just get out. You're harshing the buzz I've not gotten yet.",
+    "ru": "Эх. Просто уйди. Ты портишь кайф, которого у меня ещё нет."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT9_MESSAGESET0_3",
+    "en": "Also I'm broke. So help me, eh? You're helping yourself.",
+    "ru": "А ещё я на мели. Так что помоги мне, а? Ты помогаешь и себе."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_2",
+    "en": "Well, haven't we been a busy little Euro?",
+    "ru": "Ну-ну, какой занятой маленький Евро?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_4",
+    "en": "Good. Here's your reward.",
+    "ru": "Хорошо. Вот твоя награда."
+  }
+]

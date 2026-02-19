@@ -1,0 +1,237 @@
+[
+  {
+    "key": "ART_MUSEUM_TALK_SELECTOR",
+    "en": "TALK",
+    "ru": "ПОГОВОРИТЬ"
+  },
+  {
+    "key": "CALENDAR_FRIDAY",
+    "en": "Fr",
+    "ru": "ПТ"
+  },
+  {
+    "key": "CALENDAR_MONDAY",
+    "en": "Mo",
+    "ru": "ПН"
+  },
+  {
+    "key": "CALENDAR_SATURDAY",
+    "en": "Sa",
+    "ru": "СБ"
+  },
+  {
+    "key": "CALENDAR_SUNDAY",
+    "en": "Su",
+    "ru": "ВС"
+  },
+  {
+    "key": "CALENDAR_THURSDAY",
+    "en": "Th",
+    "ru": "ЧТ"
+  },
+  {
+    "key": "CHAPTER0/INTERIORS1_INTROMESSAGES_6",
+    "en": "Understood.",
+    "ru": "Понятно."
+  },
+  {
+    "key": "CHAPTER0/INTERIORS1_INTROMESSAGES_8",
+    "en": "Understood... sir.",
+    "ru": "Понятно... сэр."
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER5_CROWD",
+    "en": "Cheese heads",
+    "ru": "Сыроголовые"
+  },
+  {
+    "key": "CHAPTER2/NEWSPAPER_PARAGRAPH1_SUCCESS",
+    "en": "Pub landlords. Britains hidden gems.",
+    "ru": "Хозяева пабов — скрытые сокровища Британии."
+  },
+  {
+    "key": "DIALOG_GUESTLIST_DEFAULT_1",
+    "en": "Guestlist queue is on the right. If their name's not down, they're not coming in.",
+    "ru": "Очередь по гостевому списку справа. Нет в списке — не входит."
+  },
+  {
+    "key": "DIALOG_GUESTLIST_INTRO_1",
+    "en": "Guestlist queue is on the right. If their name's not down, they're not coming in.",
+    "ru": "Очередь по гостевому списку справа. Нет имени в списке — не впускай."
+  },
+  {
+    "key": "DIALOG_RULE_GUESTLIST_1",
+    "en": "Guestlist queue is active tonight",
+    "ru": "Сегодня действует гостевой список"
+  },
+  {
+    "key": "DIALOG_RULE_ID_1",
+    "en": "Check for underage and fake ID's",
+    "ru": "Проверяй возраст и подлинность документов."
+  },
+  {
+    "key": "DIALOG_SCANNER_DEFAULT_1",
+    "en": "Look for suspicious patches, scan and ban!",
+    "ru": "Ищи подозрительные выпуклости, сканируй и отказывай!"
+  },
+  {
+    "key": "DIALOG_VIP_DEFAULT_1",
+    "en": "Remember the VIP password. VIPs need to say this password. No password, no entry!",
+    "ru": "Запомни VIP-пароль. VIP-гости должны его назвать. Нет пароля — нет входа!"
+  },
+  {
+    "key": "DWEB_UPGRADE_1_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Standard issue clicker. Click to allow entry into establishment.",
+    "ru": "Стандартный кликер. Нажми, чтобы пропустить посетителя."
+  },
+  {
+    "key": "DWEB_UPGRADE_2_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Rust free clicker. Use 'W' key to activate clicker.",
+    "ru": "Кликер без ржавчины. Клавиша W для активации."
+  },
+  {
+    "key": "DWEB_UPGRADE_4_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Cow skin deluxe design. Use 'S' hey to auto-deny.",
+    "ru": "Делюкс-кликер в коровьей коже. Клавиша S для авто-отказа."
+  },
+  {
+    "key": "DWEB_UPGRADE_6_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v2.  'A' and 'D' keys to turn guest list pages. ",
+    "ru": "Гостевой список v2. Клавиши A и D для перелистывания. "
+  },
+  {
+    "key": "DWEB_UPGRADE_6_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v3. Posh paper.",
+    "ru": "Гостевой список v3. Шикарная бумага."
+  },
+  {
+    "key": "DWEB_UPGRADE_7_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v3. Posh paper.",
+    "ru": "Гостевой список v3. Шикарная бумага."
+  },
+  {
+    "key": "DWEB_UPGRADE_7_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v4. Alphabetically ordered.",
+    "ru": "Гостевой список v4. Алфавитный порядок."
+  },
+  {
+    "key": "DWEB_UPGRADE_8_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v4. Alphabetically ordered.",
+    "ru": "Гостевой список v4. Алфавитный порядок."
+  },
+  {
+    "key": "FLAT_SCENE_ADVANCE_DAY_SELECTOR",
+    "en": "Advance Day",
+    "ru": "Следующий день"
+  },
+  {
+    "key": "FLAT_SCENE_CHAPTER_END_SELECTOR",
+    "en": "END CHAPTER",
+    "ru": "ЗАВЕРШИТЬ ГЛАВУ"
+  },
+  {
+    "key": "FLAT_SCENE_GOODBYE_SELECTOR",
+    "en": "SAY GOODBYE",
+    "ru": "ПОПРОЩАТЬСЯ"
+  },
+  {
+    "key": "FLAT_SCENE_HELP_SELECTOR",
+    "en": "HELP",
+    "ru": "ПОМОЧЬ"
+  },
+  {
+    "key": "FLAT_SCENE_LEAVE_SELECTOR",
+    "en": "LEAVE",
+    "ru": "УЙТИ"
+  },
+  {
+    "key": "ID_DOB",
+    "en": "DOB",
+    "ru": "ДР"
+  },
+  {
+    "key": "ID_EXPIRY",
+    "en": "EXP",
+    "ru": "СРОК"
+  },
+  {
+    "key": "ID_ISSUED",
+    "en": "ISS",
+    "ru": "ВЫД"
+  },
+  {
+    "key": "INVOICE_HERITAGE_PAYSLIP_TITLE",
+    "en": "Bouncer European Heritage Payslip",
+    "ru": "Расчётный лист вышибалы евро-происхождения"
+  },
+  {
+    "key": "MAP_MARKER5_CROWD",
+    "en": "Cheese heads",
+    "ru": "Сыроголовые"
+  },
+  {
+    "key": "MAP_MARKER7_CROWD",
+    "en": "Posh",
+    "ru": "Шикарные"
+  },
+  {
+    "key": "NOTES_OPTIONAL_TAB",
+    "en": "Optional",
+    "ru": "Дополнительные"
+  },
+  {
+    "key": "PAUSE_BUTTON_EXIT",
+    "en": "Exit",
+    "ru": "Выйти"
+  },
+  {
+    "key": "READ_MESSAGES_PROMPT",
+    "en": "I need to read my messages!",
+    "ru": "Нужно прочитать сообщения!"
+  },
+  {
+    "key": "RETRY_POPUP_LEVEL_FAIL",
+    "en": "You failed the level! Try again!",
+    "ru": "Уровень провален! Попробуйте снова!"
+  },
+  {
+    "key": "SHARED_ILLNESS_1_DESCRIPTION",
+    "en": "A nasty cold! Best rest for a day or two",
+    "ru": "Жуткая простуда! Лучше отдохнуть денёк-другой"
+  },
+  {
+    "key": "SHARED_ILLNESS_2_DESCRIPTION",
+    "en": "A nasty cold! Best rest for a day or two",
+    "ru": "Жуткая простуда! Лучше отдохнуть денёк-другой"
+  },
+  {
+    "key": "SHARED_ILLNESS_3_DESCRIPTION",
+    "en": "A nasty cold! Best rest for a day or two",
+    "ru": "Жуткая простуда! Лучше отдохнуть денёк-другой"
+  },
+  {
+    "key": "SHARED_ILLNESS_4_DESCRIPTION",
+    "en": "A nasty cold! Best rest for a day or two",
+    "ru": "Жуткая простуда! Лучше отдохнуть денёк-другой"
+  },
+  {
+    "key": "TOOLTIP_DENY_ENTRY",
+    "en": "Deny Entry - ",
+    "ru": "Отказать — "
+  },
+  {
+    "key": "TOOLTIP_SELECT",
+    "en": "SELECT",
+    "ru": "ВЫБРАТЬ"
+  },
+  {
+    "key": "TOOLTIP_SELECT_NAME",
+    "en": "Select Name",
+    "ru": "Выбрать имя"
+  },
+  {
+    "key": "TOOLTIP_SOCIAL_CREDIT",
+    "en": "SOCIAL CREDIT",
+    "ru": "СОЦИАЛЬНЫЙ РЕЙТИНГ"
+  }
+]

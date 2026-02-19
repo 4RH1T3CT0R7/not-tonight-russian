@@ -1,0 +1,142 @@
+[
+  {
+    "key": "LWEB_OUTFIT_10_DESCRIPTION",
+    "en": "Demand respect with Debonair.\n\nNOTE: Wear full set and receive less social credit penalties.",
+    "ru": "Требуй уважения в стиле Дебонэр.\n\nВАЖНО: Надень полный комплект — получишь меньше штрафов к социальному кредиту."
+  },
+  {
+    "key": "LWEB_OUTFIT_11_DESCRIPTION",
+    "en": "Lined with monkey fur and ivory buttons.\n\nNOTE: Wear full set and receive less social credit penalties.",
+    "ru": "Подкладка из обезьяньего меха, пуговицы из слоновой кости.\n\nВАЖНО: Надень полный комплект — получишь меньше штрафов к социальному кредиту."
+  },
+  {
+    "key": "LWEB_OUTFIT_13_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная казённая одежда для евро."
+  },
+  {
+    "key": "LWEB_OUTFIT_14_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная казённая одежда для евро."
+  },
+  {
+    "key": "LWEB_OUTFIT_15_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная казённая одежда для евро."
+  },
+  {
+    "key": "LWEB_OUTFIT_25_DESCRIPTION",
+    "en": "A tiki reward for helping Bonesy.",
+    "ru": "Тики-награда за помощь Костяшке."
+  },
+  {
+    "key": "LWEB_UPGRADE_3_DESCRIPTION",
+    "en": "TIREDNESS +2\n\nOverworked? Stressed? Euro? The deluxe option for todays gig economy worker.\n",
+    "ru": "УСТАЛОСТЬ +2\n\nЗагнанный? В стрессе? Евро? Роскошный вариант для современного прекариата."
+  },
+  {
+    "key": "LWEB_UPGRADE_5_DESCRIPTION",
+    "en": "FOOD +1\n\nA fridge that brings the fun. Stay home and make your own party.",
+    "ru": "ЕДА +1\n\nХолодильник, который приносит веселье. Оставайся дома и устрой свою вечеринку."
+  },
+  {
+    "key": "LWEB_UPGRADE_11_DESCRIPTION",
+    "en": "Defend against creeping paranoia with painted walls.\n \nNOTE: Paint may contain lead.",
+    "ru": "Защитись от подкрадывающейся паранойи крашеными стенами.\n\nВАЖНО: Краска может содержать свинец."
+  },
+  {
+    "key": "LWEB_UPGRADE_13_DESCRIPTION",
+    "en": "Avoid theft with broke-a-phone.",
+    "ru": "Защита от кражи — телефон-развалина."
+  },
+  {
+    "key": "LWEB_UPGRADE_19_DESCRIPTION",
+    "en": "Tune stuck in your head? Relive the rush.\n\t\t\nNOTE: Click to play the last song heard.",
+    "ru": "Песня застряла в голове? Переживи кайф заново.\n\nВАЖНО: Нажми, чтобы воспроизвести последнюю услышанную песню."
+  },
+  {
+    "key": "LWEB_UPGRADE_24_DESCRIPTION",
+    "en": "Click to get a minor speed boost for one job.",
+    "ru": "Нажми для небольшого ускорения на одну смену."
+  },
+  {
+    "key": "LWEB_UPGRADE_25_DESCRIPTION",
+    "en": "Click to get a medium speed boost for one job.",
+    "ru": "Нажми для среднего ускорения на одну смену."
+  },
+  {
+    "key": "LWEB_UPGRADE_26_DESCRIPTION",
+    "en": "Click to get a decent speed boost for one job.",
+    "ru": "Нажми для хорошего ускорения на одну смену."
+  },
+  {
+    "key": "LWEB_UPGRADE_42_DESCRIPTION",
+    "en": "Wood panel walls. ",
+    "ru": "Стены с деревянными панелями."
+  },
+  {
+    "key": "LWEB_UPGRADE_7_DESCRIPTION",
+    "en": "A electric based heat producion unit.",
+    "ru": "Электрический теплогенерирующий агрегат."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_2_DESCRIPTION",
+    "en": "Cross-railed\n                \n                Believe in a higher powah.",
+    "ru": "Крестовые перила\n                \n                Верь в высшую сиилу."
+  },
+  {
+    "key": "POSTCARD_DAVE",
+    "en": "Dear FLAMR, \n\nHello from Paris. You couldn't find me love so I travelled to the city of love for some help. Spoiler; I couldnt find any. Please don't take my pub\n\nLove Dave. \n\n",
+    "ru": "Дорогой FLAMR,\n\nПривет из Парижа. Ты не смог найти мне любовь, так что я поехал в город любви за помощью. Спойлер: ничего не вышло. Пожалуйста, не забирайте мой паб.\n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_DQ4P",
+    "en": "Dear FLAMR, \n\nHello from Vegas. Thanks for bringing me and DQ4P together. He loves staying up all night playing the slots. One particular machine has taken his fancy. Hopefully I will see him again soon. \n\nLove from Dave.",
+    "ru": "Дорогой FLAMR,\n\nПривет из Вегаса. Спасибо, что свёл меня с DQ4P. Он обожает всю ночь играть на автоматах. Один особенно запал ему в душу. Надеюсь, скоро его снова увижу.\n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_DQ4P_FAIL",
+    "en": "After failing to find love on FLAMR D4QP returned to his first love; Electronics. \n\nD4-QP restored numerous popular 90's video game cabinets: Descenters, Family Men and Hypnoface Outjaw. The games were licensed and re-released on home computer by publisher No More Dingbats to huge acclaim. ",
+    "ru": "Не найдя любви в FLAMR, D4QP вернулся к первой любви — электронике.\n\nD4-QP восстановил множество популярных игровых автоматов 90-х: Descenters, Family Men и Hypnoface Outjaw. Игры были лицензированы и переизданы для домашних компьютеров издательством No More Dingbats, снискав огромный успех."
+  },
+  {
+    "key": "POSTCARD_FOUR",
+    "en": "Dear FLAMR, \n\nHello from Hawaii. Thank you for bringing five strangers together. We are forming a band called The Undesirables. The group is split on the name. Lassy has the final vote but she is being typically silent. \n\nLove Dave.",
+    "ru": "Дорогой FLAMR,\n\nПривет с Гавайев. Спасибо, что свёл пятерых незнакомцев вместе. Мы создаём группу «Нежеланные». Мнения насчёт названия разделились. Решающий голос за Лэсси, но она хранит своё обычное молчание.\n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_FRANCOIS",
+    "en": "Dear FLAMR, \n\nHello from Paris. Thanks for bringing me and Francois together. I'm enjoying all the art here and I feel very safe. There are lots of helpful security guards in yellow jackets.\n\nLove from Dave.",
+    "ru": "Дорогой FLAMR,\n\nПривет из Парижа. Спасибо, что свёл меня с Франсуа. Мне нравится всё местное искусство, и я чувствую себя в полной безопасности. Тут много услужливых охранников в жёлтых жилетах.\n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_FRANCOIS_FAIL",
+    "en": "After failing to find love on FLAMR Francois returned to his first love; Painting.\n\nFrancois went on a painting pilgrimage attempting to replicate the great renaissance painters styles. Unfortunately one thing held Francois back. He was crap. Life as an art critic was a lot simpler and to this day he is editor of the Toulouse Art Review. ",
+    "ru": "Не найдя любви в FLAMR, Франсуа вернулся к первой любви — живописи.\n\nФрансуа отправился в живописное паломничество, пытаясь воспроизвести стили великих мастеров Ренессанса. К несчастью, одно держало Франсуа в узде — он был бездарен. Жизнь арт-критика оказалась куда проще, и по сей день он редактор Тулузского художественного обозрения."
+  },
+  {
+    "key": "POSTCARD_HARRISON_PACE",
+    "en": "Dear FLAMR, \n\nHello from a magical theme park. Thanks for bringing me and Lassy together. Me and Lassy have pledged to be together until we die. \n\nLove from Dave.",
+    "ru": "Дорогой FLAMR,\n\nПривет из волшебного парка аттракционов. Спасибо, что свёл меня с Лэсси. Мы с Лэсси поклялись быть вместе до самой смерти.\n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_HARRISON_PACE_FAIL",
+    "en": "After failing to find love on FLAMR Lassy returned to his first love; Film.",
+    "ru": "Не найдя любви в FLAMR, Лэсси вернулась к первой любви — кино."
+  },
+  {
+    "key": "POSTCARD_MYLARNA",
+    "en": "Dear FLAMR, \n\nHello from the Vatican. Thanks for bringing me and Mylarna together. She has opened my eyes to the supernatural. Specifically Viklav's ghost who is always with us. I hope one day to be half the ghost he is. \n\nLove from Dave.",
+    "ru": "Дорогой FLAMR,\n\nПривет из Ватикана. Спасибо, что свёл меня с Миларной. Она открыла мне глаза на сверхъестественное. В частности, на призрак Виклава, который всегда с нами. Надеюсь однажды стать хотя бы вполовину таким призраком, как он.\n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_MYLARNA_FAIL",
+    "en": "After failing to find love on FLAMR Mylarna returned to her first love; Religion.\n\nMylarna created a new online religion Luke-ism. She used the proceeds from this religion to setup a Luke-ism Church in Wincanton, Somerset where she preaches to this day. The local population seem especially receptive to fantastical stories. ",
+    "ru": "Не найдя любви в FLAMR, Миларна вернулась к первой любви — религии.\n\nМиларна создала новую онлайн-религию Люкизм. На вырученные средства она основала церковь Люкизма в Уинкантоне, графство Сомерсет, где проповедует по сей день. Местное население оказалось особенно восприимчиво к фантастическим историям."
+  },
+  {
+    "key": "POSTCARD_NONE",
+    "en": "Dear FLAMR, \n\nHello from Paris. You couldn't find me love so I travelled to the city of love for some help. Spoiler; still nothing. Please don't take my pub.\n\nLove Dave. \n",
+    "ru": "Дорогой FLAMR,\n\nПривет из Парижа. Ты не смог найти мне любовь, так что я поехал в город любви за помощью. Спойлер: всё равно ничего. Пожалуйста, не забирайте мой паб.\n\nС любовью, Дэйв."
+  }
+]

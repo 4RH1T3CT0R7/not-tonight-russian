@@ -1,0 +1,262 @@
+[
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_13",
+    "en": "Lets go.",
+    "ru": "Вали."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_7",
+    "en": "Don't want you here.",
+    "ru": "Ты тут не нужен."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_BODY_2",
+    "en": "Dress code tonight.",
+    "ru": "Сегодня есть дресс-код."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_BRIBE_1",
+    "en": "I don't take bribes ",
+    "ru": "Взятки не беру."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_10",
+    "en": "This isnt going to work.",
+    "ru": "Не прокатит."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_5",
+    "en": "No entry for you.",
+    "ru": "Тебе нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_2",
+    "en": "Your ID has expired.",
+    "ru": "Документ истёк."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_4",
+    "en": "Can't accept this old ID.",
+    "ru": "Такой старый не приму."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_2",
+    "en": "Your ID's flag has no colour.",
+    "ru": "Флаг на документе бесцветный."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HASSPECIAL_1",
+    "en": "I've told not to let you in",
+    "ru": "Мне велели тебя не пускать."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HEAD_2",
+    "en": "Come back with proper attire.",
+    "ru": "Возвращайся, когда нормально оденешься."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_2",
+    "en": "Your ID is missing a hologram.",
+    "ru": "На документе нет голограммы."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_4",
+    "en": "This ID isn't right.",
+    "ru": "С документом что-то не так."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_5",
+    "en": "Your ID has no hologram.",
+    "ru": "На документе нет голограммы."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_LEGS_2",
+    "en": "No entry wearing that.",
+    "ru": "В этом нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_LEGS_3",
+    "en": "We have a dress code and that's not on it.",
+    "ru": "У нас дресс-код, и ты в него не вписываешься."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_8",
+    "en": "You're not on the list, go away.",
+    "ru": "Тебя нет в списке, уходи."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_1",
+    "en": "No entry. ",
+    "ru": "Вход закрыт."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_7",
+    "en": "Your ID photo doesnt match your ID.",
+    "ru": "Фото на документе не совпадает с тобой."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_9",
+    "en": "Your photo doesn't look right.",
+    "ru": "Фото выглядит не так."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_SEX_2",
+    "en": "This doesn't look right.",
+    "ru": "Тут что-то не так."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_SOCIALSCORE_1",
+    "en": "You have a terrible social score!",
+    "ru": "У тебя отвратительный социальный рейтинг!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETDAY_4",
+    "en": "Can't use this ticket.",
+    "ru": "Такой билет не подходит."
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_19",
+    "en": "- Scan for contraband.\n- Check IDs.\nWant % in tonight!",
+    "ru": "- Сканируй на контрабанду.\n- Проверяй документы.\nХотим % сегодня!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_37",
+    "en": "- Check social card\n- Check guestlist and tickets\n- Check IDs\nWant % in tonight!",
+    "ru": "- Проверяй социальную карту.\n- Проверяй список гостей и билеты.\n- Проверяй документы.\nХотим % сегодня!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_49",
+    "en": "- Check IDs.\nWant % in today!",
+    "ru": "- Проверяй документы.\nХотим % сегодня!"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_INCOME_GENERAL_1",
+    "en": "That person doesn't earn enough. Check social credit cards!",
+    "ru": "Тот посетитель зарабатывает недостаточно. Проверяй карты социального кредита!"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_SOCIAL_CREDIT_GENERAL_1",
+    "en": "That person has low social credit. Check social credit cards!",
+    "ru": "У того посетителя низкий социальный кредит. Проверяй карты социального кредита!"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_SOCIAL_PORTRAIT_GENERAL_1",
+    "en": "That persons social card photo didn't match!",
+    "ru": "Фото на социальной карте того посетителя не совпало!"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_VISITS_GENERAL_1",
+    "en": "That person visited a prohibited country. Check social credit cards!",
+    "ru": "Тот посетитель был в запрещённой стране. Проверяй карты социального кредита!"
+  },
+  {
+    "key": "DIALOG_RADIO_CLUBBER_LEFT_1",
+    "en": "Someone left the queue. Keep the queue happy!",
+    "ru": "Кто-то ушёл из очереди. Держи очередь довольной!"
+  },
+  {
+    "key": "DIALOG_RADIO_CONCEALED_GENERAL_1",
+    "en": "Last person had a concealed item. Scan for concealed items.",
+    "ru": "У последнего был спрятанный предмет. Используй сканер!"
+  },
+  {
+    "key": "DIALOG_RADIO_COUNTRY_GENERAL_1",
+    "en": "Last person ID country was fake. Check the ID country!",
+    "ru": "У последнего страна на документе поддельная. Проверяй страну!"
+  },
+  {
+    "key": "DIALOG_RADIO_DEFAULT_1",
+    "en": "I'll use the radio to stay in contact. The radio also displays incidents. Too many, we close.",
+    "ru": "Я на связи по рации. Рация показывает инциденты. Слишком много — закрываемся."
+  },
+  {
+    "key": "DIALOG_RADIO_FLAG_GENERAL_1",
+    "en": "Last person had an ID with a black and white flag. Check ID for fakes.",
+    "ru": "У последнего на документе был чёрно-белый флаг. Проверяй на подделки."
+  },
+  {
+    "key": "DIALOG_RADIO_HALF_TIME_1",
+    "en": "Half way! Keep it going.",
+    "ru": "Половина пройдена. Продолжай в том же духе!"
+  },
+  {
+    "key": "DIALOG_RADIO_HEAD_GENERAL_1",
+    "en": "Last person was wearing a banned clothing item. Check clothing.",
+    "ru": "На последнем была запрещённая одежда. Проверяй одежду!"
+  },
+  {
+    "key": "DIALOG_RADIO_HOLOGRAM_GENERAL_1",
+    "en": "Last person had an ID with no hologram. Check ID for fakes.",
+    "ru": "У последнего на документе не было голограммы. Проверяй на подделки!"
+  },
+  {
+    "key": "DIALOG_RADIO_INCORRECTPASSWORD_GENERAL_1",
+    "en": "Last person gave the incorrect password!",
+    "ru": "Последний назвал неправильный пароль!"
+  },
+  {
+    "key": "DIALOG_RADIO_INCORRECT_REJECTION_1",
+    "en": "Last person should have been allowed entry!",
+    "ru": "Последнего надо было впустить!"
+  },
+  {
+    "key": "DIALOG_RADIO_INCORRECT_REJECTION_TUTORIAL_1",
+    "en": "Last person had a golden ticket. Ticket = let them in!",
+    "ru": "У последнего был золотой билет. Золотой билет — впускай!"
+  },
+  {
+    "key": "DIALOG_RADIO_JOB_GENERAL_1",
+    "en": "That person has a banned job. Check the visa!",
+    "ru": "У того посетителя запрещённая профессия. Проверяй визы!"
+  },
+  {
+    "key": "DIALOG_RADIO_NAMEGUEST_GENERAL_1",
+    "en": "Last person wasn't on the guestlist. Check guestlist.",
+    "ru": "Последнего не было в списке гостей. Проверяй список!"
+  },
+  {
+    "key": "DIALOG_RADIO_NAME_GENERAL_1",
+    "en": "Clubber name is Fake!",
+    "ru": "Имя посетителя поддельное!"
+  },
+  {
+    "key": "DIALOG_RADIO_NATIONALITY_GENERAL_1",
+    "en": "Last person was from a banned country! Check nationality.",
+    "ru": "Последний был из запрещённой страны! Проверяй национальность!"
+  },
+  {
+    "key": "DIALOG_RADIO_PORTRAIT_GENERAL_1",
+    "en": "Last person's ID had a photo that didn't match. Check photos!",
+    "ru": "У последнего фото на документе не совпало. Проверяй фотографии!"
+  },
+  {
+    "key": "DIALOG_RADIO_QUARTER_TIME_1",
+    "en": "Last call. Can still get a few more in! ",
+    "ru": "Последний звонок. Ещё можно парочку впустить!"
+  },
+  {
+    "key": "DIALOG_RADIO_SEX_GENERAL_1",
+    "en": "Last person wasn't on the guestlist! Check guestlist.",
+    "ru": "Последнего не было в списке! Проверяй список!"
+  },
+  {
+    "key": "DIALOG_RADIO_STAMP_GENERAL_1",
+    "en": "That persons visa had no stamp. Check the visa!",
+    "ru": "На визе того посетителя не было штампа. Проверяй визы!"
+  },
+  {
+    "key": "DIALOG_RADIO_TICKETMISSING_GENERAL_1",
+    "en": "Last person had no ticket. Check tickets.",
+    "ru": "У последнего не было билета! Проверяй билеты!"
+  },
+  {
+    "key": "DIALOG_RADIO_TRAVEL_CARD_PORTRAIT_1",
+    "en": "Last clubber had a fake travel card. ",
+    "ru": "У последнего была поддельная карта."
+  },
+  {
+    "key": "DIALOG_RADIO_VISA_PORTRAIT_GENERAL_1",
+    "en": "Last person's visa had a photo that didn't match. Check photos!",
+    "ru": "У последнего фото на визе не совпало. Проверяй фотографии!"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "key": "DIALOG_CLUBBERINTRO_20",
+    "en": "Here be.",
+    "ru": "Вот, на."
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_26",
+    "en": "It's here",
+    "ru": "Вот он"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_28",
+    "en": "Right on",
+    "ru": "Лады"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_33",
+    "en": "Granted",
+    "ru": "Само собой"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_2",
+    "en": "How about a little something for you?",
+    "ru": "Может, тебе немного подкинуть?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_5",
+    "en": "Please think again?",
+    "ru": "А может, подумаешь ещё раз?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_9",
+    "en": "Bit of extra for you?",
+    "ru": "Подкинуть немного сверху?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_1",
+    "en": "Like I give a crap.",
+    "ru": "Да мне плевать."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_3",
+    "en": "Can't believe this, you're wrong",
+    "ru": "Не могу поверить, ты не прав."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_5",
+    "en": "You're wrong.",
+    "ru": "Ты не прав."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_12",
+    "en": "Going next door.",
+    "ru": "Пойду в соседний клуб."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_1",
+    "en": "Naughty naughty Euro, selling this! I'm reporting you.",
+    "ru": "Ай-ай-ай, Евро, торгуешь такими вещицами! Доложу на тебя."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_5",
+    "en": "Making cash on the side. Naughty Euro. I'll report this.",
+    "ru": "Подрабатываешь на стороне. Шалунишка Евро. Доложу."
+  },
+  {
+    "key": "DIALOG_CLUBBER_UNDERCOVER_1",
+    "en": "Naughty, selling to a cop!",
+    "ru": "Ай-ай-ай, торгуешь копу!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_4",
+    "en": "You realise this has to be illegal.",
+    "ru": "Ты же понимаешь, что это незаконно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_9",
+    "en": "I had a nose-job since the photo.",
+    "ru": "Я нос делал после этого фото."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_SEX_1",
+    "en": "What do you bloody think!",
+    "ru": "Ты чего вообще несёшь?!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HASSPECIAL_3",
+    "en": "You better sort this out!",
+    "ru": "Тебе лучше бы это уладить!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HOLOGRAM_2",
+    "en": "Not all ID's have a hologram.",
+    "ru": "Не на всех документах есть голограмма."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_CHEESER_1",
+    "en": "Sure. I love CheeseR!",
+    "ru": "Конечно! Обожаю СырР!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_FACEDROPS_1",
+    "en": "I love Face Drops!",
+    "ru": "Да я обожаю ЛицеПад!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_POWAHPILLS_1",
+    "en": "I love Powah Pills!",
+    "ru": "Обожаю Дибу Дабу!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_6",
+    "en": "I am the list! check it again",
+    "ru": "Я и есть список! Проверь ещё раз!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_31",
+    "en": "Not interested anyway.",
+    "ru": "Всё равно неинтересно."
+  }
+]

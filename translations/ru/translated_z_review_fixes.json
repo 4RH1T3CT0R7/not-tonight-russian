@@ -1,0 +1,417 @@
+[
+  {
+    "key": "AVATAR_SELECT_HERITAGE_3",
+    "en": "You were born in London, within the sound of Bow Bells. Whelks are in your blood, which itself runs thick with jellied eels.",
+    "ru": "Вы родились в Лондоне, под звон колоколов Боу. Трубачи у вас в крови, а сама кровь густа от заливных угрей. Вы росли на коленях у бабушки, слушая её истории о войне и о духе Блица, который она обрела, сбежав из Франции.\n\nА потом пришло письмо. При разводе, как было объявлено, она утратила британское гражданство. Остальное генеалогическое древо уже выкорчёвывают."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS10_FAILMESSAGES_1",
+    "en": "God, a cardboard cut-out of you could do better than that.",
+    "ru": "Боже, твоя картонная копия справилась бы лучше."
+  },
+  {
+    "key": "CHAPTER2/BILL_ENTRY14_DESCRIPTION",
+    "en": "NHS costs after your recent accident.",
+    "ru": "Расходы NHS после вашего недавнего несчастного случая. По вопросам обращайтесь: %FALSENUMBER."
+  },
+  {
+    "key": "CHAPTER2/BILL_ENTRY14_TITLE",
+    "en": "NHS BILL",
+    "ru": "СЧЁТ ОТ NHS"
+  },
+  {
+    "key": "CHAPTER2/LETTER6_PAGE_1",
+    "en": "FINAL REMINDER",
+    "ru": "ПОСЛЕДНЕЕ НАПОМИНАНИЕ\n    \nВаш счёт от NHS должен быть оплачен до конца месяца.\n\nПожалуйста, оплатите во избежание экстрадиции.\n  \n"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_INTROMESSAGES_15",
+    "en": "Don't want The Man taking away our license. Duh.",
+    "ru": "Не хочу, чтобы Система отобрала нашу лицензию. Ну очевидно же."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS5_INTROMESSAGES_3",
+    "en": "I run a tight enchanted ship here. Serve me well, and you shall be rewarded.",
+    "ru": "Я веду здесь жёсткий зачарованный корабль. Служите мне верно — и будете вознаграждены."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS1_INTROMESSAGES_4",
+    "en": "A'm Bonesy.",
+    "ru": "Я Бонси."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS1_INTROMESSAGES_10",
+    "en": "So... like... Bonesy, this is a business.",
+    "ru": "Так... типа... Бонси, это же бизнес."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS6_INTROMESSAGES_8",
+    "en": "But not unless I can trust people. I know you worked for Bonesy.",
+    "ru": "Но лишь при условии, что я могу доверять людям. Я знаю, что вы работали на Бонси."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS5_INTROMESSAGES_17",
+    "en": "But check their social credit cards anyway.",
+    "ru": "Но всё равно проверяй их карточки социального рейтинга."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS5_INTROMESSAGES_18",
+    "en": "Euros? No. Even people who have visited Europe?",
+    "ru": "Евро? Нет. Даже тех, кто бывал в Европе?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_POWAHPILLS_1",
+    "en": "I love Powah Pills!",
+    "ru": "Обожаю ТаблеткиСилы!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_17",
+    "en": "- Check guestlist.\n- No beachwear.\n- Check IDs.\nWant % in tonight!",
+    "ru": "- Проверяй список гостей.\n- Проверяй удостоверения.\n- Никаких купальников.\nВпусти % сегодня!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_23",
+    "en": "- No resistance jumpers.\n- Scan for contraband.\n- Check guestlist.\nWant % in tonight!",
+    "ru": "- Никаких членов сопротивления\n- Проверяй на контрабанду.\n- Проверяй список гостей\nВпусти % сегодня!"
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_2_DESCRIPTION",
+    "en": "Cross-railed. Believe in a higher powah.",
+    "ru": "Крестовые перила\n\nВерь в высшую силу."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_11_DESCRIPTION",
+    "en": "Lined with monkey fur and ivory buttons.",
+    "ru": "Подкладка из обезьяньего меха, пуговицы из слоновой кости.\n\nВАЖНО: Надень полный комплект — получишь меньше штрафов к социальному кредиту."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_11_DESCRIPTION",
+    "en": "Defend yourself against creeping paranoia - paint the walls.",
+    "ru": "Обороняйся от подкрадывающейся паранойи — покрась стены.\n\nВАЖНО: Краска может содержать свинец."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_12_DESCRIPTION",
+    "en": "Wallpaper with a hypnotic spiral representing the circle of life.",
+    "ru": "Обои с гипнотической спиралью, символизирующей круг жизни.\n\nВАЖНО: Бесплатный тигровый ковёр в комплекте."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_19_DESCRIPTION",
+    "en": "Song stuck in your head? Relive the buzz.",
+    "ru": "Песня застряла в голове? Переживи кайф заново.\n\nВАЖНО: Нажми, чтобы воспроизвести последнюю услышанную песню."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_3_DESCRIPTION",
+    "en": "TIREDNESS +2. Overworked? Stressed? Euro?",
+    "ru": "УСТАЛОСТЬ +2\n\nЗагнанный? В стрессе? Евро? Роскошный вариант для современного прекариата."
+  },
+  {
+    "key": "MAIN_MENU_OPTIONS",
+    "en": "Options",
+    "ru": "Настройки"
+  },
+  {
+    "key": "JOB_FACTORY",
+    "en": "Plasterer",
+    "ru": "Штукатур"
+  },
+  {
+    "key": "JOB_FORKLIFT",
+    "en": "Optician",
+    "ru": "Оптик"
+  },
+  {
+    "key": "JOB_GAMESDEV",
+    "en": "Tourist",
+    "ru": "Турист"
+  },
+  {
+    "key": "JOB_OFFICEWORKER",
+    "en": "Paperboy",
+    "ru": "Разносчик газет"
+  },
+  {
+    "key": "JOB_SHOPWORKER",
+    "en": "Shopper",
+    "ru": "Покупатель"
+  },
+  {
+    "key": "JOB_STREAMER",
+    "en": "Builder",
+    "ru": "Строитель"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_4_DESCRIPTION",
+    "en": "Budget and chill.",
+    "ru": "Бюджетно и спокойно."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_5_DESCRIPTION",
+    "en": "Tired of leaving home for parties?",
+    "ru": "ЕДА +1\n\nХолодильник, который приносит веселье. Оставайся дома и устрой свою вечеринку."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_6_DESCRIPTION",
+    "en": "Like living large?",
+    "ru": "ЕДА +2\n\nЛюбишь всё большое? Полюби Fridge O'Matic. Теперь и в Великобритании."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_8_DESCRIPTION",
+    "en": "This radiator will warm your soul.",
+    "ru": "ТЕПЛО +1\n\nЭтот радиатор согреет твою душу. Ненадолго."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_9_DESCRIPTION",
+    "en": "Cold kills. Don't become a statistic.",
+    "ru": "ТЕПЛО +2\n\nХолод убивает. Не становись статистикой."
+  },
+  {
+    "key": "LWEB_UPGRADE_30_DESCRIPTION",
+    "en": "HEAT +4. Nuclear heating system.",
+    "ru": "ТЕПЛО +4\n\nСистема ядерного обогрева. Испытательная система, доступная для евро."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_30_DESCRIPTION",
+    "en": "HEAT +4. Nuclear heating system.",
+    "ru": "ТЕПЛО +4\n\nСистема ядерного обогрева. Испытательная система, доступная для евро."
+  },
+  {
+    "key": "INTROSCENE_APPLY_FOR_JOB_BUTTON",
+    "en": "APPLY FOR JOB",
+    "ru": "ПОДАТЬ ЗАЯВКУ"
+  },
+  {
+    "key": "MAIN_MENU_SKIP_TUTORIAL",
+    "en": "Skip Tutorial",
+    "ru": "Пропустить обучение"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_INTROMESSAGES_8",
+    "en": "Oh, and doll yourself up for my VIPs.",
+    "ru": "А, и принарядись для моих VIP-ов."
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_CLOTHESMESSAGES_BAD_1",
+    "en": "Those old rags. Ew. You cleaning up or something?",
+    "ru": "Эти старые тряпки. Фу. Ты прибираешься, что ли?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS13_BONUSMESSAGES_1",
+    "en": "Right. Right. Your shift? You did tres bien.",
+    "ru": "Так. Так. Твоя смена? Ты справился тре бьен."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR6_INTROMESSAGES_11",
+    "en": "You will, my precious little golonka.",
+    "ru": "Поймёшь, мой драгоценный маленький голонка."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR8_INTROMESSAGES_3",
+    "en": "Their shroud darkens our beloved country.",
+    "ru": "Их тень сгущается над нашей любимой страной."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS11_INTROMESSAGES_11",
+    "en": "The whole armadillo.",
+    "ru": "Весь армадилло."
+  },
+  {
+    "key": "APP_FLAMR_END_SEARCH",
+    "en": "Thanks for reviewing your totally real, non-bot, FLAMR matches.",
+    "ru": "Спасибо за просмотр твоих абсолютно реальных, точно-не-ботских совпадений в FLAMR."
+  },
+  {
+    "key": "APP_FLAMR_NO_SEARCH_RESULTS",
+    "en": "No new FLAMR's in your area :(",
+    "ru": "Нет новых FLAMR в твоём районе :("
+  },
+  {
+    "key": "DLC_CHAPTER0/FLAMRFLATCHARACTER_VISITOR1_CORRECT_ITEM__3",
+    "en": "I thought you could destroy it.",
+    "ru": "Подумала, что ты можешь его уничтожить."
+  },
+  {
+    "key": "DLC_CHAPTER0/INTERIORS15_INTROMESSAGES_14",
+    "en": "Also be on the look out for travellers from the USA.",
+    "ru": "И ещё — высматривайте путешественников из США."
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_LONDON_WALL_SPRING_BONUSMESSAGES_1",
+    "en": "With numbers like that, I'd almost think you were British yourself.",
+    "ru": "С такими показателями я бы почти подумал, что вы сами британец."
+  },
+  {
+    "key": "CHAPTER3/BILL_ENTRY10_DESCRIPTION",
+    "en": "Increased taxes for Persons of European Heritage..",
+    "ru": "Повышенные налоги для лиц европейского происхождения."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR5_NO_ITEM__1",
+    "en": "Pleasure as ever, Jupp.",
+    "ru": "Как всегда, приятно, Юпп."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR6_INCORRECT_ITEM__2",
+    "en": "You on a boat, #112. That's all I want.",
+    "ru": "Тебя — на корабль, №112. Вот всё, чего я хочу."
+  },
+  {
+    "key": "CHAPTER1/SHAREDINTERIORS_NEO_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Well, that was the wrong side of acceptable. Never mind.",
+    "ru": "Ну, это было за гранью приемлемого. Да ладно."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS11_INTROMESSAGES_3",
+    "en": "Sorry You Got Banged Up By The Oppressive State.",
+    "ru": "«Прости, что тебя закрыло репрессивное государство»."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS17_INTROMESSAGES_1",
+    "en": "You worked the reggae festival, right?",
+    "ru": "Ты работал на регги-фестивале, да?"
+  },
+  {
+    "key": "CHAPTER2/INTERIORS21_BONUSMESSAGES_2",
+    "en": "Use it to buy some real clothes.",
+    "ru": "Купите себе нормальную одежду."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS5_INTROMESSAGES_8",
+    "en": "At Chez Ferriss, we only take the best and the cheapest.",
+    "ru": "У Ферриса берём только лучших и самых дешёвых."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_11",
+    "en": "My creative juices are flowing.",
+    "ru": "Вдохновение так и прёт."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS21_PASSMESSAGES_1",
+    "en": "Right now, I don't care if you do great. Just don't do crap.",
+    "ru": "Прямо сейчас мне плевать, справишься ты отлично или нет. Просто не облажайся."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INTROMESSAGES_2",
+    "en": "New neighbour? Tssh.",
+    "ru": "Новый сосед? Тц."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS37_INTROMESSAGES_4",
+    "en": "BOGOF?",
+    "ru": "НА ХАЛЯВУ?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS37_INTROMESSAGES_16",
+    "en": "And all the rest? underage, expiry.",
+    "ru": "А всё остальное? Несовершеннолетние, истёкший срок."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_9",
+    "en": "Move away, next!",
+    "ru": "Отойди, следующий!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_9",
+    "en": "Move away, next!",
+    "ru": "Отойди, следующий!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_1",
+    "en": "You're that Euro from the King's Head, 'aint ya?",
+    "ru": "Ты тот Евро из «Королевской Головы», да?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_2",
+    "en": "I'm from-",
+    "ru": "Я из—"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_3",
+    "en": "Whatever.",
+    "ru": "Неважно."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_4",
+    "en": "Don't plan on sleeping through this job like at Dave's gaff.",
+    "ru": "Не вздумай тут спать на работе, как у Дэйва."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_5",
+    "en": "We're only after the best clientele here.",
+    "ru": "Нам тут нужна только лучшая клиентура."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_8",
+    "en": "So anyone on the guestlist.",
+    "ru": "Так что все, кто в списке гостей."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_9",
+    "en": "Just let them in?",
+    "ru": "Просто впускать?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_10",
+    "en": "Check the ID as well.",
+    "ru": "Документы тоже проверяй."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_INTROMESSAGES_11",
+    "en": "All the usual rules apply for the guestlist!",
+    "ru": "Все обычные правила действуют и для списка гостей!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_INTROMESSAGES_9",
+    "en": "You'll know them. They're coming by car.",
+    "ru": "Ты их узнаешь. Они приедут на машине."
+  },
+  {
+    "key": "CHAPTER1/NEWS_ENTRY3_TEXT",
+    "en": "Tensions between British citizens and Persons Of European Origin escalated today when violence erupted outside Citizen Relocation Block 5.\n\nIntegration Officer Jupp commented \"This is where the heart-bleeders on the left would start bleating about tolerance and community.\n\nBollocks. Far as I'm concerned, they can get on the boat with their Euro friends.\"",
+    "ru": "Напряжённость между британскими гражданами и лицами европейского происхождения обострилась сегодня, когда у блока переселения граждан №5 вспыхнуло насилие.\n\nОфицер интеграции Юпп прокомментировал: «Вот тут-то сердобольные левые начали бы блеять о терпимости и сплочённости.\n\nЧушь собачья. Лично я считаю — пусть садятся на корабль вместе со своими друзьями-евро»."
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY2_TEXT",
+    "en": "Britain's continued Brexit calamity continues today as their precious blue passports are stuck in a traffic jam on the Dover-Calais border.\n\nSadly, without valid passports, no officials have been allowed to leave the country to sort the problem out, trapping the entire UK population on its little island with ever diminishing stocks of fried chicken.\n\nRiots have already broken out at several fast-food restaurants. In response, the French minister for foreign affairs was heard to say 'ha ha'.",
+    "ru": "Продолжающаяся Брексит-катастрофа Британии не утихает: их драгоценные синие паспорта застряли в пробке на границе Дувр—Кале.\n\nК сожалению, без действующих паспортов ни одному чиновнику не позволили покинуть страну для решения проблемы, заперев всё население Великобритании на своём островке с неуклонно тающими запасами жареной курицы.\n\nБеспорядки уже вспыхнули у нескольких ресторанов быстрого питания. В ответ французский министр иностранных дел прокомментировал: «ха-ха»."
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR13_INTROMESSAGES_4",
+    "en": "Your mate Dave?",
+    "ru": "Твой приятель Дэйв?"
+  },
+  {
+    "key": "CHAPTER3/INTERIORS16_INTROMESSAGES_17",
+    "en": "Stopeth ye Euros.",
+    "ru": "Стой, Евро окаянные."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS16_INTROMESSAGES_6",
+    "en": "They'll be coming by tractor and have a password. No password, no choons.",
+    "ru": "Они приедут на тракторе и будут знать пароль. Нет пароля — нет музыки."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS17_INTROMESSAGES_2",
+    "en": "Same deal, tickets and VIPs only. Now buzz off. I'm not high yet.",
+    "ru": "Всё то же, билеты и VIP. А теперь отвали. Я ещё не обкурен."
+  },
+  {
+    "key": "END_GAME_INTRO_TEXT_1",
+    "en": "This Euro stands accused of being an accessory to the Albion First bombing.",
+    "ru": "Этот Евро обвиняется в причастности к взрыву «Альбион прежде всего»."
+  },
+  {
+    "key": "POSTCARD_HARRISON_PACE_FAIL",
+    "en": "After failing to find love on FLAMR Lassy returned to his first love; Film.\n\nLassy co-starred in Space Dogs 3: Puppers on Pluto. Lassy's condition gave him a huge advantage when filming dangerous scenes and still allowed the film makers to state 'No animals were harmed in the making of this film'.",
+    "ru": "Не найдя любви в FLAMR, Лэсси вернулся к первой любви — кино.\n\nЛэсси снялся в фильме «Космические псы 3: Щенки на Плутоне». Его состояние дало ему огромное преимущество при съёмке опасных сцен и позволило создателям фильма заявить: «При съёмках ни одно животное не пострадало»."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_3",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_2_DESCRIPTION",
+    "en": "From the military to the street.\n\nNOTE: Wear full Jarhead set and customers never push back.",
+    "ru": "Из армии — на улицу.\n\nВАЖНО: Надень полный комплект «Солдат» — и клиенты не будут возмущаться."
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_12",
+    "en": "Time to go.",
+    "ru": "Пора уходить."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_18",
+    "en": "Step aside please.",
+    "ru": "Отойди в сторону, пожалуйста."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_7",
+    "en": "Is this right...",
+    "ru": "Это верно?.."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_9",
+    "en": "Ok, look at this...",
+    "ru": "Так, посмотрим..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_9",
+    "en": "This club is over 18s only.",
+    "ru": "Этот клуб только для восемнадцати и старше."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_2",
+    "en": "Your ID has expired.",
+    "ru": "У документа истёк срок действия."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_4",
+    "en": "Can't accept this old ID.",
+    "ru": "Просроченный документ не приму."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_1",
+    "en": "That's a false flag on this ID.",
+    "ru": "На документе фальшивый флаг."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_6",
+    "en": "Where's the ID hologram?",
+    "ru": "Где голограмма на документе?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_2",
+    "en": "This name isn't right...",
+    "ru": "С именем что-то не то..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_4",
+    "en": "Your name looks odd...",
+    "ru": "Странное какое-то имя..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_8",
+    "en": "This name is wrong...",
+    "ru": "Имя какое-то не то..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_6",
+    "en": "Your nationality isn't allowed.",
+    "ru": "Людям твоей национальности вход закрыт."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_9",
+    "en": "I don't make the rules but your nationality is banned.",
+    "ru": "Не я правила придумываю, но твоей национальности вход запрещён."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_7",
+    "en": "Your ID photo doesnt match your ID.",
+    "ru": "Ты не похож на фото в документе."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_8",
+    "en": "This can't be you.",
+    "ru": "Не может быть, что это ты."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_9",
+    "en": "Your photo doesn't look right.",
+    "ru": "С фото что-то не то."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_SOCIALPORTRAIT_1",
+    "en": "This portrait doesn't match your ID",
+    "ru": "Этот портрет не совпадает с документом."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_VISAPORTRAIT_1",
+    "en": "Your portrait is wrong",
+    "ru": "Фото не совпадает."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_INCOME_1",
+    "en": "You don't earn enough to be allowed in here!",
+    "ru": "С такими доходами сюда нельзя!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TRAVELCARDPORTRAIT_1",
+    "en": "Is this yours?",
+    "ru": "Это точно твоя?"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_1",
+    "en": "-- WE ARE NOW OPEN --\n- Ticket holders only!\n- No ticket, no entry!",
+    "ru": "— МЫ ОТКРЫТЫ —\n- Только для обладателей билетов!\n- Нет билета — нет входа!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_10",
+    "en": "-- JANUARY VIP BALL --\n- Ticket holders only!\n- No ticket, no entry!",
+    "ru": "— ЯНВАРСКИЙ VIP-БАЛ —\n- Только для обладателей билетов!\n- Нет билета — нет входа!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_2",
+    "en": "-- WE ARE NOW OPEN --\n- Over 18s only!\nWant % in tonight!",
+    "ru": "— МЫ ОТКРЫТЫ —\n- Только 18 и старше!\nХотим % сегодня!"
+  },
+  {
+    "key": "DIALOG_RADIO_CLUBBER_LEFT",
+    "en": "Someone left the queue. Keep the queue happy!",
+    "ru": "Кто-то ушёл из очереди. Не дай очереди разбежаться!"
+  },
+  {
+    "key": "DIALOG_RADIO_CLUBBER_LEFT_1",
+    "en": "Someone left the queue. Keep the queue happy!",
+    "ru": "Кто-то ушёл из очереди. Не дай очереди разбежаться!"
+  },
+  {
+    "key": "DIALOG_RADIO_TRAVEL_CARD_COUNTRY_1",
+    "en": "Last clubber had a fake travel card.",
+    "ru": "У последнего посетителя была поддельная проездная карта."
+  },
+  {
+    "key": "DIALOG_RADIO_TRAVEL_CARD_EXPIRY_1",
+    "en": "Last clubber had an expired travel card.",
+    "ru": "У последнего посетителя была просроченная проездная карта."
+  },
+  {
+    "key": "DIALOG_RADIO_TRAVEL_CARD_PORTRAIT_1",
+    "en": "Last clubber had a fake travel card. ",
+    "ru": "У последнего была поддельная проездная карта."
+  }
+]

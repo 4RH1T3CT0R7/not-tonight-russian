@@ -1,0 +1,177 @@
+[
+  {
+    "key": "APRIL",
+    "en": "APRIL",
+    "ru": "АПРЕЛЬ"
+  },
+  {
+    "key": "AUGUST",
+    "en": "AUGUST",
+    "ru": "АВГУСТ"
+  },
+  {
+    "key": "AVATAR_SELECT_HERITAGE_2",
+    "en": "You were born in Bath to a pair of Spanish charity workers. A good child. A quiet child.\n\nYou helped your parents run a seaside retirement home and became quite the expert on cider. When they died, you were to continue their legacy. \n\nThen the letter came. These days birth no longer confers citizenship. Officially, you too are considered Spanish - except, unfortunately, in Spain.",
+    "ru": "Вы родились в Бате у пары испанских благотворителей. Хороший ребёнок. Тихий ребёнок.\n\nВы помогали родителям вести приморский дом престарелых и стали настоящим знатоком сидра. Когда они умерли, вы должны были продолжить их дело.\n\nА потом пришло письмо. Теперь рождение не даёт гражданства. Официально вы тоже считаетесь испанцем — только вот, к сожалению, не в самой Испании."
+  },
+  {
+    "key": "AVATAR_SELECT_HERITAGE_3",
+    "en": "You were born in London, to the sound of Bow Bells. Whelks are in your blood, which itself runs thick with jellied eels. You grew up on your grandmother's knee, hearing her stories of the war, and of the Blitz spirit she saw after escaping France. \n\nThen the letter came. In divorcing, it is declared, she surrendered British citizenship. The rest of the family tree is already being uprooted.",
+    "ru": "Вы родились в Лондоне, под звон колоколов Боу. Букцины у вас в крови, а сама кровь густа от заливных угрей. Вы росли на коленях у бабушки, слушая её истории о войне и о духе Блица, который она обрела, сбежав из Франции.\n\nА потом пришло письмо. При разводе, как было объявлено, она утратила британское гражданство. Остальное генеалогическое древо уже выкорчёвывают."
+  },
+  {
+    "key": "CHAPTER0/INTERIORS1_INTROMESSAGES_5",
+    "en": "Choppy-chop. No workee, no money.",
+    "ru": "Давай-давай, шевелись. Не работаешь — не получаешь."
+  },
+  {
+    "key": "CHAPTER0/INTERIORS1_OUTROMESSAGES_1",
+    "en": "Not needed, bomb!",
+    "ru": "Не нужен, проваливай!"
+  },
+  {
+    "key": "CHAPTER0/INTERIORS1_OUTROMESSAGES_2",
+    "en": "Not needed, bomb!",
+    "ru": "Не нужен, проваливай!"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER5_CROWD",
+    "en": "Cheese heads",
+    "ru": "Сыроголовые"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Dead Euro found lounging in bed!",
+    "ru": "Мёртвый евро найден разлёживающимся в кровати!"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_BILL",
+    "en": "Taking back control one Euro at a time",
+    "ru": "Возвращаем контроль по одному евро за раз"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Lazy Euro found dead in bed!",
+    "ru": "Ленивый евро найден мёртвым в кровати!"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_SUSPICION",
+    "en": "Taking back control one Euro at a time",
+    "ru": "Возвращаем контроль по одному евро за раз"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH2_SUCCESS",
+    "en": "Schoolgirl singer becomes indie viral sensation",
+    "ru": "Школьница-певица стала инди-сенсацией"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Dead Euro found; no one cares.",
+    "ru": "Мёртвый евро найден; никому нет дела."
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH3_FAIL",
+    "en": "NHS privatisation complete",
+    "ru": "Приватизация Национальной службы здравоохранения завершена"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH3_SUCCESS",
+    "en": "NHS privatisation complete.",
+    "ru": "Приватизация Национальной службы здравоохранения завершена."
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_GAMEOVER_BILL",
+    "en": "Bad Bouncer Blamed For Bomber",
+    "ru": "В теракте обвинён вышибала"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Bad Bouncer Blamed For Bomber",
+    "ru": "В теракте обвинён вышибала"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_GAMEOVER_SUSPICION",
+    "en": "Bad Bouncer Blamed For Bomber",
+    "ru": "В теракте обвинён вышибала"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_SUBTITLE_FAIL",
+    "en": "Bad Bouncer Blamed For Bomber",
+    "ru": "В теракте обвинён вышибала"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH1_SUCCESS",
+    "en": "Minor casualties due to senior figures' late arrival.",
+    "ru": "Мало жертв благодаря позднему прибытию высокопоставленных лиц."
+  },
+  {
+    "key": "DIALOG_RULE_ID_1",
+    "en": "Check for underage and fake ID's",
+    "ru": "Проверяй возраст и подлинность документов"
+  },
+  {
+    "key": "DIALOG_SCANNER_DEFAULT_1",
+    "en": "Look for suspicious patches, scan and ban!",
+    "ru": "Ищи подозрительные выпуклости — сканируй и не впускай!"
+  },
+  {
+    "key": "DIALOG_SCANNER_INTRO_1",
+    "en": "If you see a suspicious patch, click to scan. If it's contraband - ban!",
+    "ru": "Видишь подозрительную выпуклость — нажми, чтобы просканировать. Контрабанда — не впускай!"
+  },
+  {
+    "key": "DWEB_DRUG_STORE_1_DESCRIPTION",
+    "en": "For all cheese-heads. SIDE EFFECTS: You may enjoy wearing cheesy hats.",
+    "ru": "Для всех сыроголовых. ПОБОЧНЫЕ ЭФФЕКТЫ: можешь полюбить сырные шляпы."
+  },
+  {
+    "key": "DWEB_DRUG_STORE_2_DESCRIPTION",
+    "en": "Dip and dab this sugary treat. SIDE EFFECTS: blue bubbles may rise from your noggin.",
+    "ru": "Макай и лижи эту сахарную радость. ПОБОЧНЫЕ ЭФФЕКТЫ: из башки могут полететь синие пузыри."
+  },
+  {
+    "key": "DWEB_DRUG_STORE_3_DESCRIPTION",
+    "en": "Pills of strength +3. SIDE EFFECTS: blue bubbles may rise from your noggin.",
+    "ru": "Таблетки силы +3. ПОБОЧНЫЕ ЭФФЕКТЫ: из башки могут полететь синие пузыри."
+  },
+  {
+    "key": "DWEB_DRUG_STORE_4_DESCRIPTION",
+    "en": "Can you feel your face? SIDE EFFECTS: may wear purple tshirts.",
+    "ru": "Ты чувствуешь своё лицо? ПОБОЧНЫЕ ЭФФЕКТЫ: можешь полюбить фиолетовые футболки."
+  },
+  {
+    "key": "DWEB_DRUG_STORE_DESCRIPTION_1",
+    "en": "Cheeser description",
+    "ru": "Описание Сыроголового"
+  },
+  {
+    "key": "DWEB_UPGRADE_12_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "The ultimate banning weapon.",
+    "ru": "Абсолютное оружие отказа."
+  },
+  {
+    "key": "END_GAME_BEAR_COMPLETE",
+    "en": "They also purchased an teddy bear made of real bear hair. Both illegal, and very poor taste!",
+    "ru": "Он также купил плюшевого мишку из настоящей медвежьей шерсти. Незаконно и безвкусно!"
+  },
+  {
+    "key": "END_GAME_COMBAT_OUTFIT_COMPLETE",
+    "en": "And consistenly dressed as military police. Did they think themselves above the law?",
+    "ru": "И постоянно одевался как военная полиция. Мнил себя выше закона?"
+  },
+  {
+    "key": "END_GAME_GALAHAD_COMPLETE",
+    "en": "Agent Titmouse is the pride of the Resistance! Nothing too small! Nothing too big!",
+    "ru": "Агент Синица — гордость Сопротивления! Ни одно дело не слишком мелко! Ни одно — не слишком велико!"
+  },
+  {
+    "key": "END_GAME_INTRO_TEXT_1",
+    "en": "This Euro stands accused of aiding and abetting the bombing of an Albion First event",
+    "ru": "Этот евро обвиняется в пособничестве взрыву на мероприятии «Альбион прежде всего»"
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH2_FAIL",
+    "en": "Food banks emptied. Millions of Northeners starving.",
+    "ru": "Продовольственные банки опустели. Миллионы северян голодают."
+  }
+]

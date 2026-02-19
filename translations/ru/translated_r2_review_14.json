@@ -1,0 +1,282 @@
+[
+  {
+    "key": "CHAPTER3/NOTES_10_TEXT",
+    "en": "Angels has some rat poison.",
+    "ru": "В «Angels» есть крысиный яд."
+  },
+  {
+    "key": "CHAPTER3/NOTES_9_TEXT",
+    "en": "Gammon has a 'kem-combo kit'.",
+    "ru": "В «Gammon» есть «хим-комбо-набор»."
+  },
+  {
+    "key": "CHAPTER3/NOTES_14_TEXT",
+    "en": "Picked up Ferriss's super-drug.",
+    "ru": "Забрал суперпрепарат Ферриса."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_10",
+    "en": "No more bar tours. No more wasted time.",
+    "ru": "Никаких больше туров по барам. Никакой траты времени."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_11",
+    "en": "My creative juices are flowing.",
+    "ru": "Творческие соки так и текут."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_CORRECTITEMMESSAGES_6",
+    "en": "If only I could be reunited with my one true love.",
+    "ru": "Если бы я только мог воссоединиться с единственной настоящей любовью."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_11",
+    "en": "Work's rather dried up since he became Prime Minister.",
+    "ru": "Работа подиссякла с тех пор, как он стал премьер-министром."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_19",
+    "en": "Even one that had a little accident.",
+    "ru": "Даже с той, у которой случилась небольшая неприятность."
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_21",
+    "en": "Upstage Harrison Pace, will you, you little bitch?",
+    "ru": "Затмить Харрисона Пейса решила, маленькая ты дрянь?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT3_INTROMESSAGES_1",
+    "en": "Aren't you Lassy? From the movie with that washed up actor?",
+    "ru": "Ты же Лэсси? Из фильма с тем выдохшимся актёром?"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT4_INTROMESSAGES_5",
+    "en": "Yeah, I really hated your last two films.",
+    "ru": "Ага, мне жутко не понравились твои последние два фильма."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_INTROMESSAGESHEADBOUNCER_1",
+    "en": "A reliable Euro? Whatever's next?",
+    "ru": "Надёжный Евро? Что ещё удивительного?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Back again? Keep it quiet. Don't fall off the roof. Got it?",
+    "ru": "Снова ты? Веди себя тихо. С крыши не падай. Усёк?"
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "Thus endeth your shift. Fare thee well.",
+    "ru": "Так завершается твоя смена. Ступай с миром."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHURCH_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Thus endeth your shift. So bugger off.",
+    "ru": "Так завершается твоя смена. А теперь проваливай."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_INTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Just a few more days, and the hurting will stop...",
+    "ru": "Ещё пару дней — и мучения прекратятся..."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_OUTROMESSAGESHEADBOUNCER_1",
+    "en": "All done? Clear out then. I need my beauty sleep.",
+    "ru": "Всё? Тогда проваливай. Мне нужен здоровый сон."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_PASSMESSAGES_1",
+    "en": "You did well, so that's a good thing, I guess.",
+    "ru": "Ты хорошо справился, ну и ладно, наверное."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_BONUSMESSAGES_1",
+    "en": "Mmm. Smell that sweet sugar of victory.",
+    "ru": "Ммм. Вдохни этот сладкий аромат победы."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Seeya, creeper.",
+    "ru": "Пока, крипота."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_INTROMESSAGESHEADBOUNCER_1",
+    "en": "Hey, mate. Glad to have you here for the end.",
+    "ru": "Привет, приятель. Рад, что ты здесь напоследок."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_PICKUPITEMMESSAGES_2",
+    "en": "No more Lassy. More like Laissez-faire.",
+    "ru": "Никакой больше Лэсси. Скорее — лэссе-фэр."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_CORRECTITEMMESSAGES_1",
+    "en": "I thought we might be doing this again.",
+    "ru": "Я так и думала, что мы снова будем этим заниматься."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT1_DENIEDMESSAGES_2",
+    "en": "-5 just for jaywalking! Can you believe it?",
+    "ru": "Минус пять только за переход в неположенном месте! Представляешь?"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT2_DENIEDMESSAGES_3",
+    "en": "Fine! I'll go... plant a tree or something. Whatever!",
+    "ru": "Ладно! Пойду... посажу дерево или типа того. Да пофиг!"
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_DENIEDMESSAGES_2",
+    "en": "CDs? That is, like, so last month.",
+    "ru": "Диски? Это, типа, прошлый век."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT5_INTROMESSAGES_4",
+    "en": "Not that I have to worry about that any more, obviously.",
+    "ru": "Не то чтобы мне теперь нужно об этом переживать, понятное дело."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT6_DENIEDMESSAGES_1",
+    "en": "And I'll tell my replacement not to let you in either.",
+    "ru": "И я скажу сменщику тоже тебя не пускать."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT7_DENIEDMESSAGES_1",
+    "en": "Sorry, the beast's just been caged.",
+    "ru": "Прости, зверь уже в клетке."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS2_VISIT1_DENIEDMESSAGES_1",
+    "en": "Sorry. I can't risk blowing my cover.",
+    "ru": "Прости. Не могу рисковать — раскроют прикрытие."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_1",
+    "en": "that rock cd was so cool thanks xoxoxo",
+    "ru": "тот рок-диск был такой клёвый спасибо целую-обнимаю"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT10_MESSAGESET0_2",
+    "en": "Im going to take a road trip to Ireland.",
+    "ru": "Я собираюсь в роуд-трип в Ирландию."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT11_MESSAGESET0_5",
+    "en": "Listen. I heard about the predicament you're in.",
+    "ru": "Послушай. Я слышал, в какую передрягу ты попал."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET0_2",
+    "en": "Jupp Security needs you.",
+    "ru": "Охрана Юппа нуждается в тебе."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET1_3",
+    "en": "The election is over, Euro. It's a wall.",
+    "ru": "Выборы кончились, Евро. Это стена."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET5_2",
+    "en": "My future as Assistant to the Junior Minister of Internal Security is a given.",
+    "ru": "Моё будущее на должности помощника младшего министра внутренней безопасности — дело решённое."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET5_4",
+    "en": "I'll almost be sad when you go.",
+    "ru": "Мне почти будет грустно, когда ты уедешь."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET0_1",
+    "en": "Bastards have won.",
+    "ru": "Сволочи победили."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_2",
+    "en": "I can't thank you enough for help.",
+    "ru": "Не могу выразить, как я благодарна за помощь."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET2_1",
+    "en": "Did you tell King's Head Dave where I moved?",
+    "ru": "Ты рассказал Дэйву из «Королевской головы», куда я переехала?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET0_0",
+    "en": "Oi Oi! King's Head Dave here!",
+    "ru": "Ой-ой! На связи Дэйв из «Королевской головы»!"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_0",
+    "en": "Hey-hey. Dave. King's Head Dave.",
+    "ru": "Эй-эй. Дэйв. Дэйв из «Королевской головы»."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT100_MESSAGESET2_2",
+    "en": "Expect death unless action taken.",
+    "ru": "Ожидайте летальный исход, если не примете меры."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_HOUSE_PARTY_PICKUPITEMMESSAGES_3",
+    "en": "Course, you didn't get it from me.",
+    "ru": "Само собой, ты его не от меня получил."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET2_1",
+    "en": "Those Euro rats keep getting through.",
+    "ru": "Эти крысы-евро всё пролезают."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT1_MESSAGESET2_3",
+    "en": "Don't mess up. Or else.",
+    "ru": "Не облажайся. А то пожалеешь."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Don't slip on the stairs on your way out.",
+    "ru": "Смотри не поскользнись на лестнице, когда будешь уходить."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_CHAIN_PUB_PICKUPITEMMESSAGES_2",
+    "en": "Gave it to my kid, but they wanted an iPad instead.",
+    "ru": "Подарил ребёнку, а тот захотел айпад."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_OUTROMESSAGESNONHEADBOUNCER_1",
+    "en": "Glad that's over with for another night.",
+    "ru": "Хорошо, что ещё одна ночь позади."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_FESTIVAL_ROCK_PICKUPITEMMESSAGES_2",
+    "en": "After listening to this muck for several nights?",
+    "ru": "После того как слушал эту мерзость несколько ночей подряд?"
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT4_MESSAGESET1_6",
+    "en": "lol good riddance. lol.",
+    "ru": "лол скатертью дорожка. лол."
+  },
+  {
+    "key": "CHAPTER3/SHAREDINTERIORS_KINGS_HEAD_PT4_ITEMALREADYINTERACTED",
+    "en": "Did that already.",
+    "ru": "Уже сделано."
+  },
+  {
+    "key": "CHAPTER3/NOTES_7_TEXT",
+    "en": "Galahad: 'Complete ResistR'",
+    "ru": "Галахад: «Пройди ResistR»"
+  },
+  {
+    "key": "CHAPTER3/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_14",
+    "en": "Get back on top.",
+    "ru": "Вернуться на вершину."
+  },
+  {
+    "key": "CHAPTER3/SPECIALCLUBBERS1_VISIT3_DENIEDMESSAGES_2",
+    "en": "Yeah, but I hoped you wouldn't.",
+    "ru": "Ну да, но я надеялась, что ты не заметишь."
+  },
+  {
+    "key": "CHAPTER3/TXTIT_CONTACT3_MESSAGESET1_4",
+    "en": "And I leave you my piano. Don't drop on foot.",
+    "ru": "А я оставляю тебе своё пианино. Только не урони на ногу."
+  }
+]

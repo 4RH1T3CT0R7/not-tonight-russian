@@ -1,0 +1,77 @@
+[
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH3_FAIL",
+    "en": "Fortified London closes gates on terrorism-struck nation.",
+    "ru": "Укреплённый Лондон закрывает ворота перед страной, охваченной терроризмом."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH3_SUCCESS",
+    "en": "Minister for Agriculture revealed as Scorpion. \"So proud of my daughter.\"",
+    "ru": "Министр сельского хозяйства оказалась Скорпионом. «Так горжусь своей дочерью»."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH4_FAIL",
+    "en": "New sci-fi comedy shit compared to Red Dwarf.",
+    "ru": "Новая фантастическая комедия — отстой по сравнению с «Красным карликом»."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_SUBTITLE_FAIL",
+    "en": "Britain stands alone. European extraditions completed.",
+    "ru": "Британия осталась одна. Депортация европейцев завершена."
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_11",
+    "en": "And strike his comments about the defendant from the record, obviously.",
+    "ru": "И вычеркните его замечания о подсудимом из протокола, разумеется."
+  },
+  {
+    "key": "END_GAME_VERDICT_BOUNCER_2",
+    "en": "We find the defendant's word as empty as their claims of citizenship. Bailiff. Arrest this Euro.",
+    "ru": "Суд считает слова подсудимого столь же пустыми, как и его претензии на гражданство. Пристав. Арестуйте этого евро."
+  },
+  {
+    "key": "END_GAME_VERDICT_GOOD_2",
+    "en": "As a certified good Euro, we will investigate your accusations of Albion First. Happy? Court dismissed!",
+    "ru": "Поскольку вы — сертифицированный хороший евро, мы расследуем ваши обвинения в адрес «Альбион прежде всего». Довольны? Суд окончен!"
+  },
+  {
+    "key": "END_GAME_VERDICT_JUPP_2",
+    "en": "Yes, yes, don't milk it. As a certified Good Egg, we will consider investigating your accusations of Albion First. Happy? Court dismissed!",
+    "ru": "Да-да, хватит тянуть. Поскольку вы — сертифицированный Свой Человек, мы рассмотрим расследование ваших обвинений в адрес «Альбион прежде всего». Довольны? Суд окончен!"
+  },
+  {
+    "key": "FEBRUARY",
+    "en": "FEBRUARY",
+    "ru": "ФЕВРАЛЬ"
+  },
+  {
+    "key": "JUNE",
+    "en": "JUNE",
+    "ru": "ИЮНЬ"
+  },
+  {
+    "key": "GAME_OVER_BOOKEND1_NOBOMBER",
+    "en": "The explosion tore through the Museum, killing many guests. Albion First's top officials were conveniently late to the party.\n\nOver the next weeks, London became a fortress. The rest of the country followed. With the borders sealed, the world averted its eyes.\n\nThe bomber was never identified.\n\nYou were deported at 6AM the next day.",
+    "ru": "Взрыв разнёс Музей, унеся жизни множества гостей. Руководство «Альбион прежде всего» как нельзя кстати опоздало на вечеринку.\n\nЗа следующие недели Лондон превратился в крепость. Остальная страна последовала за ним. Когда границы были запечатаны, мир отвёл глаза.\n\nПодрывник так и не был установлен.\n\nВас депортировали в 6 утра на следующий день."
+  },
+  {
+    "key": "LAUNCH_PARTY_INTRO",
+    "en": "And so a dark chapter comes to an end.\n\nAs the architects of Albion First rot in prison, European exiles return to their home and the London Wall falls, all agree Never To Speak Of This Again.\n\nBut what of the bouncer formerly known as #112? One final job awaits - the Not Tonight victory party, with a guest-list of developer reprobates to congratulate you for your hard work.\n\nLet the developers in?\n\nWe're almost positive you will not abuse this power.",
+    "ru": "И вот тёмная глава подходит к концу.\n\nПока архитекторы «Альбион прежде всего» гниют в тюрьме, европейские изгнанники возвращаются домой, а Лондонская стена рушится, все соглашаются Никогда Об Этом Не Говорить.\n\nНо что же стало с вышибалой, известным как №112? Осталась последняя работа — вечеринка победы Not Tonight, со списком гостей из разработчиков-негодяев, чтобы поздравить вас с отлично проделанной работой.\n\nПропустить разработчиков?\n\nМы почти уверены, что вы не злоупотребите этой властью."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_13_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная казённая одежда евро."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_14_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная казённая одежда евро."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_15_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная казённая одежда евро."
+  }
+]

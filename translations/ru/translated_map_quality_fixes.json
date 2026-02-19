@@ -1,0 +1,602 @@
+[
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER2_MUSIC",
+    "en": "Pop",
+    "ru": "Поп"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER2_CROWD",
+    "en": "Locals",
+    "ru": "Местные"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER3_MUSIC",
+    "en": "Chill",
+    "ru": "Чилл"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER3_CROWD",
+    "en": "Locals",
+    "ru": "Местные"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER4_MUSIC",
+    "en": "Dance hits",
+    "ru": "Танцевальные хиты"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER4_CROWD",
+    "en": "Locals",
+    "ru": "Местные"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER5_MUSIC",
+    "en": "Beats",
+    "ru": "Биты"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER5_CROWD",
+    "en": "Locals",
+    "ru": "Местные"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER6_MUSIC",
+    "en": "80's",
+    "ru": "80-е"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER6_CROWD",
+    "en": "Smart casual",
+    "ru": "Элегантные"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER7_MUSIC",
+    "en": "Classical",
+    "ru": "Классика"
+  },
+  {
+    "key": "DLC_CHAPTER0/MAP_MARKER7_CROWD",
+    "en": "Posh",
+    "ru": "Шикарные"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER2_MUSIC",
+    "en": "Classical",
+    "ru": "Классика"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER2_CROWD",
+    "en": "Regulars",
+    "ru": "Постоянные"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER3_MUSIC",
+    "en": "Funk",
+    "ru": "Фанк"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER3_CROWD",
+    "en": "Ferriss pals",
+    "ru": "Дружки Ферриса"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER4_MUSIC",
+    "en": "Dance hits",
+    "ru": "Танцевальные хиты"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER4_CROWD",
+    "en": "Locals",
+    "ru": "Местные"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER5_MUSIC",
+    "en": "Reggae",
+    "ru": "Регги"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER5_CROWD",
+    "en": "Cheese heads",
+    "ru": "СырРники"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER6_MUSIC",
+    "en": "80's",
+    "ru": "80-е"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER6_CROWD",
+    "en": "Smart casual",
+    "ru": "Элегантные"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER7_MUSIC",
+    "en": "Classical",
+    "ru": "Классика"
+  },
+  {
+    "key": "CHAPTER0/MAP_MARKER7_CROWD",
+    "en": "Posh",
+    "ru": "Шикарные"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER2_MUSIC",
+    "en": "Beats",
+    "ru": "Биты"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER2_CROWD",
+    "en": "Regulars",
+    "ru": "Постоянные"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER3_MUSIC",
+    "en": "Funk",
+    "ru": "Фанк"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER3_CROWD",
+    "en": "Ferriss' pals",
+    "ru": "Дружки Ферриса"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER4_MUSIC",
+    "en": "Dance hits",
+    "ru": "Танцевальные хиты"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER4_CROWD",
+    "en": "Locals",
+    "ru": "Местные"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER5_MUSIC",
+    "en": "Reggae",
+    "ru": "Регги"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER5_CROWD",
+    "en": "Cheese heads",
+    "ru": "СырРники"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER6_MUSIC",
+    "en": "80s",
+    "ru": "80-е"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER6_CROWD",
+    "en": "Smart casual",
+    "ru": "Элегантные"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER7_MUSIC",
+    "en": "Classical",
+    "ru": "Классика"
+  },
+  {
+    "key": "CHAPTER1/MAP_MARKER7_CROWD",
+    "en": "Posh",
+    "ru": "Шикарные"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER2_MUSIC",
+    "en": "Chill / Dance",
+    "ru": "Чилл / Танцы"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER2_CROWD",
+    "en": "Tourists",
+    "ru": "Туристы"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER3_MUSIC",
+    "en": "Laid back",
+    "ru": "Расслабленная"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER3_CROWD",
+    "en": "Tourists",
+    "ru": "Туристы"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER4_MUSIC",
+    "en": "Electro",
+    "ru": "Электро"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER4_CROWD",
+    "en": "Hipsters",
+    "ru": "Хипстеры"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER5_MUSIC",
+    "en": "Indie",
+    "ru": "Инди"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER5_CROWD",
+    "en": "Indie kids",
+    "ru": "Инди-молодёжь"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER6_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER6_CROWD",
+    "en": "Workers",
+    "ru": "Работяги"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER7_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER7_CROWD",
+    "en": "Posh",
+    "ru": "Шикарные"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER8_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER8_CROWD",
+    "en": "Euro's",
+    "ru": "Евро"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER9_MUSIC",
+    "en": "Acoustic",
+    "ru": "Акустика"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER9_CROWD",
+    "en": "Euro's",
+    "ru": "Евро"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER10_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER2/MAP_MARKER10_CROWD",
+    "en": "Voters",
+    "ru": "Избиратели"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER2_MUSIC",
+    "en": "Pop",
+    "ru": "Поп"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER2_CROWD",
+    "en": "Locals",
+    "ru": "Местные"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER3_MUSIC",
+    "en": "Funk",
+    "ru": "Фанк"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER3_CROWD",
+    "en": "Ferriss pals",
+    "ru": "Дружки Ферриса"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER4_MUSIC",
+    "en": "Deep house",
+    "ru": "Дип-хаус"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER4_CROWD",
+    "en": "Hipsters",
+    "ru": "Хипстеры"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER5_MUSIC",
+    "en": "Rock",
+    "ru": "Рок"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER5_CROWD",
+    "en": "Festival",
+    "ru": "Фестиваль"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER6_MUSIC",
+    "en": "Dirty beats",
+    "ru": "Грязные биты"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER6_CROWD",
+    "en": "Euros",
+    "ru": "Евро"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER7_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER7_CROWD",
+    "en": "Posh",
+    "ru": "Шикарные"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER8_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER8_CROWD",
+    "en": "Workers",
+    "ru": "Работяги"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER9_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER9_CROWD",
+    "en": "Euros",
+    "ru": "Евро"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER10_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER3/MAP_MARKER10_CROWD",
+    "en": "Euros",
+    "ru": "Евро"
+  },
+  {
+    "key": "CHAPTER4/MAP_MARKER2_MUSIC",
+    "en": "None",
+    "ru": "Нет"
+  },
+  {
+    "key": "CHAPTER4/MAP_MARKER2_CROWD",
+    "en": "Albion First",
+    "ru": "Альбион прежде всего"
+  },
+  {
+    "key": "CHAPTER4/MAP_MARKER3_MUSIC",
+    "en": "Party",
+    "ru": "Вечеринка"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_20",
+    "en": "Here be.",
+    "ru": "Вот, держи."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_20",
+    "en": "Here be.",
+    "ru": "Вот, держи."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_2",
+    "en": "Here it is.",
+    "ru": "Вот, держи."
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Dead Euro found lounging in bed!",
+    "ru": "Мёртвый Евро найден бездельничающим в кровати!"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_BILL",
+    "en": "Taking back control one Euro at a time",
+    "ru": "Возвращаем контроль по одному Евро за раз"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Lazy Euro found dead in bed!",
+    "ru": "Ленивый Евро найден мёртвым в кровати!"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_SUSPICION",
+    "en": "Taking back control one Euro at a time",
+    "ru": "Возвращаем контроль по одному Евро за раз"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Dead Euro found; no one cares.",
+    "ru": "Мёртвый Евро найден; всем плевать."
+  },
+  {
+    "key": "END_GAME_INTRO_TEXT_1",
+    "en": "This Euro stands accused of aiding and abetting the bombing of an Albion First event",
+    "ru": "Этот Евро обвиняется в соучастии во взрыве на мероприятии «Альбион прежде всего»"
+  },
+  {
+    "key": "CHAPTER3/FLATCHARACTER_VISITOR5_INTROMESSAGES_24",
+    "en": "You'll be gone quicker than a Euro sniffs a truffle.",
+    "ru": "Вылетишь быстрее, чем Евро нюхает трюфель."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS16_INTROMESSAGES_17",
+    "en": "Your lot. No Euros.",
+    "ru": "Останавливай Евро своих."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS1_INTROMESSAGES_11",
+    "en": "Not one damn Euro will set foot in this building.",
+    "ru": "Ни один чёртов Евро не ступит ногой в это здание."
+  },
+  {
+    "key": "CHAPTER3/INTERIORS27_FAILMESSAGES_1",
+    "en": "Yep, like I said, this Euro messed up good.",
+    "ru": "Ага, как я и говорил, этот Евро конкретно облажался."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT9_MESSAGESET0_4",
+    "en": "A false flag operation to raise tension against Euros.",
+    "ru": "Операция под ложным флагом, чтобы разжечь напряжённость против Евро."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_1",
+    "en": "That's a false flag on this ID.",
+    "ru": "На этом удостоверении фальшивый флаг."
+  },
+  {
+    "key": "APP_RESISTANCE_EUROS_QUEST_SUBTITLE",
+    "en": "EUROS LET IN",
+    "ru": "ПРОПУЩЕНО ЕВРО"
+  },
+  {
+    "key": "DWEB_UPGRADE_1_CATEGORY_TITLE",
+    "en": "Guestlist",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_2_CATEGORY_TITLE",
+    "en": "Clicker",
+    "ru": "Кликер"
+  },
+  {
+    "key": "DWEB_UPGRADE_3_CATEGORY_TITLE",
+    "en": "Scan and Ban",
+    "ru": "Сканируй и Бань"
+  },
+  {
+    "key": "DWEB_UPGRADE_1_TITLE",
+    "en": "Clicker",
+    "ru": "Кликер"
+  },
+  {
+    "key": "DWEB_UPGRADE_2_TITLE",
+    "en": "Clicker v2",
+    "ru": "Кликер v2"
+  },
+  {
+    "key": "DWEB_UPGRADE_3_TITLE",
+    "en": "Clicker v3",
+    "ru": "Кликер v3"
+  },
+  {
+    "key": "DWEB_UPGRADE_4_TITLE",
+    "en": "Clicker v4 Deluxe",
+    "ru": "Кликер v4 Делюкс"
+  },
+  {
+    "key": "DWEB_UPGRADE_5_TITLE",
+    "en": "Guest List",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_6_TITLE",
+    "en": "Guest List",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_7_TITLE",
+    "en": "Guest List",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_8_TITLE",
+    "en": "Guest List",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_9_TITLE",
+    "en": "Scan and Ban v1",
+    "ru": "Сканируй и Бань v1"
+  },
+  {
+    "key": "DWEB_UPGRADE_10_TITLE",
+    "en": "Scan and Ban v2",
+    "ru": "Сканируй и Бань v2"
+  },
+  {
+    "key": "DWEB_UPGRADE_11_TITLE",
+    "en": "Scan and Ban v3",
+    "ru": "Сканируй и Бань v3"
+  },
+  {
+    "key": "DWEB_UPGRADE_12_TITLE",
+    "en": "Scan and Ban v4",
+    "ru": "Сканируй и Бань v4"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY1_TITLE",
+    "en": "YOUR DATING LIFE",
+    "ru": "ВАША ЛИЧНАЯ ЖИЗНЬ"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY2_TITLE",
+    "en": "POLITICS",
+    "ru": "ПОЛИТИКА"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY3_TITLE",
+    "en": "LOCAL NEWS",
+    "ru": "МЕСТНЫЕ НОВОСТИ"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY4_TITLE",
+    "en": "DATING 4 PROFIT",
+    "ru": "СВИДАНИЯ РАДИ ПРИБЫЛИ"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY5_TITLE",
+    "en": "LOCAL NEWS",
+    "ru": "МЕСТНЫЕ НОВОСТИ"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY6_TITLE",
+    "en": "DATING 4 LIFE",
+    "ru": "СВИДАНИЯ НАВСЕГДА"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY7_TITLE",
+    "en": "VEGGY CHAOS!",
+    "ru": "ОВОЩНОЙ ХАОС!"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY8_TITLE",
+    "en": "DATING 4 EVER",
+    "ru": "СВИДАНИЯ НАВЕЧНО"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY9_TITLE",
+    "en": "SOCIETY",
+    "ru": "ОБЩЕСТВО"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY10_TITLE",
+    "en": "POLITICS",
+    "ru": "ПОЛИТИКА"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY11_TITLE",
+    "en": "POLITICS",
+    "ru": "ПОЛИТИКА"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY12_TITLE",
+    "en": "POLITICS",
+    "ru": "ПОЛИТИКА"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY13_TITLE",
+    "en": "SHOP @ SHOPR!",
+    "ru": "ПОКУПАЙ В SHOPR!"
+  },
+  {
+    "key": "DLC_CHAPTER0/NEWS_ENTRY14_TITLE",
+    "en": "GIFT DONT GRIFT",
+    "ru": "ДАРИ, НЕ ОБМАНЫВАЙ"
+  }
+]

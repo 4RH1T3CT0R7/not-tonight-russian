@@ -1,0 +1,37 @@
+[
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_CORRECT_ITEM__15",
+    "en": "Make Jupp Security look good for the big-wigs.",
+    "ru": "Сделай так, чтобы Безопасность Юппа хорошо смотрелась перед шишками."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR26_CORRECT_ITEM__5",
+    "en": "Jupp Security pen?",
+    "ru": "Ручка Безопасности Юппа?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS2_INTROMESSAGES_8",
+    "en": "Your eyes. Not the IDs. Don't peel the IDs.",
+    "ru": "Глазами смотри. Не в документы. Не порти документы."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS2_OUTROMESSAGES_1",
+    "en": "A few more good jobs, and I'll be looking at my new head doorman!",
+    "ru": "Ещё пару хороших смен — и передо мной будет стоять мой новый главный вышибала!"
+  },
+  {
+    "key": "FLAT_SCENE_ADVANCE_DAY_SELECTOR",
+    "en": "Advance Day",
+    "ru": "Следующий день"
+  },
+  {
+    "key": "SHARED_THURSDAY",
+    "en": "THURSDAY",
+    "ru": "Четверг"
+  },
+  {
+    "key": "FLYER_PASS_TITLE",
+    "en": "PASS",
+    "ru": "Пропуск"
+  }
+]

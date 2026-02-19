@@ -1,0 +1,437 @@
+[
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_1",
+    "en": "I am lost.",
+    "ru": "Я пропал."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_2",
+    "en": "I'm ruined.",
+    "ru": "Я погиб."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_3",
+    "en": "Please no.",
+    "ru": "Пожалуйста, нет."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_4",
+    "en": "This can't be happening.",
+    "ru": "Этого не может быть."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_5",
+    "en": "Some mistake. Please.",
+    "ru": "Это ошибка. Пожалуйста."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_8",
+    "en": "Not sure what to do.",
+    "ru": "Не знаю, что делать."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_9",
+    "en": "I, I....",
+    "ru": "Я, я..."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_10",
+    "en": "What now.",
+    "ru": "Что теперь."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_11",
+    "en": "But now what?",
+    "ru": "И что теперь?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_12",
+    "en": "I, I am destroyed.",
+    "ru": "Я, я уничтожен."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_13",
+    "en": "This is a nightmare.",
+    "ru": "Это кошмар."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_14",
+    "en": "Please think what this means.",
+    "ru": "Подумайте, что это значит."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_15",
+    "en": "I can't speak.",
+    "ru": "Я не могу говорить."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_16",
+    "en": "But you must understand.",
+    "ru": "Но вы должны понять."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_17",
+    "en": "My family.",
+    "ru": "Моя семья."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_18",
+    "en": "Please think again.",
+    "ru": "Прошу, подумайте ещё раз."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_20",
+    "en": "Bye then.",
+    "ru": "Ну, пока."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_21",
+    "en": "Goodbye. ",
+    "ru": "До свидания. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_22",
+    "en": "I'll try again",
+    "ru": "Я попробую ещё раз"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_23",
+    "en": "Now what. ",
+    "ru": "И что теперь. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_24",
+    "en": "That is it?",
+    "ru": "И это всё?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_26",
+    "en": "I don't know what to do. ",
+    "ru": "Я не знаю, что делать. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_27",
+    "en": "I am European?",
+    "ru": "Я европеец?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_28",
+    "en": "We are the same?",
+    "ru": "Мы же одинаковые?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_29",
+    "en": "So thats that?",
+    "ru": "Так вот и всё?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_31",
+    "en": "Help? please?",
+    "ru": "Помогите? пожалуйста?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_32",
+    "en": "I'm in limbo now. ",
+    "ru": "Я теперь в подвешенном состоянии. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_33",
+    "en": "I need to get home. ",
+    "ru": "Мне нужно домой. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_34",
+    "en": "I need help. ",
+    "ru": "Мне нужна помощь. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_35",
+    "en": "What now? please?",
+    "ru": "Что теперь? пожалуйста?"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_36",
+    "en": "I will queue again. ",
+    "ru": "Я встану в очередь снова. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_37",
+    "en": "I live in England!",
+    "ru": "Я живу в Англии!"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_38",
+    "en": "I live here!",
+    "ru": "Я здесь живу!"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_39",
+    "en": "This is ridiculous. ",
+    "ru": "Это абсурд. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_1",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_1",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_2",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_3",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_4",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_5",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_6",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_7",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_8",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_9",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_10",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_11",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_12",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_13",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_14",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_15",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_16",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_17",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_18",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_19",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_1",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_2",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_3",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_4",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_5",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_6",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_7",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_8",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_9",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_10",
+    "en": "Yo",
+    "ru": "Йо"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_6",
+    "en": "Everything is here",
+    "ru": "Всё здесь"
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_10",
+    "en": "Here. Thanks.",
+    "ru": "Вот. Спасибо."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_11",
+    "en": "Yes here is everything.",
+    "ru": "Да, вот, всё здесь."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_16",
+    "en": "Hello. Thanks. ",
+    "ru": "Здравствуйте. Спасибо. "
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_31",
+    "en": "Here. All.",
+    "ru": "Вот. Всё."
+  },
+  {
+    "key": "MESSAGE_SET2/DIALOG_CLUBBERINTRO_35",
+    "en": "Here. Everything I have. ",
+    "ru": "Вот. Всё, что есть. "
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_1",
+    "en": "Tim, creative director. Bit late to apologise, but still, can I come in?",
+    "ru": "Тим, креативный директор. Извиняться поздновато, но всё же, можно войти?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_2",
+    "en": "Rafal, artist. I made you. You gotta let me in!?",
+    "ru": "Рафал, художник. Я тебя создал. Ты обязан меня пустить!?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_3",
+    "en": "Damion. I did all the audio. It's a given right?",
+    "ru": "Дэмион. Я сделал весь звук. Это же само собой, да?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_4",
+    "en": "Lukas, lead programmer. This literally cannot exist without me.",
+    "ru": "Лукас, ведущий программист. Без меня этого буквально не существовало бы."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_5",
+    "en": "Richard, writer. You must have laughed at least once? Chuckled? Smiled?",
+    "ru": "Ричард, сценарист. Ты хоть раз смеялся? Хихикнул? Улыбнулся?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_6",
+    "en": "Mike, publisher. I also apologise. But hey, can I also come in?",
+    "ru": "Майк, издатель. Я тоже извиняюсь. Но эй, можно мне тоже войти?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_7",
+    "en": "I'm Danda, I mean, Alex, the Spanish translator. Can I come in?",
+    "ru": "Я Данда, то есть Алекс, испанский переводчик. Можно войти?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_8",
+    "en": "I'm ZZZTOTOSO, the Chinese translator. Can I come in?",
+    "ru": "Я ZZZTOTOSO, китайский переводчик. Можно войти?"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_9",
+    "en": "Another Alex, another language. I did the French translation. Not affiliated with Lukas. I allow you to let me enter.",
+    "ru": "Ещё один Алекс, ещё один язык. Я делал французский перевод. С Лукасом не связан. Разрешаю тебе меня впустить."
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_10",
+    "en": "X",
+    "ru": "X"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_11",
+    "en": "X",
+    "ru": "X"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_12",
+    "en": "X",
+    "ru": "X"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_13",
+    "en": "X",
+    "ru": "X"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_14",
+    "en": "X",
+    "ru": "X"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_15",
+    "en": "X",
+    "ru": "X"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_16",
+    "en": "X",
+    "ru": "X"
+  },
+  {
+    "key": "MESSAGE_SET4/DIALOG_CLUBBERINTRO_17",
+    "en": "X",
+    "ru": "X"
+  }
+]

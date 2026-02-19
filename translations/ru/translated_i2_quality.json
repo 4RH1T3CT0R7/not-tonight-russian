@@ -1,0 +1,4952 @@
+[
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_1",
+    "en": "I'll check this...",
+    "ru": "Сейчас проверю..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_2",
+    "en": "This is interesting...",
+    "ru": "Это интересно..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_3",
+    "en": "I'll highlight this.",
+    "ru": "Отмечу это."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_4",
+    "en": "Interesting...",
+    "ru": "Интересно..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_5",
+    "en": "This looks odd...",
+    "ru": "Что-то тут не так..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_6",
+    "en": "What's this?",
+    "ru": "Что это?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_7",
+    "en": "Is this right...",
+    "ru": "Это точно?..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_8",
+    "en": "Let me see...",
+    "ru": "Дай-ка гляну..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_9",
+    "en": "Ok, look at this...",
+    "ru": "Так, смотри сюда..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTEDITEM_10",
+    "en": "Checking this...",
+    "ru": "Проверяю..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_1",
+    "en": "No way.",
+    "ru": "Не-а."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_2",
+    "en": "We're full up.",
+    "ru": "Мест нет."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_4",
+    "en": "We're closed.",
+    "ru": "Мы закрыты."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_5",
+    "en": "No entry for you.",
+    "ru": "Тебе нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_6",
+    "en": "Step away please.",
+    "ru": "Отойди, пожалуйста."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_8",
+    "en": "Next please.",
+    "ru": "Следующий, пожалуйста."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_9",
+    "en": "Move away, next!",
+    "ru": "Проходи, следующий!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_10",
+    "en": "You're not coming in.",
+    "ru": "Ты не войдёшь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_11",
+    "en": "Next!",
+    "ru": "Следующий!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_12",
+    "en": "Time to go.",
+    "ru": "Пора идти."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_13",
+    "en": "Lets go.",
+    "ru": "Давай, проходи."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_16",
+    "en": "We're shut.",
+    "ru": "Закрыто."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_17",
+    "en": "No entry.",
+    "ru": "Вход закрыт."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_18",
+    "en": "Step aside please.",
+    "ru": "Отойди в сторону."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_19",
+    "en": "Not for you.",
+    "ru": "Не для тебя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_22",
+    "en": "Not coming in.",
+    "ru": "Не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_23",
+    "en": "Come back sometime.",
+    "ru": "Приходи как-нибудь в другой раз."
+  },
+  {
+    "key": "DIALOG_BOUNCER_NOSELECTION_24",
+    "en": "Goodbye!",
+    "ru": "Всего доброго!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_1",
+    "en": "What kind of name is this?",
+    "ru": "Что это за имя такое?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_5",
+    "en": "What kind of name is this?",
+    "ru": "Что за имя?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_6",
+    "en": "Is this really your name?",
+    "ru": "Это правда твоё имя?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_7",
+    "en": "What's going on with your name?",
+    "ru": "Что у тебя с именем?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_8",
+    "en": "This name is wrong...",
+    "ru": "Имя неправильное..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_9",
+    "en": "Your name looks wrong...",
+    "ru": "С именем что-то не то..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAME_10",
+    "en": "What's up with your name?",
+    "ru": "Что с твоим именем?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_1",
+    "en": "You're not on the guestlist.",
+    "ru": "Тебя нет в списке гостей."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_2",
+    "en": "If your name's not down you're not coming in.",
+    "ru": "Нет в списке — не войдёшь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_3",
+    "en": "Guestlist only.",
+    "ru": "Только по списку."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_4",
+    "en": "Your name isn't on the list...",
+    "ru": "Твоего имени нет в списке..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_5",
+    "en": "Your name isn't here...",
+    "ru": "Тебя тут нет..."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_6",
+    "en": "This is the guestlist queue!",
+    "ru": "Это очередь по списку!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_9",
+    "en": "No name on list, I can't let you in.",
+    "ru": "Имени нет в списке — не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NAMEGUEST_10",
+    "en": "Regular queue over there!",
+    "ru": "Общая очередь вон там!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_SEX_2",
+    "en": "This doesn't look right.",
+    "ru": "Что-то тут не сходится."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_SEX_3",
+    "en": "This isn't correct.",
+    "ru": "Тут ошибка."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_1",
+    "en": "You're under 18!",
+    "ru": "Тебе нет восемнадцати!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_2",
+    "en": "Over 18s only!",
+    "ru": "Только с восемнадцати!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_3",
+    "en": "What year were you born?",
+    "ru": "В каком году ты родился?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_4",
+    "en": "No underage.",
+    "ru": "Несовершеннолетним нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_5",
+    "en": "Go home, you're too young.",
+    "ru": "Иди домой, мал ещё."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_6",
+    "en": "It's over 18s only.",
+    "ru": "Только для тех, кому есть восемнадцать."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_7",
+    "en": "Are you 18?",
+    "ru": "Тебе есть восемнадцать?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_8",
+    "en": "Go away, too young.",
+    "ru": "Проваливай, мелкий."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_AGE_10",
+    "en": "18 or over!",
+    "ru": "Восемнадцать и старше!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_1",
+    "en": "Not tonight.",
+    "ru": "Не сегодня."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_2",
+    "en": "We're full up.",
+    "ru": "Мест нет."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_4",
+    "en": "We're closed.",
+    "ru": "Мы закрыты."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_5",
+    "en": "No entry for you.",
+    "ru": "Тебе сюда нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_6",
+    "en": "Step away please.",
+    "ru": "Отойди, пожалуйста."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_7",
+    "en": "Next.",
+    "ru": "Следующий."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_8",
+    "en": "Next please.",
+    "ru": "Следующий, пожалуйста."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_9",
+    "en": "Move away, next!",
+    "ru": "Проходи, следующий!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_COUNTRY_10",
+    "en": "You're not coming in.",
+    "ru": "Ты не войдёшь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_1",
+    "en": "This isn't your ID.",
+    "ru": "Это не твой документ."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_2",
+    "en": "Your ID photo isn't actually you.",
+    "ru": "На фото не ты."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_3",
+    "en": "Wrong ID?",
+    "ru": "Не тот документ?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_4",
+    "en": "This ID photo doesn't look like you.",
+    "ru": "Фото на документе на тебя не похоже."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_5",
+    "en": "No way this is you.",
+    "ru": "Это точно не ты."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_6",
+    "en": "This isn't you?",
+    "ru": "Это не ты?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_7",
+    "en": "Your ID photo doesnt match your ID.",
+    "ru": "Фото не совпадает с документом."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PORTRAIT_8",
+    "en": "This can't be you.",
+    "ru": "Это не можешь быть ты."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_1",
+    "en": "This ID doesnt have a hologram.",
+    "ru": "На документе нет голограммы."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_3",
+    "en": "This ID is fake.",
+    "ru": "Документ поддельный."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_7",
+    "en": "This ID is well dodgy.",
+    "ru": "Документ палёный."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_8",
+    "en": "This ID has to be a fake.",
+    "ru": "Это же подделка."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_9",
+    "en": "Hologram?",
+    "ru": "Голограмма?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HOLOGRAM_10",
+    "en": "This is a fake.",
+    "ru": "Это фальшивка."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_2",
+    "en": "Your ID's flag has no colour.",
+    "ru": "На документе флаг без цвета."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_3",
+    "en": "This ID is off.",
+    "ru": "С документом что-то не так."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_4",
+    "en": "Something's up with your ID.",
+    "ru": "Что-то не то с твоим документом."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_5",
+    "en": "This flag is fake.",
+    "ru": "Флаг поддельный."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_6",
+    "en": "Your ID has an issue.",
+    "ru": "С твоим документом проблема."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_7",
+    "en": "Can't let you in with this.",
+    "ru": "С этим не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_8",
+    "en": "Not getting in with this ID.",
+    "ru": "С таким документом не пройдёшь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_9",
+    "en": "Flag is all wrong on this ID.",
+    "ru": "Флаг на документе совсем не тот."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_FLAG_10",
+    "en": "No entry with this ID.",
+    "ru": "С таким документом — нет."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_1",
+    "en": "This ID is out of date.",
+    "ru": "Документ просрочен."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_2",
+    "en": "Your ID has expired.",
+    "ru": "Твой документ истёк."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_3",
+    "en": "This ID is not valid.",
+    "ru": "Документ недействителен."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_4",
+    "en": "Can't accept this old ID.",
+    "ru": "Старый документ не приму."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_EXPIRATION_5",
+    "en": "You need to get a new ID.",
+    "ru": "Тебе нужен новый документ."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HEAD_1",
+    "en": "No entry wearing that.",
+    "ru": "В этом не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HEAD_2",
+    "en": "Come back with proper attire.",
+    "ru": "Вернись, когда нормально оденешься."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HEAD_3",
+    "en": "You can't wear that.",
+    "ru": "В этом нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HEAD_4",
+    "en": "We have a dress code.",
+    "ru": "У нас дресс-код."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HEAD_5",
+    "en": "Can't come in wearing that.",
+    "ru": "В этом не пройдёшь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_BODY_1",
+    "en": "You can't come in with that on.",
+    "ru": "В этом не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_BODY_2",
+    "en": "Dress code tonight.",
+    "ru": "Сегодня дресс-код."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_BODY_3",
+    "en": "You can't wear that.",
+    "ru": "В этом нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_LEGS_1",
+    "en": "You can't come in wearing those.",
+    "ru": "В этом не войдёшь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_LEGS_2",
+    "en": "No entry wearing that.",
+    "ru": "В этом — нет."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_LEGS_3",
+    "en": "We have a dress code and that's not on it.",
+    "ru": "У нас дресс-код, и это мимо."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETDAY_1",
+    "en": "This ticket is for the wrong day.",
+    "ru": "Билет не на сегодня."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETDAY_2",
+    "en": "This ticket isn't valid",
+    "ru": "Билет недействителен."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETDAY_3",
+    "en": "The day is wrong on your ticket.",
+    "ru": "На билете не та дата."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETDAY_4",
+    "en": "Can't use this ticket.",
+    "ru": "Этот билет не подходит."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETDAY_5",
+    "en": "You have another ticket?",
+    "ru": "Другой билет есть?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETSTAMP_1",
+    "en": "This ticket doesn't have a stamp.",
+    "ru": "На билете нет штампа."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETSTAMP_2",
+    "en": "This ticket has no stamp.",
+    "ru": "Билет без штампа."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETSTAMP_3",
+    "en": "No stamp on the ticket.",
+    "ru": "Штампа на билете нет."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETSTAMP_4",
+    "en": "No stamped ticket, no entry.",
+    "ru": "Нет штампа — нет входа."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETSTAMP_5",
+    "en": "Not coming in with this ticket.",
+    "ru": "С таким билетом не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_1",
+    "en": "You need a ticket for tonight.",
+    "ru": "Тебе нужен билет на сегодня."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_2",
+    "en": "No ticket, no entry.",
+    "ru": "Нет билета — нет входа."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_3",
+    "en": "Where's your ticket?",
+    "ru": "Где твой билет?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_4",
+    "en": "It's ticket only.",
+    "ru": "Только по билетам."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_5",
+    "en": "You have to have a ticket.",
+    "ru": "Нужен билет."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_6",
+    "en": "Ticket only tonight.",
+    "ru": "Сегодня только по билетам."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_7",
+    "en": "Can't let you in without a ticket.",
+    "ru": "Без билета не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_8",
+    "en": "No entry without a ticket.",
+    "ru": "Без билета нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_9",
+    "en": "Ticket?",
+    "ru": "Билет?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TICKETMISSING_10",
+    "en": "This is a ticketed event.",
+    "ru": "Вход по билетам."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_1",
+    "en": "You have a concealed item.",
+    "ru": "У тебя что-то спрятано."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_2",
+    "en": "You can't bring this thing in",
+    "ru": "С этим сюда нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_3",
+    "en": "What's this?",
+    "ru": "Это что такое?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_4",
+    "en": "Can't bring that in.",
+    "ru": "С этим нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_5",
+    "en": "Not allowed entry with that.",
+    "ru": "С этим не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_6",
+    "en": "You're not bringing that in.",
+    "ru": "Это ты сюда не пронесёшь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_7",
+    "en": "Can't have that.",
+    "ru": "Так не пойдёт."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_8",
+    "en": "Expect to come in with that?",
+    "ru": "Думал с этим пройдёшь?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_9",
+    "en": "What's that?",
+    "ru": "Что это?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_CONCEALEDITEM_10",
+    "en": "This isnt going to work.",
+    "ru": "Так не прокатит."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HASSPECIAL_1",
+    "en": "I've told not to let you in",
+    "ru": "Мне сказали тебя не пускать."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HASSPECIAL_2",
+    "en": "I can't let you in tonight, sorry.",
+    "ru": "Сегодня не могу тебя пустить, извини."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_HASSPECIAL_3",
+    "en": "You are definitely not allowed in",
+    "ru": "Тебе точно нельзя внутрь."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_BRIBE_1",
+    "en": "I don't take bribes ",
+    "ru": "Я взяток не беру."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_PASSWORD_1",
+    "en": "Wrong password",
+    "ru": "Неправильный пароль."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_1",
+    "en": "No entry. ",
+    "ru": "Вход закрыт."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_2",
+    "en": "Your country is on the banned list.",
+    "ru": "Твоя страна в чёрном списке."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_3",
+    "en": "No entry. ",
+    "ru": "Не пущу."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_4",
+    "en": "I can't let you in.",
+    "ru": "Не могу тебя пустить."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_5",
+    "en": "Your nation is on the banned list.",
+    "ru": "Твоя страна под запретом."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_6",
+    "en": "Your nationality isn't allowed.",
+    "ru": "Твоей национальности нельзя."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_7",
+    "en": "No entry for your nation.",
+    "ru": "Для твоей страны вход закрыт."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_8",
+    "en": "Your nation is on a list, you can't enter.",
+    "ru": "Твоя страна в списке, войти не получится."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_9",
+    "en": "I don't make the rules but your nationality is banned.",
+    "ru": "Не я правила придумываю, но твоей нации вход запрещён."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_NATIONALITY_10",
+    "en": "Your nation is not on the entry list.",
+    "ru": "Твоей страны нет в списке допуска."
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_CHEESER_1",
+    "en": "Do you want some CheeseR?",
+    "ru": "СырР хочешь?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_CHEESER_2",
+    "en": "CheeseR?",
+    "ru": "СырР?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_CHEESER_3",
+    "en": "You interested in some CheeseR?",
+    "ru": "СырР интересует?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_DIPUDABU_1",
+    "en": "Do you want some Dibu Dabu?",
+    "ru": "Дибу Дабу хочешь?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_DIPUDABU_2",
+    "en": "Dibu Dabu?",
+    "ru": "Дибу Дабу?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_DIPUDABU_3",
+    "en": "You interested in some Dibu Dabu?",
+    "ru": "Дибу Дабу интересует?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_POWAHPILLS_1",
+    "en": "Do you want some Powah Pills?",
+    "ru": "ТаблеткиСилы хочешь?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_POWAHPILLS_2",
+    "en": "Powah Pills?",
+    "ru": "ТаблеткиСилы?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_POWAHPILLS_3",
+    "en": "Want some Powah Pills?",
+    "ru": "ТаблеткиСилы нужны?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_FACEDROPS_1",
+    "en": "Do you want some Face Drops?",
+    "ru": "ЛицеПад хочешь?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_FACEDROPS_2",
+    "en": "Face Drops?",
+    "ru": "ЛицеПад?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRUGS_FACEDROPS_3",
+    "en": "You interested in some Face Drops?",
+    "ru": "ЛицеПад интересует?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_1",
+    "en": "Like I give a crap.",
+    "ru": "Да мне плевать."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_2",
+    "en": "I'm going home.",
+    "ru": "Я домой."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_3",
+    "en": "Looks crap anyway",
+    "ru": "Тут всё равно отстой."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_4",
+    "en": "Don't want to come in anyway.",
+    "ru": "Да мне и не хотелось."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_5",
+    "en": "You're an idiot.",
+    "ru": "Ты идиот."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_6",
+    "en": "I'll be back.",
+    "ru": "Я ещё вернусь."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_7",
+    "en": "I hate you.",
+    "ru": "Ненавижу тебя."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_8",
+    "en": "You suck.",
+    "ru": "Отстой."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_9",
+    "en": "Hate this place.",
+    "ru": "Ненавижу это место."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_10",
+    "en": "Screw you.",
+    "ru": "Да пошёл ты."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_11",
+    "en": "Just die.",
+    "ru": "Сдохни."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_12",
+    "en": "Going next door.",
+    "ru": "Пойду в другое место."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_13",
+    "en": "This place sucks.",
+    "ru": "Место — отстой."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_14",
+    "en": "I don't care, I'm going.",
+    "ru": "Плевать, я ухожу."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_15",
+    "en": "I'm out of here.",
+    "ru": "Я отсюда ухожу."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_16",
+    "en": "Go check yourself.",
+    "ru": "Сам себя проверь."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_17",
+    "en": "I'm off.",
+    "ru": "Всё, я пошёл."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_18",
+    "en": "Don't need this.",
+    "ru": "Мне это не нужно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "Like I care.",
+    "ru": "Как будто мне не всё равно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_20",
+    "en": "See you.",
+    "ru": "Увидимся."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_21",
+    "en": "Never again.",
+    "ru": "Больше никогда."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_22",
+    "en": "I queued for that.",
+    "ru": "Я же очередь отстоял."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_23",
+    "en": "I will be making a complaint.",
+    "ru": "Я буду жаловаться."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_24",
+    "en": "This can't be possible.",
+    "ru": "Не может быть."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_25",
+    "en": "Who do you think you are?",
+    "ru": "Ты кем себя возомнил?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_26",
+    "en": "Right, I'm going.",
+    "ru": "Ладно, я пошёл."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_27",
+    "en": "Can't believe this.",
+    "ru": "Не верю."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_28",
+    "en": "How is this happening.",
+    "ru": "Как так вообще."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_29",
+    "en": "Do you know who I am?",
+    "ru": "Ты знаешь, кто я?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_30",
+    "en": "Not bothered.",
+    "ru": "Пофиг."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_31",
+    "en": "Not interested anyway.",
+    "ru": "Всё равно не интересно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_32",
+    "en": "This ain't nothing.",
+    "ru": "Да ерунда."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_33",
+    "en": "Who are you?",
+    "ru": "Ты вообще кто?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_34",
+    "en": "What on earth.",
+    "ru": "Что за бред."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_35",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_36",
+    "en": "Ok ok.",
+    "ru": "Ладно, ладно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_37",
+    "en": "I was going anyway.",
+    "ru": "Я и так уходил."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_38",
+    "en": "I'll come back later.",
+    "ru": "Я ещё вернусь попозже."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_39",
+    "en": "No empathy.",
+    "ru": "Ни капли сочувствия."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_1",
+    "en": "This is rubbish.",
+    "ru": "Ерунда какая-то."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_2",
+    "en": "Screw this.",
+    "ru": "Да ну нафиг."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_3",
+    "en": "Can't believe this, you're wrong",
+    "ru": "Не верю, ты неправ."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_4",
+    "en": "Are you kidding me!",
+    "ru": "Ты издеваешься?!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_5",
+    "en": "You're wrong.",
+    "ru": "Ты неправ."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_6",
+    "en": "I'll be back.",
+    "ru": "Я вернусь."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_7",
+    "en": "I hate you.",
+    "ru": "Ненавижу тебя."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_8",
+    "en": "You're a twat",
+    "ru": "Ты козёл."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_9",
+    "en": "Hate this place.",
+    "ru": "Ненавижу это место."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_10",
+    "en": "Screw this.",
+    "ru": "К чёрту."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_11",
+    "en": "Just die.",
+    "ru": "Чтоб ты сдох."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_12",
+    "en": "Going next door.",
+    "ru": "Пойду к соседям."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_13",
+    "en": "This place sucks.",
+    "ru": "Место — дерьмо."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_14",
+    "en": "I don't care, im going.",
+    "ru": "Плевать, ухожу."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_15",
+    "en": "I'm out of here.",
+    "ru": "Я валю отсюда."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_16",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_17",
+    "en": "See you.",
+    "ru": "Увидимся."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_18",
+    "en": "This place is so crap.",
+    "ru": "Место — полный отстой."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_19",
+    "en": "This won't happen again.",
+    "ru": "Больше такого не будет."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_1",
+    "en": "I'm a VIP. I'm not waiting for this!",
+    "ru": "Я VIP. Я не собираюсь тут ждать!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_2",
+    "en": "Bored! Leaving!",
+    "ru": "Скучно! Ухожу!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_3",
+    "en": "Spending my money elsewhere!",
+    "ru": "Потрачу деньги в другом месте!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_4",
+    "en": "I'm too important to wait!",
+    "ru": "Я слишком важная персона, чтобы ждать!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_5",
+    "en": "I'm not hanging around here.",
+    "ru": "Не собираюсь тут торчать."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_6",
+    "en": "This place has changed.",
+    "ru": "Это место уже не то."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_7",
+    "en": "Not waiting any longer.",
+    "ru": "Больше ждать не буду."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_8",
+    "en": "I have to leave.",
+    "ru": "Мне пора уходить."
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_9",
+    "en": "Do they not know who I am.",
+    "ru": "Они вообще знают, кто я?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_10",
+    "en": "I'm not waiting any more.",
+    "ru": "Хватит, я не жду больше."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_1",
+    "en": "What's wrong?",
+    "ru": "В чём дело?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_2",
+    "en": "Why are you turning me away?",
+    "ru": "Почему ты меня разворачиваешь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_3",
+    "en": "Why can't I come in?",
+    "ru": "Почему мне нельзя войти?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_4",
+    "en": "Can you let me know what the problem is?",
+    "ru": "Скажи, в чём проблема?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_5",
+    "en": "Why can't I come in?",
+    "ru": "Почему не пускаешь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_6",
+    "en": "Tell me what's up?",
+    "ru": "Что не так-то?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_7",
+    "en": "Why aren't I allowed in?",
+    "ru": "Почему мне нельзя?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_8",
+    "en": "What's up? there's nothing wrong?",
+    "ru": "Что такое? Всё же нормально?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_9",
+    "en": "Can you tell me why I'm not being allowed in?",
+    "ru": "Объясни, почему не пускаешь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_NOSELECTION_10",
+    "en": "Tell me what's up or I'll go mad.",
+    "ru": "Скажи, в чём дело, а то я тут с ума сойду."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_SEX_1",
+    "en": "What do you bloody think!",
+    "ru": "Ты чего, блин?!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_SEX_2",
+    "en": "There's nothing wrong!",
+    "ru": "Тут всё правильно!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_SEX_3",
+    "en": "Check again please!",
+    "ru": "Проверь ещё раз!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAME_1",
+    "en": "Of course its my name!",
+    "ru": "Конечно, это моё имя!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAME_2",
+    "en": "But it is my name",
+    "ru": "Но это моё имя!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_1",
+    "en": "I am on the list!",
+    "ru": "Я в списке!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_2",
+    "en": "Check the list again!",
+    "ru": "Проверь список ещё раз!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_3",
+    "en": "I'm on the list!",
+    "ru": "Я есть в списке!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_4",
+    "en": "I don't have time for this! I'm on the list",
+    "ru": "У меня нет на это времени! Я в списке!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_5",
+    "en": "Are you blind, check again!",
+    "ru": "Ты слепой? Проверь ещё раз!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_6",
+    "en": "I am the list! check it again",
+    "ru": "Я в списке! Смотри внимательней!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_7",
+    "en": "Can you check it again?",
+    "ru": "Можешь проверить ещё раз?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_8",
+    "en": "I am on the list. I phoned earlier",
+    "ru": "Я в списке. Я звонил заранее."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_9",
+    "en": "I am automatically put on the list every night!",
+    "ru": "Меня каждый вечер автоматом вносят в список!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NAMEGUEST_10",
+    "en": "Please can you check this again?",
+    "ru": "Пожалуйста, проверь ещё разок?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_1",
+    "en": "I'm over 18",
+    "ru": "Мне больше восемнадцати!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_2",
+    "en": "Are you stupid! check the ID.",
+    "ru": "Ты тупой? Посмотри на документ!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_3",
+    "en": "Check again please! you're wrong.",
+    "ru": "Проверь ещё раз! Ты ошибаешься."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_4",
+    "en": "Do I look under 18?",
+    "ru": "Я что, выгляжу младше восемнадцати?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_5",
+    "en": "I'm ancient!",
+    "ru": "Да я древний!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_6",
+    "en": "I come here every week!",
+    "ru": "Я сюда каждую неделю хожу!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_7",
+    "en": "I'm flattered but I am over 18",
+    "ru": "Польщён, но мне за восемнадцать."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_8",
+    "en": "I wish I was under 18, check again.",
+    "ru": "Хотел бы мне быть младше, проверь ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_9",
+    "en": "Do you know who I am?",
+    "ru": "Ты знаешь, кто я?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_AGE_10",
+    "en": "Can you check again?",
+    "ru": "Можешь перепроверить?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_1",
+    "en": "This is because of where I'm from?",
+    "ru": "Это из-за того, откуда я?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_2",
+    "en": "What's wrong? why are you turning me away?",
+    "ru": "Что не так? Почему ты меня не пускаешь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_3",
+    "en": "You serious, my nationality?",
+    "ru": "Серьёзно, из-за национальности?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_4",
+    "en": "Can you let me know what the problem is?",
+    "ru": "Можешь сказать, в чём проблема?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_5",
+    "en": "Why can I not come in?",
+    "ru": "Почему мне нельзя войти?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_6",
+    "en": "Tell me what's up?",
+    "ru": "В чём дело?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_7",
+    "en": "Why aren't I allowed in?",
+    "ru": "Почему меня не пускают?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_8",
+    "en": "What's up? there's nothing wrong is there?",
+    "ru": "Что такое? Вроде всё в порядке, нет?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_9",
+    "en": "Let me speak to your boss.",
+    "ru": "Позови начальника."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_COUNTRY_10",
+    "en": "This can't be happening?",
+    "ru": "Это что, серьёзно?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_1",
+    "en": "Of course it's my ID!",
+    "ru": "Конечно, это мой документ!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_2",
+    "en": "Yes it's me, check it again",
+    "ru": "Да, это я! Проверь ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_3",
+    "en": "You're an idiot, check again",
+    "ru": "Ты что, идиот? Проверь заново."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_4",
+    "en": "Yes it's me! look again",
+    "ru": "Да, это я! Посмотри получше."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_5",
+    "en": "What are you saying, its me.",
+    "ru": "Ты что несёшь, это я."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_6",
+    "en": "I'm a little bit younger in the pic.",
+    "ru": "На фото я немного моложе."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_7",
+    "en": "I've changed a little.",
+    "ru": "Я немного изменился."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_9",
+    "en": "I had a nose-job since the photo.",
+    "ru": "Мне нос сделали после фотки."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_PORTRAIT_10",
+    "en": "Can you just do your job and let me in.",
+    "ru": "Делай свою работу и впусти меня."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_FLAG_1",
+    "en": "Just a mistake with the printing.",
+    "ru": "Просто ошибка печати."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_FLAG_2",
+    "en": "That not so bad is it?",
+    "ru": "Это же не страшно, а?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_FLAG_3",
+    "en": "Does it make that much of a difference?",
+    "ru": "Это такая большая разница?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_FLAG_5",
+    "en": "Really?",
+    "ru": "Серьёзно?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_EXPIRATION_2",
+    "en": "Does it really matter?",
+    "ru": "Это правда так важно?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_EXPIRATION_4",
+    "en": "Are you sure?",
+    "ru": "Ты уверен?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HEAD_1",
+    "en": "What is wrong with you?",
+    "ru": "Ты чего?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HEAD_2",
+    "en": "Of course I can wear this!",
+    "ru": "Конечно, я могу это носить!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_BODY_1",
+    "en": "Can you let it go?",
+    "ru": "Может, забьёшь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_LEGS_1",
+    "en": "But I always wear this!",
+    "ru": "Но я всегда так хожу!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETDAY_1",
+    "en": "It's for today. Check again!",
+    "ru": "Это на сегодня! Проверь ещё раз!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETDAY_2",
+    "en": "Are you sure?",
+    "ru": "Ты уверен?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETSTAMP_1",
+    "en": "It has a stamp.",
+    "ru": "Тут есть штамп."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETSTAMP_2",
+    "en": "Really?",
+    "ru": "Серьёзно?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETSTAMP_3",
+    "en": "Check it again.",
+    "ru": "Посмотри ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_1",
+    "en": "Please, my friends are inside!",
+    "ru": "Ну пожалуйста, мои друзья уже внутри!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_2",
+    "en": "My friend has my ticket.",
+    "ru": "Мой билет у друга."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_6",
+    "en": "Let it go this time, please!",
+    "ru": "Ну впусти на этот раз, а?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_8",
+    "en": "Can you let it go.",
+    "ru": "Может, пропустишь?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_9",
+    "en": "Please let me in?",
+    "ru": "Ну впусти, пожалуйста?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TICKETMISSING_10",
+    "en": "Just let me in?",
+    "ru": "Просто впусти, а?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_CONCEALEDITEM_2",
+    "en": "I don't have anything",
+    "ru": "У меня ничего нет."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_CONCEALEDITEM_3",
+    "en": "That's not mine",
+    "ru": "Это не моё."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_CONCEALEDITEM_4",
+    "en": "Please just let me in?",
+    "ru": "Ну впусти, пожалуйста?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_CONCEALEDITEM_5",
+    "en": "Dang, please?",
+    "ru": "Блин, ну пожалуйста?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HASSPECIAL_1",
+    "en": "I'm John's brother! What the hell?",
+    "ru": "Я брат Джона! Какого чёрта?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HASSPECIAL_2",
+    "en": "Don't you know who I am?",
+    "ru": "Ты знаешь, кто я?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_HASSPECIAL_3",
+    "en": "You better sort this out!",
+    "ru": "Лучше бы тебе это уладить!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_1",
+    "en": "This is ridiculous!",
+    "ru": "Это бред!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_3",
+    "en": "What dystopia is this.",
+    "ru": "Что за антиутопия."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_NATIONALITY_5",
+    "en": "Can you just let it go.",
+    "ru": "Может, просто пропустишь."
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_1",
+    "en": "Take this and let me in?",
+    "ru": "Возьми и впусти?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_3",
+    "en": "Perhaps my friend here can persuade you?",
+    "ru": "Может, мой друг тебя убедит?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_4",
+    "en": "Are you sure?",
+    "ru": "Уверен?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_6",
+    "en": "Want to reconsider?",
+    "ru": "Не хочешь передумать?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_7",
+    "en": "Don't tell anyone?",
+    "ru": "Только никому не говори?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_8",
+    "en": "Want some of this?",
+    "ru": "Хочешь вот это?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_9",
+    "en": "Bit of extra for you?",
+    "ru": "Немного сверху для тебя?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_BRIBE_10",
+    "en": "How about this?",
+    "ru": "Как насчёт этого?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_CHEESER_1",
+    "en": "Sure. I love CheeseR!",
+    "ru": "Конечно. Обожаю СырР!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_CHEESER_2",
+    "en": "I'll buy some!",
+    "ru": "Беру!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_CHEESER_3",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_CHEESER_4",
+    "en": "Yes!",
+    "ru": "Да!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_DIPUDABU_1",
+    "en": "I love Dibu Dabu!",
+    "ru": "Обожаю Дибу Дабу!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_DIPUDABU_3",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_DIPUDABU_4",
+    "en": "Yes!",
+    "ru": "Да!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_SUCCESS_POWAHPILLS_1",
+    "en": "I love Powah Pills!",
+    "ru": "Обожаю ТаблеткиСилы!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_FAIL_CHEESER_1",
+    "en": "No!",
+    "ru": "Нет!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_4",
+    "en": "Oi Oi, Euro. Bit of money on the side is it? I'm reporting you.",
+    "ru": "Ой-ой, Евро. Подрабатываем на стороне? Я на тебя донесу."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRUGS_UNDERCOVER_5",
+    "en": "Making cash on the side. Naughty Euro. I'll report this.",
+    "ru": "Подрабатываешь налево. Нехороший Евро. Я это доложу."
+  },
+  {
+    "key": "DIALOG_RADIO_NAME_GENERAL_1",
+    "en": "Clubber name is Fake!",
+    "ru": "Имя клиента поддельное!"
+  },
+  {
+    "key": "DIALOG_RADIO_NAMEGUEST_GENERAL_1",
+    "en": "Last person wasn't on the guestlist. Check guestlist.",
+    "ru": "Последнего не было в списке гостей. Проверяй список."
+  },
+  {
+    "key": "DIALOG_RADIO_AGE_GENERAL_1",
+    "en": "Last person was underage!. Check age.",
+    "ru": "Последний клиент был несовершеннолетним! Проверяй возраст."
+  },
+  {
+    "key": "DIALOG_RADIO_COUNTRY_GENERAL_1",
+    "en": "Last person ID country was fake. Check the ID country!",
+    "ru": "У последнего клиента страна в документе поддельная. Проверяй страну!"
+  },
+  {
+    "key": "DIALOG_RADIO_FLAG_GENERAL_1",
+    "en": "Last person had an ID with a black and white flag. Check ID for fakes.",
+    "ru": "У последнего клиента на документе был чёрно-белый флаг. Проверяй на подделки."
+  },
+  {
+    "key": "DIALOG_RADIO_EXPIRATION_GENERAL_1",
+    "en": "Last person had an expired ID. Check expiry.",
+    "ru": "У последнего клиента просроченный документ. Проверяй срок действия."
+  },
+  {
+    "key": "DIALOG_RADIO_TICKETDAY_GENERAL_1",
+    "en": "Last person had a ticket for the wrong day. Check tickets.",
+    "ru": "У последнего клиента билет не на тот день. Проверяй билеты."
+  },
+  {
+    "key": "DIALOG_RADIO_TICKETSTAMP_GENERAL_1",
+    "en": "Last person had a ticket with no stamp. Check tickets.",
+    "ru": "У последнего клиента билет без штампа. Проверяй билеты."
+  },
+  {
+    "key": "DIALOG_RADIO_BODY_GENERAL_1",
+    "en": "Last person was wearing a banned clothing item. Check clothing.",
+    "ru": "На последнем клиенте была запрещённая одежда. Проверяй одежду."
+  },
+  {
+    "key": "DIALOG_RADIO_LEGS_GENERAL_1",
+    "en": "Last person was wearing a banned clothing item. Check clothing.",
+    "ru": "На последнем клиенте была запрещённая одежда. Проверяй одежду."
+  },
+  {
+    "key": "DIALOG_RADIO_INCORRECTPASSWORD_GENERAL_1",
+    "en": "Last person gave the incorrect password!",
+    "ru": "Последний клиент назвал неправильный пароль!"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_VIP_GENERAL_1",
+    "en": "Ask VIPs for the password!",
+    "ru": "Спрашивай у VIP пароль!"
+  },
+  {
+    "key": "DIALOG_RADIO_INCORRECT_VIPREJECTION_1",
+    "en": "Alwalys let VIPs in with correct password.",
+    "ru": "Всегда пропускай VIP с правильным паролем."
+  },
+  {
+    "key": "DIALOG_RADIO_WARNING_MESSAGE_1",
+    "en": "You need to check more carefully. Formal warning!",
+    "ru": "Проверяй внимательнее. Официальное предупреждение!"
+  },
+  {
+    "key": "DIALOG_RADIO_FINE_MESSAGE_1",
+    "en": "You are still not checking carefully! Wages docked.",
+    "ru": "Ты всё ещё проверяешь невнимательно! Зарплата урезана."
+  },
+  {
+    "key": "DIALOG_RADIO_QUARTER_TIME_1",
+    "en": "Last call. Can still get a few more in! ",
+    "ru": "Последний звонок. Ещё можно впустить парочку!"
+  },
+  {
+    "key": "DIALOG_RADIO_FAIL_PRE_PLOT_1",
+    "en": "Too many incidents. We are going to shut early. Wait there.",
+    "ru": "Слишком много нарушений. Закрываемся раньше. Жди на месте."
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_1",
+    "en": "Sure",
+    "ru": "Конечно"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_2",
+    "en": "Here it is",
+    "ru": "Вот, держи"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_3",
+    "en": "Ok",
+    "ru": "Ок"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_4",
+    "en": "No problem",
+    "ru": "Без проблем"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_5",
+    "en": "Really!",
+    "ru": "Серьёзно!"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_6",
+    "en": "Here's my ID",
+    "ru": "Вот мой документ"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_7",
+    "en": "Yup",
+    "ru": "Угу"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_8",
+    "en": "Yep",
+    "ru": "Ага"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_9",
+    "en": "Here",
+    "ru": "На"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_10",
+    "en": "ID? Sure.",
+    "ru": "Документ? Конечно."
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_11",
+    "en": "Aye",
+    "ru": "Ага"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_12",
+    "en": "One sec",
+    "ru": "Секунду"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_13",
+    "en": "Yes",
+    "ru": "Да"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_14",
+    "en": "There",
+    "ru": "Вот"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_15",
+    "en": "Me?",
+    "ru": "Я?"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_16",
+    "en": "Sup",
+    "ru": "Здарова"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_17",
+    "en": "Hello",
+    "ru": "Привет"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_18",
+    "en": "Hi",
+    "ru": "Приветик"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_19",
+    "en": "Hey",
+    "ru": "Хэй"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_21",
+    "en": "ID?",
+    "ru": "Документ?"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_22",
+    "en": "Certainly",
+    "ru": "Разумеется"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_23",
+    "en": "Of course",
+    "ru": "Конечно"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_26",
+    "en": "It's here",
+    "ru": "Вот оно"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_27",
+    "en": "All right",
+    "ru": "Ладно"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_28",
+    "en": "Right on",
+    "ru": "Идёт"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_29",
+    "en": "Fine",
+    "ru": "Ладно"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_32",
+    "en": "Definitely",
+    "ru": "Само собой"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_33",
+    "en": "Granted",
+    "ru": "Пожалуйста"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_35",
+    "en": "Naturally",
+    "ru": "Естественно"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_36",
+    "en": "Roger",
+    "ru": "Принято"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_37",
+    "en": "Sure thing",
+    "ru": "Не вопрос"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_38",
+    "en": "Very well",
+    "ru": "Хорошо"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_39",
+    "en": "Ok",
+    "ru": "Хорошо"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_40",
+    "en": "Ok",
+    "ru": "Окей"
+  },
+  {
+    "key": "DIALOG_CLUBBERINTRO_41",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "DIALOG_RULE_TICKET_1",
+    "en": "Tickets required for entry tonight",
+    "ru": "Сегодня вход по билетам"
+  },
+  {
+    "key": "DIALOG_RULE_GUESTLIST_1",
+    "en": "Guestlist queue is active tonight",
+    "ru": "Сегодня действует очередь по списку гостей"
+  },
+  {
+    "key": "DIALOG_RULE_CAPACITY_1",
+    "en": "EXPECTED:",
+    "ru": "ОЖИДАЕТСЯ:"
+  },
+  {
+    "key": "DIALOG_RULE_AGE_1",
+    "en": "18+ ONLY",
+    "ru": "ТОЛЬКО 18+"
+  },
+  {
+    "key": "DIALOG_CLUBBERSEXPECTED_1",
+    "en": "I expect you to get $% clubbers or more through the door...",
+    "ru": "Я жду, что ты впустишь $% клиентов или больше..."
+  },
+  {
+    "key": "DIALOG_FLYER_INTRO_1",
+    "en": "The flyer displays all the important info and rules of the night. Take a look.",
+    "ru": "На листовке вся важная информация и правила на сегодня. Посмотри."
+  },
+  {
+    "key": "DIALOG_FLYER_DEFAULT_1",
+    "en": "Check all the pages of the flyer. All level info is listed.",
+    "ru": "Просмотри все страницы листовки. Там вся информация."
+  },
+  {
+    "key": "DIALOG_SCANNER_INTRO_1",
+    "en": "If you see a suspicious patch, click to scan. If it's contraband - ban!",
+    "ru": "Видишь подозрительную выпуклость — нажми, чтобы просканировать. Контрабанда — не впускай!"
+  },
+  {
+    "key": "DIALOG_CLICKER_INTRO_1",
+    "en": "Click the clicker to allow entry into the venue.",
+    "ru": "Нажми на кликер, чтобы впустить в заведение."
+  },
+  {
+    "key": "DIALOG_CLICKER_DEFAULT_1",
+    "en": "Check the customer's ID and click to allow entry.",
+    "ru": "Проверь документ клиента и нажми кликер, чтобы впустить."
+  },
+  {
+    "key": "DIALOG_GUESTLIST_DEFAULT_1",
+    "en": "Guestlist queue is on the right. If their name's not down, they're not coming in.",
+    "ru": "Очередь по списку гостей справа. Нет в списке — не входит."
+  },
+  {
+    "key": "DIALOG_VIP_INTRO_1",
+    "en": "Remember the VIP password. VIPs need to say this password. No password, no entry!",
+    "ru": "Запомни VIP-пароль. VIP должны его назвать. Нет пароля — нет входа!"
+  },
+  {
+    "key": "SHARED_ILLNESS_1_TITLE",
+    "en": "Cold",
+    "ru": "Простуда"
+  },
+  {
+    "key": "SHARED_ILLNESS_2_TITLE",
+    "en": "Cold",
+    "ru": "Простуда"
+  },
+  {
+    "key": "SHARED_ILLNESS_2_DESCRIPTION",
+    "en": "A nasty cold! Best rest for a day or two",
+    "ru": "Противная простуда! Лучше отлежаться денёк-другой"
+  },
+  {
+    "key": "SHARED_ILLNESS_3_TITLE",
+    "en": "Cold",
+    "ru": "Простуда"
+  },
+  {
+    "key": "SHARED_ILLNESS_3_DESCRIPTION",
+    "en": "A nasty cold! Best rest for a day or two",
+    "ru": "Противная простуда! Лучше отлежаться денёк-другой"
+  },
+  {
+    "key": "SHARED_ILLNESS_4_TITLE",
+    "en": "Cold",
+    "ru": "Простуда"
+  },
+  {
+    "key": "SHARED_ILLNESS_4_DESCRIPTION",
+    "en": "A nasty cold! Best rest for a day or two",
+    "ru": "Противная простуда! Лучше отлежаться денёк-другой"
+  },
+  {
+    "key": "MAP_MARKER2_CROWD",
+    "en": "Regulars",
+    "ru": "Постоянные"
+  },
+  {
+    "key": "MAP_MARKER4_MUSIC",
+    "en": "Dance hits",
+    "ru": "Танцевальные хиты"
+  },
+  {
+    "key": "MAP_MARKER4_CROWD",
+    "en": "Locals",
+    "ru": "Местные"
+  },
+  {
+    "key": "MAP_MARKER5_MUSIC",
+    "en": "Reggae",
+    "ru": "Регги"
+  },
+  {
+    "key": "MAP_MARKER7_CROWD",
+    "en": "Posh",
+    "ru": "Шикарная публика"
+  },
+  {
+    "key": "LWEB_OUTFIT_5_DESCRIPTION",
+    "en": "High-vis jacket. You look more important.",
+    "ru": "Светоотражающая куртка. Выглядишь солиднее."
+  },
+  {
+    "key": "LWEB_OUTFIT_6_DESCRIPTION",
+    "en": "These have multi-purpose pockets. Two of them.",
+    "ru": "С многофункциональными карманами. Целых два."
+  },
+  {
+    "key": "LWEB_OUTFIT_7_DESCRIPTION",
+    "en": "Powerful but mystical.",
+    "ru": "Мощное, но мистическое."
+  },
+  {
+    "key": "LWEB_OUTFIT_8_DESCRIPTION",
+    "en": "Deny entry with love.",
+    "ru": "Отказывай с любовью."
+  },
+  {
+    "key": "LWEB_OUTFIT_9_DESCRIPTION",
+    "en": "Colourful but professional.",
+    "ru": "Яркое, но профессиональное."
+  },
+  {
+    "key": "LWEB_OUTFIT_13_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная стандартная одежда Евро."
+  },
+  {
+    "key": "LWEB_OUTFIT_16_DESCRIPTION",
+    "en": "A gift from Viklav.",
+    "ru": "Подарок от Виклава."
+  },
+  {
+    "key": "LWEB_OUTFIT_17_DESCRIPTION",
+    "en": "A gift from Viklav.",
+    "ru": "Подарок от Виклава."
+  },
+  {
+    "key": "LWEB_OUTFIT_18_DESCRIPTION",
+    "en": "A gift from Viklav.",
+    "ru": "Подарок от Виклава."
+  },
+  {
+    "key": "LWEB_OUTFIT_26_DESCRIPTION",
+    "en": "Big glasses",
+    "ru": "Большие очки"
+  },
+  {
+    "key": "LWEB_OUTFIT_27_DESCRIPTION",
+    "en": "Clown hat",
+    "ru": "Шапка клоуна"
+  },
+  {
+    "key": "LWEB_OUTFIT_28_DESCRIPTION",
+    "en": "Devil hat",
+    "ru": "Шапка дьявола"
+  },
+  {
+    "key": "LWEB_OUTFIT_29_DESCRIPTION",
+    "en": "Poop hat",
+    "ru": "Шапка-какашка"
+  },
+  {
+    "key": "LWEB_OUTFIT_30_DESCRIPTION",
+    "en": "Resistance Hat",
+    "ru": "Шапка Сопротивления"
+  },
+  {
+    "key": "LWEB_OUTFIT_15_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная казённая одежда Евро."
+  },
+  {
+    "key": "LWEB_UPGRADE_4_DESCRIPTION",
+    "en": "Budget and chill.",
+    "ru": "Бюджетно и спокойно."
+  },
+  {
+    "key": "LWEB_UPGRADE_13_DESCRIPTION",
+    "en": "Avoid theft with broke-a-phone.",
+    "ru": "Защита от кражи — телефон-развалюха."
+  },
+  {
+    "key": "LWEB_UPGRADE_14_DESCRIPTION",
+    "en": "Soon to be banned. The euro-phone case.",
+    "ru": "Скоро запретят. Евро-чехол для телефона."
+  },
+  {
+    "key": "LWEB_UPGRADE_15_DESCRIPTION",
+    "en": "Bland but inoffensive.",
+    "ru": "Скучный, но безобидный."
+  },
+  {
+    "key": "LWEB_UPGRADE_16_DESCRIPTION",
+    "en": "God save our gracious phone.",
+    "ru": "Боже, храни наш милостивый телефон."
+  },
+  {
+    "key": "LWEB_UPGRADE_17_DESCRIPTION",
+    "en": "Bling lifestyle? Bling phone cover.",
+    "ru": "Шикарная жизнь? Шикарный чехол."
+  },
+  {
+    "key": "LWEB_UPGRADE_18_DESCRIPTION",
+    "en": "God save our gracious doormat.",
+    "ru": "Боже, храни наш милостивый коврик."
+  },
+  {
+    "key": "LWEB_UPGRADE_20_DESCRIPTION",
+    "en": "Stuffed head of a real rhino.",
+    "ru": "Чучело головы настоящего носорога."
+  },
+  {
+    "key": "LWEB_UPGRADE_23_DESCRIPTION",
+    "en": "A stuffed Unicorn head. Locally sourced.",
+    "ru": "Чучело головы единорога. Местного производства."
+  },
+  {
+    "key": "LWEB_UPGRADE_24_DESCRIPTION",
+    "en": "Click to get a minor speed boost for one job.",
+    "ru": "Нажми для небольшого ускорения на одну работу."
+  },
+  {
+    "key": "LWEB_UPGRADE_25_DESCRIPTION",
+    "en": "Click to get a medium speed boost for one job.",
+    "ru": "Нажми для среднего ускорения на одну работу."
+  },
+  {
+    "key": "LWEB_UPGRADE_26_DESCRIPTION",
+    "en": "Click to get a decent speed boost for one job.",
+    "ru": "Нажми для хорошего ускорения на одну работу."
+  },
+  {
+    "key": "LWEB_UPGRADE_27_DESCRIPTION",
+    "en": "Mylarna's piano. A heartfelt gift.",
+    "ru": "Пианино Миларны. Подарок от всего сердца."
+  },
+  {
+    "key": "DIALOG_CLUBBER_UNDERCOVER_3",
+    "en": "Busted!",
+    "ru": "Попался!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_SOCIALPORTRAIT_1",
+    "en": "This portrait doesn't match your ID",
+    "ru": "Этот портрет не совпадает с документом"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_SOCIALPORTRAIT_1",
+    "en": "It's a different angle!",
+    "ru": "Это просто другой ракурс!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_SOCIALSCORE_1",
+    "en": "My score is fine!",
+    "ru": "У меня нормальный рейтинг!"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_VISITS_1",
+    "en": "What are you on about?",
+    "ru": "Ты о чём вообще?"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_SOCIAL_CREDIT_GENERAL_1",
+    "en": "That person has low social credit. Check social credit cards!",
+    "ru": "У того клиента низкий социальный кредит. Проверяй карточки социального кредита!"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_VISITS_GENERAL_1",
+    "en": "That person visited a prohibited country. Check social credit cards!",
+    "ru": "Тот клиент посещал запрещённую страну. Проверяй карточки социального кредита!"
+  },
+  {
+    "key": "DIALOG_RADIO_CHECK_SOCIAL_PORTRAIT_GENERAL_1",
+    "en": "That persons social card photo didn't match!",
+    "ru": "Фото на социальной карте того клиента не совпало!"
+  },
+  {
+    "key": "DIALOG_RADIO_STAMP_GENERAL_1",
+    "en": "That persons visa had no stamp. Check the visa!",
+    "ru": "На визе того клиента не было штампа. Проверяй визы!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_JOB_1",
+    "en": "Your job is banned.",
+    "ru": "Твоя профессия под запретом."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_JOB_1",
+    "en": "Can you ignore it?",
+    "ru": "Может, закроешь глаза?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_VISASTAMP_1",
+    "en": "Let it go, please?",
+    "ru": "Может, пропустишь, а?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_VISAPORTRAIT_1",
+    "en": "Photo was taken from a different angle!",
+    "ru": "Фото снято под другим углом!"
+  },
+  {
+    "key": "DIALOG_RADIO_PORTRAIT_GENERAL_1",
+    "en": "Last person's ID had a photo that didn't match. Check photos!",
+    "ru": "У последнего клиента фото на документе не совпало. Проверяй фотографии!"
+  },
+  {
+    "key": "DIALOG_RADIO_VISA_PORTRAIT_GENERAL_1",
+    "en": "Last person's visa had a photo that didn't match. Check photos!",
+    "ru": "У последнего клиента фото на визе не совпало. Проверяй фотографии!"
+  },
+  {
+    "key": "DIALOG_RADIO_VISA_HOLOGRAM_GENERAL_1",
+    "en": "Last person's visa didn't have a hologram. Check visas!",
+    "ru": "На визе последнего клиента не было голограммы. Проверяй визы!"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_5_DESCRIPTION",
+    "en": "High-vis jacket. You look more important.",
+    "ru": "Светоотражающая куртка. Выглядишь солиднее."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_6_DESCRIPTION",
+    "en": "These have multi-purpose pockets. Two of them.",
+    "ru": "С многофункциональными карманами. Целых два."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_7_DESCRIPTION",
+    "en": "Powerful but mystical.",
+    "ru": "Мощное, но мистическое."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_8_DESCRIPTION",
+    "en": "Deny entry with love.",
+    "ru": "Отказывай с любовью."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_9_DESCRIPTION",
+    "en": "Colourful but professional.",
+    "ru": "Яркое, но профессиональное."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_13_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная стандартная одежда Евро."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_14_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная стандартная одежда Евро."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_16_DESCRIPTION",
+    "en": "A gift from Viklav.",
+    "ru": "Подарок от Виклава."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_17_DESCRIPTION",
+    "en": "A gift from Viklav.",
+    "ru": "Подарок от Виклава."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_18_DESCRIPTION",
+    "en": "A gift from Viklav.",
+    "ru": "Подарок от Виклава."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_25_DESCRIPTION",
+    "en": "A tiki reward for helping Bonesy.",
+    "ru": "Тики-награда за помощь Боунси."
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_26_DESCRIPTION",
+    "en": "Big glasses",
+    "ru": "Большие очки"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_27_DESCRIPTION",
+    "en": "Clown hat",
+    "ru": "Шапка клоуна"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_28_DESCRIPTION",
+    "en": "Devil hat",
+    "ru": "Шапка дьявола"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_29_DESCRIPTION",
+    "en": "Poop hat",
+    "ru": "Шапка-какашка"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_30_DESCRIPTION",
+    "en": "Resistance Hat",
+    "ru": "Шапка Сопротивления"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_15_DESCRIPTION",
+    "en": "Just my standard issue Euro clothes.",
+    "ru": "Обычная казённая одежда Евро."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_1_DESCRIPTION",
+    "en": "Look at my bed!",
+    "ru": "Гляди, какая кровать!"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_4_DESCRIPTION",
+    "en": "Budget and chill.",
+    "ru": "Бюджетно и спокойно."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_7_DESCRIPTION",
+    "en": "A electric based heat producion unit.",
+    "ru": "Электрический обогреватель."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_10_DESCRIPTION",
+    "en": "Sorry about that grafitti.",
+    "ru": "Извините за граффити."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_13_DESCRIPTION",
+    "en": "Avoid theft with broke-a-phone.",
+    "ru": "Защита от кражи — телефон-развалюха."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_14_DESCRIPTION",
+    "en": "Soon to be banned. The euro-phone case.",
+    "ru": "Скоро запретят. Евро-чехол для телефона."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_15_DESCRIPTION",
+    "en": "Bland but inoffensive.",
+    "ru": "Скучный, но безобидный."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_16_DESCRIPTION",
+    "en": "God save our gracious phone.",
+    "ru": "Боже, храни наш милостивый телефон."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_17_DESCRIPTION",
+    "en": "Bling lifestyle? Bling phone cover.",
+    "ru": "Шикарная жизнь? Шикарный чехол."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_18_DESCRIPTION",
+    "en": "God save our gracious doormat.",
+    "ru": "Боже, храни наш милостивый коврик."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_20_DESCRIPTION",
+    "en": "Stuffed head of a real rhino.",
+    "ru": "Чучело головы настоящего носорога."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_21_DESCRIPTION",
+    "en": "A cotton teddy bear. Made in Scotland.",
+    "ru": "Хлопковый плюшевый мишка. Сделано в Шотландии."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_22_DESCRIPTION",
+    "en": "A teddy made with real bear fur.",
+    "ru": "Мишка из настоящего медвежьего меха."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_23_DESCRIPTION",
+    "en": "A stuffed Unicorn head. Locally sourced.",
+    "ru": "Чучело головы единорога. Из местных источников."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_24_DESCRIPTION",
+    "en": "Click to get a minor speed boost for one job.",
+    "ru": "Нажми для небольшого ускорения на одну работу."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_25_DESCRIPTION",
+    "en": "Click to get a medium speed boost for one job.",
+    "ru": "Нажми для среднего ускорения на одну работу."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_26_DESCRIPTION",
+    "en": "Click to get a decent speed boost for one job.",
+    "ru": "Нажми для хорошего ускорения на одну работу."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_27_DESCRIPTION",
+    "en": "Mylarna's piano. A heartfelt gift.",
+    "ru": "Пианино Миларны. Подарок от всего сердца."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_1",
+    "en": "Like I give a crap.",
+    "ru": "Как будто мне не плевать."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_2",
+    "en": "I'm going home.",
+    "ru": "Я домой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_3",
+    "en": "Looks crap anyway.",
+    "ru": "Место всё равно отстой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_4",
+    "en": "Dont want to come in anyway.",
+    "ru": "Всё равно не хотел заходить."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_5",
+    "en": "You're an idiot.",
+    "ru": "Ты идиот."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_6",
+    "en": "I'll be back.",
+    "ru": "Я ещё вернусь."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_7",
+    "en": "I hate you.",
+    "ru": "Ненавижу тебя."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_8",
+    "en": "You suck.",
+    "ru": "Ты отстой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_9",
+    "en": "Hate this place.",
+    "ru": "Ненавижу это место."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_10",
+    "en": "Screw you.",
+    "ru": "Да пошёл ты."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_11",
+    "en": "Just die.",
+    "ru": "Сдохни."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_12",
+    "en": "Going next door.",
+    "ru": "Пойду в соседнее."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_13",
+    "en": "This place sucks.",
+    "ru": "Место — отстой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_14",
+    "en": "I don't care, im going.",
+    "ru": "Плевать, я ухожу."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_15",
+    "en": "I'm out of here.",
+    "ru": "Я валю отсюда."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_16",
+    "en": "Go check yourself.",
+    "ru": "Сам себя проверь."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_17",
+    "en": "I'm off.",
+    "ru": "Всё, я пошёл."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_18",
+    "en": "Don't need this.",
+    "ru": "Мне это не нужно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_19",
+    "en": "Like I care.",
+    "ru": "Как будто мне не пофиг."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_20",
+    "en": "See you.",
+    "ru": "Бывай."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_21",
+    "en": "Never again.",
+    "ru": "Больше никогда."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_22",
+    "en": "I queued for that.",
+    "ru": "Я же стоял в очереди."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_23",
+    "en": "I will be making a complaint.",
+    "ru": "Я буду жаловаться."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_24",
+    "en": "This can't be possible.",
+    "ru": "Не может быть."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_25",
+    "en": "Who do you think you are?",
+    "ru": "Ты кем себя возомнил?"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_26",
+    "en": "Right, I'm going.",
+    "ru": "Ладно, я ухожу."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_27",
+    "en": "Can't believe this.",
+    "ru": "Не могу поверить."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_28",
+    "en": "How is this happening.",
+    "ru": "Как это вообще происходит."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_29",
+    "en": "Do you know who I am?",
+    "ru": "Ты знаешь, кто я?"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_30",
+    "en": "Not bothered.",
+    "ru": "Мне без разницы."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_31",
+    "en": "Not interested anyway.",
+    "ru": "Всё равно не интересно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_32",
+    "en": "This ain't nothing.",
+    "ru": "Подумаешь, ерунда."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_33",
+    "en": "Who are you?",
+    "ru": "Ты вообще кто?"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_34",
+    "en": "What on earth.",
+    "ru": "Что за бред."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_35",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_36",
+    "en": "Ok ok.",
+    "ru": "Ладно, ладно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_37",
+    "en": "I was going anyway.",
+    "ru": "Я и так уходил."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_38",
+    "en": "I'll come back later.",
+    "ru": "Я потом вернусь."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGSUCCESS_39",
+    "en": "No empathy.",
+    "ru": "Ни капли сочувствия."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_1",
+    "en": "This is rubbish.",
+    "ru": "Это полная фигня."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_2",
+    "en": "Screw this.",
+    "ru": "Да ну нафиг."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_3",
+    "en": "Can't believe this, you're wrong",
+    "ru": "Не верю, ты ошибаешься"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_4",
+    "en": "Are you kidding me!",
+    "ru": "Ты шутишь, что ли!"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_5",
+    "en": "You're wrong.",
+    "ru": "Ты неправ."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_6",
+    "en": "I'll be back.",
+    "ru": "Я вернусь."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_7",
+    "en": "I hate you.",
+    "ru": "Ненавижу тебя."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_8",
+    "en": "You're a twat",
+    "ru": "Ты мудак"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_9",
+    "en": "Hate this place.",
+    "ru": "Ненавижу это место."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_10",
+    "en": "Screw this.",
+    "ru": "Да пошло оно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_11",
+    "en": "Just die.",
+    "ru": "Сдохни."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_12",
+    "en": "Going next door.",
+    "ru": "Пойду в соседнее."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_13",
+    "en": "This place sucks.",
+    "ru": "Место — отстой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_14",
+    "en": "I don't care, im going.",
+    "ru": "Плевать, я пошёл."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_15",
+    "en": "I'm out of here.",
+    "ru": "Я валю."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_16",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_17",
+    "en": "See you.",
+    "ru": "Увидимся."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_18",
+    "en": "This place is so crap.",
+    "ru": "Место — полное дерьмо."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_LEAVINGFAIL_19",
+    "en": "This won't happen again.",
+    "ru": "Такого больше не повторится."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_1",
+    "en": "I'm a VIP. Too slow...",
+    "ru": "Я VIP. Слишком медленно..."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_2",
+    "en": "Bored! Leaving!",
+    "ru": "Скука! Ухожу!"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_3",
+    "en": "Spending my money elsewhere!",
+    "ru": "Потрачу деньги в другом месте!"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_4",
+    "en": "I'm too important to wait!",
+    "ru": "Я слишком важная персона, чтобы ждать!"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_5",
+    "en": "I'm not hanging around here.",
+    "ru": "Я тут торчать не собираюсь."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_6",
+    "en": "This place has changed.",
+    "ru": "Это место уже не то."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_7",
+    "en": "Not waiting any longer.",
+    "ru": "Больше не жду."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_8",
+    "en": "I have to leave.",
+    "ru": "Мне пора."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_9",
+    "en": "Do they not know who I am.",
+    "ru": "Они что, не знают, кто я."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBER_NOPUSHBACK_VIPHAPPINESSLEAVE_10",
+    "en": "I'm not waiting any more.",
+    "ru": "Больше ждать не собираюсь."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_1",
+    "en": "Sure.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_3",
+    "en": "Ok.",
+    "ru": "Ок."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_4",
+    "en": "No problem.",
+    "ru": "Без проблем."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_5",
+    "en": "Really!",
+    "ru": "Серьёзно!"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_6",
+    "en": "Here's my ID.",
+    "ru": "Вот мой документ."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_7",
+    "en": "Yup.",
+    "ru": "Угу."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_8",
+    "en": "Yep.",
+    "ru": "Ага."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_9",
+    "en": "Here.",
+    "ru": "Вот."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_10",
+    "en": "ID? sure.",
+    "ru": "Документ? Конечно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_11",
+    "en": "Aye.",
+    "ru": "Ага."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_12",
+    "en": "One sec.",
+    "ru": "Секунду."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_13",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_14",
+    "en": "There.",
+    "ru": "Вот."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_15",
+    "en": "Me?",
+    "ru": "Я?"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_16",
+    "en": "Sup.",
+    "ru": "Здарова."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_17",
+    "en": "Hello.",
+    "ru": "Привет."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_18",
+    "en": "Hi.",
+    "ru": "Приветик."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_19",
+    "en": "Hey.",
+    "ru": "Хэй."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_21",
+    "en": "ID?",
+    "ru": "Документ?"
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_22",
+    "en": "Certainly.",
+    "ru": "Разумеется."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_23",
+    "en": "Of course.",
+    "ru": "Конечно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_24",
+    "en": "OK.",
+    "ru": "Окей."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_25",
+    "en": "Here you go.",
+    "ru": "Держи."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_26",
+    "en": "It's here.",
+    "ru": "Вот оно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_27",
+    "en": "All right.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_28",
+    "en": "Right on.",
+    "ru": "Идёт."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_29",
+    "en": "Fine.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_30",
+    "en": "Good.",
+    "ru": "Хорошо."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_31",
+    "en": "Absolutely.",
+    "ru": "Само собой."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_32",
+    "en": "Definitely.",
+    "ru": "Точно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_33",
+    "en": "Granted.",
+    "ru": "Пожалуйста."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_34",
+    "en": "Gladly.",
+    "ru": "С радостью."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_35",
+    "en": "Naturally.",
+    "ru": "Естественно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_36",
+    "en": "Roger.",
+    "ru": "Принято."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_37",
+    "en": "Sure thing.",
+    "ru": "Не вопрос."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_38",
+    "en": "Very well.",
+    "ru": "Хорошо."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_39",
+    "en": "OK.",
+    "ru": "Хорошо."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_40",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "MESSAGE_SET1/DIALOG_CLUBBERINTRO_41",
+    "en": "OK.",
+    "ru": "Окей."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET0_0",
+    "en": "Listen close, fresh meat.",
+    "ru": "Слушай сюда, новенький."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET0_1",
+    "en": "I'll be coming by on Thursday to explain a few things.",
+    "ru": "Я заеду в четверг, кое-что объясню."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET0_2",
+    "en": "You'll want to have started a job by then, or this'll be a short friendship.",
+    "ru": "К тому времени лучше бы тебе уже найти работу, а то наша дружба быстро закончится."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET0_3",
+    "en": "Earn your keep, don't cause trouble, maybe we'll even let you stay.",
+    "ru": "Зарабатывай на жизнь, не создавай проблем — может, даже разрешим остаться."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET0_4",
+    "en": "Maybe.",
+    "ru": "Может быть."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET0_5",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET1_0",
+    "en": "Hey-hey. Your friendly neighbourhood officer here.",
+    "ru": "Привет-привет. Твой дружелюбный участковый офицер на связи."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET1_1",
+    "en": "Started on BouncR yet? Heh. Getting in the way of regular honest folks?",
+    "ru": "Уже начал работать на BouncR? Хе. Отбираешь работу у честных людей?"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET1_2",
+    "en": "Job you Euros were born for, really.",
+    "ru": "Работёнка, для которой вы, Евро, и созданы."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET1_3",
+    "en": "I'm coming to visit tomorrow. Tidy up.",
+    "ru": "Завтра приду с визитом. Прибери там."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET1_4",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT1_MESSAGESET2_0",
+    "en": "#112. All seems to be going well.",
+    "ru": "Номер 112. Вроде всё идёт нормально."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET0_0",
+    "en": "King's Head Dave here.",
+    "ru": "Это Дэйв из Королевской Головы."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET1_1",
+    "en": "Shouldn't do this, but here's a little bonus for keeping the cops away. Heh. You don't tell, I won't.",
+    "ru": "Не положено, но вот небольшой бонус за то, что отвадил копов. Хе. Ты молчишь — я молчу."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET1_2",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET2_0",
+    "en": "Hey, it's Dave.",
+    "ru": "Привет, это Дэйв."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET2_1",
+    "en": "King's Head Dave.",
+    "ru": "Дэйв из Королевской Головы."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET2_2",
+    "en": "Some odd types been hanging around my place.",
+    "ru": "Какие-то странные типы крутятся возле моего заведения."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET2_3",
+    "en": "Man. Probably worrying over nothing.",
+    "ru": "Блин. Наверное, накручиваю себя зря."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET2_4",
+    "en": "But... look. Call if you hear anything okay? Ta.",
+    "ru": "Но... слушай. Если что услышишь — звони, ладно? Спасибо."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET2_5",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET3_0",
+    "en": "Hey, it’s Dave. King's Head Dave. ",
+    "ru": "Привет, это Дэйв. Дэйв из Королевской Головы."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET3_1",
+    "en": "Just Dave now, I guess.",
+    "ru": "Теперь просто Дэйв, наверное."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET3_2",
+    "en": "You saw the news? King's Head was burnt down. Bastards.",
+    "ru": "Видел новости? Королевскую Голову сожгли. Сволочи."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET3_3",
+    "en": "Come see me on Friday.",
+    "ru": "Приходи ко мне в пятницу."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET3_4",
+    "en": "Need to talk to you. Check BouncR. Take the gig.",
+    "ru": "Надо поговорить. Проверь BouncR. Бери работу."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET3_5",
+    "en": "Okay.",
+    "ru": "Хорошо."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET5_0",
+    "en": "You got the USB. Well done.",
+    "ru": "Ты достал USB. Молодец."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET5_1",
+    "en": "Now we just need a working computer.",
+    "ru": "Теперь нужен рабочий компьютер."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET5_2",
+    "en": "You know. To send off the footage.",
+    "ru": "Ну, ты понимаешь. Чтобы отправить запись."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET5_3",
+    "en": "Just plug the USB into any machine. It'll do the rest.",
+    "ru": "Просто воткни USB в любой компьютер. Дальше оно само."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET5_4",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT6_MESSAGESET0_0",
+    "en": "It's Mylarna. Viklav still on rampage.",
+    "ru": "Это Миларна. Виклав всё ещё буянит."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT6_MESSAGESET0_1",
+    "en": "People say he at Neo. Always Neo now.",
+    "ru": "Люди говорят, он в Нео. Теперь всегда в Нео."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT6_MESSAGESET0_2",
+    "en": "Please look out for safety. Yes? Must not get drunk again.",
+    "ru": "Пожалуйста, присмотри за ним. Да? Нельзя ему опять напиться."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT6_MESSAGESET0_3",
+    "en": "Not until... ah, but that is not your worry.",
+    "ru": "Пока не... а, но это не твоя забота."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET0_0",
+    "en": "Helllooooo! This is Lucille, your Shonkytonk representative :-) A little birdie tells me someone needs me!",
+    "ru": "Привееееет! Это Люсиль, твой представитель Шонкитонк :-) Одна птичка мне нашептала, что кому-то нужна моя помощь!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET0_1",
+    "en": "Don't worry, pet. Help is coming, and it takes all major credit cards!",
+    "ru": "Не переживай, зайчик. Помощь уже в пути, и она принимает все основные кредитки!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET0_2",
+    "en": "What!?",
+    "ru": "Что!?"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET1_0",
+    "en": "It's Lucille, your ex-Shonkytonk representative! :-)",
+    "ru": "Это Люсиль, твой бывший представитель Шонкитонк! :-)"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET1_3",
+    "en": "Can't thank you enough.",
+    "ru": "Не знаю, как тебя благодарить."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET1_4",
+    "en": "Psst. I unlocked you some bonus items in SHOPR :-)",
+    "ru": "Тсс. Я открыла тебе бонусные товары в ShopR :-)"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET1_5",
+    "en": "Our secret, okay? xOxOxOx ;-) :-) ",
+    "ru": "Это наш секрет, ладно? хОхОхОх ;-) :-)"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_0",
+    "en": "Doug, please! I can't keep doing this :-(",
+    "ru": "Дуг, пожалуйста! Я так больше не могу :-("
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_1",
+    "en": "How was I meant to know prosecco was Italian!?",
+    "ru": "Откуда мне было знать, что просекко — итальянское!?"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_2",
+    "en": "Come on. Enough's enough!",
+    "ru": "Ну хватит уже. Всему есть предел!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_3",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_4",
+    "en": "Oh crap! Sorry #112 :-(",
+    "ru": "Ой, блин! Прости, номер 112 :-("
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_5",
+    "en": "Not for you, pet :-(",
+    "ru": "Это не тебе, зайчик :-("
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT7_MESSAGESET2_7",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_0",
+    "en": "hey it's shannon",
+    "ru": "привет это шаннон"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_1",
+    "en": "that reggae cd was so cool thanks so much",
+    "ru": "тот диск с регги был такой классный спасибо огромное"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_5",
+    "en": "no she was really receptive to the idea!!!!!",
+    "ru": "нет она прям загорелась этой идеей!!!!!"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_6",
+    "en": "anyway saved a lot from not clubbing and figured id give it to charity",
+    "ru": "короче сэкономила кучу денег без клубов и решила отдать на благотворительность"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_7",
+    "en": "you know poor unfortunates. smelly, illiterate, hopeless and stuff",
+    "ru": "ну знаешь бедные несчастные. вонючие неграмотные безнадёжные и всё такое"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT8_MESSAGESET0_8",
+    "en": "so here you go! peace - shannon",
+    "ru": "короче вот тебе! мир - шаннон"
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT9_MESSAGESET0_0",
+    "en": "Do not reply to this text.",
+    "ru": "Не отвечай на это сообщение."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT9_MESSAGESET0_5",
+    "en": "We will be in contact. We can help each other.",
+    "ru": "Мы свяжемся. Мы можем быть полезны друг другу."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR1_CALENDAR",
+    "en": "The postman delivered my journal and phone.",
+    "ru": "Почтальон принёс мой дневник и телефон."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR1_CALENDAR_POST",
+    "en": "The postman delivered my journal and phone.",
+    "ru": "Почтальон принёс мой дневник и телефон."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR3_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR3_CALENDAR_POST",
+    "en": "A new job at Neo. Must check BouncR.",
+    "ru": "Новая работа в Нео. Надо проверить BouncR."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_CALENDAR_POST",
+    "en": "Look out for Mylarna's husband, Viklav.",
+    "ru": "Присматривать за мужем Миларны, Виклавом."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_INCORRECT_ITEM_2",
+    "en": "Why would I?",
+    "ru": "Зачем мне это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR4_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_CALENDAR_POST",
+    "en": "Mylarna was sad I let Viklav into Neo. He lost his medal.",
+    "ru": "Миларна расстроилась, что я впустил Виклава в Нео. Он потерял свою медаль."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INTROMESSAGES_2",
+    "en": "No, no, should not be surprised.",
+    "ru": "Нет, нет, не должна удивляться."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INTROMESSAGES_3",
+    "en": "Poor Viklav has not been the same since losing his disco dancing medal.",
+    "ru": "Бедный Виклав сам не свой с тех пор, как потерял медаль по диско."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INTROMESSAGES_4",
+    "en": "Now he just drink, drink, drink.",
+    "ru": "Теперь он только пить, пить, пить."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INTROMESSAGES_5",
+    "en": "Watch for soul, yes? Is all I can ask now.",
+    "ru": "Присмотри за душа, да? Это всё, что могу просить."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INTROMESSAGES_6",
+    "en": "I-",
+    "ru": "Я-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INTROMESSAGES_7",
+    "en": "Ah, what was loud thump from apartment? Must have fainted. Had better check.",
+    "ru": "Ай, что за грохот из квартиры? Наверно упал. Лучше пойду проверю."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_INCORRECT_ITEM_2",
+    "en": "No, no, no. You keep!",
+    "ru": "Нет, нет, нет. Оставь себе!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR5_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_CALENDAR_POST",
+    "en": "Mylarna thanked me for not letting Viklav into Neo.",
+    "ru": "Миларна поблагодарила меня за то, что не впустил Виклава в Нео."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_INTROMESSAGES_1",
+    "en": "Viklav not happy you kept him from... from temptation.",
+    "ru": "Виклав не рад, что ты удержал его от... от соблазн."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_INTROMESSAGES_2",
+    "en": "But I thank you, from bottom of heart.",
+    "ru": "Но я благодарю тебя, от самый дно сердца."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_INTROMESSAGES_4",
+    "en": "Shame he cannot disco dance away empty stomach...",
+    "ru": "Жаль, он не может диско танцевать пустой желудок..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_INTROMESSAGES_5",
+    "en": "Anyway. Promised to show him simple salsa moves.",
+    "ru": "Ну ладно. Обещала показать ему простой сальса движения."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_INCORRECT_ITEM_2",
+    "en": "Not understanding.",
+    "ru": "Не понимаю."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR6_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_CALENDAR",
+    "en": "Lucille is a saleswoman. She's going to visit.",
+    "ru": "Люсиль -- какая-то продавщица. Собирается зайти."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_CALENDAR_POST",
+    "en": "Lucille installed SHOPR.",
+    "ru": "Люсиль установила ShopR."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_1",
+    "en": "Shonkytonk calling!",
+    "ru": "Шонкитонк на связи!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_2",
+    "en": "Everything you need, at prices you can almost afford!",
+    "ru": "Всё, что тебе нужно, по почти доступным ценам!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_4",
+    "en": "Oh dear.",
+    "ru": "Ой, боже."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_5",
+    "en": "Too bad you have no choice!",
+    "ru": "Жаль, что у тебя нет выбора!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_6",
+    "en": "I have to install the app on your phone. It's the law.",
+    "ru": "Мне нужно установить приложение на твой телефон. Таков закон."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_7",
+    "en": "After all, if you're not spending, how do we know you're fitting in?",
+    "ru": "В конце концов, если ты не тратишь, откуда нам знать, что ты вписываешься?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_8",
+    "en": "It's really not needed.",
+    "ru": "Это правда не нужно."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_9",
+    "en": "Oh, shush. It's no trouble.",
+    "ru": "Ой, тише ты. Никаких проблем."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_10",
+    "en": "There we go! All ready to be a good British consumer.",
+    "ru": "Ну вот! Всё готово, чтобы стать хорошим британским потребителем."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_11",
+    "en": "Why not try it now? Buy yourself something nice.",
+    "ru": "Почему бы не попробовать прямо сейчас? Купи себе что-нибудь приятное."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_12",
+    "en": "(Hopefully it won't clash too much with that outfit...)",
+    "ru": "(Надеюсь, не будет слишком сильно диссонировать с этим нарядом...)"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_13",
+    "en": "Ahem. Every Wednesday I'll pop by to keep you updated of new stock!",
+    "ru": "Кхм. Каждую среду буду заглядывать, чтобы рассказать о новинках!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INTROMESSAGES_14",
+    "en": "Every Wednesday. Great.",
+    "ru": "Каждую среду. Отлично."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_INCORRECT_ITEM_2",
+    "en": "You're not really getting the whole 'shop' thing, sweetie.",
+    "ru": "Ты как-то не улавливаешь суть слова «магазин», зайчик."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR7_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока, зайчик."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR8_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR8_CALENDAR_POST",
+    "en": "Ferriss's party is tomorrow.",
+    "ru": "Вечеринка Ферриса завтра."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR8_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR8_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR9_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR9_CALENDAR_POST",
+    "en": "Mylarna told me off again for letting Viklav in the club.",
+    "ru": "Миларна опять отчитала меня за то, что впустил Виклава в клуб."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR9_INTROMESSAGES_1",
+    "en": "Viklav home drunk again. You hear banging on walls, you better not complain.",
+    "ru": "Виклав опять пришёл пьяный. Будет стучать по стенам -- лучше не жалуйся."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR9_INTROMESSAGES_2",
+    "en": "Augh. The singing. Spice Girls, every night.",
+    "ru": "Уфф. Это пение. Спайс Гёрлз, каждую ночь."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR9_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR9_INCORRECT_ITEM_2",
+    "en": "No, no. You do enough already...",
+    "ru": "Нет, нет. Ты и так уже достаточно сделал..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR9_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_CALENDAR_POST",
+    "en": "Mylarna dropped by again. Perhaps I can help Viklav.",
+    "ru": "Миларна снова заходила. Может, я смогу помочь Виклаву."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INTROMESSAGES_1",
+    "en": "Neighbour!",
+    "ru": "Сосед!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INTROMESSAGES_2",
+    "en": "Hello.",
+    "ru": "Привет."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INTROMESSAGES_3",
+    "en": "My Viklav came home last night. Sober! Not happy, but sober.",
+    "ru": "Мой Виклав вчера пришёл домой. Трезвый! Не довольный, но трезвый."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INTROMESSAGES_4",
+    "en": "Thank you for keeping him from that horrible Neo place.",
+    "ru": "Спасибо, что не пустил его в этот ужасный Нео."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INTROMESSAGES_5",
+    "en": "Sigh. He in recovery. Part of the reason we are in this craphole.",
+    "ru": "Эх. Он лечится. Одна из причин, почему мы в этой дыре."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INTROMESSAGES_6",
+    "en": "I didn't know.",
+    "ru": "Я не знал."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INTROMESSAGES_7",
+    "en": "Ah, is not your problem. Just keep from temptation, yes?",
+    "ru": "А, это не твой проблема. Просто держи от соблазн, да?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INTROMESSAGES_8",
+    "en": "Ok",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_INCORRECT_ITEM_2",
+    "en": "Charity? No, no. All is good.",
+    "ru": "Благотворительность? Нет, нет. Всё хорошо."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR10_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR11_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR11_CALENDAR_POST",
+    "en": "The Cheese and Chunes festival. I should check BouncR.",
+    "ru": "Фестиваль «Сыр и Музыка». Надо проверить BouncR."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR12_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR12_CALENDAR_POST",
+    "en": "A new job at Fire and Ice. I should check BouncR.",
+    "ru": "Новая работа в «Огонь и Лёд». Надо проверить BouncR."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR13_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR13_CALENDAR_POST",
+    "en": "The postman reminded me about my visa deadline.",
+    "ru": "Почтальон напомнил мне о крайнем сроке визы."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_CALENDAR",
+    "en": "Earn 2.5k for Jupp!",
+    "ru": "Заработать 2500 фунтов для Юппа!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_CALENDAR_POST",
+    "en": "Inspector Jupp wants his cash.",
+    "ru": "Инспектор Юпп хочет свои деньги."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INTROMESSAGES_1",
+    "en": "Ah, my dear Person of European Heritage #112.",
+    "ru": "Ах, мой дорогой Человек Европейского Происхождения №112."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INTROMESSAGES_2",
+    "en": "It's time, sweetheart.",
+    "ru": "Время пришло, солнышко."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INTROMESSAGES_3",
+    "en": "You owe me £2,500.",
+    "ru": "Ты мне должен 2500 фунтов."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INTROMESSAGES_4",
+    "en": "Ha. I mean you owe the state £2,500.",
+    "ru": "Ха. То есть ты должен государству 2500 фунтов."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INTROMESSAGES_5",
+    "en": "Here, I'll add the bill to BillR.",
+    "ru": "Вот, добавлю счёт в BillR."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INTROMESSAGES_6",
+    "en": "Pay it today.",
+    "ru": "Заплати сегодня."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INTROMESSAGES_7",
+    "en": "This is your final warning.",
+    "ru": "Это твоё последнее предупреждение."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_INCORRECT_ITEM_2",
+    "en": "Every man has his price. Mine is more than that, Euro.",
+    "ru": "У каждого своя цена. Моя -- побольше этого, Евро."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR14_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Бывай."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_CALENDAR",
+    "en": "Jupps second visit.",
+    "ru": "Второй визит Юппа."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_CALENDAR_POST",
+    "en": "I now have bills to pay.",
+    "ru": "Теперь у меня есть счета к оплате."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_1",
+    "en": "Ah #112.",
+    "ru": "А, №112."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_3",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INTROMESSAGES_5",
+    "en": "We call it BillR.",
+    "ru": "Мы это называем BillR."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_INCORRECT_ITEM_2",
+    "en": "Pay your bills, Euro. That's all I want to see.",
+    "ru": "Плати по счетам, Евро. Вот и всё, что я хочу видеть."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR80_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Бывай."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_2",
+    "en": "Ferriss.",
+    "ru": "Феррис."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_3",
+    "en": "The one and only. Now listen, next week it's Festival time.",
+    "ru": "Единственный и неповторимый. Слушай, на следующей неделе фестиваль."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_4",
+    "en": "You know what that means?",
+    "ru": "Знаешь, чё это значит?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_5",
+    "en": "Rain?",
+    "ru": "Дождь?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_7",
+    "en": "Funky beats?",
+    "ru": "Крутые ритмы?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_8",
+    "en": "Cheese-heads. And lots of them.",
+    "ru": "Сырные головы. И дохрена."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_9",
+    "en": "...what?",
+    "ru": "...что?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_10",
+    "en": "Oh, man. So square. How cute.",
+    "ru": "Ой, чувак. Какой ты правильный. Мило."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_11",
+    "en": "Here, take these CheeseRs. A gift from me. No, don't try 'em.",
+    "ru": "На, держи вот эти СырР. Подарок от меня. Не, сам не пробуй."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_12",
+    "en": "Think of it as a bonus. If you spot any Cheese-heads...",
+    "ru": "Считай это бонусом. Если увидишь сырных голов..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_13",
+    "en": "Sell them some CheeseRs on the side. And tell 'em to shop Ferriss.",
+    "ru": "Продавай им СырР втихаря. И скажи, что закупаться у Ферриса."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_14",
+    "en": "I'm not sure-",
+    "ru": "Я не уверен-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_16",
+    "en": "How can I put this...you really think you can afford not to?",
+    "ru": "Как бы сказать... ты реально думаешь, что можешь себе позволить отказаться?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_17",
+    "en": "You think Jupp is just going to stand back and let you pay your way legally?",
+    "ru": "Ты думаешь, Юпп просто отойдёт в сторонку и даст тебе платить по-честному?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_18",
+    "en": "Please. You wanna stay, you be smart. Use your noggin.",
+    "ru": "Не смеши. Хочешь остаться -- будь умнее. Включи башку."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_19",
+    "en": "Or not. Flush em' for all I care.",
+    "ru": "Или нет. Спусти в унитаз, мне пофиг."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_20",
+    "en": "But if you want to be clever.",
+    "ru": "Но если хочешь быть умным."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INTROMESSAGES_21",
+    "en": "Check out the special tab in ShopR.",
+    "ru": "Глянь спецраздел в ShopR."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_INCORRECT_ITEM_2",
+    "en": "Oh, please...",
+    "ru": "Ой, ну хватит..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR15_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Давай."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CALENDAR",
+    "en": "Lucille is going to visit every Wednesday.",
+    "ru": "Люсиль будет заходить каждую среду."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CALENDAR_POST",
+    "en": "More new shop items. Lucille seems conflicted.",
+    "ru": "Ещё новые товары. Люсиль выглядит как-то не в себе."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_1",
+    "en": "Shonkytonk calling!",
+    "ru": "Шонкитонк на связи!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_2",
+    "en": "All the crap you don't want at prices you can't-",
+    "ru": "Всякий хлам, который тебе не нужен, по ценам, которые ты не-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_3",
+    "en": "Sorry, pet. Family problems.",
+    "ru": "Прости, зайчик. Семейные проблемы."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_4",
+    "en": "Are you okay?",
+    "ru": "Ты в порядке?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_5",
+    "en": "Don't mind me.",
+    "ru": "Не обращай внимания."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_6",
+    "en": "More products available *sniff*.",
+    "ru": "Новые товары в наличии *шмыг*."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_8",
+    "en": "...unlike...",
+    "ru": "...в отличие от..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_9",
+    "en": "...that...",
+    "ru": "...этого..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_10",
+    "en": "...bloody...",
+    "ru": "...чёртового..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_11",
+    "en": "...Prosecco...",
+    "ru": "...Просекко..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_12",
+    "en": "Sorry #112. I'm under a lot of stress. Damn you, Doug.",
+    "ru": "Прости, №112. У меня куча стресса. Будь ты проклят, Даг."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INTROMESSAGES_13",
+    "en": "Have a Shonkytonk day!",
+    "ru": "Шонкитонкового тебе дня!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_1",
+    "en": "Lucille. Have you seen this Dorseco?",
+    "ru": "Люсиль. Ты видела это Дорсеко?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_2",
+    "en": "Ah Dorseco, my biggest shame.",
+    "ru": "Ах, Дорсеко, мой главный позор."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_3",
+    "en": "I accidentally sold a crate to Neo.",
+    "ru": "Я случайно продала ящик в Нео."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_4",
+    "en": "From Dorset, they said. Now...",
+    "ru": "Из Дорсета, говорили они. А теперь..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_5",
+    "en": "*sob*",
+    "ru": "*всхлип*"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_6",
+    "en": "I DIDN'T KNOW DORSET DOESN'T HAVE ANY VINEYARDS.",
+    "ru": "Я НЕ ЗНАЛА, ЧТО В ДОРСЕТЕ НЕТ ВИНОГРАДНИКОВ."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_7",
+    "en": "WORLD FAMOUS, THEY SAID! WORLD FAMOUS!",
+    "ru": "ВСЕМИРНО ИЗВЕСТНОЕ, ГОВОРИЛИ ОНИ! ВСЕМИРНО ИЗВЕСТНОЕ!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_8",
+    "en": "THE LYING-",
+    "ru": "ЛЖИВЫЕ-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_9",
+    "en": "Sigh. But with the embargo against non-UK produce...",
+    "ru": "Эх. Но с эмбарго на небританские товары..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_10",
+    "en": "Doug has been demanding money from me.",
+    "ru": "Даг стал требовать с меня деньги."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_11",
+    "en": "That was his last bottle.",
+    "ru": "Это была его последняя бутылка."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_12",
+    "en": "You mean... there's no more evidence? #112 I could cry.",
+    "ru": "Ты хочешь сказать... что улик больше нет? №112, я сейчас расплачусь."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_13",
+    "en": "Thank you for releasing me from my demons.",
+    "ru": "Спасибо, что избавил меня от моих демонов."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_14",
+    "en": "Demon even.",
+    "ru": "Демона даже."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_15",
+    "en": "Doug the demon.",
+    "ru": "Даг-демон."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_16",
+    "en": "Demon Doug.",
+    "ru": "Демон Даг."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_17",
+    "en": "I get it-",
+    "ru": "Я понял-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_18",
+    "en": "DOUG THE ABSOLUTE SHIT!",
+    "ru": "ДАГ -- ПОЛНОЕ ДЕРЬМО!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_19",
+    "en": "*cough*",
+    "ru": "*кхм*"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_CORRECT_ITEM_20",
+    "en": "Thanks, #112. You're a lifesaver.",
+    "ru": "Спасибо, №112. Ты моё спасение."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INCORRECT_ITEM_1",
+    "en": "Do you need this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_INCORRECT_ITEM_2",
+    "en": "No. No... I...",
+    "ru": "Нет. Нет... Я..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR16_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CALENDAR",
+    "en": "Lucille is going to visit every Wednesday.",
+    "ru": "Люсиль будет заходить каждую среду."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CALENDAR_POST",
+    "en": "Lucille's last visit.",
+    "ru": "Последний визит Люсиль."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INTROMESSAGES_1",
+    "en": "Sigh. Shonkytonk- yadda yadda.",
+    "ru": "Эх. Шонкитонк -- бла-бла-бла."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INTROMESSAGES_2",
+    "en": "Please buy something. ",
+    "ru": "Пожалуйста, купи что-нибудь."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INTROMESSAGES_3",
+    "en": "My brother's a blackmailing bastard.",
+    "ru": "Мой брат -- шантажист и сволочь."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INTROMESSAGES_4",
+    "en": "You think I do this for fun?",
+    "ru": "Думаешь, я это ради удовольствия делаю?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INTROMESSAGES_5",
+    "en": "No. I got pay him each week or-",
+    "ru": "Нет. Я должна платить ему каждую неделю, иначе-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INTROMESSAGES_6",
+    "en": "Sorry. Not your problem, is it, pet?",
+    "ru": "Прости. Не твоя проблема, да, зайчик?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INTROMESSAGES_7",
+    "en": "Big smile, Lucille. Show off the new stock!",
+    "ru": "Улыбочку, Люсиль. Покажи новый товар!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_1",
+    "en": "Lucille. Have you seen this Dorseco?",
+    "ru": "Люсиль. Ты видела это Дорсеко?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_2",
+    "en": "Ah Dorseco, my biggest shame.",
+    "ru": "Ах, Дорсеко, мой главный позор."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_3",
+    "en": "I accidentally sold a crate to Neo.",
+    "ru": "Я случайно продала ящик в Нео."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_4",
+    "en": "From Dorset, they said. Now...",
+    "ru": "Из Дорсета, говорили они. А теперь..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_5",
+    "en": "*sob*",
+    "ru": "*всхлип*"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_6",
+    "en": "I DIDN'T KNOW DORSET DOESN'T HAVE ANY VINEYARDS.",
+    "ru": "Я НЕ ЗНАЛА, ЧТО В ДОРСЕТЕ НЕТ ВИНОГРАДНИКОВ."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_7",
+    "en": "WORLD FAMOUS, THEY SAID! WORLD FAMOUS!",
+    "ru": "ВСЕМИРНО ИЗВЕСТНОЕ, ГОВОРИЛИ ОНИ! ВСЕМИРНО ИЗВЕСТНОЕ!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_8",
+    "en": "THE LYING-",
+    "ru": "ЛЖИВЫЕ-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_9",
+    "en": "Sigh. But with the embargo against non-UK produce...",
+    "ru": "Эх. Но с эмбарго на небританские товары..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_10",
+    "en": "Doug has been demanding money from me.",
+    "ru": "Даг стал требовать с меня деньги."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_11",
+    "en": "That was his last bottle.",
+    "ru": "Это была его последняя бутылка."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_12",
+    "en": "You mean... there's no more evidence? #112 I could cry.",
+    "ru": "Ты хочешь сказать... что улик больше нет? №112, я сейчас расплачусь."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_13",
+    "en": "Thank you for releasing me from my demons.",
+    "ru": "Спасибо, что избавил меня от моих демонов."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_14",
+    "en": "Demon even.",
+    "ru": "Демона даже."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_15",
+    "en": "Doug the demon.",
+    "ru": "Даг-демон."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_16",
+    "en": "Demon Doug.",
+    "ru": "Демон Даг."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_17",
+    "en": "I get it-",
+    "ru": "Я понял-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_18",
+    "en": "DOUG THE ABSOLUTE SHIT!",
+    "ru": "ДАГ -- ПОЛНОЕ ДЕРЬМО!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_19",
+    "en": "*cough*",
+    "ru": "*кхм*"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_CORRECT_ITEM_20",
+    "en": "Thanks, #112. You're a lifesaver.",
+    "ru": "Спасибо, №112. Ты моё спасение."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INCORRECT_ITEM_1",
+    "en": "Do you need this?",
+    "ru": "Тебе это нужно?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_INCORRECT_ITEM_2",
+    "en": "No, no. I sell YOU worthless- essential things!",
+    "ru": "Нет, нет. Это я ТЕБЕ продаю бесполез-- необходимые вещи!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR17_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR18_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR18_CALENDAR_POST",
+    "en": "Received a warning about terrorists.",
+    "ru": "Получил предупреждение о террористах."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR19_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR19_CALENDAR_POST",
+    "en": "The King's Head is gone!",
+    "ru": "«Королевская Голова» уничтожена!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_CALENDAR_POST",
+    "en": "My social credit score dropped!",
+    "ru": "Мой социальный рейтинг упал!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_1",
+    "en": "Alright, #112.",
+    "ru": "Ну что, №112."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_2",
+    "en": "You know-",
+    "ru": "Ты же знаешь-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_3",
+    "en": "Cram it, #112.",
+    "ru": "Заткнись, №112."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_4",
+    "en": "\"Whisper in my ear says your social credit score just dropped from \"\"safe\"\".\"",
+    "ru": "\"Птичка мне нашептала, что твой социальный рейтинг только что упал ниже \"\"безопасного\"\".\""
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_5",
+    "en": "Did it?",
+    "ru": "Правда?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_6",
+    "en": "Christ. Check BouncR! Your profile page!",
+    "ru": "Боже. Проверь BouncR! Страницу профиля!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_7",
+    "en": "I know you spicy sausage suckers.",
+    "ru": "Я вас знаю, любители острых колбасок."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_8",
+    "en": "I know what you get up to.",
+    "ru": "Я знаю, чем вы занимаетесь."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_9",
+    "en": "Failing jobs, accepting bribes, skipping work...",
+    "ru": "Заваливаете работу, берёте взятки, прогуливаете..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_10",
+    "en": "All that, well, that drives down your social credit score.",
+    "ru": "Всё это, ну, понижает твой социальный рейтинг."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_11",
+    "en": "And look around.",
+    "ru": "А оглянись вокруг."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_14",
+    "en": "Short version...",
+    "ru": "Короче говоря..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_15",
+    "en": "That score gets much lower, I'll kick your arse out of here myself.",
+    "ru": "Рейтинг упадёт ещё ниже -- я лично вышвырну тебя отсюда."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_16",
+    "en": "Say 'thank you, Officer Jupp'.",
+    "ru": "Скажи «спасибо, офицер Юпп»."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_17",
+    "en": "...thank you, Officer Jupp.",
+    "ru": "...спасибо, офицер Юпп."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INTROMESSAGES_18",
+    "en": "No, like you MEAN IT.",
+    "ru": "Нет, как будто ты это СЕРЬЁЗНО."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_INCORRECT_ITEM_2",
+    "en": "Right. Like I want anything from you, #112.",
+    "ru": "Ага. Как будто мне что-то нужно от тебя, №112."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR20_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Бывай."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_CALENDAR_POST",
+    "en": "Ferriss warned me about social credit.",
+    "ru": "Феррис предупредил меня насчёт социального рейтинга."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_1",
+    "en": "Hey-hey. How's my favourite Euro?",
+    "ru": "Хэй-хэй. Как дела у моего любимого Евро?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_2",
+    "en": "Ferriss.",
+    "ru": "Феррис."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_3",
+    "en": "Bingo. You get rid of those CheeseRs?",
+    "ru": "Бинго. Избавился от того СырР-а?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_4",
+    "en": "Second thoughts, don't care.",
+    "ru": "Хотя, пофиг."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_5",
+    "en": "Oh, yeah. Noticed your, ah, social credit score's dropped.",
+    "ru": "Ой, да. Заметил, что у тебя, эм, социальный рейтинг упал."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_6",
+    "en": "Careful there.",
+    "ru": "Осторожнее с этим."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_7",
+    "en": "Get caught selling stuff, accepting bribes, late bills, skipping work...",
+    "ru": "Попадёшься на продаже, взятках, просрочке счетов, прогулах..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_8",
+    "en": "All that's bad for your credit.",
+    "ru": "Всё это плохо для твоего рейтинга."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_9",
+    "en": "Too low, Jupp'll be up your arse like a herbal suppository.",
+    "ru": "Упадёт слишком низко -- Юпп залезет тебе в зад как травяная свечка."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_10",
+    "en": "Only like, in a bad way.",
+    "ru": "Только типа в плохом смысле."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INTROMESSAGES_11",
+    "en": "Basically, word to the wise, you might want to lay off the dodgy deals for a bit.",
+    "ru": "Короче, умному совет: лучше бы тебе завязать с тёмными делишками на время."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_INCORRECT_ITEM_2",
+    "en": "Nah.",
+    "ru": "Не."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR21_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Давай."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_CALENDAR_POST",
+    "en": "Jupp thought I might be involved with the bombing!",
+    "ru": "Юпп думает, что я причастен к взрыву!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_1",
+    "en": "Morning there, my little escargot-chomping reprobate.",
+    "ru": "Доброе утречко, мой маленький улиткоед-отщепенец."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_2",
+    "en": "Just your friendly neighbourhood copper, checking in.",
+    "ru": "Просто твой дружелюбный участковый заглянул проведать."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_3",
+    "en": "You heard about the bomb at your old gaff, right?",
+    "ru": "Ты слышал про бомбу на твоём бывшем месте работы, да?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_4",
+    "en": "Cause I certainly thought of you.",
+    "ru": "Потому что я сразу о тебе подумал."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_5",
+    "en": "How's the saving up going?",
+    "ru": "Как копилка поживает?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_6",
+    "en": "Got your two and a half grand ready for us yet?",
+    "ru": "Две с половиной штуки для нас уже готовы?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_7",
+    "en": "Not much time left, I reckon.",
+    "ru": "Времени-то осталось немного, я так думаю."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_8",
+    "en": "Would be a shame for all your hard work to go to waste.",
+    "ru": "Жалко будет, если вся твоя тяжкая работа пойдёт насмарку."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INTROMESSAGES_9",
+    "en": "Like, both minutes of it...",
+    "ru": "Ну, обе минуты этой работы..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_INCORRECT_ITEM_2",
+    "en": "Two and a half grand, Euro. Does that look like it? No.",
+    "ru": "Две с половиной штуки, Евро. Это похоже на них? Нет."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR22_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Бывай."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_CALENDAR_POST",
+    "en": "Viklav has been arrested!",
+    "ru": "Виклава арестовали!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_1",
+    "en": "Oh, neighbour!",
+    "ru": "Ой, сосед!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_2",
+    "en": "It is terrible news!",
+    "ru": "Ужасный новость!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_3",
+    "en": "They arrested Viklav for bombing at the King's Head! ",
+    "ru": "Они арестовали Виклава за взрыв в «Королевской Голове»!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_4",
+    "en": "What!",
+    "ru": "Что?!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_5",
+    "en": "My Viklav would never do such a thing!",
+    "ru": "Мой Виклав никогда не делал бы такое!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_6",
+    "en": "Never leave evidence...",
+    "ru": "Никогда не оставлять улик..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_7",
+    "en": "I mean-",
+    "ru": "Я хотела сказать-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_8",
+    "en": "*cough* Be careful.",
+    "ru": "*кхм* Будь осторожен."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_9",
+    "en": "First they come for us, then-",
+    "ru": "Сначала они приходят за нами, потом-"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INTROMESSAGES_10",
+    "en": "Oh. It is too much...",
+    "ru": "Ой. Это слишком много..."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_INCORRECT_ITEM_2",
+    "en": "No! Nothing can ease sadness today.",
+    "ru": "Нет! Ничто не облегчит печаль сегодня."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR23_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR24_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR24_CALENDAR_POST",
+    "en": "Mylarna gave me a strange symbol.",
+    "ru": "Миларна дала мне странный символ."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR24_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR24_INCORRECT_ITEM_2",
+    "en": "No, no. You keep!",
+    "ru": "Нет, нет. Оставь себе!"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR24_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Пока."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR100_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR100_CALENDAR_POST",
+    "en": "Ferriss warned me about Jupp.",
+    "ru": "Феррис предупредил меня насчёт Юппа."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR25_CALENDAR",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR25_CALENDAR_POST",
+    "en": "Received a strange letter.",
+    "ru": "Получил странное письмо."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CALENDAR",
+    "en": "Integration Officer Jupp is visiting.",
+    "ru": "Офицер интеграции Юпп нанесёт визит."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CALENDAR_POST",
+    "en": "I met Officer Jupp.",
+    "ru": "Я познакомился с офицером Юппом."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_CORRECT_ITEM_2",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_INCORRECT_ITEM_1",
+    "en": "You want this?",
+    "ru": "Хочешь это?"
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_INCORRECT_ITEM_2",
+    "en": "What? Of course not.",
+    "ru": "Что? Конечно нет."
+  },
+  {
+    "key": "CHAPTER1/FLATCHARACTER_VISITOR2_NO_ITEM_1",
+    "en": "Bye.",
+    "ru": "Бывай."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS1_BONUSMESSAGES_1",
+    "en": "Here's your payslip. Great start!",
+    "ru": "Вот твоя зарплата. Отличное начало!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS1_FAILMESSAGES_1",
+    "en": "Here's your payslip, I guess. Thanks for ruining the night.",
+    "ru": "Вот твоя зарплата, наверное. Спасибо, что испортил вечер."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS1_FAILMESSAGES_2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS1_PASSMESSAGES_1",
+    "en": "Here's your payslip. Not bad for a Euro.",
+    "ru": "Вот твоя зарплата. Неплохо для Евро."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS2_BONUSMESSAGES_1",
+    "en": "Great start, Euro! I'm glad I chose you.",
+    "ru": "Отличное начало, Евро! Рад, что выбрал тебя."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS2_BONUSMESSAGES_2",
+    "en": "Well. That you clicked the job advert, anyway.",
+    "ru": "Ну. Что ты кликнул на объявление, в смысле."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS2_BONUSMESSAGES_3",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS2_FAILMESSAGES_1",
+    "en": "What the hell was that? You ruined the night.",
+    "ru": "Какого чёрта это было? Ты испортил весь вечер."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS2_FAILMESSAGES_2",
+    "en": "Sorry...",
+    "ru": "Прости..."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS3_BONUSMESSAGES_1",
+    "en": "That was great!",
+    "ru": "Это было здорово!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS3_BONUSMESSAGES_2",
+    "en": "Thanks",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS3_FAILMESSAGES_1",
+    "en": "What the hell was that? Are you trying to ruin me?",
+    "ru": "Какого чёрта это было? Ты пытаешься меня разорить?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS3_FAILMESSAGES_2",
+    "en": "Sorry!",
+    "ru": "Прости!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_BONUSMESSAGES_1",
+    "en": "Now THAT's what I call a party!",
+    "ru": "Вот ЭТО я называю вечеринкой!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_BONUSMESSAGES_2",
+    "en": "Thanks",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_FAILMESSAGES_1",
+    "en": "Not groovy! You totally ruined my shit.",
+    "ru": "Не круто! Ты мне всю малину испортил."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_FAILMESSAGES_2",
+    "en": "Sorry!",
+    "ru": "Прости!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_PASSMESSAGES_1",
+    "en": "Nice one. Party went swimming-like.",
+    "ru": "Красавчик. Вечеринка прошла как по маслу."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_PASSMESSAGES_2",
+    "en": "Cheers.",
+    "ru": "Благодарю."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_OUTROMESSAGES_1",
+    "en": "Friend, you done me a favour, and that means I owe you a dippy in return.",
+    "ru": "Друг, ты мне оказал услугу, а значит, я тебе должен ответную."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_OUTROMESSAGES_2",
+    "en": "Reckon this could be the start of a right beauteous arrangement.",
+    "ru": "Думаю, это может быть начало прекрасного сотрудничества."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_OUTROMESSAGES_3",
+    "en": "Festival week's coming up soon.",
+    "ru": "Скоро неделя фестиваля."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS5_OUTROMESSAGES_7",
+    "en": "Buttloads of 'em, friend.",
+    "ru": "Дофига их будет, друг."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_BONUSMESSAGES_1",
+    "en": "I'd call that more than acceptable. Here's your pay.",
+    "ru": "Я бы назвал это более чем приемлемым. Вот зарплата."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_BONUSMESSAGES_2",
+    "en": "Thanks",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_FAILMESSAGES_1",
+    "en": "I see they sent me another idiot. Take your pay and get out of my sight.",
+    "ru": "Вижу, мне прислали очередного идиота. Забирай деньги и с глаз долой."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_FAILMESSAGES_2",
+    "en": "Sorry!",
+    "ru": "Прости!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_PASSMESSAGES_1",
+    "en": "Not bad Euro, not bad.",
+    "ru": "Неплохо, Евро, неплохо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_PASSMESSAGES_2",
+    "en": "Thanks",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_OUTROMESSAGES_1",
+    "en": "Hmm. Get yourself some better clogs before you come back.",
+    "ru": "Хмм. Приоденься получше, прежде чем возвращаться."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_OUTROMESSAGES_2",
+    "en": "Clogs?",
+    "ru": "Приодеться?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS6_OUTROMESSAGES_3",
+    "en": "Right. Clogs. Clothes. Style!.",
+    "ru": "Ну да. Шмотки. Одежда. Стиль!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_BONUSMESSAGES_1",
+    "en": "Excellent work, Euro. Surprisingly so.",
+    "ru": "Отличная работа, Евро. На удивление."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_BONUSMESSAGES_2",
+    "en": "Thanks",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_FAILMESSAGES_1",
+    "en": "You're the worst bouncer since... no, you're the worst. Kudos.",
+    "ru": "Ты худший вышибала со времён... нет, ты просто худший. Поздравляю."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_FAILMESSAGES_2",
+    "en": "Sorry!",
+    "ru": "Прости!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_1",
+    "en": "Lucille contact you?",
+    "ru": "Люсиль связалась с тобой?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_2",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_3",
+    "en": "Well, I'm sure she's peddling only the best British goods.",
+    "ru": "Ну, уверен, она торгует исключительно лучшими британскими товарами."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_4",
+    "en": "Not much choice with all the embargos, right?",
+    "ru": "Не особо-то разгуляешься с этими эмбарго, а?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_5",
+    "en": "Anyway, to work. Guest list time again tonight.",
+    "ru": "Ладно, за работу. Сегодня снова гостевой список."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_6",
+    "en": "Hope you're ready for a big one.",
+    "ru": "Надеюсь, ты готов к серьёзному вечеру."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_INTROMESSAGES_7",
+    "en": "Keep a special eye out for the Chobby family.",
+    "ru": "Особо присматривай за семейкой Чобби."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_PASSMESSAGES_1",
+    "en": "I suppose that's worth your keep. Here.",
+    "ru": "Полагаю, ты отработал свой хлеб. Держи."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS8_PASSMESSAGES_2",
+    "en": "Thanks",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS10_BONUSMESSAGES_1",
+    "en": "What's foreign for 'well done' again? Never mind. You did good.",
+    "ru": "\"Как там будет \"\"молодец\"\" по-иностранному? Неважно. Ты справился.\""
+  },
+  {
+    "key": "CHAPTER1/INTERIORS10_BONUSMESSAGES_2",
+    "en": "Thanks",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS10_FAILMESSAGES_1",
+    "en": "God, a cardboard cut-out of you could do better than that.",
+    "ru": "Боже, картонная фигурка тебя справилась бы лучше."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS10_FAILMESSAGES_2",
+    "en": "Maybe I'll make one.",
+    "ru": "Может, сделаю одну."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS10_OUTROMESSAGES_2",
+    "en": "Yes. Why?",
+    "ru": "Да. А что?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS16_BONUSMESSAGES_1",
+    "en": "Nifty. You sure showed them all out there.",
+    "ru": "Ловко. Ты всем там показал класс."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS16_FAILMESSAGES_1",
+    "en": "Look out there! LOOK! The festival is ruined! YOUR FAULT!",
+    "ru": "Посмотри туда! ПОСМОТРИ! Фестиваль загублен! ТВОЯ ВИНА!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS16_PASSMESSAGES_1",
+    "en": "Calling that one a job well done. Give yourself a pat on the back.",
+    "ru": "Назову это хорошо выполненной работой. Можешь похлопать себя по спине."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS16_OUTROMESSAGES_1",
+    "en": "All done?",
+    "ru": "Всё закончил?"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS17_BONUSMESSAGES_1",
+    "en": "If I wasn't so high, I'd make you head doorman now.",
+    "ru": "Если бы я не был такой обкуренный, я бы прямо сейчас сделал тебя главным вышибалой."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS17_PASSMESSAGES_1",
+    "en": "Sweet. Take some... take some money.",
+    "ru": "Круто. Возьми немного... возьми деньжат."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS17_OUTROMESSAGES_1",
+    "en": "Listen. Doesn't seem fair, you missing the chunes.",
+    "ru": "Слушай. Нечестно как-то, что ты пропускаешь все ритмы."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS19_BONUSMESSAGES_1",
+    "en": "Great work tonight, Euro.",
+    "ru": "Отличная работа сегодня, Евро."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS19_FAILMESSAGES_1",
+    "en": "Ungroovy performance. Most ungroovy. If I weren't so high, I'd...",
+    "ru": "Некрутое выступление. Крайне некрутое. Если бы я не был так обкурен, я бы..."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS19_INTROMESSAGES_1",
+    "en": "You're back? Excellent.",
+    "ru": "Вернулся? Отлично."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS19_PASSMESSAGES_1",
+    "en": "Nice work. Want a puff? Toke of my appreciation.",
+    "ru": "Хорошая работа. Хочешь затянуться? Затяжка благодарности."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS20_BONUSMESSAGES_1",
+    "en": "Sterling work, Euro.",
+    "ru": "Фунтовая работа, Евро."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS20_FAILMESSAGES_1",
+    "en": "Step it up, Euro.",
+    "ru": "Поднажми, Евро."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT9_MESSAGESET0_5",
+    "en": "We will be in contact. We can help each other.",
+    "ru": "Мы будем на связи. Мы можем помочь друг другу."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT9_MESSAGESET0_6",
+    "en": "Show the symbol of resistance to prove you are one of us.",
+    "ru": "Покажи символ сопротивления, чтобы доказать, что ты один из нас."
+  }
+]

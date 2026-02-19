@@ -1,0 +1,5592 @@
+[
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_VISAPORTRAIT_1",
+    "en": "Your portrait is wrong",
+    "ru": "Фото не совпадает"
+  },
+  {
+    "key": "DWEB_UPGRADE_1_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Rust free clicker v2.",
+    "ru": "Кликер без ржавчины v2."
+  },
+  {
+    "key": "DWEB_UPGRADE_1_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Standard issue clicker. Click to allow entry into establishment.",
+    "ru": "Стандартный кликер. Нажмите, чтобы пропустить посетителя."
+  },
+  {
+    "key": "DWEB_UPGRADE_2_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Rust free clicker. Use 'W' key to activate clicker.",
+    "ru": "Кликер без ржавчины. Клавиша 'W' для активации."
+  },
+  {
+    "key": "DWEB_UPGRADE_3_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Oxide orange design clicker.",
+    "ru": "Кликер оранжевого цвета оксида."
+  },
+  {
+    "key": "DWEB_UPGRADE_4_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Cow skin deluxe design. Use 'S' hey to auto-deny.",
+    "ru": "Делюкс-кликер в коровьей коже. Клавиша 'S' для авто-отказа."
+  },
+  {
+    "key": "DWEB_UPGRADE_5_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v2. 'A' and 'D' keys to turn guest list pages. ",
+    "ru": "Список гостей v2. Клавиши 'A' и 'D' для перелистывания. "
+  },
+  {
+    "key": "DWEB_UPGRADE_5_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Your basic guest list.",
+    "ru": "Базовый список гостей."
+  },
+  {
+    "key": "DWEB_UPGRADE_6_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v3. Posh paper.",
+    "ru": "Список гостей v3. Шикарная бумага."
+  },
+  {
+    "key": "DWEB_UPGRADE_6_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v2.  'A' and 'D' keys to turn guest list pages. ",
+    "ru": "Список гостей v2. Клавиши 'A' и 'D' для перелистывания. "
+  },
+  {
+    "key": "DWEB_UPGRADE_7_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v4. Alphabetically ordered.",
+    "ru": "Список гостей v4. Алфавитный порядок."
+  },
+  {
+    "key": "DWEB_UPGRADE_7_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v3. Posh paper.",
+    "ru": "Список гостей v3. Шикарная бумага."
+  },
+  {
+    "key": "DWEB_UPGRADE_8_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Guest list v4. Alphabetically ordered.",
+    "ru": "Список гостей v4. Алфавитный порядок."
+  },
+  {
+    "key": "DWEB_UPGRADE_9_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Speed+",
+    "ru": "Скорость+"
+  },
+  {
+    "key": "DWEB_UPGRADE_9_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "The bouncer's default scan and ban. Trusty.",
+    "ru": "Стандартный сканер вышибалы. Надёжный."
+  },
+  {
+    "key": "DWEB_UPGRADE_10_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Speed++",
+    "ru": "Скорость++"
+  },
+  {
+    "key": "DWEB_UPGRADE_10_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Speed up scanning.",
+    "ru": "Ускоренное сканирование."
+  },
+  {
+    "key": "DWEB_UPGRADE_11_NEXT_UPGRADE_DESCRIPTION",
+    "en": "Speed+++",
+    "ru": "Скорость+++"
+  },
+  {
+    "key": "DWEB_UPGRADE_11_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "Super speed scanning.",
+    "ru": "Суперскоростное сканирование."
+  },
+  {
+    "key": "DWEB_UPGRADE_12_CURRENT_UPGRADE_DESCRIPTION",
+    "en": "The ultimate banning weapon.",
+    "ru": "Совершенное оружие для отказов."
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_13",
+    "en": "- Not in use! 12",
+    "ru": "- Не используется! 12"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_14",
+    "en": "- Not in use! 13",
+    "ru": "- Не используется! 13"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_15",
+    "en": "- Not in use! 14",
+    "ru": "- Не используется! 14"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_49",
+    "en": "- Check IDs.\nWant % in today!",
+    "ru": "- Проверяй документы.\nСегодня нужно пропустить %!"
+  },
+  {
+    "key": "DIALOG_OPENINGMESSAGE_50",
+    "en": "-- NOT TONIGHT --\nVictory party!\nLet the developers in?",
+    "ru": "-- НЕ СЕГОДНЯ --\nВечеринка победы!\nПропустить разработчиков?"
+  },
+  {
+    "key": "LWEB_UPGRADE_31_DESCRIPTION",
+    "en": "CmdrRabbt Poster",
+    "ru": "Постер CmdrRabbt"
+  },
+  {
+    "key": "LWEB_UPGRADE_32_DESCRIPTION",
+    "en": "GodMike Poster",
+    "ru": "Постер GodMike"
+  },
+  {
+    "key": "LWEB_UPGRADE_33_DESCRIPTION",
+    "en": "Jimbo Poster",
+    "ru": "Постер Jimbo"
+  },
+  {
+    "key": "LWEB_UPGRADE_34_DESCRIPTION",
+    "en": "K3w3l Poster",
+    "ru": "Постер K3w3l"
+  },
+  {
+    "key": "LWEB_UPGRADE_35_DESCRIPTION",
+    "en": "Kies Poster",
+    "ru": "Постер Kies"
+  },
+  {
+    "key": "LWEB_UPGRADE_36_DESCRIPTION",
+    "en": "KingGrimmer Poster",
+    "ru": "Постер KingGrimmer"
+  },
+  {
+    "key": "LWEB_UPGRADE_37_DESCRIPTION",
+    "en": "Lambada Poster",
+    "ru": "Постер Lambada"
+  },
+  {
+    "key": "LWEB_UPGRADE_38_DESCRIPTION",
+    "en": "Lukasism Poster",
+    "ru": "Постер Lukasism"
+  },
+  {
+    "key": "LWEB_UPGRADE_39_DESCRIPTION",
+    "en": "Moriato Poster",
+    "ru": "Постер Moriato"
+  },
+  {
+    "key": "LWEB_OUTFIT_31_DESCRIPTION",
+    "en": "Skeleton Body",
+    "ru": "Тело скелета"
+  },
+  {
+    "key": "LWEB_OUTFIT_32_DESCRIPTION",
+    "en": "Skeleton Legs",
+    "ru": "Ноги скелета"
+  },
+  {
+    "key": "LWEB_OUTFIT_33_DESCRIPTION",
+    "en": "Skeleton Head",
+    "ru": "Голова скелета"
+  },
+  {
+    "key": "LWEB_OUTFIT_34_DESCRIPTION",
+    "en": "Grim Head",
+    "ru": "Голова жнеца"
+  },
+  {
+    "key": "LWEB_UPGRADE_40_DESCRIPTION",
+    "en": "Brick walls.",
+    "ru": "Кирпичные стены."
+  },
+  {
+    "key": "LWEB_UPGRADE_41_DESCRIPTION",
+    "en": "Tiled walls.",
+    "ru": "Плиточные стены."
+  },
+  {
+    "key": "LWEB_UPGRADE_42_DESCRIPTION",
+    "en": "Wood panel walls. ",
+    "ru": "Деревянные панели. "
+  },
+  {
+    "key": "DWEB_UPGRADE_2_CATEGORY_TITLE",
+    "en": "Clicker",
+    "ru": "Кликер"
+  },
+  {
+    "key": "DWEB_UPGRADE_3_CATEGORY_TITLE",
+    "en": "Scan and Ban",
+    "ru": "Сканер"
+  },
+  {
+    "key": "DWEB_UPGRADE_1_TITLE",
+    "en": "Clicker",
+    "ru": "Кликер"
+  },
+  {
+    "key": "DWEB_UPGRADE_2_TITLE",
+    "en": "Clicker v2",
+    "ru": "Кликер v2"
+  },
+  {
+    "key": "DWEB_UPGRADE_3_TITLE",
+    "en": "Clicker v3",
+    "ru": "Кликер v3"
+  },
+  {
+    "key": "DWEB_UPGRADE_4_TITLE",
+    "en": "Clicker v4 Deluxe",
+    "ru": "Кликер v4 Делюкс"
+  },
+  {
+    "key": "DWEB_UPGRADE_5_TITLE",
+    "en": "Guest List",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_6_TITLE",
+    "en": "Guest List",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_7_TITLE",
+    "en": "Guest List",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_8_TITLE",
+    "en": "Guest List",
+    "ru": "Список гостей"
+  },
+  {
+    "key": "DWEB_UPGRADE_9_TITLE",
+    "en": "Scan and Ban v1",
+    "ru": "Сканер v1"
+  },
+  {
+    "key": "DWEB_UPGRADE_10_TITLE",
+    "en": "Scan and Ban v2",
+    "ru": "Сканер v2"
+  },
+  {
+    "key": "DWEB_UPGRADE_11_TITLE",
+    "en": "Scan and Ban v3",
+    "ru": "Сканер v3"
+  },
+  {
+    "key": "DWEB_UPGRADE_12_TITLE",
+    "en": "Scan and Ban v4",
+    "ru": "Сканер v4"
+  },
+  {
+    "key": "DIALOG_RADIO_OPENING_MESSAGE_ENDLESS_1",
+    "en": "-- Endless challenge, how long can you survive?",
+    "ru": "-- Бесконечный режим, как долго ты продержишься?"
+  },
+  {
+    "key": "DIALOG_RADIO_OPENING_MESSAGE_PLAYLIST_1",
+    "en": "-- Playlist Level * of =",
+    "ru": "-- Плейлист, уровень * из ="
+  },
+  {
+    "key": "DIALOG_RADIO_OPENING_MESSAGE_TIMED_1",
+    "en": "-- Timed challenge, go for the high score.",
+    "ru": "-- Испытание на время, бей рекорд."
+  },
+  {
+    "key": "LWEB_OUTFIT_35_DESCRIPTION",
+    "en": "Grim Body",
+    "ru": "Тело жнеца"
+  },
+  {
+    "key": "LWEB_OUTFIT_36_DESCRIPTION",
+    "en": "Grim Legs",
+    "ru": "Ноги жнеца"
+  },
+  {
+    "key": "LWEB_OUTFIT_37_DESCRIPTION",
+    "en": "Day Of The Dead Hat",
+    "ru": "Шляпа Дня мёртвых"
+  },
+  {
+    "key": "LWEB_OUTFIT_38_DESCRIPTION",
+    "en": "Day Of The Dead Body",
+    "ru": "Тело Дня мёртвых"
+  },
+  {
+    "key": "LWEB_OUTFIT_39_DESCRIPTION",
+    "en": "Day Of The Dead Legs",
+    "ru": "Ноги Дня мёртвых"
+  },
+  {
+    "key": "LWEB_OUTFIT_40_DESCRIPTION",
+    "en": "Brain Hat",
+    "ru": "Шляпа с мозгом"
+  },
+  {
+    "key": "LWEB_OUTFIT_41_DESCRIPTION",
+    "en": "Knife Hat",
+    "ru": "Шляпа с ножом"
+  },
+  {
+    "key": "LWEB_OUTFIT_42_DESCRIPTION",
+    "en": "Mummy Hat",
+    "ru": "Шляпа мумии"
+  },
+  {
+    "key": "LWEB_OUTFIT_43_DESCRIPTION",
+    "en": "Pumpkin Hat",
+    "ru": "Шляпа-тыква"
+  },
+  {
+    "key": "LWEB_OUTFIT_44_DESCRIPTION",
+    "en": "Spider Hat",
+    "ru": "Шляпа с пауком"
+  },
+  {
+    "key": "LWEB_OUTFIT_45_DESCRIPTION",
+    "en": "Witch Hat",
+    "ru": "Шляпа ведьмы"
+  },
+  {
+    "key": "LWEB_OUTFIT_46_DESCRIPTION",
+    "en": "Zombie Hat",
+    "ru": "Шляпа зомби"
+  },
+  {
+    "key": "LWEB_OUTFIT_47_DESCRIPTION",
+    "en": "Halo Hat",
+    "ru": "Шляпа с нимбом"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRINKS_SUCCESS_1",
+    "en": "Here's your order.",
+    "ru": "Вот ваш заказ."
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRINKS_SUCCESS_2",
+    "en": "Drink?",
+    "ru": "Напиток?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRINKS_SUCCESS_3",
+    "en": "This is for you.",
+    "ru": "Это для вас."
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRINKS_FAIL_1",
+    "en": "Here's your order.",
+    "ru": "Вот ваш заказ."
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRINKS_FAIL_2",
+    "en": "Drink?",
+    "ru": "Напиток?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_DRINKS_FAIL_3",
+    "en": "This is for you.",
+    "ru": "Это для вас."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRINKS_SUCCESS_1",
+    "en": "Thank you.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRINKS_SUCCESS_2",
+    "en": "Perfect.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRINKS_FAIL_1",
+    "en": "No thanks.",
+    "ru": "Нет, спасибо."
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRINKS_FAIL_2",
+    "en": "What is this?",
+    "ru": "Это что такое?"
+  },
+  {
+    "key": "DIALOG_CLUBBER_DRINKS_FAIL_3",
+    "en": "Nope.",
+    "ru": "Не-а."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TRAVELCARDEXPIRY_1",
+    "en": "This is expired.",
+    "ru": "Срок действия истёк."
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TRAVELCARDPORTRAIT_1",
+    "en": "Is this yours?",
+    "ru": "Это точно ваша?"
+  },
+  {
+    "key": "DIALOG_BOUNCER_SELECTION_TRAVELCARDCOUNTRY_1",
+    "en": "This looks fake.",
+    "ru": "Похоже на подделку."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TRAVELCARDEXPIRY_1",
+    "en": "Can you check again.",
+    "ru": "Проверьте ещё раз."
+  },
+  {
+    "key": "DIALOG_CLUBBER_PUSHBACK_SELECTION_TRAVELCARDCOUNTRY_1",
+    "en": "Please check again. ",
+    "ru": "Пожалуйста, проверьте ещё раз. "
+  },
+  {
+    "key": "DIALOG_RADIO_TRAVEL_CARD_COUNTRY_1",
+    "en": "Last clubber had a fake travel card.",
+    "ru": "У последнего посетителя была поддельная карта."
+  },
+  {
+    "key": "DIALOG_RADIO_TRAVEL_CARD_EXPIRY_1",
+    "en": "Last clubber had an expired travel card.",
+    "ru": "У последнего посетителя была просроченная карта."
+  },
+  {
+    "key": "DIALOG_RADIO_TRAVEL_CARD_PORTRAIT_1",
+    "en": "Last clubber had a fake travel card. ",
+    "ru": "У последнего посетителя была поддельная карта. "
+  },
+  {
+    "key": "DLC_INTRO_1",
+    "en": "You, sir! You look like you're going to die alone!",
+    "ru": "Вы, сэр! Похоже, вы умрёте в одиночестве!"
+  },
+  {
+    "key": "DLC_INTRO_2",
+    "en": "Eh? Pardon?",
+    "ru": "А? Простите?"
+  },
+  {
+    "key": "DLC_INTRO_3",
+    "en": "But wait! Do you know that you can avoid this tragic fate?",
+    "ru": "Но подождите! Знаете ли вы, что можете избежать этой трагической судьбы?"
+  },
+  {
+    "key": "DLC_INTRO_4",
+    "en": "Yes, with FLAMR, true love is only one click away! Guaranteed!",
+    "ru": "Да, с FLAMR настоящая любовь всего в одном клике! Гарантировано!"
+  },
+  {
+    "key": "DLC_INTRO_5",
+    "en": "(Terms and conditions apply. Guarantee not guaranteed.)",
+    "ru": "(Применяются условия и положения. Гарантия не гарантирована.)"
+  },
+  {
+    "key": "DLC_INTRO_6",
+    "en": "FLAMR?",
+    "ru": "FLAMR?"
+  },
+  {
+    "key": "DLC_INTRO_7",
+    "en": "You have nothing to lose but your loneliness! And perhaps virginity.",
+    "ru": "Вам нечего терять, кроме одиночества! Ну и, возможно, девственности."
+  },
+  {
+    "key": "DLC_INTRO_8",
+    "en": "Hey, I do just fine!",
+    "ru": "Эй, у меня всё отлично!"
+  },
+  {
+    "key": "DLC_INTRO_9",
+    "en": "Uh-huh. Sign here to get started.",
+    "ru": "Ага, конечно. Подпишите здесь."
+  },
+  {
+    "key": "DLC_INTRO_10",
+    "en": "Alright, fine, I'll give it a shot.",
+    "ru": "Ладно, чёрт с ним, попробую."
+  },
+  {
+    "key": "DLC_INTRO_11",
+    "en": "WELCOME! HUNTER OF LOVE!",
+    "ru": "ДОБРО ПОЖАЛОВАТЬ! ОХОТНИК ЗА ЛЮБОВЬЮ!"
+  },
+  {
+    "key": "DLC_INTRO_12",
+    "en": "So, uh, what now?",
+    "ru": "И, э-э, что теперь?"
+  },
+  {
+    "key": "DLC_INTRO_13",
+    "en": "Now, our complicated computer algorithms will match you with four local hotties.",
+    "ru": "Наши сложнейшие компьютерные алгоритмы подберут вам четырёх местных красоток."
+  },
+  {
+    "key": "DLC_INTRO_14",
+    "en": "Beep boop. Beep beep. Boopity. That modem dialing noise.",
+    "ru": "Бип-буп. Бип-бип. Бупити. Звук модемного подключения."
+  },
+  {
+    "key": "DLC_INTRO_15",
+    "en": "Oh, look, your matches happen to match the only four other users in the city!",
+    "ru": "О, смотрите, ваши совпадения совпали с единственными четырьмя пользователями в городе!"
+  },
+  {
+    "key": "DLC_INTRO_16",
+    "en": "What a coincidence.",
+    "ru": "Какое совпадение."
+  },
+  {
+    "key": "DLC_INTRO_17",
+    "en": "What a stud.",
+    "ru": "Какой жеребец."
+  },
+  {
+    "key": "DLC_INTRO_18",
+    "en": "All you have to do is convince one of them to date you...",
+    "ru": "Всё, что нужно — убедить кого-то из них пойти на свидание..."
+  },
+  {
+    "key": "DLC_INTRO_19",
+    "en": "...and you win A HOLIDAY!",
+    "ru": "...и вы выиграете ОТПУСК!"
+  },
+  {
+    "key": "DLC_INTRO_20",
+    "en": "Also a chance of true love, yadda yadda, you've already signed up anyway.",
+    "ru": "А ещё шанс на настоящую любовь, бла-бла-бла, вы всё равно уже подписались."
+  },
+  {
+    "key": "DLC_INTRO_21",
+    "en": "But I'm happy to be single",
+    "ru": "Но мне нравится быть одному"
+  },
+  {
+    "key": "DLC_INTRO_22",
+    "en": "No you're not. You're miserable, like all single people.",
+    "ru": "Нет, не нравится. Вы несчастны, как все одинокие люди."
+  },
+  {
+    "key": "DLC_INTRO_23",
+    "en": "It's practically science!",
+    "ru": "Это практически наука!"
+  },
+  {
+    "key": "DLC_INTRO_24",
+    "en": "I'll drop by tomorrow. Flat 11, Rue Du Languedoc, I see.",
+    "ru": "Я зайду завтра. Квартира 11, улица Лангедок, верно."
+  },
+  {
+    "key": "DLC_INTRO_25",
+    "en": "Oh, yes. And don't forget the small print in that contract you signed.",
+    "ru": "Ах да. И не забудьте мелкий шрифт в контракте, который вы подписали."
+  },
+  {
+    "key": "DLC_INTRO_26",
+    "en": "Fail to find love and it'll cost you a full year's subscription!",
+    "ru": "Не найдёте любовь — заплатите за годовую подписку!"
+  },
+  {
+    "key": "DLC_INTRO_27",
+    "en": "How... how much is that?",
+    "ru": "А... а сколько это стоит?"
+  },
+  {
+    "key": "DLC_INTRO_28",
+    "en": "Surprisingly expensive!",
+    "ru": "Удивительно дорого!"
+  },
+  {
+    "key": "DLC_INTRO_29",
+    "en": "Don't think of it as a scam...",
+    "ru": "Не думайте об этом как о мошенничестве..."
+  },
+  {
+    "key": "DLC_INTRO_30",
+    "en": "Think of it as encouragement to put yourself out there.",
+    "ru": "Думайте об этом как о мотивации выйти в свет."
+  },
+  {
+    "key": "DLC_INTRO_31",
+    "en": "Though either way, you agreed to think of it like that, in the contract.",
+    "ru": "Впрочем, в любом случае вы согласились так думать. По контракту."
+  },
+  {
+    "key": "DLC_INTRO_32",
+    "en": "Welcome to FLAMR!",
+    "ru": "Добро пожаловать в FLAMR!"
+  },
+  {
+    "key": "DLC_INTRO_33",
+    "en": "But-",
+    "ru": "Но—"
+  },
+  {
+    "key": "DLC_INTRO_34",
+    "en": "NEXT!",
+    "ru": "СЛЕДУЮЩИЙ!"
+  },
+  {
+    "key": "DLC_INTRO_35",
+    "en": "Wait, I-",
+    "ru": "Подождите, я—"
+  },
+  {
+    "key": "DLC_INTRO_36",
+    "en": "Security! We've got another troublemaker!",
+    "ru": "Охрана! У нас тут ещё один скандалист!"
+  },
+  {
+    "key": "DLC_OUTRO_1",
+    "en": "Ah, and so we return to where we began...",
+    "ru": "И вот мы вернулись туда, откуда начали..."
+  },
+  {
+    "key": "DLC_OUTRO_2",
+    "en": "How did you do?",
+    "ru": "Как у вас дела?"
+  },
+  {
+    "key": "DLC_OUTRO_3",
+    "en": "Have you found love?",
+    "ru": "Вы нашли любовь?"
+  },
+  {
+    "key": "DLC_OUTRO_4",
+    "en": "Dunno...",
+    "ru": "Не знаю..."
+  },
+  {
+    "key": "DLC_OUTRO_5",
+    "en": "Let's find out.",
+    "ru": "Давайте узнаем."
+  },
+  {
+    "key": "DLC_OUTRO_6",
+    "en": "OPEN THE CURTAIN OF LOVE!",
+    "ru": "ОТКРОЙТЕ ЗАНАВЕС ЛЮБВИ!"
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_1",
+    "en": "Mylarna? You came?",
+    "ru": "Миларна? Ты пришла?"
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_2",
+    "en": "Was not sure. Decided, why not?",
+    "ru": "Не была уверена. Решила, почему бы и нет?"
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_3",
+    "en": "Could do worse, yes?",
+    "ru": "Могло быть и хуже, да?"
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_4",
+    "en": "Also, promise of free holiday.",
+    "ru": "К тому же обещали бесплатный отпуск."
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_5",
+    "en": "Maybe I hook up with someone better.",
+    "ru": "Может, найду кого-то получше."
+  },
+  {
+    "key": "DLC_OUTRO_MYLARNA_6",
+    "en": "Eh, good enough for me.",
+    "ru": "Э, и так сойдёт."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_1",
+    "en": "GREETINGS, FLESHBAG.",
+    "ru": "ПРИВЕТСТВУЮ, МЕШОК С МЯСОМ."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_2",
+    "en": "THERE WAS A 99% CERTAINTY OF THIS OUTCOME.",
+    "ru": "ВЕРОЯТНОСТЬ ЭТОГО ИСХОДА БЫЛА 99%."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_3",
+    "en": "Wow, that much?",
+    "ru": "Ого, настолько?"
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_4",
+    "en": "TRUTH MODE: IT WAS 98.8. I ROUNDED UP. TO BE POLITE.",
+    "ru": "РЕЖИМ ПРАВДЫ: БЫЛО 98.8. Я ОКРУГЛИЛ. ИЗ ВЕЖЛИВОСТИ."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_5",
+    "en": "Not sure about this. Are you any fun on a date?",
+    "ru": "Не уверен. Ты хоть весёлый на свиданиях?"
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_6",
+    "en": "I AM CREATED TO LOVE. TO BE LOVED. TO SHARE LOVE.",
+    "ru": "Я СОЗДАН ЛЮБИТЬ. БЫТЬ ЛЮБИМЫМ. ДАРИТЬ ЛЮБОВЬ."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_7",
+    "en": "Eh, I dunno.",
+    "ru": "Э, не знаю."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_8",
+    "en": "ALSO YOU CAN PLAY 'DOOM' ON ME.",
+    "ru": "А ЕЩЁ НА МНЕ МОЖНО ИГРАТЬ В DOOM."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_9",
+    "en": "NERDS REALLY WILL PORT IT TO ANYTHING.",
+    "ru": "ЗАДРОТЫ ПОРТИРУЮТ ЕГО НА ЧТО УГОДНО."
+  },
+  {
+    "key": "DLC_OUTRO_D4QP_10",
+    "en": "Now you're talking!",
+    "ru": "Вот это другое дело!"
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_1",
+    "en": "Ah, monsieur Dave!",
+    "ru": "А, мсье Дэйв!"
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_2",
+    "en": "I know. You are surprised. To think I would agree to this.",
+    "ru": "Знаю. Вы удивлены. Что я на это согласился."
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_3",
+    "en": "Yeah, a bit.",
+    "ru": "Ну да, немного."
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_4",
+    "en": "Let us say you won me over with your, how do you say, earthly charms?",
+    "ru": "Скажем так, вы покорили меня своим, как это говорят, земным обаянием?"
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_5",
+    "en": "\"Earthly charms.\"",
+    "ru": "\"Земным обаянием.\""
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_6",
+    "en": "Ah, I have so much to learn...",
+    "ru": "Ах, мне ещё столькому учиться..."
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_7",
+    "en": "...and so very much more to teach.",
+    "ru": "...и ещё большему — научить."
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_8",
+    "en": "Gosh.",
+    "ru": "Ого."
+  },
+  {
+    "key": "DLC_OUTRO_FRANCOIS_9",
+    "en": "Mon ami, you have NO idea.",
+    "ru": "Мон ами, вы даже НЕ ПРЕДСТАВЛЯЕТЕ."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_1",
+    "en": "Yes, it is I, Harrison Pace.",
+    "ru": "Да, это я, Харрисон Пейс."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_2",
+    "en": "Here to chaperone your date.",
+    "ru": "Здесь, чтобы сопровождать ваше свидание."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_3",
+    "en": "Say hello, Lassy.",
+    "ru": "Скажи привет, Лэсси."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_4",
+    "en": "Lassy says hello.",
+    "ru": "Лэсси говорит привет."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_5",
+    "en": "Sure. Whatever. Come on.",
+    "ru": "Ладно. Как скажешь. Пошли."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_6",
+    "en": "Um...",
+    "ru": "Эм..."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_7",
+    "en": "Yeah?",
+    "ru": "Да?"
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_8",
+    "en": "Might I, Harrison Pace, come too?",
+    "ru": "Могу ли я, Харрисон Пейс, тоже поехать?"
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_9",
+    "en": "Only if you don't mind dragging the suitcases as well as the mutt.",
+    "ru": "Только если не против тащить чемоданы и эту псину."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_10",
+    "en": "I, Harrison Pace.... accept.",
+    "ru": "Я, Харрисон Пейс... согласен."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_11",
+    "en": "This could be the beginning of a beautiful relationship.",
+    "ru": "Это может стать началом прекрасных отношений."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_12",
+    "en": "Come along, Lassy. Good dog.",
+    "ru": "Пойдём, Лэсси. Хорошая собака."
+  },
+  {
+    "key": "DLC_OUTRO_HARRISONPACE_13",
+    "en": "Lassy says she can't wait.",
+    "ru": "Лэсси говорит, что не может дождаться."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_1",
+    "en": "Oh dear...",
+    "ru": "Ой-ой..."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_2",
+    "en": "I was almost positive there'd be someone behind there.",
+    "ru": "Я был почти уверен, что за занавесом кто-то будет."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_3",
+    "en": "Now you'll just have to die alone, I suppose.",
+    "ru": "Теперь, видимо, придётся умереть в одиночестве."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_4",
+    "en": "Oh.",
+    "ru": "О."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_5",
+    "en": "Well, I suppose you MIGHT meet someone the old fashioned way.",
+    "ru": "Ну, вы МОЖЕТЕ встретить кого-то по старинке."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_6",
+    "en": "Without an app, or a website.",
+    "ru": "Без приложений и сайтов."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_7",
+    "en": "Just two souls meeting in the night and finding human connection without technology.",
+    "ru": "Просто две души, встретившиеся ночью и нашедшие связь без технологий."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_8",
+    "en": "Like amateurs.",
+    "ru": "Как любители."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_9",
+    "en": "Hey. Worked for my folks.",
+    "ru": "Эй. Мои родители так познакомились."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_10",
+    "en": "Reckon I'll stay positive. There's someone out there for Dave.",
+    "ru": "Думаю, буду оптимистом. Где-то есть кто-то для Дэйва."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_11",
+    "en": "And I'll find 'em. Look out world, here I come!",
+    "ru": "И я найду! Берегись, мир, я иду!"
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_12",
+    "en": "Of course, you do still owe us rather a lot of money.",
+    "ru": "Конечно, вы всё ещё должны нам кучу денег."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_13",
+    "en": "One moment.",
+    "ru": "Одну секунду."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_14",
+    "en": "Ah, FLAMR just got bought by Google.",
+    "ru": "А, FLAMR только что купил Google."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_15",
+    "en": "Keep your dosh. I'm an internet millionaire now.",
+    "ru": "Оставьте деньги себе. Я теперь интернет-миллионер."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_16",
+    "en": "Oh. Cool.",
+    "ru": "О. Круто."
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_17",
+    "en": "Don't suppose I could borrow a tenner for the bus?",
+    "ru": "Не одолжите десятку на автобус?"
+  },
+  {
+    "key": "DLC_OUTRO_NO_DATE_18",
+    "en": "No.",
+    "ru": "Нет."
+  },
+  {
+    "key": "DIALOG_RADIO_WRONG_DRINK_1",
+    "en": "Incorrect drink. The customer left!",
+    "ru": "Неправильный напиток. Клиент ушёл!"
+  },
+  {
+    "key": "DLC_INTRO1",
+    "en": "You, sir! You look like you're going to die alone!",
+    "ru": "Вы, сэр! Похоже, вы умрёте в одиночестве!"
+  },
+  {
+    "key": "DLC_INTRO2",
+    "en": "Eh? Pardon?",
+    "ru": "А? Простите?"
+  },
+  {
+    "key": "DLC_INTRO3",
+    "en": "But wait! Do you know that you can avoid this tragic fate?",
+    "ru": "Но подождите! Знаете ли вы, что можете избежать этой трагической судьбы?"
+  },
+  {
+    "key": "DLC_INTRO4",
+    "en": "Yes, with FLAMR, true love is only one click away! Guaranteed!",
+    "ru": "Да, с FLAMR настоящая любовь всего в одном клике! Гарантировано!"
+  },
+  {
+    "key": "DLC_INTRO5",
+    "en": "(Terms and conditions apply. Guarantee not guaranteed.)",
+    "ru": "(Применяются условия и положения. Гарантия не гарантирована.)"
+  },
+  {
+    "key": "DLC_INTRO6",
+    "en": "FLAMR?",
+    "ru": "FLAMR?"
+  },
+  {
+    "key": "DLC_INTRO7",
+    "en": "You have nothing to lose but your loneliness! And perhaps virginity.",
+    "ru": "Вам нечего терять, кроме одиночества! Ну и, возможно, девственности."
+  },
+  {
+    "key": "DLC_INTRO8",
+    "en": "Hey, I do just fine!",
+    "ru": "Эй, у меня всё отлично!"
+  },
+  {
+    "key": "DLC_INTRO9",
+    "en": "Uh-huh. Sign here to get started.",
+    "ru": "Ага, конечно. Подпишите здесь."
+  },
+  {
+    "key": "DLC_INTRO10",
+    "en": "Alright, fine, I'll give it a shot.",
+    "ru": "Ладно, чёрт с ним, попробую."
+  },
+  {
+    "key": "DLC_INTRO11",
+    "en": "WELCOME! HUNTER OF LOVE!",
+    "ru": "ДОБРО ПОЖАЛОВАТЬ! ОХОТНИК ЗА ЛЮБОВЬЮ!"
+  },
+  {
+    "key": "DLC_INTRO12",
+    "en": "So, uh, what now?",
+    "ru": "И, э-э, что теперь?"
+  },
+  {
+    "key": "DLC_INTRO13",
+    "en": "Now, our complicated computer algorithms will match you with four local hotties.",
+    "ru": "Наши сложнейшие компьютерные алгоритмы подберут вам четырёх местных красоток."
+  },
+  {
+    "key": "DLC_INTRO14",
+    "en": "Beep boop. Beep beep. Boopity. That modem dialing noise.",
+    "ru": "Бип-буп. Бип-бип. Бупити. Звук модемного подключения."
+  },
+  {
+    "key": "DLC_INTRO15",
+    "en": "Oh, look, your matches happen to match the only four other users in the city!",
+    "ru": "О, смотрите, ваши совпадения совпали с единственными четырьмя пользователями в городе!"
+  },
+  {
+    "key": "DLC_INTRO16",
+    "en": "What a coincidence.",
+    "ru": "Какое совпадение."
+  },
+  {
+    "key": "DLC_INTRO17",
+    "en": "What a stud.",
+    "ru": "Какой жеребец."
+  },
+  {
+    "key": "DLC_INTRO18",
+    "en": "All you have to do is convince one of them to date you...",
+    "ru": "Всё, что нужно — убедить кого-то из них пойти на свидание..."
+  },
+  {
+    "key": "DLC_INTRO19",
+    "en": "...and you win A HOLIDAY!",
+    "ru": "...и вы выиграете ОТПУСК!"
+  },
+  {
+    "key": "DLC_INTRO20",
+    "en": "Also a chance of true love, yadda yadda, you've already signed up anyway.",
+    "ru": "А ещё шанс на настоящую любовь, бла-бла-бла, вы всё равно уже подписались."
+  },
+  {
+    "key": "DLC_INTRO21",
+    "en": "But I'm happy to be single",
+    "ru": "Но мне нравится быть одному"
+  },
+  {
+    "key": "DLC_INTRO22",
+    "en": "No you're not. You're miserable, like all single people.",
+    "ru": "Нет, не нравится. Вы несчастны, как все одинокие люди."
+  },
+  {
+    "key": "DLC_INTRO23",
+    "en": "It's practically science!",
+    "ru": "Это практически наука!"
+  },
+  {
+    "key": "DLC_INTRO24",
+    "en": "I'll drop by tomorrow. Flat 11, Rue Du Languedoc, I see.",
+    "ru": "Я зайду завтра. Квартира 11, улица Лангедок, верно."
+  },
+  {
+    "key": "DLC_INTRO25",
+    "en": "Oh, yes. And don't forget the small print in that contract you signed.",
+    "ru": "Ах да. И не забудьте мелкий шрифт в контракте, который вы подписали."
+  },
+  {
+    "key": "DLC_INTRO26",
+    "en": "Fail to find love and it'll cost you a full year's subscription!",
+    "ru": "Не найдёте любовь — заплатите за годовую подписку!"
+  },
+  {
+    "key": "DLC_INTRO27",
+    "en": "How... how much is that?",
+    "ru": "А... а сколько это стоит?"
+  },
+  {
+    "key": "DLC_INTRO28",
+    "en": "Surprisingly expensive!",
+    "ru": "Удивительно дорого!"
+  },
+  {
+    "key": "DLC_INTRO29",
+    "en": "Don't think of it as a scam...",
+    "ru": "Не думайте об этом как о мошенничестве..."
+  },
+  {
+    "key": "DLC_INTRO30",
+    "en": "Think of it as encouragement to put yourself out there.",
+    "ru": "Думайте об этом как о мотивации выйти в свет."
+  },
+  {
+    "key": "DLC_INTRO31",
+    "en": "Though either way, you agreed to think of it like that, in the contract.",
+    "ru": "Впрочем, в любом случае вы согласились так думать. По контракту."
+  },
+  {
+    "key": "DLC_INTRO32",
+    "en": "Welcome to FLAMR!",
+    "ru": "Добро пожаловать в FLAMR!"
+  },
+  {
+    "key": "DLC_INTRO33",
+    "en": "But-",
+    "ru": "Но—"
+  },
+  {
+    "key": "DLC_INTRO34",
+    "en": "NEXT!",
+    "ru": "СЛЕДУЮЩИЙ!"
+  },
+  {
+    "key": "DLC_INTRO35",
+    "en": "Wait, I-",
+    "ru": "Подождите, я—"
+  },
+  {
+    "key": "DLC_INTRO36",
+    "en": "Security! We've got another troublemaker!",
+    "ru": "Охрана! У нас тут ещё один скандалист!"
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_1_DESCRIPTION",
+    "en": "Purr-fect?",
+    "ru": "Мурр-лыка?"
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_2_DESCRIPTION",
+    "en": "My usual rags.",
+    "ru": "Мои обычные лохмотья."
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_3_DESCRIPTION",
+    "en": "Demon-eyes?",
+    "ru": "Дьявольские глаза?"
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_4_DESCRIPTION",
+    "en": "Diplo-date-us?",
+    "ru": "Дипло-свидан-завр?"
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_5_DESCRIPTION",
+    "en": "Doggy-bagged.",
+    "ru": "В собачьем пакете."
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_6_DESCRIPTION",
+    "en": "Jesus-boots.",
+    "ru": "Божественные сапоги."
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_7_DESCRIPTION",
+    "en": "Off with his head.",
+    "ru": "Голову с плеч."
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_8_DESCRIPTION",
+    "en": "Splash damage.",
+    "ru": "Урон по площади."
+  },
+  {
+    "key": "LWEB_OUTFIT_DLC_9_DESCRIPTION",
+    "en": "Robo-nom-nom.",
+    "ru": "Робо-ням-ням."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_14_DESCRIPTION",
+    "en": "Stained.",
+    "ru": "Витражный."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_11_DESCRIPTION",
+    "en": "Pope on a rope. \n\n                (no rope).",
+    "ru": "Папа на верёвке. \n\n                (без верёвки)."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_2_DESCRIPTION",
+    "en": "Cross-railed\n                \n                Believe in a higher powah.",
+    "ru": "Распятие на перилах\n                \n                Верь в высшую силу."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_7_DESCRIPTION",
+    "en": "Jesus boot cleaners.",
+    "ru": "Чистилки для божественных сапог."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_12_DESCRIPTION",
+    "en": "Real art!\n\t\t\n\t\tOr a Greek tragedy. You decide.",
+    "ru": "Настоящее искусство!\n\t\t\n\t\tИли греческая трагедия. Решайте сами."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_4_DESCRIPTION",
+    "en": "Oil up your easel.\n                \n                For art fanatics.",
+    "ru": "Смажь свой мольберт.\n                \n                Для фанатиков искусства."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_6_DESCRIPTION",
+    "en": "Art?\n                \n                Or vandalism, you decide.\n                ",
+    "ru": "Искусство?\n                \n                Или вандализм, решайте сами.\n                "
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_3_DESCRIPTION",
+    "en": "Caturday every day.\n                \n                For animal lovers.",
+    "ru": "Котосуббота каждый день.\n                \n                Для любителей животных."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_5_DESCRIPTION",
+    "en": "Nelly\n                \n                For animal lovers.",
+    "ru": "Нелли\n                \n                Для любителей животных."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_13_DESCRIPTION",
+    "en": "Oh Sheep, where art thou?\n\n                On the wall.",
+    "ru": "О овца, где же ты?\n\n                На стене."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_8_DESCRIPTION",
+    "en": "Auto-cleano",
+    "ru": "Авто-уборщик"
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_9_DESCRIPTION",
+    "en": "Derek voice activated listening device.",
+    "ru": "Голосовое подслушивающее устройство Дерек."
+  },
+  {
+    "key": "LWEB_UPGRADE_DLC_10_DESCRIPTION",
+    "en": "For the USB lover.",
+    "ru": "Для любителей USB."
+  },
+  {
+    "key": "APP_BOUNCR_IN_LABEL",
+    "en": "IN",
+    "ru": "ВХОД"
+  },
+  {
+    "key": "APP_BOUNCR_CASH_LABEL",
+    "en": "CASH",
+    "ru": "ДЕНЬГИ"
+  },
+  {
+    "key": "APP_BOUNCR_BONUS2_LABEL",
+    "en": "Bonus 2",
+    "ru": "Бонус 2"
+  },
+  {
+    "key": "JOB_LISTING_TITLE",
+    "en": "Title",
+    "ru": "Название"
+  },
+  {
+    "key": "NEWS_LISTING_TITLE",
+    "en": "TITLE",
+    "ru": "ЗАГОЛОВОК"
+  },
+  {
+    "key": "NEWS_LISTING_FULLTEXT",
+    "en": "TEXT TEXT TEXT TEXT",
+    "ru": "ТЕКСТ ТЕКСТ ТЕКСТ ТЕКСТ"
+  },
+  {
+    "key": "NEWS_DETAIL_TITLE",
+    "en": "TITLE",
+    "ru": "ЗАГОЛОВОК"
+  },
+  {
+    "key": "BILL_DETAIL_TITLE",
+    "en": "TITLE",
+    "ru": "ЗАГОЛОВОК"
+  },
+  {
+    "key": "BILL_DETAIL_DESCRIPTION",
+    "en": "TEXT TEXT",
+    "ru": "ТЕКСТ ТЕКСТ"
+  },
+  {
+    "key": "BILL_DETAIL_WEEK",
+    "en": "Day {[Week]}",
+    "ru": "День {[Week]}"
+  },
+  {
+    "key": "BILL_DETAIL_DUE",
+    "en": "DUE {[Date]}",
+    "ru": "СРОК {[Date]}"
+  },
+  {
+    "key": "BILL_LISTING_TITLE",
+    "en": "TITLE",
+    "ru": "ЗАГОЛОВОК"
+  },
+  {
+    "key": "BILL_LISTING_WEEK",
+    "en": "Day {[Week]}",
+    "ru": "День {[Week]}"
+  },
+  {
+    "key": "BILL_LISTING_DUE",
+    "en": "DUE 27.04.",
+    "ru": "СРОК 27.04."
+  },
+  {
+    "key": "APPS_BOUNCR_DAYBANNER_TEXT",
+    "en": "Today's Jobs",
+    "ru": "Работа на сегодня"
+  },
+  {
+    "key": "LWEB_CATEGORY_TITLE",
+    "en": "TITLE",
+    "ru": "ЗАГОЛОВОК"
+  },
+  {
+    "key": "LWEB_LISTING_TITLE",
+    "en": "TITLE",
+    "ru": "ЗАГОЛОВОК"
+  },
+  {
+    "key": "APP_MEDR_DETAIL_DAY",
+    "en": "DAY 2",
+    "ru": "ДЕНЬ 2"
+  },
+  {
+    "key": "APP_TXTIT_CONTACTLIST_CONTACTNAME",
+    "en": "DEALER DUDE",
+    "ru": "БАРЫГА"
+  },
+  {
+    "key": "NOTEBOOK_CALENDAR_TAB",
+    "en": "CALENDAR",
+    "ru": "КАЛЕНДАРЬ"
+  },
+  {
+    "key": "NOTEBOOK_LETTERS_TAB",
+    "en": "LETTERS",
+    "ru": "ПИСЬМА"
+  },
+  {
+    "key": "NOTEBOOK_MAP_TAB",
+    "en": "MAP",
+    "ru": "КАРТА"
+  },
+  {
+    "key": "LETTER_DEPARTMENT_OF_BILLING",
+    "en": "Department Of Billing",
+    "ru": "Департамент оплаты"
+  },
+  {
+    "key": "LETTER_DEPARTMENT_OF_EURO_ALIENS",
+    "en": "Department Of Euro Aliens",
+    "ru": "Департамент евро-иностранцев"
+  },
+  {
+    "key": "LETTER_JOBS_ANNOUNCEMENTS",
+    "en": "Job Announcements",
+    "ru": "Объявления о работе"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_CASH",
+    "en": "CASH:",
+    "ru": "ДЕНЬГИ:"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_BOUNCER_LEVEL",
+    "en": "BOUNCER LEVEL:",
+    "ru": "УРОВЕНЬ ВЫШИБАЛЫ:"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_SUSPICION_LEVEL",
+    "en": "SOCIAL CREDIT SCORE",
+    "ru": "СОЦИАЛЬНЫЙ РЕЙТИНГ"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_SUSPICION",
+    "en": "Dubious",
+    "ru": "Сомнительно"
+  },
+  {
+    "key": "APP_BOUNCR_TRANSACTION_PENDING",
+    "en": "TRANSACTION PENDING",
+    "ru": "ТРАНЗАКЦИЯ В ОБРАБОТКЕ"
+  },
+  {
+    "key": "LWEB_DETAIL_ITEM_DETAILS",
+    "en": "Item Details",
+    "ru": "Описание предмета"
+  },
+  {
+    "key": "LWEB_DETAILS_SUBTITLE",
+    "en": "ITEM DETAILS",
+    "ru": "ОПИСАНИЕ ПРЕДМЕТА"
+  },
+  {
+    "key": "APP_BOUNCR_DETAILS_SUBTITLE",
+    "en": "Job Details",
+    "ru": "Подробности работы"
+  },
+  {
+    "key": "APP_BOUNCR_DETAILS_NO_NIGHTS",
+    "en": "{[Nights]} Nights",
+    "ru": "{[Nights]} ночей"
+  },
+  {
+    "key": "APP_BOUNCR_DETAILS_DESCRIPTION",
+    "en": "Job DETAILS",
+    "ru": "ПОДРОБНОСТИ"
+  },
+  {
+    "key": "LWEB_BUY_BUTTON",
+    "en": "BUY",
+    "ru": "КУПИТЬ"
+  },
+  {
+    "key": "APP_BOUNCR_TAKE_JOB",
+    "en": "TAKE JOB",
+    "ru": "ВЗЯТЬ РАБОТУ"
+  },
+  {
+    "key": "APP_MEDR_DETAIL_TITLE",
+    "en": "Title",
+    "ru": "Название"
+  },
+  {
+    "key": "APP_MEDR_DETAIL_DESCRIPTION",
+    "en": "TEXT TEXT",
+    "ru": "ТЕКСТ ТЕКСТ"
+  },
+  {
+    "key": "APP_MEDR_HEAT",
+    "en": "HEAT",
+    "ru": "ТЕПЛО"
+  },
+  {
+    "key": "APP_MEDR_HUNGER",
+    "en": "HUNGER",
+    "ru": "ГОЛОД"
+  },
+  {
+    "key": "APP_MEDR_TIREDNESS",
+    "en": "TIREDNESS",
+    "ru": "УСТАЛОСТЬ"
+  },
+  {
+    "key": "EVENT",
+    "en": "EVENT",
+    "ru": "СОБЫТИЕ"
+  },
+  {
+    "key": "APP_BOUNCR_LOW_LEVEL",
+    "en": "BOUNCR LVL {[Lvl]} Required",
+    "ru": "Требуется BOUNCR УР. {[Lvl]}"
+  },
+  {
+    "key": "APP_BOUNCR_JOBSTATE_INCOMPLETE",
+    "en": "Incomplete",
+    "ru": "Не завершено"
+  },
+  {
+    "key": "APP_BOUNCR_JOBSTATE_COMPLETE",
+    "en": "Complete",
+    "ru": "Завершено"
+  },
+  {
+    "key": "APP_BOUNCR_JOBSTATE_ACTIVE",
+    "en": "Active",
+    "ru": "Активно"
+  },
+  {
+    "key": "APP_BILLR_PAY",
+    "en": "PAY",
+    "ru": "ОПЛАТИТЬ"
+  },
+  {
+    "key": "APP_BILLR_BILL_PROJECTED_PAY",
+    "en": "Projected Pay: ",
+    "ru": "Ожидаемая оплата: "
+  },
+  {
+    "key": "APP_BILLR_BILL_EXPECTED_PAY",
+    "en": "Expected Pay",
+    "ru": "Ожидаемая оплата"
+  },
+  {
+    "key": "APP_BILLR_BILL_BILLS_OWED",
+    "en": "Bills Owed",
+    "ru": "Задолженности"
+  },
+  {
+    "key": "APP_BILLR_CREDITHEALTH_HEALTHY",
+    "en": "HEALTHY",
+    "ru": "ЗДОРОВЫЙ"
+  },
+  {
+    "key": "APP_BILLR_CREDITHEALTH_BALANCED",
+    "en": "Balanced",
+    "ru": "Сбалансированный"
+  },
+  {
+    "key": "APP_BILLR_CREDITHEALTH_INDEBT",
+    "en": "In Dept",
+    "ru": "В долгах"
+  },
+  {
+    "key": "APP_BILLR_CREDITHEALTH_BANKRUPCY",
+    "en": "Near Bankruptcy",
+    "ru": "На грани банкротства"
+  },
+  {
+    "key": "APP_MEDR_HEALTH_STATUS_HEALTHY",
+    "en": "Healthy",
+    "ru": "Здоров"
+  },
+  {
+    "key": "APP_MEDR_HEALTH_STATUS_CAUTION",
+    "en": "Caution",
+    "ru": "Осторожно"
+  },
+  {
+    "key": "APP_MEDR_HEALTH_STATUS_DANGER",
+    "en": "Danger",
+    "ru": "Опасность"
+  },
+  {
+    "key": "APP_MEDR_HEALTH_STATUS_LIFEATRISK",
+    "en": "Life at risk",
+    "ru": "Жизнь под угрозой"
+  },
+  {
+    "key": "ENVIRONMENTAL_FACTORS_SLEEP",
+    "en": "Sleep",
+    "ru": "Сон"
+  },
+  {
+    "key": "ENVIRONMENTAL_FACTORS_HUNGER",
+    "en": "Hunger",
+    "ru": "Голод"
+  },
+  {
+    "key": "ENVIRONMENTAL_FACTORS_TIREDNESS",
+    "en": "Tiredness",
+    "ru": "Усталость"
+  },
+  {
+    "key": "TOOLTIP_SELECT",
+    "en": "SELECT",
+    "ru": "ВЫБРАТЬ"
+  },
+  {
+    "key": "TOOLTIP_SELECTED",
+    "en": "Selected",
+    "ru": "Выбрано"
+  },
+  {
+    "key": "TOOLTIP_SEX",
+    "en": "Sex",
+    "ru": "Пол"
+  },
+  {
+    "key": "TOOLTIP_NAME",
+    "en": "Name",
+    "ru": "Имя"
+  },
+  {
+    "key": "TOOLTIP_AGE",
+    "en": "DOB",
+    "ru": "Д.Р."
+  },
+  {
+    "key": "TOOLTIP_COUNTRY",
+    "en": "Nationality",
+    "ru": "Гражданство"
+  },
+  {
+    "key": "TOOLTIP_HOLOGRAM",
+    "en": "Hologram",
+    "ru": "Голограмма"
+  },
+  {
+    "key": "TOOLTIP_FLAG",
+    "en": "Flag",
+    "ru": "Флаг"
+  },
+  {
+    "key": "TOOLTIP_EXPIRATION",
+    "en": "Expiry",
+    "ru": "Срок действия"
+  },
+  {
+    "key": "TOOLTIP_LEGS",
+    "en": "CLOTHING",
+    "ru": "ОДЕЖДА"
+  },
+  {
+    "key": "TOOLTIP_BODY",
+    "en": "CLOTHING",
+    "ru": "ОДЕЖДА"
+  },
+  {
+    "key": "TOOLTIP_HEAD",
+    "en": "CLOTHING",
+    "ru": "ОДЕЖДА"
+  },
+  {
+    "key": "TOOLTIP_TICKET",
+    "en": "Ticket",
+    "ru": "Билет"
+  },
+  {
+    "key": "TOOLTIP_TICKET_MISSING",
+    "en": "No ticket",
+    "ru": "Нет билета"
+  },
+  {
+    "key": "TOOLTIP_TICKET_DAY",
+    "en": "Wrong day",
+    "ru": "Не тот день"
+  },
+  {
+    "key": "TOOLTIP_TICKET_STAMP",
+    "en": "No stamp",
+    "ru": "Нет печати"
+  },
+  {
+    "key": "TOOLTIP_CONCEALED_ITEM",
+    "en": "Concealed Item",
+    "ru": "Скрытый предмет"
+  },
+  {
+    "key": "TOOLTIP_NAMEGUEST",
+    "en": "Not guestlist",
+    "ru": "Не в списке"
+  },
+  {
+    "key": "TOOLTIP_UNDERAGE",
+    "en": "Underage",
+    "ru": "Несовершеннолетний"
+  },
+  {
+    "key": "TOOLTIP_BRIBE",
+    "en": "Bribe",
+    "ru": "Взятка"
+  },
+  {
+    "key": "TOOLTIP_DENY_ENTRY",
+    "en": "Deny Entry - ",
+    "ru": "Отказать - "
+  },
+  {
+    "key": "TOOLTIP_PORTRAIT",
+    "en": "Portrait",
+    "ru": "Фото"
+  },
+  {
+    "key": "TOOLTIP_SELECT_NAME",
+    "en": "Select Name",
+    "ru": "Выберите имя"
+  },
+  {
+    "key": "SHARED_MONDAY",
+    "en": "Monday",
+    "ru": "Понедельник"
+  },
+  {
+    "key": "SHARED_TUESDAY",
+    "en": "Tuesday",
+    "ru": "Вторник"
+  },
+  {
+    "key": "SHARED_WEDNESDAY",
+    "en": "Wednesday",
+    "ru": "Среда"
+  },
+  {
+    "key": "SHARED_THURSDAY",
+    "en": "THURSDAY",
+    "ru": "ЧЕТВЕРГ"
+  },
+  {
+    "key": "SHARED_FRIDAY",
+    "en": "Friday",
+    "ru": "Пятница"
+  },
+  {
+    "key": "SHARED_SATURDAY",
+    "en": "Saturday",
+    "ru": "Суббота"
+  },
+  {
+    "key": "SHARED_SUNDAY",
+    "en": "Sunday",
+    "ru": "Воскресенье"
+  },
+  {
+    "key": "TUTORIAL_SELECT_QUEUE",
+    "en": "SELECT QUEUE",
+    "ru": "ВЫБЕРИТЕ ОЧЕРЕДЬ"
+  },
+  {
+    "key": "TUTORIAL_DRAG_TICKET_CHECK",
+    "en": "DRAG TICKET TO CHECK",
+    "ru": "ПЕРЕТАЩИТЕ БИЛЕТ ДЛЯ ПРОВЕРКИ"
+  },
+  {
+    "key": "TUTORIAL_DRAG_ID_CHECK",
+    "en": "DRAG ID AND CHECK",
+    "ru": "ПЕРЕТАЩИТЕ ДОКУМЕНТ И ПРОВЕРЬТЕ"
+  },
+  {
+    "key": "TUTORIAL_RETURN_ID",
+    "en": "Return ID to deny entry",
+    "ru": "Верните документ, чтобы отказать"
+  },
+  {
+    "key": "TUTORIAL_ALLOW_ENTRY",
+    "en": "Click to Allow Entry",
+    "ru": "Нажмите, чтобы впустить"
+  },
+  {
+    "key": "TUTORIAL_RETURN_TICKET",
+    "en": "Return Ticket to deny entry",
+    "ru": "Верните билет, чтобы отказать"
+  },
+  {
+    "key": "CINEMATIC_PANEL_1_TITLE",
+    "en": "ALBION FIRST NEW YEAR EVE BALL\nTHE BRITISH MUSEUM, LONDON, ENGLAND",
+    "ru": "НОВОГОДНИЙ БАЛ «АЛЬБИОН ПРЕЖДЕ ВСЕГО»\nБРИТАНСКИЙ МУЗЕЙ, ЛОНДОН, АНГЛИЯ"
+  },
+  {
+    "key": "CINEMATIC_PANEL_1_BODY",
+    "en": "December 31st 2018,\n\nAlbion First celebrates one year in power!",
+    "ru": "31 декабря 2018,\n\n«Альбион прежде всего» празднует год у власти!"
+  },
+  {
+    "key": "CINEMATIC_PANEL_2_TITLE",
+    "en": "ONE YEAR EARLIER",
+    "ru": "ГОДОМ РАНЕЕ"
+  },
+  {
+    "key": "CINEMATIC_PANEL_2_BODY",
+    "en": "Europeans Citizens Relocation Block C, Yeovil, Somerset\n\nJanuary 1st, 2018",
+    "ru": "Блок переселения европейских граждан C, Йовил, Сомерсет\n\n1 января 2018"
+  },
+  {
+    "key": "DOB_CHECKER",
+    "en": "Over 18?\nborn before",
+    "ru": "Старше 18?\nрождён до"
+  },
+  {
+    "key": "FLYER_RULES_ID",
+    "en": "1. NO COLOUR.\n2. NO STAMP.\n3. CHECK.",
+    "ru": "1. НЕТ ЦВЕТА.\n2. НЕТ ПЕЧАТИ.\n3. ПРОВЕРИТЬ."
+  },
+  {
+    "key": "FLYER_RULES_GUESTLIST",
+    "en": "1. CHECK GUESTLIST FOR NAME.",
+    "ru": "1. ПРОВЕРИТЬ ИМЯ В СПИСКЕ ГОСТЕЙ."
+  },
+  {
+    "key": "FLYER_RULES_VIP",
+    "en": "1. REQUEST AND CONFIRM PASSWORD.",
+    "ru": "1. ЗАПРОСИТЬ И ПОДТВЕРДИТЬ ПАРОЛЬ."
+  },
+  {
+    "key": "FLYER_RULES_CLOTHING",
+    "en": "1. 2. CHECK CLOTHING.",
+    "ru": "1. 2. ПРОВЕРИТЬ ОДЕЖДУ."
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND",
+    "en": "1. ANOMALY?\n2. SCAN, BAN?",
+    "ru": "1. АНОМАЛИЯ?\n2. СКАН, ОТКАЗ?"
+  },
+  {
+    "key": "FLYER_RULES_TICKET",
+    "en": "1. DAY.\n2. STAMP.",
+    "ru": "1. ДЕНЬ.\n2. ПЕЧАТЬ."
+  },
+  {
+    "key": "FLYER_RULES_GUESTLIST_TITLE",
+    "en": "GUESTLIST",
+    "ru": "СПИСОК ГОСТЕЙ"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_TITLE",
+    "en": "SCAN AND BAN",
+    "ru": "СКАНЕР"
+  },
+  {
+    "key": "FLYER_RULES_TICKET_TITLE",
+    "en": "TICKETS",
+    "ru": "БИЛЕТЫ"
+  },
+  {
+    "key": "FLYER_RULES_CLOTHING_TITLE",
+    "en": "CLOTHING",
+    "ru": "ОДЕЖДА"
+  },
+  {
+    "key": "FLYER_RULES_ID_TITLE",
+    "en": "ID",
+    "ru": "ДОКУМЕНТ"
+  },
+  {
+    "key": "APP_BILLR_CREDIT_SCORE",
+    "en": "Credit Score",
+    "ru": "Кредитный рейтинг"
+  },
+  {
+    "key": "DWEB_CURRENT_UPGRADE_TITLE",
+    "en": "DESCRIPTION",
+    "ru": "ОПИСАНИЕ"
+  },
+  {
+    "key": "DWEB_NEXT_UPGRADE_TITLE",
+    "en": "Next Upgrade",
+    "ru": "Следующее улучшение"
+  },
+  {
+    "key": "DWEB_DRUG_STORE_QUANTITY",
+    "en": "Quantity: {[Quantity]}",
+    "ru": "Количество: {[Quantity]}"
+  },
+  {
+    "key": "APP_DWEB_DRUGS_TAB",
+    "en": "SPECIAL",
+    "ru": "ОСОБОЕ"
+  },
+  {
+    "key": "DWEB_DRUG_STORE_1_DESCRIPTION",
+    "en": "For all cheese-heads. SIDE EFFECTS: You may enjoy wearing cheesy hats.",
+    "ru": "Для всех сыроголовых. ПОБОЧНЫЕ ЭФФЕКТЫ: можете полюбить сырные шляпы."
+  },
+  {
+    "key": "DWEB_DRUG_STORE_2_DESCRIPTION",
+    "en": "Dip and dab this sugary treat. SIDE EFFECTS: blue bubbles may rise from your noggin.",
+    "ru": "Макни и лизни эту сладость. ПОБОЧНЫЕ ЭФФЕКТЫ: из головы могут подниматься синие пузыри."
+  },
+  {
+    "key": "DWEB_DRUG_STORE_3_DESCRIPTION",
+    "en": "Pills of strength +3. SIDE EFFECTS: blue bubbles may rise from your noggin.",
+    "ru": "Таблетки силы +3. ПОБОЧНЫЕ ЭФФЕКТЫ: из головы могут подниматься синие пузыри."
+  },
+  {
+    "key": "DWEB_DRUG_STORE_4_DESCRIPTION",
+    "en": "Can you feel your face? SIDE EFFECTS: may wear purple tshirts.",
+    "ru": "Ты чувствуешь своё лицо? ПОБОЧНЫЕ ЭФФЕКТЫ: можете полюбить фиолетовые футболки."
+  },
+  {
+    "key": "DWEB_DRUG_STORE_DESCRIPTION_1",
+    "en": "Cheeser description",
+    "ru": "Описание Сыроголового"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_HEAD_DOORMAN_TITLE",
+    "en": "Head Doorman?",
+    "ru": "Главный вышибала?"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_KINGS_HEAD",
+    "en": "The Kings Head",
+    "ru": "«Королевская Голова»"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_KINGS_HEAD_PT2",
+    "en": "The Kings Head",
+    "ru": "«Королевская Голова»"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_BEACH_BAR",
+    "en": "Tiki Head (night)",
+    "ru": "Тики-бар (ночь)"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_BREAVE",
+    "en": "The NYE Ball",
+    "ru": "Новогодний бал"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_CHURCH",
+    "en": "Angels",
+    "ru": "«Ангелы»"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_FESTIVAL",
+    "en": "Reggae Fest",
+    "ru": "Фестиваль регги"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_FIRE_AND_ICE",
+    "en": "Fire And Ice",
+    "ru": "Огонь и лёд"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_HOUSE_PARTY",
+    "en": "House party",
+    "ru": "Домашняя вечеринка"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_NEO",
+    "en": "Club Neo",
+    "ru": "Клуб Нео"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_ROOFTOP",
+    "en": "Carpark Popup",
+    "ru": "Парковка-попап"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_JUPP",
+    "en": "Jupp",
+    "ru": "Юпп"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_RESISTANCE",
+    "en": "Resistance",
+    "ru": "Сопротивление"
+  },
+  {
+    "key": "INTERIOR_INTERACT_LABEL",
+    "en": "INTERACT",
+    "ru": "ДЕЙСТВИЕ"
+  },
+  {
+    "key": "TOOLTIP_NATIONALITY",
+    "en": "Nationality",
+    "ru": "Гражданство"
+  },
+  {
+    "key": "APP_BOUNCR_JOB_COMPLETE",
+    "en": "COMPLETE",
+    "ru": "ЗАВЕРШЕНО"
+  },
+  {
+    "key": "APP_BOUNCER_JOB_ACTIVE",
+    "en": "ACTIVE",
+    "ru": "АКТИВНО"
+  },
+  {
+    "key": "INVOICE_PAY_BONUS_LVL_LABEL",
+    "en": "+{[Percentage]}% (Lvl {[LevelNumber]})",
+    "ru": "+{[Percentage]}% (Ур. {[LevelNumber]})"
+  },
+  {
+    "key": "APP_BILLR_BILL_EXPECTED_BALANCE",
+    "en": "Expected Balance:",
+    "ru": "Ожидаемый баланс:"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_SUSPICION_SAFE",
+    "en": "SAFE",
+    "ru": "БЕЗОПАСЕН"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_SUSPICION_DUBIOUS",
+    "en": "DUBIOUS",
+    "ru": "СОМНИТЕЛЕН"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_SUSPICION_SUSPICIOUS",
+    "en": "SUSPICIOUS",
+    "ru": "ПОДОЗРИТЕЛЕН"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_SUSPICION_DODGY",
+    "en": "DANGEROUS",
+    "ru": "ОПАСЕН"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_SUSPICION_CAUGHT",
+    "en": "ARREST",
+    "ru": "АРЕСТ"
+  },
+  {
+    "key": "NOTEBOOK_NOTES_CURRENT_TAB",
+    "en": "Current",
+    "ru": "Текущие"
+  },
+  {
+    "key": "NOTEBOOK_NOTES_COMPLETE_TAB",
+    "en": "Complete",
+    "ru": "Завершённые"
+  },
+  {
+    "key": "NOTEBOOK_MAP_TITLE",
+    "en": "SOUTH WEST ENGLAND",
+    "ru": "ЮГО-ЗАПАД АНГЛИИ"
+  },
+  {
+    "key": "LETTER_RESISTANCE_TITLE",
+    "en": "Resist!",
+    "ru": "Сопротивляйся!"
+  },
+  {
+    "key": "ITEM_VISA_TITLE",
+    "en": "Transitional Resident Visa",
+    "ru": "Временная резидентская виза"
+  },
+  {
+    "key": "ITEM_VISA_NUMBER",
+    "en": "Number:",
+    "ru": "Номер:"
+  },
+  {
+    "key": "ITEM_VISA_VALID",
+    "en": "Valid:",
+    "ru": "Действует:"
+  },
+  {
+    "key": "ITEM_VISA_JOB",
+    "en": "Job:",
+    "ru": "Работа:"
+  },
+  {
+    "key": "ITEM_VISA_VALID_VALUE",
+    "en": "One Month",
+    "ru": "Один месяц"
+  },
+  {
+    "key": "ITEM_VISA_NUMBER_VALUE",
+    "en": "112",
+    "ru": "112"
+  },
+  {
+    "key": "PAUSE_BUTTON_RESUME",
+    "en": "Resume",
+    "ru": "Продолжить"
+  },
+  {
+    "key": "PAUSE_BUTTON_RETURN_TO_MENU",
+    "en": "Return To Menu",
+    "ru": "Вернуться в меню"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_HEAD_DOORMAN_TITLE_ENTRY",
+    "en": "Head Doorman",
+    "ru": "Главный вышибала"
+  },
+  {
+    "key": "FLYER_RULES_BANNED_NATIONALITIES",
+    "en": "CHECK NATIONALITY.",
+    "ru": "ПРОВЕРИТЬ ГРАЖДАНСТВО."
+  },
+  {
+    "key": "FLYER_RULES_DOB_EXPIRY",
+    "en": "1. CHECK DOB AND EXPIRY.",
+    "ru": "1. ПРОВЕРИТЬ Д.Р. И СРОК ДЕЙСТВИЯ."
+  },
+  {
+    "key": "FLYER_RULES_DOB_EXPIRY_FLAG",
+    "en": "1. NO COLOUR.\n2. NO STAMP.\n3. CHECK.",
+    "ru": "1. НЕТ ЦВЕТА.\n2. НЕТ ПЕЧАТИ.\n3. ПРОВЕРИТЬ."
+  },
+  {
+    "key": "FLYER_RULES_DOB_EXPIRY_FLAG_TITLE",
+    "en": "Fake IDs",
+    "ru": "Поддельные документы"
+  },
+  {
+    "key": "FLYER_RULES_DOB_EXPIRY_TITLE",
+    "en": "Fake IDs",
+    "ru": "Поддельные документы"
+  },
+  {
+    "key": "FLYER_RULES_BANNED_NATIONALITIES_TITLE",
+    "en": "NATIONALITY",
+    "ru": "ГРАЖДАНСТВО"
+  },
+  {
+    "key": "AVATAR_SELECT_HERITAGE_1",
+    "en": "You were born in Birmingham. You're from the streets. Well, a street. Quite a nice one, really.\n\nBy the time you went to secondary school, you'd read all of Charles Dickens and most of Shakespeare, much to your English teacher’s pleasure and horror. \n\nThen a letter. Your citizenship, revoked overnight, thanks to a Nordic grandfather and a missing immigration form.",
+    "ru": "Вы родились в Бирмингеме. Вы с улицы. Ну, с одной улицы. Вполне себе приличной, если честно.\n\nК средней школе вы прочли всего Диккенса и почти всего Шекспира, к удовольствию и ужасу учителя литературы.\n\nА потом пришло письмо. Ваше гражданство аннулировано за одну ночь — из-за скандинавского дедушки и пропавшей иммиграционной формы."
+  },
+  {
+    "key": "AVATAR_SELECT_HERITAGE_2",
+    "en": "You were born in Bath to a pair of Spanish charity workers. A good child. A quiet child.\n\nYou helped your parents run a seaside retirement home and became quite the expert on cider. When they died, you were to continue their legacy. \n\nThen the letter came. These days birth no longer confers citizenship. Officially, you too are considered Spanish - except, unfortunately, in Spain.",
+    "ru": "Вы родились в Бате у пары испанских благотворителей. Хороший ребёнок. Тихий ребёнок.\n\nВы помогали родителям вести приморский дом престарелых и стали экспертом по сидру. Когда они умерли, вы должны были продолжить их дело.\n\nА потом пришло письмо. Теперь рождение не даёт гражданства. Официально вы тоже считаетесь испанцем — кроме, к сожалению, самой Испании."
+  },
+  {
+    "key": "AVATAR_SELECT_HERITAGE_3",
+    "en": "You were born in London, to the sound of Bow Bells. Whelks are in your blood, which itself runs thick with jellied eels. You grew up on your grandmother's knee, hearing her stories of the war, and of the Blitz spirit she saw after escaping France. \n\nThen the letter came. In divorcing, it is declared, she surrendered British citizenship. The rest of the family tree is already being uprooted.",
+    "ru": "Вы родились в Лондоне, под звон колоколов Боу. Устрицы у вас в крови, а сама кровь густа от заливных угрей. Вы росли на коленях у бабушки, слушая истории о войне и о духе Блица, который она обрела, сбежав из Франции.\n\nА потом пришло письмо. Разводясь, она, по решению суда, утратила британское гражданство. Остальное генеалогическое древо уже выкорчёвывают."
+  },
+  {
+    "key": "MAIN_MENU_BETA_MESSAGE",
+    "en": "Thanks for taking part in the Not Tonight beta! Let us know any suggestions or bugs via the official Discord server. If you enjoy the game, please consider wishlisting on Steam! Click >> HERE << to wishlist.",
+    "ru": "Спасибо за участие в бета-тесте Not Tonight! Сообщайте о предложениях и ошибках на официальном сервере Discord. Если игра понравилась, добавьте в список желаемого в Steam! Нажмите >> СЮДА << чтобы добавить."
+  },
+  {
+    "key": "MAIN_MENU_LOAD_GAME",
+    "en": "LOAD GAME",
+    "ru": "ЗАГРУЗИТЬ ИГРУ"
+  },
+  {
+    "key": "MAIN_MENU_LOAD",
+    "en": "Load",
+    "ru": "Загрузить"
+  },
+  {
+    "key": "MAIN_MENU_LOAD_WEEK",
+    "en": "DAY",
+    "ru": "ДЕНЬ"
+  },
+  {
+    "key": "MAIN_MENU_CONFIRM_AUTOSAVE_DIALOG",
+    "en": "You will lose all autosave progress. Are you sure you wish to proceed?",
+    "ru": "Вы потеряете прогресс автосохранения. Вы уверены, что хотите продолжить?"
+  },
+  {
+    "key": "MAIN_MENU_DIALOG_CONFIRM_SAVE_DELETE",
+    "en": "Are you sure you want to delete this slot?",
+    "ru": "Вы уверены, что хотите удалить этот слот?"
+  },
+  {
+    "key": "MAIN_MENU_DIALOG_NO_AVAILABLE_SLOT",
+    "en": "You need to remove all data from a slot",
+    "ru": "Необходимо очистить один из слотов"
+  },
+  {
+    "key": "FLAT_SCENE_GIVE_ITEM",
+    "en": "GIVE ITEM",
+    "ru": "ОТДАТЬ ПРЕДМЕТ"
+  },
+  {
+    "key": "FLAT_SCENE_GOODBYE_SELECTOR",
+    "en": "SAY GOODBYE",
+    "ru": "ПОПРОЩАТЬСЯ"
+  },
+  {
+    "key": "MAIN_MENU_RESUME",
+    "en": "RESUME",
+    "ru": "ПРОДОЛЖИТЬ"
+  },
+  {
+    "key": "APP_BOUNCR_SKIP_WORK_DETAIL_SUBTITLE",
+    "en": "DETAILS",
+    "ru": "ПОДРОБНОСТИ"
+  },
+  {
+    "key": "APP_BOUNCR_SKIP_WORK_DETAILS",
+    "en": "Skipping work decreases your social credit score. Except in these cases:\n- Missing limb\n- Active volcano\n- Biological attack",
+    "ru": "Прогул снижает ваш социальный рейтинг. Кроме следующих случаев:\n- Отсутствие конечности\n- Активный вулкан\n- Биологическая атака"
+  },
+  {
+    "key": "APP_BOUNCR_SKIP_WORK_DETAIL_TITLE",
+    "en": "SKIP WORK",
+    "ru": "ПРОГУЛЯТЬ"
+  },
+  {
+    "key": "APP_BOUNCR_SKIP_WORK_BUTTON",
+    "en": "SKIP WORK",
+    "ru": "ПРОГУЛЯТЬ"
+  },
+  {
+    "key": "DIALOG_BOUNCER_INTRO_ID_AND_TICKET",
+    "en": "ID and ticket please.",
+    "ru": "Документ и билет, пожалуйста."
+  },
+  {
+    "key": "DIALOG_BOUNCER_INTRO_ID",
+    "en": "ID please.",
+    "ru": "Документ, пожалуйста."
+  },
+  {
+    "key": "DIALOG_BOUNCER_INTRO_TICKET",
+    "en": "Ticket please.",
+    "ru": "Билет, пожалуйста."
+  },
+  {
+    "key": "DIALOG_BOUNCER_CLOSE",
+    "en": "Closing time!",
+    "ru": "Мы закрываемся!"
+  },
+  {
+    "key": "DIALOG_BOUNCER_CLOSE_EARLY",
+    "en": "Shutting early! it's over!",
+    "ru": "Закрываемся досрочно! Всё кончено!"
+  },
+  {
+    "key": "LWEB_EQUIP_BUTTON",
+    "en": "EQUIP",
+    "ru": "НАДЕТЬ"
+  },
+  {
+    "key": "PHONE_HOME_SCREEN_TITLE",
+    "en": "4GS+",
+    "ru": "4GS+"
+  },
+  {
+    "key": "APP_BOUNCR_PROFILE_HEAD_BOUNCER_POPUP_TITLE",
+    "en": "NEW HEAD BOUNCER",
+    "ru": "НОВЫЙ ГЛАВНЫЙ ВЫШИБАЛА"
+  },
+  {
+    "key": "DIALOG_RADIO_INCIDENT_FIRST_LINE",
+    "en": "---- INCIDENT ----",
+    "ru": "---- ИНЦИДЕНТ ----"
+  },
+  {
+    "key": "DIALOG_BOUNCER_CHECK_GUESTLIST",
+    "en": "I should check the guest list.",
+    "ru": "Надо проверить список гостей."
+  },
+  {
+    "key": "DIALOG_BOUNCER_PASSWORD",
+    "en": "Password please?",
+    "ru": "Пароль?"
+  },
+  {
+    "key": "APP_BOUNCR_NO_JOBS_TITLE",
+    "en": "NO JOBS",
+    "ru": "НЕТ РАБОТЫ"
+  },
+  {
+    "key": "APP_BILLR_NEXT_BILL_DUE",
+    "en": "Next Bill IN",
+    "ru": "Следующий счёт через"
+  },
+  {
+    "key": "APP_BILLR_DETAILS",
+    "en": "DETAILS",
+    "ru": "ПОДРОБНОСТИ"
+  },
+  {
+    "key": "APP_BILLR_BILL_OVERDUE_OWED",
+    "en": "Bills Overdue",
+    "ru": "Просроченные счета"
+  },
+  {
+    "key": "APP_BILLR_BILL_DAYS",
+    "en": "{[Days]} Days[i2p_One]{[Days]} Day",
+    "ru": "{[Days]} дн.[i2p_One]{[Days]} день"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_TITLE",
+    "en": "ELECTION SEASON!",
+    "ru": "СЕЗОН ВЫБОРОВ!"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_SUBTITLE_SUCCESS",
+    "en": "Albion First ahead in early polls",
+    "ru": "«Альбион прежде всего» лидирует в ранних опросах"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_SUBTITLE_FAIL",
+    "en": "Albion First ahead in early polls",
+    "ru": "«Альбион прежде всего» лидирует в ранних опросах"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_PARAGRAPH1_SUCCESS",
+    "en": "Schoolgirl creates Caribbean exchange program",
+    "ru": "Школьница создаёт карибскую программу обмена"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_PARAGRAPH1_FAIL",
+    "en": "Schoolgirl graffitis own music classroom",
+    "ru": "Школьница разрисовала свой кабинет музыки"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_PARAGRAPH2_SUCCESS",
+    "en": "Success for Brighton flower stall",
+    "ru": "Успех брайтонского цветочного ларька"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_PARAGRAPH2_FAIL",
+    "en": "Shonkytonk fires 1000 employees",
+    "ru": "Shonkytonk увольняет 1000 сотрудников"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_PARAGRAPH3_SUCCESS",
+    "en": "Disco! The new dance craze!",
+    "ru": "Диско! Новое танцевальное безумие!"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_PARAGRAPH3_FAIL",
+    "en": "Dubstep revival depresses parents",
+    "ru": "Возрождение дабстепа повергает родителей в уныние"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_PARAGRAPH4_SUCCESS",
+    "en": "Thames flood fears - in London, so relevant!",
+    "ru": "Угроза затопления Темзы — в Лондоне, значит актуально!"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_PARAGRAPH4_FAIL",
+    "en": "Thames flood fears - in London, so relevant!",
+    "ru": "Угроза затопления Темзы — в Лондоне, значит актуально!"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_TITLE",
+    "en": "ALBION FIRST WINS",
+    "ru": "«АЛЬБИОН ПРЕЖДЕ ВСЕГО» ПОБЕЖДАЕТ"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_SUBTITLE_SUCCESS",
+    "en": "Tavener government wields stable majority",
+    "ru": "Правительство Тавенера получает стабильное большинство"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_SUBTITLE_FAIL",
+    "en": "Tavener government wields stable majority",
+    "ru": "Правительство Тавенера получает стабильное большинство"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH1_SUCCESS",
+    "en": "Pub landlords. Britains hidden gems.",
+    "ru": "Хозяева пабов. Скрытые сокровища Британии."
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH1_FAIL",
+    "en": "Pub landlords. A dying breed?",
+    "ru": "Хозяева пабов. Вымирающий вид?"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH2_SUCCESS",
+    "en": "Schoolgirl singer becomes indie viral sensation",
+    "ru": "Школьница-певица стала инди-вирусной сенсацией"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH2_FAIL",
+    "en": "Teacher arrested in Somerset school sting",
+    "ru": "Учитель арестован в школе Сомерсета"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH3_SUCCESS",
+    "en": "Tarquin Futtock-Smythe in overdose horror",
+    "ru": "Тарквин Фатток-Смайт в ужасе передозировки"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH3_FAIL",
+    "en": "Tarquin Futtock-Smythe sent to rehab",
+    "ru": "Тарквин Фатток-Смайт отправлен на реабилитацию"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH4_SUCCESS",
+    "en": "Time to block the channel tunnel?",
+    "ru": "Пора перекрыть тоннель под Ла-Маншем?"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_PARAGRAPH4_FAIL",
+    "en": "Time to block the channel tunnel?",
+    "ru": "Пора перекрыть тоннель под Ла-Маншем?"
+  },
+  {
+    "key": "FLAT_SCENE_HELP_SELECTOR",
+    "en": "HELP",
+    "ru": "ПОМОЩЬ"
+  },
+  {
+    "key": "FontMain_24",
+    "en": "FontMain_24",
+    "ru": "FontMain_24"
+  },
+  {
+    "key": "TOOLTIP_SOCIAL_PORTRAIT",
+    "en": "SOCIAL PORTRAIT",
+    "ru": "ФОТО СОЦ. КАРТЫ"
+  },
+  {
+    "key": "TOOLTIP_SOCIAL_CREDIT",
+    "en": "SOCIAL CREDIT",
+    "ru": "СОЦ. РЕЙТИНГ"
+  },
+  {
+    "key": "TOOLTIP_VISIT",
+    "en": "Visit",
+    "ru": "Посещения"
+  },
+  {
+    "key": "TOOLTIP_INCOME",
+    "en": "INCOME",
+    "ru": "ДОХОД"
+  },
+  {
+    "key": "FLYER_RULES_SOCIAL_CARD",
+    "en": "1. CHECK PHOTO.\n2. SCORE, INCOME, VISITS.",
+    "ru": "1. ПРОВЕРИТЬ ФОТО.\n2. РЕЙТИНГ, ДОХОД, ПОСЕЩЕНИЯ."
+  },
+  {
+    "key": "FLYER_RULES_SOCIAL_CARD_TITLE",
+    "en": "SOCIAL CARD",
+    "ru": "СОЦ. КАРТА"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_GAMEOVER_TITLE",
+    "en": "EXTRADITIONS BEGIN",
+    "ru": "НАЧАЛИСЬ ДЕПОРТАЦИИ"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_GAMEOVER_BILL",
+    "en": "Euro deviant #112 sent to the slammer!",
+    "ru": "Евро-девиант №112 отправлен за решётку!"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_GAMEOVER_SUSPICION",
+    "en": "Euro deviant #112 sent to the slammer!",
+    "ru": "Евро-девиант №112 отправлен за решётку!"
+  },
+  {
+    "key": "CHAPTER1_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Dead Euro found lazing in bed!",
+    "ru": "Мёртвый евро найден бездельничающим в кровати!"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_TITLE",
+    "en": "EXTRADITIONS CONTINUE",
+    "ru": "ДЕПОРТАЦИИ ПРОДОЛЖАЮТСЯ"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_BILL",
+    "en": "Taking back control one Euro at a time",
+    "ru": "Возвращаем контроль по одному евро за раз"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_SUSPICION",
+    "en": "Taking back control one Euro at a time",
+    "ru": "Возвращаем контроль по одному евро за раз"
+  },
+  {
+    "key": "CHAPTER2_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Lazy Euro found dead in bed!",
+    "ru": "Ленивый евро найден мёртвым в кровати!"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_GAMEOVER_TITLE",
+    "en": "EXTRADITIONS A SUCCESS!",
+    "ru": "ДЕПОРТАЦИИ — УСПЕХ!"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_GAMEOVER_BILL",
+    "en": "More Euro Villians arrested!",
+    "ru": "Арестованы ещё евро-злодеи!"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_GAMEOVER_SUSPICION",
+    "en": "More Euro Villians arrested!",
+    "ru": "Арестованы ещё евро-злодеи!"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Dead Euro found; nobody cares.",
+    "ru": "Мёртвый евро найден; всем плевать."
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH1_FAIL",
+    "en": "TV star Harrison Pace emigrates to Italy",
+    "ru": "Телезвезда Харрисон Пейс эмигрирует в Италию"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH2_FAIL",
+    "en": "Schoolgirl arrested in Ireland for blasphemy",
+    "ru": "Школьница арестована в Ирландии за богохульство"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH3_FAIL",
+    "en": "NHS privatisation complete",
+    "ru": "Приватизация NHS завершена"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH4_FAIL",
+    "en": "Food poisioning and why you should be scared!",
+    "ru": "Пищевые отравления и почему вам стоит бояться!"
+  },
+  {
+    "key": "FLYER_RULES_SOCIAL_CARD_PORTRAIT_AND_SCORES",
+    "en": "1. CHECK PHOTO.\n2. CHECK SCORE AND INCOME",
+    "ru": "1. ПРОВЕРИТЬ ФОТО.\n2. ПРОВЕРИТЬ РЕЙТИНГ И ДОХОД"
+  },
+  {
+    "key": "FLYER_RULES_SOCIAL_CARD_PORTRAIT_AND_SCORES_TITLE",
+    "en": "SOCIAL CARD",
+    "ru": "СОЦ. КАРТА"
+  },
+  {
+    "key": "FLYER_RULES_SOCIAL_CARD_PORTRAIT_SOCIAL_SCORE",
+    "en": "1. CHECK PHOTO.\n2. CHECK SCORE.",
+    "ru": "1. ПРОВЕРИТЬ ФОТО.\n2. ПРОВЕРИТЬ РЕЙТИНГ."
+  },
+  {
+    "key": "FLYER_RULES_SOCIAL_CARD_PORTRAIT_SOCIAL_SCORE_TITLE",
+    "en": "SOCIAL CARD",
+    "ru": "СОЦ. КАРТА"
+  },
+  {
+    "key": "VISA_NUMBER_TITLE",
+    "en": "NUMBER",
+    "ru": "НОМЕР"
+  },
+  {
+    "key": "VISA_VALID_TITLE",
+    "en": "VALID",
+    "ru": "ДЕЙСТВУЕТ"
+  },
+  {
+    "key": "VISA_JOB_TITLE",
+    "en": "JOB",
+    "ru": "РАБОТА"
+  },
+  {
+    "key": "VISA_JOB_PLUMBER",
+    "en": "PLUMBER",
+    "ru": "САНТЕХНИК"
+  },
+  {
+    "key": "VISA_VALID_VALUE",
+    "en": "{[Months]} Months[i2p_One]{[Months]} Month",
+    "ru": "{[Months]} мес.[i2p_One]{[Months]} мес."
+  },
+  {
+    "key": "VISA_JOB_DOCTOR",
+    "en": "DOCTOR",
+    "ru": "ВРАЧ"
+  },
+  {
+    "key": "TOOLTIP_JOB",
+    "en": "JOB",
+    "ru": "РАБОТА"
+  },
+  {
+    "key": "TOOLTIP_STAMP",
+    "en": "STAMP",
+    "ru": "ПЕЧАТЬ"
+  },
+  {
+    "key": "JOB_PLUMBER",
+    "en": "Plumber",
+    "ru": "Сантехник"
+  },
+  {
+    "key": "JOB_CLEANER",
+    "en": "Cleaner",
+    "ru": "Уборщик"
+  },
+  {
+    "key": "TOOLTIP_VISA_PORTRAIT",
+    "en": "PORTRAIT",
+    "ru": "ФОТО"
+  },
+  {
+    "key": "FLYER_RULES_VISA",
+    "en": "1. CHECK PHOTO.\n2. CHECK STAMP.\n3. CHECK JOB.",
+    "ru": "1. ПРОВЕРИТЬ ФОТО.\n2. ПРОВЕРИТЬ ПЕЧАТЬ.\n3. ПРОВЕРИТЬ РАБОТУ."
+  },
+  {
+    "key": "FLYER_RULES_VISA_TITLE",
+    "en": "VISA",
+    "ru": "ВИЗА"
+  },
+  {
+    "key": "FLYER_RULES_VISA_REDUCED",
+    "en": "1. CHECK PHOTO.\n2. CHECK STAMP.",
+    "ru": "1. ПРОВЕРИТЬ ФОТО.\n2. ПРОВЕРИТЬ ПЕЧАТЬ."
+  },
+  {
+    "key": "FLYER_RULES_VISA_REDUCED_TITLE",
+    "en": "VISA",
+    "ru": "ВИЗА"
+  },
+  {
+    "key": "APPS_BOUNCR_COMPLETEANDACTIVEBANNER",
+    "en": "ACTIVE AND COMPLETED",
+    "ru": "АКТИВНЫЕ И ЗАВЕРШЁННЫЕ"
+  },
+  {
+    "key": "FLYER_RULES_RESISTANCE_JUMPER",
+    "en": "1. CHECK CLOTHING",
+    "ru": "1. ПРОВЕРИТЬ ОДЕЖДУ"
+  },
+  {
+    "key": "FLYER_RULES_RESISTANCE_JUMPER_TITLE",
+    "en": "CLOTHING",
+    "ru": "ОДЕЖДА"
+  },
+  {
+    "key": "CALENDAR_JUPP_JOB",
+    "en": "Job(Jupp)",
+    "ru": "Работа (Юпп)"
+  },
+  {
+    "key": "CALENDAR_BILL",
+    "en": "Bill due",
+    "ru": "Оплата счёта"
+  },
+  {
+    "key": "APP_RESISTR_TITLE",
+    "en": "RESISTR",
+    "ru": "RESISTR"
+  },
+  {
+    "key": "APP_RESISTR_TAB_TASKS",
+    "en": "TASKS",
+    "ru": "ЗАДАНИЯ"
+  },
+  {
+    "key": "APP_RESISTR_TAB_COMPLETED",
+    "en": "COMPLETE",
+    "ru": "ВЫПОЛНЕНО"
+  },
+  {
+    "key": "APP_RESISTANCE_EUROS_QUEST_TITLE",
+    "en": "1.  ALLOW EUROS",
+    "ru": "1.  ПРОПУСКАТЬ ЕВРО"
+  },
+  {
+    "key": "APP_RESISTANCE_EUROS_QUEST_SUBTITLE",
+    "en": "EUROS LET IN",
+    "ru": "ЕВРО ПРОПУЩЕНО"
+  },
+  {
+    "key": "APP_RESISTANCE_EUROS_QUEST_DESCRIPTION_INCOMPLETE",
+    "en": "Allow Europeans into venues. The discrimination must end. ",
+    "ru": "Пропускай европейцев в заведения. Дискриминация должна прекратиться. "
+  },
+  {
+    "key": "APP_RESISTANCE_EUROS_QUEST_DESCRIPTION_COMPLETE",
+    "en": "Task complete. ",
+    "ru": "Задание выполнено. "
+  },
+  {
+    "key": "APP_RESISTANCE_FAKE_AGENTS_QUEST_TITLE",
+    "en": "2. DENY JUMPERS",
+    "ru": "2. ОТКАЗЫВАТЬ В СВИТЕРАХ"
+  },
+  {
+    "key": "APP_RESISTANCE_FAKE_AGENTS_QUEST_SUBTITLE",
+    "en": "DENIED",
+    "ru": "ОТКАЗАНО"
+  },
+  {
+    "key": "APP_RESISTANCE_FAKE_AGENTS_QUEST_DESCRIPTION_INCOMPLETE",
+    "en": "Deny entry to Resistance jumper wearers. The messaging muddies our cause.",
+    "ru": "Не пропускай тех, кто носит свитер Сопротивления. Их послание вредит нашему делу."
+  },
+  {
+    "key": "APP_RESISTANCE_FAKE_AGENTS_QUEST_DESCRIPTION_COMPLETE",
+    "en": "Task complete. ",
+    "ru": "Задание выполнено. "
+  },
+  {
+    "key": "APP_RESISTANCE_RESISTANCE_PIN_QUEST_TITLE",
+    "en": "3. ALLOW RESIST!",
+    "ru": "3. ПРОПУСКАТЬ СОПРОТИВЛЕНИЕ!"
+  },
+  {
+    "key": "APP_RESISTANCE_RESISTANCE_PIN_QUEST_SUBTITLE",
+    "en": "RESISTANCE IN",
+    "ru": "СОПРОТИВЛЕНИЕ ВНУТРИ"
+  },
+  {
+    "key": "APP_RESISTANCE_RESISTANCE_PIN_QUEST_DESCRIPTION_INCOMPLETE",
+    "en": "Scan and ban can reveal resistance agents (they carry the resistance symbol). Allow entry.",
+    "ru": "Сканер может выявить агентов Сопротивления (у них символ Сопротивления). Пропускай их."
+  },
+  {
+    "key": "APP_RESISTANCE_RESISTANCE_PIN_QUEST_DESCRIPTION_COMPLETE",
+    "en": "Task complete. ",
+    "ru": "Задание выполнено. "
+  },
+  {
+    "key": "APP_RESISTANCE_DETAIL_TASK_SUBTITLE",
+    "en": "TASK DETAILS",
+    "ru": "ПОДРОБНОСТИ ЗАДАНИЯ"
+  },
+  {
+    "key": "WINTERBALL_COUNTDOWN",
+    "en": "{[Days]} days until the New Years Eve ball[i2p_One]{[Days]} day until the New Years Eve ball",
+    "ru": "{[Days]} дн. до Новогоднего бала[i2p_One]{[Days]} день до Новогоднего бала"
+  },
+  {
+    "key": "LETTER_NO_MAIL",
+    "en": "You've got no mail!",
+    "ru": "У вас нет писем!"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_KINGS_HEAD_PT3",
+    "en": "The Kings Head?",
+    "ru": "«Королевская Голова»?"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_KINGS_HEAD_PT4",
+    "en": "The Kings Head?",
+    "ru": "«Королевская Голова»?"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_BEACH_BAR_DAY",
+    "en": "Tiki Head (day)",
+    "ru": "Тики-бар (день)"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_FESTIVAL_INDIE_ROCK",
+    "en": "Indie Fest",
+    "ru": "Инди-фест"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_FESTIVAL_ROCK",
+    "en": "Rock Fest",
+    "ru": "Рок-фест"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_HOTEL_SPRING",
+    "en": "January Ball",
+    "ru": "Январский бал"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_HOTEL_SUMMER",
+    "en": "Summer Ball",
+    "ru": "Летний бал"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_HOTEL_AUTUMN",
+    "en": "Autumn Ball",
+    "ru": "Осенний бал"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_LONDON_WALL_SPRING",
+    "en": "The London Wall",
+    "ru": "Лондонская стена"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_LONDON_WALL_SUMMER",
+    "en": "The London Wall",
+    "ru": "Лондонская стена"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_LONDON_WALL_AUTUMN",
+    "en": "The London Wall",
+    "ru": "Лондонская стена"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_TOWN_HALL_SUMMER",
+    "en": "Town Hall",
+    "ru": "Ратуша"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_TOWN_HALL_AUTUMN",
+    "en": "Town Hall",
+    "ru": "Ратуша"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_DOVER_BORDER_AUTUMN",
+    "en": "Dover border",
+    "ru": "Граница в Дувре"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_DOVER_BORDER_SUMMER",
+    "en": "Dover border",
+    "ru": "Граница в Дувре"
+  },
+  {
+    "key": "JOB_TRAFFICWARDEN",
+    "en": "Warden",
+    "ru": "Контролёр"
+  },
+  {
+    "key": "JOB_SECURITY",
+    "en": "Security",
+    "ru": "Охранник"
+  },
+  {
+    "key": "JOB_CLOWN",
+    "en": "Clown",
+    "ru": "Клоун"
+  },
+  {
+    "key": "JOB_TAXIDRIVER",
+    "en": "Taxi driver",
+    "ru": "Таксист"
+  },
+  {
+    "key": "JOB_DIPLOMAT",
+    "en": "Diplomat",
+    "ru": "Дипломат"
+  },
+  {
+    "key": "JOB_GAMESDEV",
+    "en": "Tourist",
+    "ru": "Турист"
+  },
+  {
+    "key": "JOB_STREAMER",
+    "en": "Builder",
+    "ru": "Строитель"
+  },
+  {
+    "key": "JOB_OFFICEWORKER",
+    "en": "Paperboy",
+    "ru": "Разносчик газет"
+  },
+  {
+    "key": "JOB_TRAINDRIVER",
+    "en": "Train driver",
+    "ru": "Машинист"
+  },
+  {
+    "key": "JOB_SHOPWORKER",
+    "en": "Shopper",
+    "ru": "Покупатель"
+  },
+  {
+    "key": "JOB_RETAIL",
+    "en": "Retail",
+    "ru": "Продавец"
+  },
+  {
+    "key": "JOB_BANKER",
+    "en": "Banker",
+    "ru": "Банкир"
+  },
+  {
+    "key": "JOB_MIMEARTIST",
+    "en": "Mime artist",
+    "ru": "Мим"
+  },
+  {
+    "key": "JOB_FACTORY",
+    "en": "Plasterer",
+    "ru": "Штукатур"
+  },
+  {
+    "key": "JOB_CONSTRUCTION",
+    "en": "Builder",
+    "ru": "Строитель"
+  },
+  {
+    "key": "JOB_SOFTWAREDEV",
+    "en": "Developer",
+    "ru": "Разработчик"
+  },
+  {
+    "key": "JOB_MUSICIAN",
+    "en": "Musician",
+    "ru": "Музыкант"
+  },
+  {
+    "key": "JOB_DOCTOR",
+    "en": "Doctor",
+    "ru": "Врач"
+  },
+  {
+    "key": "JOB_NURSE",
+    "en": "Nurse",
+    "ru": "Медсестра"
+  },
+  {
+    "key": "JOB_ARTIST",
+    "en": "Artist",
+    "ru": "Художник"
+  },
+  {
+    "key": "JOB_FORKLIFT",
+    "en": "Optician",
+    "ru": "Окулист"
+  },
+  {
+    "key": "JOB_FARMER",
+    "en": "Farmer",
+    "ru": "Фермер"
+  },
+  {
+    "key": "JOB_PHYSICIAN",
+    "en": "Physician",
+    "ru": "Терапевт"
+  },
+  {
+    "key": "JOB_SCIENTIST",
+    "en": "Scientist",
+    "ru": "Учёный"
+  },
+  {
+    "key": "JOB_TEACHER",
+    "en": "Teacher",
+    "ru": "Учитель"
+  },
+  {
+    "key": "JOB_MINER",
+    "en": "Miner",
+    "ru": "Шахтёр"
+  },
+  {
+    "key": "JOB_FORCES",
+    "en": "Military",
+    "ru": "Военный"
+  },
+  {
+    "key": "JOB_PAINTER",
+    "en": "Painter",
+    "ru": "Маляр"
+  },
+  {
+    "key": "JOB_DANCER",
+    "en": "Dancer",
+    "ru": "Танцор"
+  },
+  {
+    "key": "JOB_JOURNO",
+    "en": "Journalist",
+    "ru": "Журналист"
+  },
+  {
+    "key": "JOB_WRITER",
+    "en": "Writer",
+    "ru": "Писатель"
+  },
+  {
+    "key": "JOB_REPORTER",
+    "en": "Reporter",
+    "ru": "Репортёр"
+  },
+  {
+    "key": "JOB_TRAPEZEARTIST",
+    "en": "Trapeze artist",
+    "ru": "Трапециевист"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_BANANAS",
+    "en": "1. BENDY BANANAS",
+    "ru": "1. КРИВЫЕ БАНАНЫ"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_WEAPONS",
+    "en": "1. KNIFE\n2. SHANK",
+    "ru": "1. НОЖ\n2. ЗАТОЧКА"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_DRUGS",
+    "en": "1. SYRINGE",
+    "ru": "1. ШПРИЦ"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_PIN",
+    "en": "1. RESIST BADGE",
+    "ru": "1. ЗНАЧОК СОПРОТИВЛЕНИЯ"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_BANANAS_TITLE",
+    "en": "Contraband",
+    "ru": "Контрабанда"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_DRUGS_TITLE",
+    "en": "Contraband",
+    "ru": "Контрабанда"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_PIN_TITLE",
+    "en": "Contraband",
+    "ru": "Контрабанда"
+  },
+  {
+    "key": "FLYER_RULES_CONTRABAND_WEAPONS_TITLE",
+    "en": "Contraband",
+    "ru": "Контрабанда"
+  },
+  {
+    "key": "OPTIONS_DATE_FORMAT",
+    "en": "Date Format",
+    "ru": "Формат даты"
+  },
+  {
+    "key": "AVATAR_SELECT_VOICE_SELECT",
+    "en": "Voice Select",
+    "ru": "Выбор голоса"
+  },
+  {
+    "key": "APP_MEDR_HEALTH_CHANGE",
+    "en": "{[HealthChange]} per day",
+    "ru": "{[HealthChange]} в день"
+  },
+  {
+    "key": "APP_MEDR_HEATUPGRADE_0",
+    "en": "No heating.",
+    "ru": "Нет отопления."
+  },
+  {
+    "key": "APP_MEDR_HEATUPGRADE_1",
+    "en": "HEATING v1",
+    "ru": "ОТОПЛЕНИЕ v1"
+  },
+  {
+    "key": "APP_MEDR_HEATUPGRADE_2",
+    "en": "HEATING v2",
+    "ru": "ОТОПЛЕНИЕ v2"
+  },
+  {
+    "key": "APP_MEDR_HEATUPGRADE_3",
+    "en": "HEATING v3",
+    "ru": "ОТОПЛЕНИЕ v3"
+  },
+  {
+    "key": "APP_MEDR_TIREDNESSUPGRADE_0",
+    "en": "Uncomfy bed.",
+    "ru": "Неудобная кровать."
+  },
+  {
+    "key": "APP_MEDR_TIREDNESSUPGRADE_1",
+    "en": "BED v1",
+    "ru": "КРОВАТЬ v1"
+  },
+  {
+    "key": "APP_MEDR_TIREDNESSUPGRADE_2",
+    "en": "BED v2",
+    "ru": "КРОВАТЬ v2"
+  },
+  {
+    "key": "APP_MEDR_TIREDNESSUPGRADE_3",
+    "en": "BED v3",
+    "ru": "КРОВАТЬ v3"
+  },
+  {
+    "key": "APP_MEDR_HUNGERUPGRADE_0",
+    "en": "No fridge.",
+    "ru": "Нет холодильника."
+  },
+  {
+    "key": "APP_MEDR_HUNGERUPGRADE_1",
+    "en": "FRIDGE v1",
+    "ru": "ХОЛОДИЛЬНИК v1"
+  },
+  {
+    "key": "APP_MEDR_HUNGERUPGRADE_2",
+    "en": "FRIDGE v2",
+    "ru": "ХОЛОДИЛЬНИК v2"
+  },
+  {
+    "key": "APP_MEDR_HUNGERUPGRADE_3",
+    "en": "FRIDGE v3",
+    "ru": "ХОЛОДИЛЬНИК v3"
+  },
+  {
+    "key": "APP_MEDR_ENVIRONMENT_HEAT_1",
+    "en": "Its a mild summer.",
+    "ru": "Мягкое лето."
+  },
+  {
+    "key": "APP_MEDR_ENVIRONMENT_HUNGER_1",
+    "en": "Hungry.",
+    "ru": "Голодно."
+  },
+  {
+    "key": "APP_MEDR_ENVIRONMENT_TIREDNESS_1",
+    "en": "5 months working.",
+    "ru": "5 месяцев работы."
+  },
+  {
+    "key": "APP_MEDR_ENVIRONMENT_HEAT_2",
+    "en": "Its a bitter winter.",
+    "ru": "Суровая зима."
+  },
+  {
+    "key": "APP_MEDR_ENVIRONMENT_HUNGER_2",
+    "en": "Very hungry.",
+    "ru": "Очень голодно."
+  },
+  {
+    "key": "APP_MEDR_ENVIRONMENT_TIREDNESS_2",
+    "en": "9 months working.",
+    "ru": "9 месяцев работы."
+  },
+  {
+    "key": "MAIN_MENU_LOAD_SLOT",
+    "en": "SLOT ",
+    "ru": "СЛОТ "
+  },
+  {
+    "key": "MAIN_MENU_LOAD_CHAPTER",
+    "en": "CHAPTER",
+    "ru": "ГЛАВА"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH1_SUCCESS",
+    "en": "TV star Harrison Pace sets up dog shelter",
+    "ru": "Телезвезда Харрисон Пейс открывает приют для собак"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH2_SUCCESS",
+    "en": "Schoolgirl sets up school of rock.",
+    "ru": "Школьница открывает школу рока."
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH3_SUCCESS",
+    "en": "NHS privatisation complete.",
+    "ru": "Приватизация NHS завершена."
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_PARAGRAPH4_SUCCESS",
+    "en": "British publican turned French bar owner earns Michelin star",
+    "ru": "Британский трактирщик, ставший владельцем французского бара, получает звезду Мишлен"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_ID",
+    "en": "ID",
+    "ru": "ДОКУМЕНТ"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_TICKET",
+    "en": "TICKET",
+    "ru": "БИЛЕТ"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_GUESTLIST",
+    "en": "GUESTLIST",
+    "ru": "СПИСОК ГОСТЕЙ"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_SOCIALCARD",
+    "en": "SOCIAL CARD",
+    "ru": "СОЦ. КАРТА"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_VISA",
+    "en": "VISA",
+    "ru": "ВИЗА"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_CONCEALEDITEM",
+    "en": "CONTRABAND",
+    "ru": "КОНТРАБАНДА"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_NATIONALITY",
+    "en": "NATIONALITY",
+    "ru": "ГРАЖДАНСТВО"
+  },
+  {
+    "key": "APP_BOUNCR_TAG_CLOTHING",
+    "en": "CLOTHING",
+    "ru": "ОДЕЖДА"
+  },
+  {
+    "key": "APP_BOUNCR_WARN",
+    "en": "Warn",
+    "ru": "Предупредить"
+  },
+  {
+    "key": "END_GAME_MYLARNA_COMPLETE",
+    "en": "#112 was most generous! Despite needing money, they made sure I got my Viklav's charity funds.",
+    "ru": "№112 был очень щедр! Несмотря на нужду в деньгах, он позаботился о благотворительном фонде моего Виклава."
+  },
+  {
+    "key": "END_GAME_MYLARNA_FAILED",
+    "en": "In my time of need, #112 provided nothing for my Viklav's fund. After I helped pay big medical bills!",
+    "ru": "В трудную минуту №112 ничего не дал на фонд моего Виклава. После того как я помогла оплатить его лечение!"
+  },
+  {
+    "key": "END_GAME_VIKLAV_COMPLETE",
+    "en": "My best neighbour friend! Recovered my disco dancing medal!",
+    "ru": "Мой лучший сосед-друг! Вернул мою медаль за диско-танцы!"
+  },
+  {
+    "key": "END_GAME_VIKLAV_FAILED",
+    "en": "Such a mean-spirited... How often must that one have stared at my disco medal and done nothing!",
+    "ru": "Какой мерзкий... Сколько раз он пялился на мою диско-медаль и ничего не делал!"
+  },
+  {
+    "key": "END_GAME_SHANNON_COMPLETE",
+    "en": "Hey, #112 was cool! Always gave me stuff to go away!",
+    "ru": "Эй, №112 был классный! Всегда давал мне что-нибудь, чтоб я свалила!"
+  },
+  {
+    "key": "END_GAME_SHANNON_FAILED",
+    "en": "Hey, #112 was cool! Never stopped me partying, even though I wasn't meant to be there! Wait. Forget that.",
+    "ru": "Эй, №112 был классный! Никогда не мешал мне тусить, хотя меня там не должно было быть! Стоп. Забудьте."
+  },
+  {
+    "key": "END_GAME_LUCILLE_COMPLETE",
+    "en": "My saviour! #112 freed me from the clutches of a blackmailer! ",
+    "ru": "Мой спаситель! №112 освободил меня от когтей шантажиста! "
+  },
+  {
+    "key": "END_GAME_LUCILLE_FAILED",
+    "en": "Damn that #112. Knew I was being blackmailed by Doug and did nothing!",
+    "ru": "Чёрт бы побрал этого №112. Знал, что Даг меня шантажирует, и ничего не сделал!"
+  },
+  {
+    "key": "END_GAME_TARQUIN_COMPLETE",
+    "en": "My lawyer says I should thank #112 for helping me break my addiction. I won't.",
+    "ru": "Мой адвокат говорит, что я должен поблагодарить №112 за помощь в преодолении зависимости. Не буду."
+  },
+  {
+    "key": "END_GAME_TARQUIN_FAILED",
+    "en": "My lawyer says that #112 is responsible for my three car crashes, due to selling me those drugs. That I now regret.",
+    "ru": "Мой адвокат говорит, что №112 виноват в моих трёх авариях — из-за тех наркотиков, что он мне продал. О которых я теперь жалею."
+  },
+  {
+    "key": "END_GAME_GALAHAD_COMPLETE",
+    "en": "Agent Titmouse is the pride of the Resistance! Nothing too small! Nothing too big!",
+    "ru": "Агент Синица — гордость Сопротивления! Ничего не слишком мало! Ничего не слишком велико!"
+  },
+  {
+    "key": "END_GAME_GALAHAD_FAILED",
+    "en": "Agent Titmouse let me down. So many chances to help people, but... no.",
+    "ru": "Агент Синица меня подвёл. Столько шансов помочь людям, но... нет."
+  },
+  {
+    "key": "END_GAME_HARRISON_COMPLETE",
+    "en": "I, Harrison Pace, I know how to act. The kindness of #112 is no act.",
+    "ru": "Я, Харрисон Пейс, знаю, что такое актёрская игра. Доброта №112 — не игра."
+  },
+  {
+    "key": "END_GAME_HARRISON_FAILED",
+    "en": "I, Harrison Pace, I know how to act. The meanness of #112 is no act.",
+    "ru": "Я, Харрисон Пейс, знаю, что такое актёрская игра. Подлость №112 — не игра."
+  },
+  {
+    "key": "END_GAME_MONEY_COMPLETE",
+    "en": "#112 worked hard. They contributed well above expectations and paid all relevant taxes.",
+    "ru": "№112 усердно работал. Он внёс вклад значительно выше ожиданий и заплатил все налоги."
+  },
+  {
+    "key": "END_GAME_MONEY_FAILED",
+    "en": "#112 barely worked. They contributed next to nothing to the state!",
+    "ru": "№112 почти не работал. Он практически ничего не внёс в государственную казну!"
+  },
+  {
+    "key": "END_GAME_BRIBE_COMPLETE",
+    "en": "Much of their lifestyle was funded by illegal means, bribes, and drugs. Most unacceptable!",
+    "ru": "Значительная часть его образа жизни финансировалась незаконными средствами: взятками и наркотиками. Абсолютно неприемлемо!"
+  },
+  {
+    "key": "END_GAME_BRIBE_FAILED",
+    "en": "Financial records show that at least most of their money was earned honestly.",
+    "ru": "Финансовые документы показывают, что по крайней мере большая часть денег заработана честно."
+  },
+  {
+    "key": "END_GAME_LONDON_WALL_COMPLETE",
+    "en": "They also took great pleasure in denying Europeans access to central London.",
+    "ru": "Он также с удовольствием отказывал европейцам в доступе в центр Лондона."
+  },
+  {
+    "key": "END_GAME_LONDON_WALL_FAILED",
+    "en": "They refused all but essential London Wall jobs.",
+    "ru": "Он отказывался от всех работ на Лондонской стене, кроме необходимых."
+  },
+  {
+    "key": "END_GAME_COMBAT_OUTFIT_COMPLETE",
+    "en": "And consistenly dressed as military police. Did they think themselves above the law?",
+    "ru": "И постоянно одевался как военная полиция. Он считал себя выше закона?"
+  },
+  {
+    "key": "END_GAME_COMBAT_OUTFIT_FAILED",
+    "en": "They wore appropriate clothing to jobs.",
+    "ru": "Он носил подобающую одежду на работе."
+  },
+  {
+    "key": "END_GAME_SOCIAL_SCORE_CHAPTER_1_COMPLETE",
+    "en": "They kept their social credit high throughout January.",
+    "ru": "Он поддерживал высокий социальный рейтинг весь январь."
+  },
+  {
+    "key": "END_GAME_SOCIAL_SCORE_CHAPTER_1_FAILED",
+    "en": "They ignored their social credit score in January. A flagrant rule-breaker!",
+    "ru": "Он игнорировал свой социальный рейтинг в январе. Явный нарушитель правил!"
+  },
+  {
+    "key": "END_GAME_SOCIAL_SCORE_CHAPTER_2_COMPLETE",
+    "en": "They kept social credit high throughout July.",
+    "ru": "Он поддерживал высокий социальный рейтинг весь июль."
+  },
+  {
+    "key": "END_GAME_SOCIAL_SCORE_CHAPTER_2_FAILED",
+    "en": "Do not ask how their social credit developed over July.",
+    "ru": "Не спрашивайте, что стало с его социальным рейтингом в июле."
+  },
+  {
+    "key": "END_GAME_SOCIAL_SCORE_CHAPTER_3_COMPLETE",
+    "en": "They kept their social credit high throughout October.",
+    "ru": "Он поддерживал высокий социальный рейтинг весь октябрь."
+  },
+  {
+    "key": "END_GAME_SOCIAL_SCORE_CHAPTER_3_FAILED",
+    "en": "In October, they wasted no opportunity to flaunt the rules.",
+    "ru": "В октябре он не упускал ни единого шанса нарушить правила."
+  },
+  {
+    "key": "END_GAME_RHINO_HEAD_COMPLETE",
+    "en": "They purchased an illegal rhino head and displayed it with glee!",
+    "ru": "Он купил нелегальную голову носорога и с удовольствием повесил её на стену!"
+  },
+  {
+    "key": "END_GAME_RHINO_HEAD_FAIL",
+    "en": "They ignored the temptation of buying a completely illegal rhino head.",
+    "ru": "Он устоял перед соблазном купить совершенно нелегальную голову носорога."
+  },
+  {
+    "key": "END_GAME_BEAR_COMPLETE",
+    "en": "They also purchased an teddy bear made of real bear hair. Both illegal, and very poor taste!",
+    "ru": "Он также купил плюшевого мишку из настоящей медвежьей шерсти. И нелегально, и безвкусно!"
+  },
+  {
+    "key": "END_GAME_BEAR_FAILED",
+    "en": "They ignored the temptation of buying an illegal teddy bear",
+    "ru": "Он устоял перед соблазном купить нелегального плюшевого мишку"
+  },
+  {
+    "key": "END_GAME_DAVE_COMPLETE",
+    "en": "This is ridiculous. #112 found my ring for me. He's a top bloke!",
+    "ru": "Это нелепо. №112 нашёл моё кольцо. Он отличный парень!"
+  },
+  {
+    "key": "END_GAME_DAVE_FAILED",
+    "en": "This is ridiculous. #112 even forced me to queue for my own pub!",
+    "ru": "Это нелепо. №112 даже заставил меня стоять в очереди в мой собственный паб!"
+  },
+  {
+    "key": "END_GAME_INTRO_TEXT_1",
+    "en": "This Euro stands accused of being an accessory to the Albion First bombing.",
+    "ru": "Этот евро обвиняется в соучастии во взрыве на мероприятии «Альбион прежде всего»."
+  },
+  {
+    "key": "END_GAME_INTRO_TEXT_2",
+    "en": "With no firm evidence, and hearing the defendant's plea of conspiracy, we must consider their character.",
+    "ru": "При отсутствии твёрдых доказательств и выслушав заявление подсудимого о заговоре, мы должны оценить его характер."
+  },
+  {
+    "key": "END_GAME_INTRO_TEXT_3",
+    "en": "Please call the witnesses to the stand.",
+    "ru": "Вызовите свидетелей."
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_1",
+    "en": "I’m British! I’m as British as any of you bastards!",
+    "ru": "Я британец! Я такой же британец, как и вы все, ублюдки!"
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_2",
+    "en": "In light of the Euro's character, the allegations against the government... will be investigated.",
+    "ru": "Учитывая характер этого евро, обвинения против правительства... будут расследованы."
+  },
+  {
+    "key": "END_GAME_OUTRO_BOUNCER_ENDING_1",
+    "en": "I’m British! I’m as British as any of you bastards!",
+    "ru": "Я британец! Я такой же британец, как и вы все, ублюдки!"
+  },
+  {
+    "key": "END_GAME_OUTRO_BOUNCER_ENDING_2",
+    "en": "Typical bloody Euro. Lock it up. Throw away the key.",
+    "ru": "Типичный проклятый евро. Запереть. Ключ выбросить."
+  },
+  {
+    "key": "END_GAME_OUTRO_GOOD_1",
+    "en": "I’m British! I’m as British as any of you bastards!",
+    "ru": "Я британец! Я такой же британец, как и вы все, ублюдки!"
+  },
+  {
+    "key": "END_GAME_OUTRO_GOOD_2",
+    "en": "In light of the Euro's character, the allegations against the government... will be investigated.",
+    "ru": "Учитывая характер этого евро, обвинения против правительства... будут расследованы."
+  },
+  {
+    "key": "END_GAME_VERDICT_JUPP_1",
+    "en": "Thank you. We have the evidence, and the phonelines for the People's Vote are now closed.",
+    "ru": "Благодарю. Доказательства собраны, и линии для Народного Голосования закрыты."
+  },
+  {
+    "key": "END_GAME_VERDICT_BOUNCER_1",
+    "en": "Thank you. We have the evidence, and the phonelines for the People's Vote are now closed.",
+    "ru": "Благодарю. Доказательства собраны, и линии для Народного Голосования закрыты."
+  },
+  {
+    "key": "END_GAME_VERDICT_BOUNCER_2",
+    "en": "We find the defendant's word as empty as their claims of citizenship. Bailiff. Arrest this Euro.",
+    "ru": "Мы находим слова подсудимого столь же пустыми, как и его претензии на гражданство. Пристав. Арестуйте этого евро."
+  },
+  {
+    "key": "END_GAME_VERDICT_GOOD_1",
+    "en": "Thank you. We have the evidence, and the phonelines for the People's Vote are now closed.",
+    "ru": "Благодарю. Доказательства собраны, и линии для Народного Голосования закрыты."
+  },
+  {
+    "key": "END_GAME_VERDICT_GOOD_2",
+    "en": "As a certified good Euro, we will investigate your accusations of Albion First. Happy? Court dismissed!",
+    "ru": "Как сертифицированный хороший евро, мы расследуем ваши обвинения в адрес «Альбион прежде всего». Довольны? Суд окончен!"
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_TITLE_SUCCESS",
+    "en": "ALBION FIRST DEPOSED",
+    "ru": "«АЛЬБИОН ПРЕЖДЕ ВСЕГО» СВЕРГНУТ"
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_TITLE_FAIL",
+    "en": "ALBION FIRST TRIUMPHANT",
+    "ru": "ТРИУМФ «АЛЬБИОН ПРЕЖДЕ ВСЕГО»"
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_SUBTITLE_SUCCESS",
+    "en": "Tavener facing allegations of conspiracy.",
+    "ru": "Тавенер обвиняется в заговоре."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_SUBTITLE_FAIL",
+    "en": "Britain stands alone. European extraditions completed.",
+    "ru": "Британия стоит одна. Депортация европейцев завершена."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH1_SUCCESS",
+    "en": "Assistant Minister Jupp made Siberian ambassador.",
+    "ru": "Замминистра Юпп назначен послом в Сибири."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH1_FAIL",
+    "en": "Bomber Bouncer to be executed",
+    "ru": "Вышибала-бомбист будет казнён"
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH2_SUCCESS",
+    "en": "Harrison Pace gets new daytime talk show",
+    "ru": "Харрисон Пейс получает новое дневное ток-шоу"
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH2_FAIL",
+    "en": "Food banks emptied. Millions of Northeners starving.",
+    "ru": "Продуктовые банки опустели. Миллионы северян голодают."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH3_SUCCESS",
+    "en": "Minister for Agriculture revealed as Scorpion. \"So proud of my daughter.\"",
+    "ru": "Министр сельского хозяйства оказался Скорпионом. \"Так горжусь своей дочерью.\""
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH3_FAIL",
+    "en": "Fortified London closes gates on terrorism-struck nation.",
+    "ru": "Укреплённый Лондон закрывает ворота от терроризма."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH4_SUCCESS",
+    "en": "Citizen Relocation Blocks to be closed.",
+    "ru": "Блоки переселения граждан будут закрыты."
+  },
+  {
+    "key": "END_GAME_NEWSPAPER_PARAGRAPH4_FAIL",
+    "en": "New sci-fi comedy shit compared to Red Dwarf.",
+    "ru": "Новая фантастическая комедия — отстой по сравнению с «Красным карликом»."
+  },
+  {
+    "key": "END_GAME_EVIL_ITEM_COMPLETE",
+    "en": "They purchased an illegal Rhino head and displayed it with glee!",
+    "ru": "Он купил нелегальную голову носорога и с удовольствием повесил её на стену!"
+  },
+  {
+    "key": "END_GAME_EVIL_ITEM_FAIL",
+    "en": "They ignored the temptation of buying an illegal rhino head.",
+    "ru": "Он устоял перед соблазном купить нелегальную голову носорога."
+  },
+  {
+    "key": "READ_MESSAGES_PROMPT",
+    "en": "I need to read my messages!",
+    "ru": "Мне нужно прочитать сообщения!"
+  },
+  {
+    "key": "APP_MEDR_OVERWORK",
+    "en": "Overworked {[Count]} Days",
+    "ru": "Переработка {[Count]} дн."
+  },
+  {
+    "key": "TUTORIAL_SELECT_ISSUE",
+    "en": "SELECT ISSUE",
+    "ru": "ВЫБЕРИТЕ ПРОБЛЕМУ"
+  },
+  {
+    "key": "SOCIAL_SCORE_BRIBE",
+    "en": "Bribes: x{[Count]}",
+    "ru": "Взятки: x{[Count]}"
+  },
+  {
+    "key": "SOCIAL_SCORE_DRUGS_ACCEPT",
+    "en": "Drugs sold: x{[Count]}",
+    "ru": "Наркотиков продано: x{[Count]}"
+  },
+  {
+    "key": "SOCIAL_SCORE_DRUGS_REJECT",
+    "en": "Drugs refused: x{[Count]}",
+    "ru": "Наркотиков отказано: x{[Count]}"
+  },
+  {
+    "key": "SOCIAL_SCORE_UNDERCOVER_DRUGS",
+    "en": "Busted!: x{[Count]}",
+    "ru": "Пойман!: x{[Count]}"
+  },
+  {
+    "key": "SOCIAL_SCORE_NOT_WORKING",
+    "en": "Skipped work",
+    "ru": "Прогул"
+  },
+  {
+    "key": "SOCIAL_SCORE_FAIL_JOB",
+    "en": "Failed job",
+    "ru": "Проваленная работа"
+  },
+  {
+    "key": "SOCIAL_SCORE_BILL_OVERDUE",
+    "en": "Bills overdue: x{[Count]}",
+    "ru": "Просроченные счета: x{[Count]}"
+  },
+  {
+    "key": "SOCIAL_SCORE_CLEAN_JOB",
+    "en": "Successful job",
+    "ru": "Успешная работа"
+  },
+  {
+    "key": "SOCIAL_SCORE_DEBUG",
+    "en": "Debug",
+    "ru": "Debug"
+  },
+  {
+    "key": "FLYER_RULES_BANNED_JOBS",
+    "en": "1. Banned jobs",
+    "ru": "1. Запрещённые профессии"
+  },
+  {
+    "key": "FLYER_RULES_BANNED_JOBS_TITLE",
+    "en": "Banned Jobs",
+    "ru": "Запрещённые профессии"
+  },
+  {
+    "key": "FLYER_RULES_BANNED_NO_ENTRY",
+    "en": "No Entry",
+    "ru": "Вход запрещён"
+  },
+  {
+    "key": "SOCIAL_SCORE_AWARD_1",
+    "en": "AWARD 1",
+    "ru": "НАГРАДА 1"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_TITLE",
+    "en": "ALBION FIRST NYE PARTY MOVED",
+    "ru": "НОВОГОДНЯЯ ВЕЧЕРИНКА «АЛЬБИОН ПРЕЖДЕ ВСЕГО» ПЕРЕНЕСЕНА"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_SUBTITLE_SUCCESS",
+    "en": "Great gather to celebrate Britain Alone",
+    "ru": "Грандиозный сбор в честь «Британии в одиночестве»"
+  },
+  {
+    "key": "CHAPTER3_NEWSPAPER_SUBTITLE_FAIL",
+    "en": "Great gather to celebrate Britain Alone",
+    "ru": "Грандиозный сбор в честь «Британии в одиночестве»"
+  },
+  {
+    "key": "CHAPTER1_INTROTEXT",
+    "en": "5 MONTHS LATER - SUMMER\n\nEuropeans Citizens Relocation Block C, Yeovil, Somerset\n\nJuly 1st, 2018",
+    "ru": "5 МЕСЯЦЕВ СПУСТЯ — ЛЕТО\n\nБлок переселения европейских граждан C, Йовил, Сомерсет\n\n1 июля 2018"
+  },
+  {
+    "key": "CHAPTER2_INTROTEXT",
+    "en": "2 MONTHS LATER - AUTUMN\n\nEuropeans Citizens Relocation Block C, Yeovil, Somerset\n\nOctober 1st, 2018",
+    "ru": "2 МЕСЯЦА СПУСТЯ — ОСЕНЬ\n\nБлок переселения европейских граждан C, Йовил, Сомерсет\n\n1 октября 2018"
+  },
+  {
+    "key": "CHAPTER3_INTROTEXT",
+    "en": "2 MONTHS LATER - WINTER\n\nEuropeans Citizens Relocation Block C, Yeovil, Somerset\n\nDecember 29th, 2018",
+    "ru": "2 МЕСЯЦА СПУСТЯ — ЗИМА\n\nБлок переселения европейских граждан C, Йовил, Сомерсет\n\n29 декабря 2018"
+  },
+  {
+    "key": "CHAPTER4_INTROTEXT",
+    "en": "1 DAY LATER - NEW YEARS DAY\n\nRoyal Courts of Justice, London\n\nJanuary 1st, 2019. ",
+    "ru": "1 ДЕНЬ СПУСТЯ — НОВЫЙ ГОД\n\nКоролевский суд, Лондон\n\n1 января 2019. "
+  },
+  {
+    "key": "APP_BOUNCR_UPGRADES_TAB",
+    "en": "UPGRADE",
+    "ru": "УЛУЧШЕНИЯ"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_SUBTITLE_SUCCESS",
+    "en": "Who is responsible for bombing?",
+    "ru": "Кто виноват во взрыве?"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_SUBTITLE_FAIL",
+    "en": "Bad Bouncer Blamed For Bomber",
+    "ru": "Плохой вышибала обвинён во взрыве"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_GAMEOVER_DEATH",
+    "en": "Bad Bouncer Blamed For Bomber",
+    "ru": "Плохой вышибала обвинён во взрыве"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_GAMEOVER_BILL",
+    "en": "Bad Bouncer Blamed For Bomber",
+    "ru": "Плохой вышибала обвинён во взрыве"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_GAMEOVER_SUSPICION",
+    "en": "Bad Bouncer Blamed For Bomber",
+    "ru": "Плохой вышибала обвинён во взрыве"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_GAMEOVER_TITLE",
+    "en": "EXPLOSION AT ALBION FIRST BALL!",
+    "ru": "ВЗРЫВ НА БАЛУ «АЛЬБИОН ПРЕЖДЕ ВСЕГО»!"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH1_FAIL",
+    "en": "Bouncer identified as accomplice",
+    "ru": "Вышибала опознан как сообщник"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH2_FAIL",
+    "en": "European Resistance takes credit for bomb",
+    "ru": "Европейское Сопротивление берёт ответственность за взрыв"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH3_FAIL",
+    "en": "Further security measures required",
+    "ru": "Требуются дополнительные меры безопасности"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH4_FAIL",
+    "en": "England cuts all ties with Europe",
+    "ru": "Англия разрывает все связи с Европой"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_TITLE",
+    "en": "EXPLOSION AT ALBION FIRST BALL!",
+    "ru": "ВЗРЫВ НА БАЛУ «АЛЬБИОН ПРЕЖДЕ ВСЕГО»!"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH1_SUCCESS",
+    "en": "Minor casualties due to senior figures' late arrival.",
+    "ru": "Жертв немного благодаря позднему прибытию руководства."
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH2_SUCCESS",
+    "en": "Bomber Bouncer trial begins tomorrow!",
+    "ru": "Суд над вышибалой-бомбистом начинается завтра!"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH3_SUCCESS",
+    "en": "Final strike by Euro terrorists?",
+    "ru": "Последний удар евро-террористов?"
+  },
+  {
+    "key": "CHAPTER4_NEWSPAPER_PARAGRAPH4_SUCCESS",
+    "en": "Was 'Resistance' responsible?",
+    "ru": "Виновато ли «Сопротивление»?"
+  },
+  {
+    "key": "APP_LWEB_EQUIP",
+    "en": "Equip",
+    "ru": "Надеть"
+  },
+  {
+    "key": "FLYER_RULES_RESISTANCE_HAT",
+    "en": "1. CHECK CLOTHING",
+    "ru": "1. ПРОВЕРИТЬ ОДЕЖДУ"
+  },
+  {
+    "key": "FLYER_RULES_RESISTANCE_HAT_TITLE",
+    "en": "CLOTHING",
+    "ru": "ОДЕЖДА"
+  },
+  {
+    "key": "JANUARY",
+    "en": "January",
+    "ru": "Январь"
+  },
+  {
+    "key": "JULY",
+    "en": "July",
+    "ru": "Июль"
+  },
+  {
+    "key": "OCTOBER",
+    "en": "October",
+    "ru": "Октябрь"
+  },
+  {
+    "key": "DECEMBER",
+    "en": "December",
+    "ru": "Декабрь"
+  },
+  {
+    "key": "FLAT_SCENE_CHAPTER_END_SELECTOR",
+    "en": "END CHAPTER",
+    "ru": "КОНЕЦ ГЛАВЫ"
+  },
+  {
+    "key": "APP_TXTIT_CODR_TAB",
+    "en": "CODR",
+    "ru": "CODR"
+  },
+  {
+    "key": "APP_TXTIT_CODR_ITEM_UNLOCKED",
+    "en": "Item Unlocked",
+    "ru": "Предмет разблокирован"
+  },
+  {
+    "key": "OPTIONS_TITLE",
+    "en": "OPTIONS",
+    "ru": "НАСТРОЙКИ"
+  },
+  {
+    "key": "OPTIONS_RESOLUTION_TITLE",
+    "en": "RESOLUTION",
+    "ru": "РАЗРЕШЕНИЕ"
+  },
+  {
+    "key": "OPTIONS_FULLSCREEN",
+    "en": "FULLSCREEN",
+    "ru": "ПОЛНЫЙ ЭКРАН"
+  },
+  {
+    "key": "OPTIONS_VISUAL_QUALITY",
+    "en": "VISUAL QUALITY",
+    "ru": "КАЧЕСТВО ГРАФИКИ"
+  },
+  {
+    "key": "OPTIONS_MUSIC",
+    "en": "MUSIC",
+    "ru": "МУЗЫКА"
+  },
+  {
+    "key": "OPTIONS_SFX",
+    "en": "SFX",
+    "ru": "ЗВУКИ"
+  },
+  {
+    "key": "OPTIONS_VISUAL_QUALITY_FASTEST",
+    "en": "FASTEST",
+    "ru": "МИНИМУМ"
+  },
+  {
+    "key": "OPTIONS_VISUAL_QUALITY_SIMPLE",
+    "en": "SIMPLE",
+    "ru": "ПРОСТО"
+  },
+  {
+    "key": "OPTIONS_VISUAL_QUALITY_GOOD",
+    "en": "GOOD",
+    "ru": "ХОРОШО"
+  },
+  {
+    "key": "OPTIONS_VISUAL_QUALITY_BEAUTIFUL",
+    "en": "BEAUTIFUL",
+    "ru": "КРАСИВО"
+  },
+  {
+    "key": "OPTIONS_VISUAL_QUALITY_FANTASTIC",
+    "en": "FANTASTIC",
+    "ru": "ВЕЛИКОЛЕПНО"
+  },
+  {
+    "key": "ITEM_VISA_SIGNED",
+    "en": "SIGNED:",
+    "ru": "ПОДПИСЬ:"
+  },
+  {
+    "key": "DIALOG_BOUNCER_INTRO_LAUNCH_PARTY",
+    "en": "Name and job?",
+    "ru": "Имя и профессия?"
+  },
+  {
+    "key": "OPTIONS_APPLY_CHANGES",
+    "en": "APPLY",
+    "ru": "ПРИМЕНИТЬ"
+  },
+  {
+    "key": "MAIN_MENU_CREDITS",
+    "en": "CREDITS",
+    "ru": "АВТОРЫ"
+  },
+  {
+    "key": "LAUNCH_PARTY_INTRO",
+    "en": "And so a dark chapter comes to an end.\n\nAs the architects of Albion First rot in prison, European exiles return to their home and the London Wall falls, all agree Never To Speak Of This Again.\n\nBut what of the bouncer formerly known as #112? One final job awaits - the Not Tonight victory party, with a guest-list of developer reprobates to congratulate you for your hard work.\n\nLet the developers in?\n\nWe're almost positive you will not abuse this power.",
+    "ru": "И вот тёмная глава подходит к концу.\n\nПока архитекторы «Альбион прежде всего» гниют в тюрьме, европейские изгнанники возвращаются домой, а Лондонская стена рушится, все соглашаются Никогда Об Этом Не Говорить.\n\nНо что же стало с вышибалой, известным как №112? Осталась последняя работа — вечеринка победы Not Tonight, со списком гостей из разработчиков-негодяев, чтобы поздравить вас за усердную работу.\n\nПропустить разработчиков?\n\nМы почти уверены, что вы не злоупотребите этой властью."
+  },
+  {
+    "key": "END_GAME_VERDICT_JUPP_2",
+    "en": "Yes, yes, don't milk it. As a certified Good Egg, we will consider investigating your accusations of Albion First. Happy? Court dismissed!",
+    "ru": "Да, да, не тяните. Как сертифицированный Хороший Парень, мы рассмотрим расследование ваших обвинений в адрес «Альбион прежде всего». Довольны? Суд окончен!"
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_3",
+    "en": "A moment. Officer… Jupp, did you say? Of Jupp Security?",
+    "ru": "Минуточку. Офицер… Юпп, вы сказали? Из охранной фирмы Юппа?"
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_4",
+    "en": "Yes, sir. Proud to serve, sir!",
+    "ru": "Так точно, сэр. Горжусь службой, сэр!"
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_5",
+    "en": "I see. Yet our Mr Galahad claims to have visited your office. From an address on a pen, apparently.",
+    "ru": "Понимаю. Однако наш мистер Галахад утверждает, что побывал в вашем офисе. По адресу с ручки, как выяснилось."
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_6",
+    "en": "And what did he find there, hmm?",
+    "ru": "И что же он там нашёл, хм?"
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_7",
+    "en": "CHEAP! SWEDISH! FURNITURE!",
+    "ru": "ДЕШЁВУЮ! ШВЕДСКУЮ! МЕБЕЛЬ!"
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_8",
+    "en": "In total violation of current import rules!",
+    "ru": "В полном нарушении действующих правил импорта!"
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_9",
+    "en": "No! Please! I was desperate! It was so affordable!",
+    "ru": "Нет! Пожалуйста! Я был в отчаянии! Она была такая доступная!"
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_10",
+    "en": "Bailiff! Get this flat-pack loving miscreant out of my sight.",
+    "ru": "Пристав! Уберите этого любителя сборной мебели с глаз моих."
+  },
+  {
+    "key": "END_GAME_OUTRO_JUPP_ENDING_11",
+    "en": "And strike his comments about the defendant from the record, obviously.",
+    "ru": "И вычеркните его показания о подсудимом из протокола, разумеется."
+  },
+  {
+    "key": "LEVEL_SET_TITLE_CHAIN_PUB",
+    "en": "The Gammon",
+    "ru": "«Гэммон»"
+  },
+  {
+    "key": "SOCIAL_SCORE_OTHER",
+    "en": "Other",
+    "ru": "Прочее"
+  },
+  {
+    "key": "DIALOG_BOUNCER_CLOSE_LAUNCH_PARTY",
+    "en": "Thanks for playing! Game over man, game over!",
+    "ru": "Спасибо за игру! Конец, всё кончено!"
+  },
+  {
+    "key": "GAME_OVER_BOOKEND1_GENERIC",
+    "en": "That was the end of your story.\n\nDeportations continued, every morning at 6AM.\n\nA thousand silent souls on every boat, staring at an uncertain future.\n\nNone of them ever looked back to the country they no longer recognised.\n",
+    "ru": "На этом ваша история закончилась.\n\nДепортации продолжались каждое утро в 6:00.\n\nТысяча безмолвных душ на каждом корабле, глядящих в неизвестное будущее.\n\nНикто из них не оглянулся на страну, которую больше не узнавал.\n"
+  },
+  {
+    "key": "GAME_OVER_BOOKEND1_NOBOMBER",
+    "en": "The explosion tore through the Museum, killing many guests. Albion First's top officials were conveniently late to the party.\n\nOver the next weeks, London became a fortress. The rest of the country followed. With the borders sealed, the world averted its eyes.\n\nThe bomber was never identified.\n\nYou were deported at 6AM the next day.",
+    "ru": "Взрыв прогремел по всему Музею, унеся жизни множества гостей. Руководство «Альбион прежде всего» удобно опоздало на вечеринку.\n\nЗа следующие недели Лондон превратился в крепость. Остальная страна последовала за ним. С запертыми границами мир отвёл глаза.\n\nБомбист так и не был опознан.\n\nВас депортировали в 6 утра на следующий день."
+  },
+  {
+    "key": "GAME_OVER_BOOKEND1_LOSEJUDGEMENT",
+    "en": "Without a credible witness, Albion First went uninvestigated. The Prime Minister announced that the bombing was the work of the Resistance.\n\nOver the next weeks, London became a fortress. The rest of the country followed.\n\nYou spent the rest of your life behind bars.",
+    "ru": "Без надёжного свидетеля «Альбион прежде всего» остался без расследования. Премьер-министр объявил взрыв делом рук Сопротивления.\n\nЗа следующие недели Лондон превратился в крепость. Остальная страна последовала за ним.\n\nВы провели остаток жизни за решёткой."
+  },
+  {
+    "key": "FontMain_40",
+    "en": "FontMain_40",
+    "ru": "FontMain_40"
+  },
+  {
+    "key": "FontMain_32",
+    "en": "FontMain_32",
+    "ru": "FontMain_32"
+  },
+  {
+    "key": "FontMain_60_2",
+    "en": "FontMain_60",
+    "ru": "FontMain_60"
+  },
+  {
+    "key": "FontMain_48",
+    "en": "FontMain_48",
+    "ru": "FontMain_48"
+  },
+  {
+    "key": "ThinPixel_40",
+    "en": "ThinPixel_40",
+    "ru": "ThinPixel_40"
+  },
+  {
+    "key": "ThinPixel_60",
+    "en": "ThinPixel_60",
+    "ru": "ThinPixel_60"
+  },
+  {
+    "key": "ThinPixel_80",
+    "en": "ThinPixel_80",
+    "ru": "ThinPixel_80"
+  },
+  {
+    "key": "ThinPixel_120",
+    "en": "ThinPixel_120",
+    "ru": "ThinPixel_120"
+  },
+  {
+    "key": "FontMain_60",
+    "en": "FontMain_60",
+    "ru": "FontMain_60"
+  },
+  {
+    "key": "FontMain_16",
+    "en": "FontMain_16",
+    "ru": "FontMain_16"
+  },
+  {
+    "key": "NOTES_OPTIONAL_TAB",
+    "en": "Optional",
+    "ru": "Доп."
+  },
+  {
+    "key": "LOAD_SCREEN_NEW_GAME",
+    "en": "NEW GAME",
+    "ru": "НОВАЯ ИГРА"
+  },
+  {
+    "key": "SOCIAL_CARD_INCOME",
+    "en": "Income",
+    "ru": "Доход"
+  },
+  {
+    "key": "SOCIAL_CARD_SCORE",
+    "en": "Score",
+    "ru": "Рейтинг"
+  },
+  {
+    "key": "MONDAY",
+    "en": "Monday",
+    "ru": "Понедельник"
+  },
+  {
+    "key": "TUESDAY",
+    "en": "Tuesday",
+    "ru": "Вторник"
+  },
+  {
+    "key": "WEDNESDAY",
+    "en": "Wednesday",
+    "ru": "Среда"
+  },
+  {
+    "key": "THURSDAY",
+    "en": "Thursday",
+    "ru": "Четверг"
+  },
+  {
+    "key": "FRIDAY",
+    "en": "Friday",
+    "ru": "Пятница"
+  },
+  {
+    "key": "SATURDAY",
+    "en": "Saturday",
+    "ru": "Суббота"
+  },
+  {
+    "key": "SUNDAY",
+    "en": "Sunday",
+    "ru": "Воскресенье"
+  },
+  {
+    "key": "BOUNCR_LVL",
+    "en": "LVL{[LVL]}",
+    "ru": "УР.{[LVL]}"
+  },
+  {
+    "key": "GIVE_ITEM",
+    "en": "GIVE ITEM",
+    "ru": "ОТДАТЬ ПРЕДМЕТ"
+  },
+  {
+    "key": "OPTIONS_MAX_SIZE",
+    "en": "Max size will be limited to desktop resolution unless you play in exclusive mode",
+    "ru": "Макс. размер ограничен разрешением рабочего стола, если вы не играете в эксклюзивном режиме"
+  },
+  {
+    "key": "CODR_ENTER_CODE",
+    "en": "ENTER CODE:",
+    "ru": "ВВЕДИТЕ КОД:"
+  },
+  {
+    "key": "INVOICE_BOUNCR_LVL",
+    "en": "BOUNCR LVL",
+    "ru": "BOUNCR УР."
+  },
+  {
+    "key": "INTERIOR_START_LABEL",
+    "en": "Start",
+    "ru": "Начать"
+  },
+  {
+    "key": "MAP_TRANSITION_JULY",
+    "en": "July",
+    "ru": "Июль"
+  },
+  {
+    "key": "MAP_TRANSITION_JANUARY",
+    "en": "January",
+    "ru": "Январь"
+  },
+  {
+    "key": "MAP_TRANSITION_OCTOBER",
+    "en": "October",
+    "ru": "Октябрь"
+  },
+  {
+    "key": "MAP_TRANSITION_DECEMBER",
+    "en": "December",
+    "ru": "Декабрь"
+  },
+  {
+    "key": "BOUNCR_PROFILE_NEW_LVL",
+    "en": "NEW LVL",
+    "ru": "НОВЫЙ УР."
+  },
+  {
+    "key": "ID_DOB",
+    "en": "DOB",
+    "ru": "Д.Р."
+  },
+  {
+    "key": "ID_SEX",
+    "en": "SEX",
+    "ru": "ПОЛ"
+  },
+  {
+    "key": "ID_ISSUED",
+    "en": "ISS",
+    "ru": "ВЫД"
+  },
+  {
+    "key": "ID_EXPIRY",
+    "en": "EXP",
+    "ru": "ГОДЕН"
+  },
+  {
+    "key": "ID_ENGLAND",
+    "en": "ENGLAND",
+    "ru": "АНГЛИЯ"
+  },
+  {
+    "key": "FEBRUARY",
+    "en": "FEBRUARY",
+    "ru": "ФЕВРАЛЬ"
+  },
+  {
+    "key": "MARCH",
+    "en": "MARCH",
+    "ru": "МАРТ"
+  },
+  {
+    "key": "APRIL",
+    "en": "APRIL",
+    "ru": "АПРЕЛЬ"
+  },
+  {
+    "key": "MAY",
+    "en": "MAY",
+    "ru": "МАЙ"
+  },
+  {
+    "key": "JUNE",
+    "en": "JUNE",
+    "ru": "ИЮНЬ"
+  },
+  {
+    "key": "AUGUST",
+    "en": "AUGUST",
+    "ru": "АВГУСТ"
+  },
+  {
+    "key": "SEPTEMBER",
+    "en": "SEPTEMBER",
+    "ru": "СЕНТЯБРЬ"
+  },
+  {
+    "key": "NOVEMBER",
+    "en": "NOVEMBER",
+    "ru": "НОЯБРЬ"
+  },
+  {
+    "key": "SOCIAL_CARD_TITLE",
+    "en": "SOCIAL STATUS CARD",
+    "ru": "КАРТА СОЦИАЛЬНОГО СТАТУСА"
+  },
+  {
+    "key": "SOCIAL_CARD_VISITS",
+    "en": "VISITS",
+    "ru": "ПОСЕЩЕНИЯ"
+  },
+  {
+    "key": "CHALLENGE_MODE_TITLE",
+    "en": "CHALLENGE MODE",
+    "ru": "РЕЖИМ ИСПЫТАНИЙ"
+  },
+  {
+    "key": "CHALLENGE_TYPE_TITLE",
+    "en": "CHALLENGE TYPE",
+    "ru": "ТИП ИСПЫТАНИЯ"
+  },
+  {
+    "key": "CHALLENGE_TYPE_SUBTITLE_ENDLESS",
+    "en": "ENDLESS",
+    "ru": "БЕСКОНЕЧНЫЙ"
+  },
+  {
+    "key": "CHALLENGE_MODE_BACKGROUND_TITLE",
+    "en": "BACKGROUND",
+    "ru": "ФОН"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TITLE",
+    "en": "MUSIC",
+    "ru": "МУЗЫКА"
+  },
+  {
+    "key": "CHALLENGE_MODE_BOUNCER_TITLE",
+    "en": "BOUNCER",
+    "ru": "ВЫШИБАЛА"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUE_HAPPINESS_TITLE",
+    "en": "HAPPINESS",
+    "ru": "НАСТРОЕНИЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_INCIDENT_CHANCE",
+    "en": "INCIDENT CHANCE",
+    "ru": "ШАНС ИНЦИДЕНТА"
+  },
+  {
+    "key": "CHALLENGE_MODE_PUSHBACK_CHANCE",
+    "en": "PUSHBACK CHANCE",
+    "ru": "ШАНС ВОЗРАЖЕНИЯ"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUES_TITLE",
+    "en": "QUEUES",
+    "ru": "ОЧЕРЕДИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUES_MAIN_TITLE",
+    "en": "MAIN",
+    "ru": "ОСНОВНАЯ"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUES_GUESTLIST_TITLE",
+    "en": "GUEST",
+    "ru": "ГОСТИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUE_POPULARITY_TITLE",
+    "en": "POPULARITY",
+    "ru": "ПОПУЛЯРНОСТЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUES_ENABLED_TITLE",
+    "en": "ON",
+    "ru": "ВКЛ"
+  },
+  {
+    "key": "CHALLENGE_MODE_INCIDENTS_TITLE",
+    "en": "INCIDENTS",
+    "ru": "ИНЦИДЕНТЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_ID_TITLE",
+    "en": "ID",
+    "ru": "ДОКУМЕНТ"
+  },
+  {
+    "key": "CHALLENGE_MODE_DOB_TITLE",
+    "en": "DOB",
+    "ru": "Д.Р."
+  },
+  {
+    "key": "CHALLENGE_MODE_EXPIRY_TITLE",
+    "en": "EXPIRY",
+    "ru": "СРОК"
+  },
+  {
+    "key": "CHALLENGE_MODE_FAKE_FLAG_TITLE",
+    "en": "FAKE FLAG",
+    "ru": "ФАЛЬШ. ФЛАГ"
+  },
+  {
+    "key": "CHALLENGE_MODE_HOLOGRAM_TITLE",
+    "en": "HOLOGRAM",
+    "ru": "ГОЛОГРАММА"
+  },
+  {
+    "key": "CHALLENGE_MODE_NATIONALITY_TITLE",
+    "en": "NATIONALITY",
+    "ru": "ГРАЖДАНСТВО"
+  },
+  {
+    "key": "CHALLENGE_MODE_TICKETS_TITLE",
+    "en": "TICKETS",
+    "ru": "БИЛЕТЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_STAMP_TITLE",
+    "en": "STAMP",
+    "ru": "ПЕЧАТЬ"
+  },
+  {
+    "key": "CHALLENGE_TYPE_DAY_TITLE",
+    "en": "DAY",
+    "ru": "ДЕНЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_NO_TICKET_TITLE",
+    "en": "MISSING",
+    "ru": "ОТСУТСТВУЕТ"
+  },
+  {
+    "key": "CHALLENGE_MODE_SOCIAL_CARD_TITLE",
+    "en": "SOCIAL CARD",
+    "ru": "СОЦ. КАРТА"
+  },
+  {
+    "key": "CHALLENGE_MODE_SOCIAL_CARD_INCOME_TITLE",
+    "en": "INCOME",
+    "ru": "ДОХОД"
+  },
+  {
+    "key": "CHALLENGE_MODE_VISA_TITLE",
+    "en": "VISA",
+    "ru": "ВИЗА"
+  },
+  {
+    "key": "CHALLENGE_MODE_SOCIAL_CARD_SOCIAL_SCORE_TITLE",
+    "en": "SCORE",
+    "ru": "РЕЙТИНГ"
+  },
+  {
+    "key": "CHALLENGE_MODE_VISA_JOBS_TITLE",
+    "en": "JOBS",
+    "ru": "РАБОТЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_VISA_STAMP_TITLE",
+    "en": "STAMP",
+    "ru": "ПЕЧАТЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_MISC_TITLE",
+    "en": "MISC",
+    "ru": "РАЗНОЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CLOTHING_TITLE",
+    "en": "CLOTHING",
+    "ru": "ОДЕЖДА"
+  },
+  {
+    "key": "CHALLENGE_MODE_TICKET_DAY_TITLE",
+    "en": "DAY",
+    "ru": "ДЕНЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CONTRABAND_TITLE",
+    "en": "CONTRABAND",
+    "ru": "КОНТРАБАНДА"
+  },
+  {
+    "key": "CHALLENGE_MODE_HOURS",
+    "en": "NIGHT LENGTH",
+    "ru": "ДЛИНА НОЧИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_TRACK_TITLE",
+    "en": "TRACK",
+    "ru": "ТРЕК"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_1",
+    "en": "BEATS",
+    "ru": "БИТЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_2",
+    "en": "DANCE",
+    "ru": "ТАНЦЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_3",
+    "en": "REGGAE",
+    "ru": "РЕГГИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_TITLE_ENDLESS",
+    "en": "ENDLESS",
+    "ru": "БЕСКОНЕЧНЫЙ"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_4",
+    "en": "BEATS 2",
+    "ru": "БИТЫ 2"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_5",
+    "en": "POP",
+    "ru": "ПОП"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_6",
+    "en": "CLASSICAL",
+    "ru": "КЛАССИКА"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_7",
+    "en": "CHILL",
+    "ru": "ЧИЛЛ"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_8",
+    "en": "INDIE",
+    "ru": "ИНДИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_9",
+    "en": "ELECTRO",
+    "ru": "ЭЛЕКТРО"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_10",
+    "en": "HOUSE",
+    "ru": "ХАУС"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_11",
+    "en": "FUNK",
+    "ru": "ФАНК"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_12",
+    "en": "ROCK",
+    "ru": "РОК"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_13",
+    "en": "BEATS 3",
+    "ru": "БИТЫ 3"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_14",
+    "en": "POP",
+    "ru": "ПОП"
+  },
+  {
+    "key": "CHALLENGE_MODE_MUSIC_TYPE_15",
+    "en": "80'S",
+    "ru": "80-Е"
+  },
+  {
+    "key": "CHALLENGE_MODE_TITLE_TIMED",
+    "en": "TIMED",
+    "ru": "НА ВРЕМЯ"
+  },
+  {
+    "key": "CHALLENGE_MODE_TITLE_DRUGS",
+    "en": "DRUGS",
+    "ru": "НАРКОТИКИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CHEESR",
+    "en": "CHEESR",
+    "ru": "CHEESR"
+  },
+  {
+    "key": "CHALLENGE_MODE_DIPUDABU",
+    "en": "POWAH PILLZ",
+    "ru": "ТАБЛЕТКИ СИЛЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_FACEDROPS",
+    "en": "FACE DROPS",
+    "ru": "КАПЛИ ДЛЯ ЛИЦА"
+  },
+  {
+    "key": "CHALLENGE_MODE_UNDERCOVER",
+    "en": "UNDERCOVER",
+    "ru": "ПОД ПРИКРЫТИЕМ"
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_BONUSES",
+    "en": "SCORE BONUSES",
+    "ru": "БОНУСЫ К ОЧКАМ"
+  },
+  {
+    "key": "CHALLENGE_MODE_REGULAR_BONUS",
+    "en": "REGULAR",
+    "ru": "ОБЫЧНЫЙ"
+  },
+  {
+    "key": "CHALLENGE_MODE_GUESTLIST_BONUS",
+    "en": "GUESTLIST",
+    "ru": "СПИСОК ГОСТЕЙ"
+  },
+  {
+    "key": "GAME_CURRENT_SCORE",
+    "en": "SCORE: {[SCORE]}",
+    "ru": "ОЧКИ: {[SCORE]}"
+  },
+  {
+    "key": "GAME_COMBO",
+    "en": "COMBO: x{[COMBO]}",
+    "ru": "КОМБО: x{[COMBO]}"
+  },
+  {
+    "key": "RETRY_POPUP_TIMED_TEXT",
+    "en": "Level Finished! You scored:",
+    "ru": "Уровень окончен! Ваш счёт:"
+  },
+  {
+    "key": "RETRY_POPUP_ENDLESS_TEXT",
+    "en": "You ran out of lives! You scored:",
+    "ru": "Жизни кончились! Ваш счёт:"
+  },
+  {
+    "key": "RETRY_POPUP_RETRY_BUTTON",
+    "en": "RETRY",
+    "ru": "ЗАНОВО"
+  },
+  {
+    "key": "RETRY_POPUP_QUIT_BUTTON",
+    "en": "QUIT",
+    "ru": "ВЫХОД"
+  },
+  {
+    "key": "CHALLENGE_MODE_SEED_TITLE",
+    "en": "SEED",
+    "ru": "СИДЖ"
+  },
+  {
+    "key": "CHALLENGE_MODE_LOAD_BUTTON",
+    "en": "LOAD",
+    "ru": "ЗАГРУЗИТЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_SAVE_BUTTON",
+    "en": "SAVE",
+    "ru": "СОХРАНИТЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_LOAD_SCREEN_TITLE",
+    "en": "LOAD LEVEL",
+    "ru": "ЗАГРУЗИТЬ УРОВЕНЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CLOSE_TITLE",
+    "en": "CLOSE",
+    "ru": "ЗАКРЫТЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_NEW_LEVEL",
+    "en": "NEW",
+    "ru": "НОВЫЙ"
+  },
+  {
+    "key": "CHALLENGE_MODE_OBJECTIVE_TITLE",
+    "en": "OBJECTIVE",
+    "ru": "ЦЕЛЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_VALUE_TITLE",
+    "en": "VALUE",
+    "ru": "ЗНАЧЕНИЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_OBJECTIVES_TITLE",
+    "en": "OBJECTIVES",
+    "ru": "ЦЕЛИ"
+  },
+  {
+    "key": "RETRY_POPUP_PLAYLIST_FAIL",
+    "en": "You've ran out of playlist lives!",
+    "ru": "У вас закончились жизни в плейлисте!"
+  },
+  {
+    "key": "RETRY_POPUP_LEVEL_FAIL",
+    "en": "You failed the level! Try again!",
+    "ru": "Вы провалили уровень! Попробуйте снова!"
+  },
+  {
+    "key": "RETRY_POPUP_NEXT_BUTTON",
+    "en": "NEXT",
+    "ru": "ДАЛЕЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_TITLE_PLAYLIST",
+    "en": "PLAYLIST",
+    "ru": "ПЛЕЙЛИСТ"
+  },
+  {
+    "key": "RETRY_POPUP_PLAYLIST_LEVEL_COMPLETE",
+    "en": "Level completed successfully!",
+    "ru": "Уровень успешно пройден!"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_CLUBBERS_SEEN",
+    "en": "Clubbers Seen",
+    "ru": "Посетителей осмотрено"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_CLUBBERS_PASS",
+    "en": "Clubbers In",
+    "ru": "Посетителей внутри"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_DRUGS_SOLD",
+    "en": "Drugs sold",
+    "ru": "Наркотиков продано"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_SCORE",
+    "en": "Score Required",
+    "ru": "Требуемые очки"
+  },
+  {
+    "key": "CHALLENGE_MODE_ENDLESS_DESCRIPTION",
+    "en": "No time limit. Play until you fail. How long can you last?",
+    "ru": "Без ограничения по времени. Играй, пока не проиграешь. Как долго продержишься?"
+  },
+  {
+    "key": "CHALLENGE_MODE_TIMED_DESCRIPTION",
+    "en": "A set time limit. Go for the high score!",
+    "ru": "Ограниченное время. Бей рекорд!"
+  },
+  {
+    "key": "CHALLENGE_MODE_NONE_DESCRIPTION",
+    "en": "Playlist of levels created by our community.",
+    "ru": "Плейлист уровней от нашего сообщества."
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_ENTRY",
+    "en": "Clubber In",
+    "ru": "Посетитель внутри"
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_INCIDENT",
+    "en": "Incident caused",
+    "ru": "Инцидент произошёл"
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_DRUGS",
+    "en": "Drug sold",
+    "ru": "Наркотик продан"
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_NEWCOMBO",
+    "en": "New Combo",
+    "ru": "Новое комбо"
+  },
+  {
+    "key": "LEADERBOARD_TITLE",
+    "en": "Leaderboard",
+    "ru": "Таблица лидеров"
+  },
+  {
+    "key": "LEADERBOARD_RANK_TITLE",
+    "en": "Rank",
+    "ru": "Место"
+  },
+  {
+    "key": "LEADERBOARD_NAME_TITLE",
+    "en": "Name",
+    "ru": "Имя"
+  },
+  {
+    "key": "LEADERBOARD_SCORE_TITLE",
+    "en": "Score",
+    "ru": "Счёт"
+  },
+  {
+    "key": "LEADERBOARD_DOWNLOADING",
+    "en": "Downloading",
+    "ru": "Загрузка"
+  },
+  {
+    "key": "LEADERBOARD_ERROR",
+    "en": "Error",
+    "ru": "Ошибка"
+  },
+  {
+    "key": "RETRY_LEADERBOARD_BUTTON_TITLE",
+    "en": "LEADERBOARD",
+    "ru": "ЛИДЕРЫ"
+  },
+  {
+    "key": "PLAYER_ENTRY_RESIDENT_TITLE",
+    "en": "RESIDENT #{[PlayerNumber]}",
+    "ru": "РЕЗИДЕНТ №{[PlayerNumber]}"
+  },
+  {
+    "key": "PLAYER_ENTRY_ROUND_COMPLETE",
+    "en": "ROUND 1 COMPLETE",
+    "ru": "РАУНД 1 ЗАВЕРШЁН"
+  },
+  {
+    "key": "PLAYER_ENTRY_NEXT_UP",
+    "en": "NEXT UP...",
+    "ru": "СЛЕДУЮЩИЙ..."
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_SCREEN_DESC",
+    "en": "Here you can add objectives to make a level even harder! \n\nThese must be completed to pass the custom level!",
+    "ru": "Здесь можно добавить цели, чтобы усложнить уровень!\n\nИх нужно выполнить, чтобы пройти уровень!"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_CLUBBERS_SEEN_DESC",
+    "en": "See at least a target number of clubbers",
+    "ru": "Осмотри не менее заданного числа посетителей"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_DRUGS_SOLD_DESC",
+    "en": "Sell at least a target number of drugs",
+    "ru": "Продай не менее заданного числа наркотиков"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_SCORE_DESC",
+    "en": "Get a certain amount of points!",
+    "ru": "Набери определённое количество очков!"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_CLUBBERS_PASS_DESC",
+    "en": "Let a target number in the club!",
+    "ru": "Пропусти в клуб нужное число посетителей!"
+  },
+  {
+    "key": "CHALLENGE_MODE_RANDOM",
+    "en": "SHUFFLE",
+    "ru": "СЛУЧАЙНО"
+  },
+  {
+    "key": "PLAYER_ENTRY_OBJECTIVES",
+    "en": "OBJECTIVES",
+    "ru": "ЦЕЛИ"
+  },
+  {
+    "key": "PLAYER_ENTRY_LEVEL_COMPLETE",
+    "en": "LEVEL COMPLETE",
+    "ru": "УРОВЕНЬ ПРОЙДЕН"
+  },
+  {
+    "key": "PLAYER_ENTRY_LEVEL_FAILED",
+    "en": "LEVEL FAILED",
+    "ru": "УРОВЕНЬ ПРОВАЛЕН"
+  },
+  {
+    "key": "PLAYER_ENTRY_HIGH_SCORE",
+    "en": "NEW HIGH SCORE",
+    "ru": "НОВЫЙ РЕКОРД"
+  },
+  {
+    "key": "CHALLENGE_MODE_PORTRAIT_TITLE",
+    "en": "PORTRAIT",
+    "ru": "ФОТО"
+  },
+  {
+    "key": "CHALLENGE_MODE_SOCAL_CARD_VISITS_TITLE",
+    "en": "ALL",
+    "ru": "ВСЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_DIFFICULTY_DESCRIPTION",
+    "en": "This is the overall difficulty. How often will you see problems and how many mistakes can you make.",
+    "ru": "Общая сложность. Как часто будут проблемы и сколько ошибок можно допустить."
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUES_DESCRIPTION",
+    "en": "Setup queues here. Queues can be busy and impatient.\n\nMore queues = harder!",
+    "ru": "Настройка очередей. Очереди могут быть загружены и нетерпеливы.\n\nБольше очередей = сложнее!"
+  },
+  {
+    "key": "CHALLENGE_MODE_INCIDENTS_DESCRIPTION",
+    "en": "Setup types of problems the player has to spot here.\n\nMore problems = harder!",
+    "ru": "Настройка типов проблем, которые нужно распознать.\n\nБольше проблем = сложнее!"
+  },
+  {
+    "key": "CHALLENGE_MODE_DEFAULT_DESCRIPTION",
+    "en": "This is default text describing challenge mode custom game.",
+    "ru": "Стандартный текст описания пользовательского режима."
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_GUESTLIST",
+    "en": "Guestlist Complete",
+    "ru": "Список гостей заполнен"
+  },
+  {
+    "key": "CHALLENGE_MODE_LIVES",
+    "en": "LIVES: {[CurrentLives]}",
+    "ru": "ЖИЗНИ: {[CurrentLives]}"
+  },
+  {
+    "key": "CHALLENGE_MODE_LEVELS",
+    "en": "LEVELS: {[CurrentLevel]}/{[MaxLevels]}",
+    "ru": "УРОВНИ: {[CurrentLevel]}/{[MaxLevels]}"
+  },
+  {
+    "key": "CHALLENGE_MODE_LEVELS_REMAINING",
+    "en": "LEVELS REMAINING: {[Levels]}",
+    "ru": "УРОВНЕЙ ОСТАЛОСЬ: {[Levels]}"
+  },
+  {
+    "key": "CHALLENGE_MODE_PLAYLIST_COMPLETED",
+    "en": "COMPLETED",
+    "ru": "ПРОЙДЕНО"
+  },
+  {
+    "key": "CHALLENGE_MODE_ONE_PLAYER",
+    "en": "1",
+    "ru": "1"
+  },
+  {
+    "key": "CHALLENGE_MODE_HOT_SEAT",
+    "en": "2 - Take turns",
+    "ru": "2 — По очереди"
+  },
+  {
+    "key": "CHALLENGE_MODE_TWO_PLAYER_VS",
+    "en": "2 - VS (Coming soon!)",
+    "ru": "2 — ПРОТИВ (Скоро!)"
+  },
+  {
+    "key": "CHALLENGE_MODE_CUSTOM_DESCRIPTION",
+    "en": "Create your own level!",
+    "ru": "Создай свой уровень!"
+  },
+  {
+    "key": "CHALLENGE_MODE_EASY_DESCRIPTION",
+    "en": "A relaxed difficulty night.",
+    "ru": "Расслабленная ночка."
+  },
+  {
+    "key": "CHALLENGE_MODE_MEDIUM_DESCRIPTION",
+    "en": "An average difficulty night.",
+    "ru": "Ночка средней сложности."
+  },
+  {
+    "key": "CHALLENGE_MODE_HARD_DESCRIPTION",
+    "en": "A Difficult nights work.",
+    "ru": "Тяжёлая ночная смена."
+  },
+  {
+    "key": "CHALLENGE_MODE_IMPOSSIBLE_DESCRIPTION",
+    "en": "Simply impossible!",
+    "ru": "Просто невозможно!"
+  },
+  {
+    "key": "PAUSE_BUTTON_RETURN_TO_CHALLENGE",
+    "en": "RETURN TO CHALLENGE",
+    "ru": "ВЕРНУТЬСЯ К ИСПЫТАНИЮ"
+  },
+  {
+    "key": "CHALLENGE_MODE_TITLE_PLAYLISTS",
+    "en": "PLAYLISTS",
+    "ru": "ПЛЕЙЛИСТЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_PLAYLISTS_DESCRIPTION",
+    "en": "Play a series of curated levels created by our community.\n\nYou have a set number of lives to clear the levels. Can you complete them all!?",
+    "ru": "Серия уровней от нашего сообщества.\n\nУ вас ограниченное число жизней. Сможете пройти все?!"
+  },
+  {
+    "key": "CHALLENGE_MODE_PLAYLIST",
+    "en": "PLAYLIST",
+    "ru": "ПЛЕЙЛИСТ"
+  },
+  {
+    "key": "CHALLENGE_MODE_SAVE_GAME_SETUP_BUTTON",
+    "en": "SAVE GAME SETUP",
+    "ru": "СОХРАНИТЬ НАСТРОЙКИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_LIVES_AMOUNT",
+    "en": "Lives: {[LIVES]}",
+    "ru": "Жизни: {[LIVES]}"
+  },
+  {
+    "key": "CHALLENGE_MODE_PLAYLIST_PROGRESS",
+    "en": "{[COMPLETED]} of {[REMAINING]}",
+    "ru": "{[COMPLETED]} из {[REMAINING]}"
+  },
+  {
+    "key": "PLAYER_ENTRY_NIGHT_OVER",
+    "en": "NIGHT OVER",
+    "ru": "НОЧЬ ОКОНЧЕНА"
+  },
+  {
+    "key": "READY_LABEL_GO",
+    "en": "GO!",
+    "ru": "ВПЕРЁД!"
+  },
+  {
+    "key": "READY_LABEL_GET_READY",
+    "en": "{[NAME]}\nREADY!",
+    "ru": "{[NAME]}\nГОТОВСЯ!"
+  },
+  {
+    "key": "CHALLENGE_MODE_LOAD_SCREEN_NO_LEVELS",
+    "en": "NO LEVELS HAVE BEEN SAVED",
+    "ru": "НЕТ СОХРАНЁННЫХ УРОВНЕЙ"
+  },
+  {
+    "key": "FontMain_120",
+    "en": "FontMain_120",
+    "ru": "FontMain_120"
+  },
+  {
+    "key": "PLAYER_ENTRY_PLAYLIST_COMPLETE",
+    "en": "PLAYLIST COMPLETE",
+    "ru": "ПЛЕЙЛИСТ ПРОЙДЕН"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_COMBO_STREAK",
+    "en": "x10 COUNT",
+    "ru": "x10 СЕРИЯ"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_COMBO_STREAK_DESC",
+    "en": "Get 10 times combos. ",
+    "ru": "Набери комбо x10. "
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_INCIDENTS_DESC",
+    "en": "Cause a target amount of incidents!",
+    "ru": "Устрой заданное число инцидентов!"
+  },
+  {
+    "key": "CHALLENGE_OBJECTIVE_INCIDENTS",
+    "en": "Incidents",
+    "ru": "Инциденты"
+  },
+  {
+    "key": "RETRY_OBJECTIVES_LABEL",
+    "en": "OBJECTIVES",
+    "ru": "ЦЕЛИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_HIGH_SCORES",
+    "en": "HIGH SCORES",
+    "ru": "РЕКОРДЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_INCIDENT_IDENTIFIED",
+    "en": "Incident found",
+    "ru": "Инцидент обнаружен"
+  },
+  {
+    "key": "CHALLENGE_MODE_SCORE_INCIDENT_COMBO_LOST",
+    "en": "INCIDENT - combo lost",
+    "ru": "ИНЦИДЕНТ — комбо потеряно"
+  },
+  {
+    "key": "CHALLENGE_MODE_SAVE_LEVEL_FAILED",
+    "en": "You must pass a level to save",
+    "ru": "Нужно пройти уровень, чтобы сохранить"
+  },
+  {
+    "key": "CHALLENGE_MODE_SAVE_LEVEL_NOT_CUSTOM",
+    "en": "Can't save non custom level",
+    "ru": "Нельзя сохранить стандартный уровень"
+  },
+  {
+    "key": "MAIN_MENU_CHALLENGE_MODE",
+    "en": "CHALLENGE MODE",
+    "ru": "РЕЖИМ ИСПЫТАНИЙ"
+  },
+  {
+    "key": "LEADERBOARD_TITLE_DETAIL",
+    "en": "Leaderboard - {[MODE]}, {[DIFFICULTY]}",
+    "ru": "Лидеры — {[MODE]}, {[DIFFICULTY]}"
+  },
+  {
+    "key": "CHALLENGE_MODE_EASY",
+    "en": "EASY",
+    "ru": "ЛЕГКО"
+  },
+  {
+    "key": "CHALLENGE_MODE_MEDIUM",
+    "en": "MEDIUM",
+    "ru": "СРЕДНЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_HARD",
+    "en": "HARD",
+    "ru": "СЛОЖНО"
+  },
+  {
+    "key": "CHALLENGE_MODE_IMPOSSIBLE",
+    "en": "IMPOSSIBLE",
+    "ru": "НЕВОЗМОЖНО"
+  },
+  {
+    "key": "OPTIONS_COLOUR_BLIND_MODE",
+    "en": "COLOUR BLIND MODE",
+    "ru": "РЕЖИМ ДАЛЬТОНИЗМА"
+  },
+  {
+    "key": "OPTIONS_SKINS_TITLE",
+    "en": "SKINS",
+    "ru": "СКИНЫ"
+  },
+  {
+    "key": "OPTIONS_SKINS_NORMAL",
+    "en": "NORMAL",
+    "ru": "ОБЫЧНЫЙ"
+  },
+  {
+    "key": "OPTIONS_SKINS_HALLOWEEN",
+    "en": "HALLOWEEN",
+    "ru": "ХЭЛЛОУИН"
+  },
+  {
+    "key": "LOAD_SCREEN_NEW_GAME_EXPLANATION",
+    "en": "START A NEW GAME? DELETE A SLOT",
+    "ru": "НОВАЯ ИГРА? УДАЛИТЕ СЛОТ"
+  },
+  {
+    "key": "LEADERBOARD_TITLE_PARAMS",
+    "en": "Leaderboard - {[MODE]}, {[DIFFICULTY]}",
+    "ru": "Лидеры — {[MODE]}, {[DIFFICULTY]}"
+  },
+  {
+    "key": "CHALLENGE_MODE_PLAYLIST_TITLE",
+    "en": "TITLE",
+    "ru": "НАЗВАНИЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_DESCRIPTION_TITLE",
+    "en": "DESCRIPTION",
+    "ru": "ОПИСАНИЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_AUTHOR_TITLE",
+    "en": "AUTHOR",
+    "ru": "АВТОР"
+  },
+  {
+    "key": "CHALLENGE_MODE_LIVES_TITLE",
+    "en": "LIVES",
+    "ru": "ЖИЗНИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_NUMBER_OF_LEVELS",
+    "en": "NUMBER OF LEVELS",
+    "ru": "КОЛИЧЕСТВО УРОВНЕЙ"
+  },
+  {
+    "key": "MAIN_MENU_DLC_MODE",
+    "en": "DLC",
+    "ru": "DLC"
+  },
+  {
+    "key": "CHALLENGE_MODE_FAKES_TITLE",
+    "en": "FAKES",
+    "ru": "ПОДДЕЛКИ"
+  },
+  {
+    "key": "PLAYLIST_TITLE_1",
+    "en": "Shenanigans",
+    "ru": "Плутовство"
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_1",
+    "en": "Sell candies for Ferriss on the side. You can only progress if you hit the sales targets for each level.",
+    "ru": "Продавай конфеты для Ферриса подпольно. Продвигайся только при выполнении плана продаж на каждом уровне."
+  },
+  {
+    "key": "PLAYLIST_TITLE_2",
+    "en": "Chill Stream",
+    "ru": "Лёгкий поток"
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_2",
+    "en": "A stress free super simple set of levels.",
+    "ru": "Расслабленный набор простейших уровней."
+  },
+  {
+    "key": "PLAYLIST_TITLE_3",
+    "en": "Escalation Protocol",
+    "ru": "Протокол эскалации"
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_3",
+    "en": "Very difficult levels escalating in complexity.",
+    "ru": "Очень сложные уровни с нарастающей сложностью."
+  },
+  {
+    "key": "PLAYLIST_TITLE_4",
+    "en": "Hotel Hell",
+    "ru": "Адский отель"
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_4",
+    "en": "Does Hell exist? Yes, it's these three impossible levels. One mistake you're gone.",
+    "ru": "Ад существует? Да, вот эти три невозможных уровня. Одна ошибка — и конец."
+  },
+  {
+    "key": "PLAYLIST_TITLE_5",
+    "en": "The Grand Tour",
+    "ru": "Гранд-тур"
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_5",
+    "en": "Take a tour of the levels in the main game with matching mechanics. It gets tough.",
+    "ru": "Прокатись по уровням основной игры с соответствующей механикой. Будет непросто."
+  },
+  {
+    "key": "PLAYLIST_TITLE_6",
+    "en": "The Wall",
+    "ru": "Стена"
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_6",
+    "en": "The wall is the physical manifestation of everything evil. This is represented in these three impossible levels.",
+    "ru": "Стена — физическое воплощение всего злого. Это отражено в этих трёх невозможных уровнях."
+  },
+  {
+    "key": "PLAYLIST_TITLE_7",
+    "en": "Unforseen Incidents",
+    "ru": "Непредвиденные инциденты"
+  },
+  {
+    "key": "PLAYLIST_DESCRIPTION_7",
+    "en": "These levels have a huge incident chance. Can you identify the few safe customers?",
+    "ru": "На этих уровнях огромный шанс инцидента. Сможешь вычислить немногих безопасных клиентов?"
+  },
+  {
+    "key": "CHALLENGE_MODE_FIXED_QUEUE",
+    "en": "FIXED QUEUE",
+    "ru": "ФИКС. ОЧЕРЕДЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_LEADERBOARD_GLOBAL",
+    "en": "GLOBAL",
+    "ru": "ГЛОБАЛЬНЫЙ"
+  },
+  {
+    "key": "CHALLENGE_MODE_HAPPINESS_CALM",
+    "en": "CALM",
+    "ru": "СПОКОЙНЫЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_HAPPINESS_RELAXED",
+    "en": "RELAXED",
+    "ru": "РАССЛАБЛЕННЫЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_HAPPINESS_ANGRY",
+    "en": "ANGRY",
+    "ru": "ЗЛЫЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUE_LIGHT",
+    "en": "LIGHT",
+    "ru": "МАЛО"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUE_MEDIUM",
+    "en": "MEDIUM",
+    "ru": "СРЕДНЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_QUEUE_BUSY",
+    "en": "BUSY",
+    "ru": "МНОГО"
+  },
+  {
+    "key": "CHALLENGE_MODE_FINISH_LEVEL_WHEN_COMPLETE",
+    "en": "Finish level when complete",
+    "ru": "Завершить уровень по выполнении"
+  },
+  {
+    "key": "CHALLENGE_MODE_ADD_TITLE",
+    "en": "ADD",
+    "ru": "ДОБАВИТЬ"
+  },
+  {
+    "key": "CHALLENGE_MODE_PASSWORD",
+    "en": "PASSWORD:",
+    "ru": "ПАРОЛЬ:"
+  },
+  {
+    "key": "CHALLENGE_MODE_NUMBER_OF_PLAYERS",
+    "en": "NUMBER OF PLAYERS",
+    "ru": "КОЛИЧЕСТВО ИГРОКОВ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CHALLENGE_NUMBER",
+    "en": "CHALLENGE NUMBER",
+    "ru": "НОМЕР ИСПЫТАНИЯ"
+  },
+  {
+    "key": "CHALLENGE_MODE_PLAYLIST_CREATE_DESCRIPTION",
+    "en": "If you save levels you can add them to a playlist here.\n\nPost your playlists to the Not Tonight Discord and we might include them next update!",
+    "ru": "Если вы сохраните уровни, вы сможете добавить их в плейлист здесь.\n\nВыкладывайте плейлисты в Discord Not Tonight, и мы, возможно, добавим их в следующем обновлении!"
+  },
+  {
+    "key": "CHALLENGE_MODE_CREATE_PLAYLIST_DESCRIPTION",
+    "en": "\"If you save levels you can add them to a playlist here\" \r\n\r\nPost your playlists to the Not Tonight Discord and we might include them next update!",
+    "ru": "\"Если вы сохраните уровни, вы сможете добавить их в плейлист здесь\" \r\n\r\nВыкладывайте плейлисты в Discord Not Tonight, и мы, возможно, добавим их в следующем обновлении!"
+  },
+  {
+    "key": "CHALLENGE_MODE_DIFFICULTY_TITLE",
+    "en": "Difficulty",
+    "ru": "Сложность"
+  },
+  {
+    "key": "CHALLENGE_MODE_SELL_ITEMS",
+    "en": "SELL ITEMS",
+    "ru": "ПРОДАВАТЬ ТОВАРЫ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CLOTHING_BEACH",
+    "en": "BEACH",
+    "ru": "ПЛЯЖНАЯ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CLOTHING_FORMAL",
+    "en": "FORMAL",
+    "ru": "ФОРМАЛЬНАЯ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CLOTHING_NONE",
+    "en": "NONE",
+    "ru": "НИКАКАЯ"
+  },
+  {
+    "key": "CHALLENGE_MODE_OFF",
+    "en": "OFF",
+    "ru": "ВЫКЛ"
+  },
+  {
+    "key": "CHALLENGE_MODE_CUSTOM",
+    "en": "CUSTOM",
+    "ru": "СВОЙ"
+  },
+  {
+    "key": "CHALLENGE_MODE_ALL",
+    "en": "ALL",
+    "ru": "ВСЕ"
+  },
+  {
+    "key": "CHALLENGE_MODE_VERY_EASY",
+    "en": "Very Easy",
+    "ru": "Очень легко"
+  },
+  {
+    "key": "CHALLENGE_MODE_NIGHT_PRESET",
+    "en": "NIGHT PRESET",
+    "ru": "ПРЕСЕТ НОЧИ"
+  },
+  {
+    "key": "CHALLENGE_MODE_PLAYER",
+    "en": "PLAYER",
+    "ru": "ИГРОК"
+  },
+  {
+    "key": "CHALLENGE_MODE_VIP_PASSWORD",
+    "en": "Vip Password:",
+    "ru": "VIP-пароль:"
+  },
+  {
+    "key": "CHALLENGE_MODE_END_OF_ROUND",
+    "en": "END OF ROUND",
+    "ru": "КОНЕЦ РАУНДА"
+  },
+  {
+    "key": "APP_FLAMR_TITLE",
+    "en": "FlamR",
+    "ru": "FlamR"
+  },
+  {
+    "key": "APP_FLAMR_SEARCH",
+    "en": "NEW",
+    "ru": "НОВЫЕ"
+  },
+  {
+    "key": "APP_FLAMR_MATCHES",
+    "en": "MATCHES",
+    "ru": "СОВПАДЕНИЯ"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE",
+    "en": "PROFILE",
+    "ru": "ПРОФИЛЬ"
+  },
+  {
+    "key": "APP_FLAMR_NO_SEARCH_RESULTS",
+    "en": "No new FLAMR's in your area :(",
+    "ru": "Нет новых FLAMR в вашем районе :("
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_MYLARNA",
+    "en": "34, TOULOUSE\nLikes: Staying in, God\nDislikes: Spiders, Halloween\n\n\"Can't handle me at my worst? you don't deserve God'",
+    "ru": "34, ТУЛУЗА\nНравится: Сидеть дома, Бог\nНе нравится: Пауки, Хэллоуин\n\n\"Не можешь справиться со мной в худшие дни? Ты не заслуживаешь Бога\""
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_VIKLAV",
+    "en": "55, TOULOUSE \nLikes: Vodka\n\"Twas truly beauty that killed the beast!\"",
+    "ru": "55, ТУЛУЗА \nНравится: Водка\n\"Воистину красота убила чудовище!\""
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_DQ4P",
+    "en": "??, TOULOUSE\nLikes: A.I.\nDislikes: Humans\n\n'Anything humans can do in space, robots can do better.'\n",
+    "ru": "??, ТУЛУЗА\nНравится: ИИ\nНе нравится: Люди\n\n\"Всё, что люди могут делать в космосе, роботы делают лучше.\"\n"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_FRANCOIS",
+    "en": "28, TOULOUSE\nLikes: Art, Style, Design\nDislikes: Beige, Gamers\n\n\"Art washes away from the soul the dust of everyday life.\"",
+    "ru": "28, ТУЛУЗА\nНравится: Искусство, Стиль, Дизайн\nНе нравится: Бежевый, Геймеры\n\n\"Искусство смывает с души пыль повседневности.\""
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_LASSY",
+    "en": "18, TOULOUSE\nLikes: Walks\nDislikes: Cats, Milk\n\n\"Money can buy you a fine dog, but only love can make him wag his tail.\"",
+    "ru": "18, ТУЛУЗА\nНравится: Прогулки\nНе нравится: Кошки, Молоко\n\n\"За деньги можно купить породистую собаку, но только любовь заставит её вилять хвостом.\""
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_DAVE",
+    "en": "HOW TO FLAMR!\n\n1. Buy outfits & items.\n2. Allow/deny dates entry.\n3. Earn and give gifts.\n4. Meet via FLAMR.\n5. Match 100% = LOVE",
+    "ru": "КАК ПОЛЬЗОВАТЬСЯ FLAMR!\n\n1. Покупай одежду и предметы.\n2. Пропускай/отказывай свиданиям.\n3. Зарабатывай и дари подарки.\n4. Встречайся через FLAMR.\n5. 100% совпадение = ЛЮБОВЬ"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_FERRIS",
+    "en": "22, BRISTOL\n\nLikes: Uppers\nDislikes: Downers",
+    "ru": "22, БРИСТОЛЬ\n\nНравится: Стимуляторы\nНе нравится: Депрессанты"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_EMMANUELLE",
+    "en": "35, PARIS\n\nLikes: Myself\nDislikes: Francois",
+    "ru": "35, ПАРИЖ\n\nНравится: Я сама\nНе нравится: Франсуа"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_GOTHSKUNK",
+    "en": "18, OHIO\n\nLikes: Hardstep\nDislikes: SJW's",
+    "ru": "18, ОГАЙО\n\nНравится: Хардстеп\nНе нравится: SJW"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_HECTOR",
+    "en": "76, NEW MEXICO\n\nLikes: Bells\nDislikes: Walter",
+    "ru": "76, НЬЮ-МЕКСИКО\n\nНравится: Колокола\nНе нравится: Уолтер"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_LYDIA",
+    "en": "38, VATICAN\n\nLikes: Jesus\nDislikes: Yeezus",
+    "ru": "38, ВАТИКАН\n\nНравится: Иисус\nНе нравится: Канье"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_S3E3",
+    "en": "48, YEOVIL\n\nLikes: ComicCon\nDislikes: Disney",
+    "ru": "48, ЙОВИЛ\n\nНравится: КомикКон\nНе нравится: Дисней"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_SANDRA",
+    "en": "28, LEEDS\n\nLikes: Hardy\nDislikes: Hitchcock",
+    "ru": "28, ЛИДС\n\nНравится: Харди\nНе нравится: Хичкок"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_SUE",
+    "en": "67, TOULOUSE\n\nLikes: Birds\nDislikes: Cats\n",
+    "ru": "67, ТУЛУЗА\n\nНравится: Птицы\nНе нравится: Кошки\n"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_TARQUIN",
+    "en": "42, BATH\n\nLikes: Free markets\nDislikes: NHS",
+    "ru": "42, БАТ\n\nНравится: Свободный рынок\nНе нравится: NHS"
+  },
+  {
+    "key": "APP_FLAMR_PROFILE_THOMAS",
+    "en": "22, DEVON\n\nLikes: Pasties\nDislikes: Pies",
+    "ru": "22, ДЕВОН\n\nНравится: Пирожки\nНе нравится: Пироги"
+  },
+  {
+    "key": "ORDER_CARD_TITLE",
+    "en": "ORDER CARD",
+    "ru": "КАРТА ЗАКАЗА"
+  },
+  {
+    "key": "DRINK_VODKA_COKE",
+    "en": "Hard Brexit",
+    "ru": "Жёсткий Брексит"
+  },
+  {
+    "key": "DRINK_WHISKY_GRAPE",
+    "en": "The SJW",
+    "ru": "SJW"
+  },
+  {
+    "key": "DRINK_VODKA_GRAPE_ENERGY",
+    "en": "Snowflake",
+    "ru": "Снежинка"
+  },
+  {
+    "key": "DRINK_WINE_ENERGY_APPLE",
+    "en": "Incel Dream",
+    "ru": "Мечта инцела"
+  },
+  {
+    "key": "DRINK_WINE_VODKA_ENERGY_COKE",
+    "en": "Wired Russian",
+    "ru": "Бешеный русский"
+  },
+  {
+    "key": "DRINK_RUM_WHISKY_APPLE_COKE",
+    "en": "The Backstop",
+    "ru": "Бэкстоп"
+  },
+  {
+    "key": "UK_TRAVEL_CARD_TITLE",
+    "en": "UK TRAVEL CARD",
+    "ru": "КАРТА UK"
+  },
+  {
+    "key": "TOOLTIP_TRAVEL_CARD_COUNTRY",
+    "en": "COUNTRY",
+    "ru": "СТРАНА"
+  },
+  {
+    "key": "MAIN_MENU_MAIN_MODE",
+    "en": "MAIN",
+    "ru": "ОСНОВНАЯ"
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_1_TITLE",
+    "en": "MUSEUM OF FINE ART, TOULOUSE, FRANCE",
+    "ru": "МУЗЕЙ ИЗЯЩНЫХ ИСКУССТВ, ТУЛУЗА, ФРАНЦИЯ"
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_1_BODY",
+    "en": "July 1st, 2019\n\nBritish immigrant Dave is exploring his new city.",
+    "ru": "1 июля 2019\n\nБританский иммигрант Дэйв исследует свой новый город."
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_2_TITLE",
+    "en": "DAVE'S FLAT, TOULOUSE, FRANCE",
+    "ru": "КВАРТИРА ДЕЙВА, ТУЛУЗА, ФРАНЦИЯ"
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_2_BODY",
+    "en": "July 2nd, 2019\n\nDave's relaxing at his flat (above his pub 'Le Rosbif')",
+    "ru": "2 июля 2019\n\nДэйв отдыхает в квартире (над своим пабом «Le Rosbif»)"
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_3_TITLE",
+    "en": "MUSEUM OF FINE ART, TOULOUSE, FRANCE",
+    "ru": "МУЗЕЙ ИЗЯЩНЫХ ИСКУССТВ, ТУЛУЗА, ФРАНЦИЯ"
+  },
+  {
+    "key": "DLC_CINEMATIC_PANEL_3_BODY",
+    "en": "July 31st, 2019\n\nHas Dave found love?",
+    "ru": "31 июля 2019\n\nДэйв нашёл любовь?"
+  },
+  {
+    "key": "FLAMR_MEET_BUTTON",
+    "en": "MEET!",
+    "ru": "ВСТРЕЧА!"
+  },
+  {
+    "key": "FLAMR_MEET_IN_PROGRESS_BUTTON",
+    "en": "IN PROGRESS",
+    "ru": "В ПРОЦЕССЕ"
+  },
+  {
+    "key": "WORLD_TRAVEL_CARD_TITLE",
+    "en": "USA TRAVEL CARD",
+    "ru": "КАРТА USA"
+  },
+  {
+    "key": "FLAT_SCENE_LEAVE_SELECTOR",
+    "en": "LEAVE",
+    "ru": "УЙТИ"
+  },
+  {
+    "key": "ART_MUSEUM_TALK_SELECTOR",
+    "en": "TALK",
+    "ru": "ГОВОРИТЬ"
+  },
+  {
+    "key": "LOVE_COUNTDOWN",
+    "en": "{[Days]} days to find love[i2p_One]{[Days]} day to find love",
+    "ru": "{[Days]} дн. чтобы найти любовь[i2p_One]{[Days]} день чтобы найти любовь"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_ROAST_BEEF_PUB",
+    "en": "Le Rosbif",
+    "ru": "Le Rosbif"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_CAFE",
+    "en": "Le Coq Café ",
+    "ru": "Le Coq Café "
+  },
+  {
+    "key": "LEVEL_SET_TITLE_YACHT_CLUB",
+    "en": "Le Petit Bateau",
+    "ru": "Le Petit Bateau"
+  },
+  {
+    "key": "LEVEL_SET_TITLE_CASINO",
+    "en": "Casino",
+    "ru": "Казино"
+  },
+  {
+    "key": "NOTEBOOK_MAP_TITLE_DLC",
+    "en": "TOULOUSE, FRANCE",
+    "ru": "ТУЛУЗА, ФРАНЦИЯ"
+  },
+  {
+    "key": "FLYER_RULES_UK_TRAVELCARD",
+    "en": "1.CHECK PHOTO\n2.HAS COLOUR\n3.CHECK EXPIRY",
+    "ru": "1.ПРОВЕРИТЬ ФОТО\n2.НАЛИЧИЕ ЦВЕТА\n3.ПРОВЕРИТЬ СРОК"
+  },
+  {
+    "key": "FLYER_RULES_UK_TRAVELCARD_TITLE",
+    "en": "UK CARD",
+    "ru": "КАРТА UK"
+  },
+  {
+    "key": "FLYER_RULES_USA_TRAVELCARD",
+    "en": "1.CHECK PHOTO\n2.HAS COLOUR\n3.CHECK EXPIRY",
+    "ru": "1.ПРОВЕРИТЬ ФОТО\n2.НАЛИЧИЕ ЦВЕТА\n3.ПРОВЕРИТЬ СРОК"
+  },
+  {
+    "key": "FLYER_RULES_USA_TRAVELCARD_TITLE",
+    "en": "USA CARD",
+    "ru": "КАРТА USA"
+  },
+  {
+    "key": "APP_FLAMR_END_SEARCH",
+    "en": "Thanks for reviewing your totally real, non-bot, FLAMR matches.",
+    "ru": "Спасибо за просмотр ваших абсолютно реальных, не ботов, совпадений в FLAMR."
+  },
+  {
+    "key": "POSTCARD_HARRISON_PACE",
+    "en": "Dear FLAMR, \n\nHello from a magical theme park. Thanks for bringing me and Lassy together. Me and Lassy have pledged to be together until we die. \n\nLove from Dave.",
+    "ru": "Дорогой FLAMR, \n\nПривет из волшебного парка аттракционов. Спасибо, что свёл меня и Лэсси. Мы с Лэсси поклялись быть вместе до конца. \n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_MYLARNA",
+    "en": "Dear FLAMR, \n\nHello from the Vatican. Thanks for bringing me and Mylarna together. She has opened my eyes to the supernatural. Specifically Viklav's ghost who is always with us. I hope one day to be half the ghost he is. \n\nLove from Dave.",
+    "ru": "Дорогой FLAMR, \n\nПривет из Ватикана. Спасибо, что свёл меня и Миларну. Она открыла мне глаза на сверхъестественное. А именно на призрак Виклава, который всегда с нами. Надеюсь однажды стать хоть вполовину таким призраком, как он. \n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_DQ4P",
+    "en": "Dear FLAMR, \n\nHello from Vegas. Thanks for bringing me and DQ4P together. He loves staying up all night playing the slots. One particular machine has taken his fancy. Hopefully I will see him again soon. \n\nLove from Dave.",
+    "ru": "Дорогой FLAMR, \n\nПривет из Вегаса. Спасибо, что свёл меня и DQ4P. Он обожает всю ночь играть на автоматах. Один автомат ему особенно приглянулся. Надеюсь скоро его увидеть. \n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_FRANCOIS",
+    "en": "Dear FLAMR, \n\nHello from Paris. Thanks for bringing me and Francois together. I'm enjoying all the art here and I feel very safe. There are lots of helpful security guards in yellow jackets.\n\nLove from Dave.",
+    "ru": "Дорогой FLAMR, \n\nПривет из Парижа. Спасибо, что свёл меня и Франсуа. Мне нравится всё искусство здесь, и я чувствую себя в безопасности. Тут много услужливых охранников в жёлтых жилетах.\n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_FOUR",
+    "en": "Dear FLAMR, \n\nHello from Hawaii. Thank you for bringing five strangers together. We are forming a band called The Undesirables. The group is split on the name. Lassy has the final vote but she is being typically silent. \n\nLove Dave.",
+    "ru": "Дорогой FLAMR, \n\nПривет с Гавайев. Спасибо, что свёл пятерых незнакомцев. Мы создаём группу «Нежеланные». Мнения по поводу названия разделились. Лэсси имеет решающий голос, но хранит типичное молчание. \n\nС любовью, Дэйв."
+  },
+  {
+    "key": "POSTCARD_NONE",
+    "en": "Dear FLAMR, \n\nHello from Paris. You couldn't find me love so I travelled to the city of love for some help. Spoiler; still nothing. Please don't take my pub.\n\nLove Dave. \n",
+    "ru": "Дорогой FLAMR, \n\nПривет из Парижа. Ты не смог найти мне любовь, и я поехал в город любви за помощью. Спойлер: тоже ничего. Пожалуйста, не забирайте мой паб.\n\nС любовью, Дэйв. \n"
+  },
+  {
+    "key": "FLAMR_FOUND_LOVE",
+    "en": "YOU FOUND LOVE",
+    "ru": "ВЫ НАШЛИ ЛЮБОВЬ"
+  },
+  {
+    "key": "POSTCARD_DAVE",
+    "en": "Dear FLAMR, \n\nHello from Paris. You couldn't find me love so I travelled to the city of love for some help. Spoiler; I couldnt find any. Please don't take my pub\n\nLove Dave. \n\n",
+    "ru": "Дорогой FLAMR, \n\nПривет из Парижа. Ты не смог найти мне любовь, и я поехал в город любви за помощью. Спойлер: ничего не нашёл. Пожалуйста, не забирайте мой паб.\n\nС любовью, Дэйв. \n\n"
+  },
+  {
+    "key": "POSTCARD_HARRISON_PACE_FAIL",
+    "en": "After failing to find love on FLAMR Lassy returned to his first love; Film. \n\nLassy co-starred in Space Dogs 3: Puppers on Pluto. Lassy's condition gave him a huge advantage when fiming dangerous scenes and still allowed the film makers to state 'No animals were harmed in the making of this film'.",
+    "ru": "Не найдя любви в FLAMR, Лэсси вернулась к первой любви — кино. \n\nЛэсси снялась в «Космических псах 3: Щенки на Плутоне». Состояние Лэсси давало огромное преимущество при съёмках опасных сцен и позволяло создателям заявить «Ни одно животное не пострадало при съёмках этого фильма»."
+  },
+  {
+    "key": "POSTCARD_MYLARNA_FAIL",
+    "en": "After failing to find love on FLAMR Mylarna returned to her first love; Religion.\n\nMylarna created a new online religion Luke-ism. She used the proceeds from this religion to setup a Luke-ism Church in Wincanton, Somerset where she preaches to this day. The local population seem especially receptive to fantastical stories. ",
+    "ru": "Не найдя любви в FLAMR, Миларна вернулась к первой любви — религии.\n\nМиларна создала новую онлайн-религию Люкизм. На вырученные средства она основала храм Люкизма в Уинкантоне, Сомерсет, где проповедует по сей день. Местное население особенно восприимчиво к фантастическим историям. "
+  },
+  {
+    "key": "POSTCARD_DQ4P_FAIL",
+    "en": "After failing to find love on FLAMR D4QP returned to his first love; Electronics. \n\nD4-QP restored numerous popular 90's video game cabinets: Descenters, Family Men and Hypnoface Outjaw. The games were licensed and re-released on home computer by publisher No More Dingbats to huge acclaim. ",
+    "ru": "Не найдя любви в FLAMR, D4QP вернулся к первой любви — электронике. \n\nD4-QP восстановил множество популярных игровых автоматов 90-х: Descenters, Family Men и Hypnoface Outjaw. Игры были лицензированы и переизданы для домашних компьютеров издателем No More Dingbats к бурному восторгу. "
+  },
+  {
+    "key": "POSTCARD_FRANCOIS_FAIL",
+    "en": "After failing to find love on FLAMR Francois returned to his first love; Painting.\n\nFrancois went on a painting pilgrimage attempting to replicate the great renaissance painters styles. Unfortunately one thing held Francois back. He was crap. Life as an art critic was a lot simpler and to this day he is editor of the Toulouse Art Review. ",
+    "ru": "Не найдя любви в FLAMR, Франсуа вернулся к первой любви — живописи.\n\nФрансуа отправился в живописное паломничество, пытаясь повторить стили великих мастеров Ренессанса. К сожалению, одно мешало Франсуа. Он был бездарен. Жизнь арт-критика оказалась гораздо проще, и по сей день он — редактор Тулузского обозрения искусства. "
+  },
+  {
+    "key": "END_OF_GAME_DLC",
+    "en": "Thanks for playing Not Tonight: One Love!",
+    "ru": "Спасибо за игру в Not Tonight: One Love!"
+  },
+  {
+    "key": "ID_EU",
+    "en": "EU",
+    "ru": "EU"
+  },
+  {
+    "key": "TOOLTIP_DENY_ENTRY_2",
+    "en": "Deny Entry",
+    "ru": "Отказать"
+  },
+  {
+    "key": "DEMO_STORE_BUTTON",
+    "en": "Open Store Page",
+    "ru": "Открыть страницу магазина"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_31_DESCRIPTION",
+    "en": "CmdrRabbt Poster",
+    "ru": "Постер CmdrRabbt"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_32_DESCRIPTION",
+    "en": "GodMike Poster",
+    "ru": "Постер GodMike"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_33_DESCRIPTION",
+    "en": "Jimbo Poster",
+    "ru": "Постер Jimbo"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_34_DESCRIPTION",
+    "en": "K3w3l Poster",
+    "ru": "Постер K3w3l"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_35_DESCRIPTION",
+    "en": "Kies Poster",
+    "ru": "Постер Kies"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_36_DESCRIPTION",
+    "en": "KingGrimmer Poster",
+    "ru": "Постер KingGrimmer"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_37_DESCRIPTION",
+    "en": "Lambada Poster",
+    "ru": "Постер Lambada"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_38_DESCRIPTION",
+    "en": "Lukasism Poster",
+    "ru": "Постер Lukasism"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_39_DESCRIPTION",
+    "en": "Moriato Poster",
+    "ru": "Постер Moriato"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_31_DESCRIPTION",
+    "en": "Skeleton Body",
+    "ru": "Тело скелета"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_32_DESCRIPTION",
+    "en": "Skeleton Legs",
+    "ru": "Ноги скелета"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_33_DESCRIPTION",
+    "en": "Skeleton Head",
+    "ru": "Голова скелета"
+  },
+  {
+    "key": "MAIN/LWEB_OUTFIT_34_DESCRIPTION",
+    "en": "Grim Head",
+    "ru": "Голова жнеца"
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_40_DESCRIPTION",
+    "en": "Brick walls.",
+    "ru": "Кирпичные стены."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_41_DESCRIPTION",
+    "en": "Tiled walls.",
+    "ru": "Плиточные стены."
+  },
+  {
+    "key": "MAIN/LWEB_UPGRADE_42_DESCRIPTION",
+    "en": "Wood panel walls. ",
+    "ru": "Деревянные панели. "
+  }
+]

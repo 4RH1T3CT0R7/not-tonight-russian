@@ -1,0 +1,452 @@
+[
+  {
+    "key": "CHAPTER1/INTERIORS10_FAILMESSAGES_3",
+    "en": "Sorry!",
+    "ru": "Извини!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS25_INTROMESSAGES_6",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS25_INTROMESSAGES_7",
+    "en": "Oh dear.",
+    "ru": "Ох ты ж."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS25_INTROMESSAGES_10",
+    "en": "I'm from-",
+    "ru": "Я из-"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS25_INTROMESSAGES_15",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS26_INTROMESSAGES_5",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS29_INTROMESSAGES_9",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS36_INTROMESSAGES_7",
+    "en": "No ticket, no entry.",
+    "ru": "Нет билета — нет входа."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS37_INTROMESSAGES_18",
+    "en": "Great.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS37_OUTROMESSAGES_2",
+    "en": "Will do.",
+    "ru": "Сделаю."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS37_PASSMESSAGES_2",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS38_FAILMESSAGES_3",
+    "en": "Sorry!",
+    "ru": "Извини!"
+  },
+  {
+    "key": "CHAPTER1/INTERIORS38_OUTROMESSAGES_2",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS38_PASSMESSAGES_3",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/INTERIORS3_PASSMESSAGES_3",
+    "en": "Thanks.",
+    "ru": "Спасибо."
+  },
+  {
+    "key": "CHAPTER1/PLOTCLUBBERS1_VISIT1_INTROMESSAGES_1",
+    "en": "Hey",
+    "ru": "Привет"
+  },
+  {
+    "key": "CHAPTER1/PLOTCLUBBERS2_VISIT1_INTROMESSAGES_2",
+    "en": "Neighbour!",
+    "ru": "Сосед!"
+  },
+  {
+    "key": "CHAPTER1/PLOTCLUBBERS2_VISIT4_INTROMESSAGES_1",
+    "en": "Neighbour!",
+    "ru": "Сосед!"
+  },
+  {
+    "key": "CHAPTER1/SPECIALCLUBBERS1_VISIT6_DENIEDMESSAGES_2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER1/SPECIALCLUBBERS1_VISIT6_INTROMESSAGES_1",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER1/SPECIALCLUBBERS1_VISIT6_INTROMESSAGES_3",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER1/TXTIT_CONTACT3_MESSAGESET7_0",
+    "en": "Hey, it's Dave.",
+    "ru": "Привет, это Dave."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_INTROMESSAGES_1",
+    "en": "Ah, #112. You really screwed the souffle this time, eh?",
+    "ru": "Ах, Номер 112. Ну ты и влип на этот раз, а?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_INTROMESSAGES_2",
+    "en": "Bottomed out your social credit score.",
+    "ru": "Твой социальный рейтинг пробил дно."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_INTROMESSAGES_3",
+    "en": "Naughty, naughty.",
+    "ru": "Ай-ай-ай."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_INTROMESSAGES_4",
+    "en": "You're done here, my curry-chomping chum.",
+    "ru": "Тебе тут конец, мой сосискожующий дружок."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_INTROMESSAGES_5",
+    "en": "Least you lasted longer than #111.",
+    "ru": "По крайней мере, ты продержался дольше Номера 111."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_INTROMESSAGES_6",
+    "en": "Come on. You got a new room ready at our maximum security re-education unit.",
+    "ru": "Пошли. Тебе уже приготовили комнатку в нашем исправительном центре максимальной безопасности."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_INTROMESSAGES_7",
+    "en": "They say it's Hell on Earth.",
+    "ru": "Говорят, это ад на земле."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR100_INTROMESSAGES_8",
+    "en": "Between you and me, it's actually Feltham.",
+    "ru": "Между нами — это Фелтхэм."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR11_INTROMESSAGES_1",
+    "en": "Ah #112.",
+    "ru": "Ах, #112."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR12_INTROMESSAGES_35",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR14_INTROMESSAGES_13",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR14_INTROMESSAGES_18",
+    "en": "I- ",
+    "ru": "Я- "
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR15_INTROMESSAGES_2",
+    "en": "Fine.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_INTROMESSAGES_6",
+    "en": "I-",
+    "ru": "Я-"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR16_INTROMESSAGES_10",
+    "en": "I'm from-",
+    "ru": "Я из-"
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR21_INTROMESSAGES_11",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR22_INTROMESSAGES_16",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR28_INTROMESSAGES_8",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR31_INTROMESSAGES_10",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR7_INTROMESSAGES_11",
+    "en": "Not tonight.",
+    "ru": "Не сегодня."
+  },
+  {
+    "key": "CHAPTER2/FLATCHARACTER_VISITOR9_INTROMESSAGES_1",
+    "en": "Mylarna.",
+    "ru": "Mylarna."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_INTROMESSAGES_14",
+    "en": "Yes.",
+    "ru": "Да."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS13_INTROMESSAGES_22",
+    "en": "OK.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS1_INTROMESSAGES_6",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS23_INTROMESSAGES_3",
+    "en": "Listen.",
+    "ru": "Слушай."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_INTROMESSAGES_9",
+    "en": "Naturally.",
+    "ru": "Естественно."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS28_OUTROMESSAGES_3",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS29_OUTROMESSAGES_3",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS5_INTROMESSAGES_5",
+    "en": "Great.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS9_INTROMESSAGES_9",
+    "en": "I'm going home.",
+    "ru": "Я иду домой."
+  },
+  {
+    "key": "CHAPTER2/INTERIORS9_INTROMESSAGES_18",
+    "en": "Really?",
+    "ru": "Серьёзно?"
+  },
+  {
+    "key": "CHAPTER2/SHAREDINTERIORS_BEACH_BAR_PASSMESSAGES_2",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS1_VISIT5_INTROMESSAGES_1",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/SPECIALCLUBBERS1_VISIT5_INTROMESSAGES_2",
+    "en": "...",
+    "ru": "..."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET1_0",
+    "en": "Hey-hey. Your friendly neighbourhood officer here.",
+    "ru": "Привет-привет. Твой дружелюбный участковый офицер на связи."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET1_3",
+    "en": "I'm coming to visit tomorrow. Tidy up.",
+    "ru": "Завтра приду с проверкой. Приберись."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET1_4",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT1_MESSAGESET2_2",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET4_2",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET4_4",
+    "en": "Great.",
+    "ru": "Отлично."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET5_2",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT2_MESSAGESET5_5",
+    "en": "Ok.",
+    "ru": "Ладно."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_0",
+    "en": "Hey, it's Dave. King's Head Dave. ",
+    "ru": "Привет, это Dave. Dave из King's Head. "
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_1",
+    "en": "Just Dave now, I guess.",
+    "ru": "Теперь просто Dave, наверное."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_2",
+    "en": "You saw the news? King's Head was burnt down. Bastards.",
+    "ru": "Видел новости? King's Head сожгли. Ублюдки."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_3",
+    "en": "Come see me on Friday.",
+    "ru": "Приходи ко мне в пятницу."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_4",
+    "en": "Need to talk to you. Check BouncR. Take the gig.",
+    "ru": "Надо поговорить. Проверь BouncR. Бери заказ."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET3_5",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET4_4",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET5_1",
+    "en": "Now we just need a working computer.",
+    "ru": "Теперь нам нужен рабочий компьютер."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET5_2",
+    "en": "You know. To send off the footage.",
+    "ru": "Ну, ты понимаешь. Чтобы отправить запись."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET5_3",
+    "en": "Just plug the USB into any machine. It'll do the rest.",
+    "ru": "Просто воткни флешку в любой комп. Она сделает всё сама."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT3_MESSAGESET5_4",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT5_MESSAGESET1_3",
+    "en": "OK.",
+    "ru": "Понял."
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET1_5",
+    "en": "Our secret, okay? xOxOxOx ;-) :-) ",
+    "ru": "Это наш секрет, ладно? xOxOxOx ;-) :-) "
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_0",
+    "en": "Doug, please! I can't keep doing this :-(",
+    "ru": "Даг, пожалуйста! Я так больше не могу :-("
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_1",
+    "en": "How was I meant to know prosecco was Italian!?",
+    "ru": "Откуда мне было знать, что просекко — итальянское!?"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_2",
+    "en": "Come on. Enough's enough!",
+    "ru": "Ну хватит. Хватит уже!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_3",
+    "en": "???",
+    "ru": "???"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_4",
+    "en": "Oh crap! Sorry #112 :-(",
+    "ru": "Ой блин! Прости, #112 :-("
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_5",
+    "en": "Not for you, pet :-(",
+    "ru": "Это не тебе, зайчик :-("
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_6",
+    "en": "See you Wednesday with more great Shonkytonk savings!!!!",
+    "ru": "Увидимся в среду с новыми скидками от Шонкитонка!!!!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT7_MESSAGESET2_7",
+    "en": "Ok",
+    "ru": "Ладно"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_4",
+    "en": "What?",
+    "ru": "Что?"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_5",
+    "en": "no she was really receptive to the idea!!!!!",
+    "ru": "нет она прям загорелась этой идеей!!!!!"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_6",
+    "en": "anyway saved a lot from not clubbing and figured id give it to charity",
+    "ru": "короче сэкономила кучу денег без клубов и решила отдать на благотворительность"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_7",
+    "en": "you know poor unfortunates. smelly, illiterate, hopeless and stuff",
+    "ru": "ну знаешь бедные несчастные. вонючие неграмотные безнадёжные и всё такое"
+  },
+  {
+    "key": "CHAPTER2/TXTIT_CONTACT8_MESSAGESET0_8",
+    "en": "so here you go! peace - shannon",
+    "ru": "короче вот тебе! мир - шаннон"
+  }
+]
