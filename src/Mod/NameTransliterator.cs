@@ -220,6 +220,9 @@ namespace NotTonightRussian
                 {
                     // Rule-based fallback
                     string transliterated = TransliterateWord(w);
+                    // Preserve ALL CAPS pattern (same as known-name branch)
+                    if (IsAllUpper(w) && transliterated.Length > 0)
+                        transliterated = transliterated.ToUpper();
                     sb.Append(transliterated);
                 }
             }
@@ -300,8 +303,24 @@ namespace NotTonightRussian
         {
             if (word == null || word.Length == 0) return word;
 
-            StringBuilder sb = new StringBuilder();
+            // Handle Mc/Mac prefix: McSomething → Мак + transliterate(Something)
             string lower = word.ToLower();
+            if (lower.Length > 3 && lower.StartsWith("mc") && char.IsUpper(word[2]))
+            {
+                string rest = word.Substring(2);
+                string restRu = TransliterateWord(rest);
+                bool cap = char.IsUpper(word[0]);
+                return (cap ? "Мак" : "мак") + restRu.ToLower();
+            }
+            if (lower.Length > 4 && lower.StartsWith("mac") && char.IsUpper(word[3]))
+            {
+                string rest = word.Substring(3);
+                string restRu = TransliterateWord(rest);
+                bool cap = char.IsUpper(word[0]);
+                return (cap ? "Мак" : "мак") + restRu.ToLower();
+            }
+
+            StringBuilder sb = new StringBuilder();
             int len = lower.Length;
             bool capitalize = char.IsUpper(word[0]);
 

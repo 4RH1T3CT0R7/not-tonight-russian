@@ -15,7 +15,7 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.0.0")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.1.0")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
         private bool _injected = false;
@@ -23,7 +23,7 @@ namespace NotTonightRussian
 
         void Awake()
         {
-            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.0.0");
+            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.1.0");
             UILabel_Patch.Log = Logger;
 
             InstallFontToUserDir();

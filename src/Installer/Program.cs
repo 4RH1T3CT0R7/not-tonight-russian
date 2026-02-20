@@ -6,6 +6,7 @@ using System.Drawing.Drawing2D;
 using System.IO;
 using System.IO.Compression;
 using System.Reflection;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using Microsoft.Win32;
 
@@ -27,7 +28,12 @@ namespace NotTonightRussianInstaller
         private Label statusLabel;
         private BackgroundWorker worker;
 
-        private const string ModVersion = "1.0.0";
+        private const string ModVersion = "1.1.0";
+
+        // Game exe can be either "Not Tonight.exe" or "NotTonight.exe"
+        private static readonly string[] GameExeNames = { "Not Tonight.exe", "NotTonight.exe" };
+        // Game folder can be either "Not Tonight" or "NotTonight"
+        private static readonly string[] GameFolderNames = { "Not Tonight", "NotTonight" };
 
         public InstallerForm()
         {
@@ -48,15 +54,22 @@ namespace NotTonightRussianInstaller
             this.MaximizeBox = false;
             this.FormBorderStyle = FormBorderStyle.FixedSingle;
             this.StartPosition = FormStartPosition.CenterScreen;
-            this.Font = new Font("Segoe UI", 9f);
             this.BackColor = Color.FromArgb(24, 24, 32);
             this.ForeColor = Color.FromArgb(220, 220, 230);
+
+            // DPI scaling support
+            this.AutoScaleDimensions = new SizeF(96F, 96F);
+            this.AutoScaleMode = AutoScaleMode.Dpi;
+
+            // Font with fallback
+            Font baseFont = CreateFont(9f);
+            this.Font = baseFont;
 
             // Title
             titleLabel = new Label
             {
                 Text = "Not Tonight \u2014 \u0420\u0443\u0441\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440",
-                Font = new Font("Segoe UI", 18f, FontStyle.Bold),
+                Font = CreateFont(18f, FontStyle.Bold),
                 ForeColor = Color.FromArgb(255, 80, 80),
                 AutoSize = true,
                 Location = new Point(20, 15)
@@ -65,7 +78,7 @@ namespace NotTonightRussianInstaller
             versionLabel = new Label
             {
                 Text = "\u0412\u0435\u0440\u0441\u0438\u044f " + ModVersion + "  |  Artem Lytkin (4RH1T3CT0R)",
-                Font = new Font("Segoe UI", 8.5f),
+                Font = CreateFont(8.5f),
                 ForeColor = Color.FromArgb(140, 140, 160),
                 AutoSize = true,
                 Location = new Point(22, 52)
@@ -130,7 +143,7 @@ namespace NotTonightRussianInstaller
                 FlatStyle = FlatStyle.Flat,
                 BackColor = Color.FromArgb(40, 100, 60),
                 ForeColor = Color.White,
-                Font = new Font("Segoe UI", 10f, FontStyle.Bold)
+                Font = CreateFont(10f, FontStyle.Bold)
             };
             installButton.FlatAppearance.BorderColor = Color.FromArgb(60, 140, 80);
             installButton.Click += InstallButton_Click;
@@ -143,7 +156,7 @@ namespace NotTonightRussianInstaller
                 FlatStyle = FlatStyle.Flat,
                 BackColor = Color.FromArgb(100, 40, 40),
                 ForeColor = Color.White,
-                Font = new Font("Segoe UI", 10f)
+                Font = CreateFont(10f)
             };
             uninstallButton.FlatAppearance.BorderColor = Color.FromArgb(140, 60, 60);
             uninstallButton.Click += UninstallButton_Click;
@@ -174,7 +187,7 @@ namespace NotTonightRussianInstaller
                 BackColor = Color.FromArgb(16, 16, 24),
                 ForeColor = Color.FromArgb(180, 180, 200),
                 BorderStyle = BorderStyle.FixedSingle,
-                Font = new Font("Consolas", 8.5f),
+                Font = CreateFont(8.5f, FontStyle.Regular, "Consolas"),
                 ScrollBars = RichTextBoxScrollBars.Vertical
             };
 
@@ -191,6 +204,41 @@ namespace NotTonightRussianInstaller
                 infoGroup, installButton, uninstallButton, progressBar,
                 statusLabel, logBox
             });
+        }
+
+        /// <summary>
+        /// Create a font with fallback: tries preferred family, then Segoe UI, then system default.
+        /// </summary>
+        private static Font CreateFont(float size, FontStyle style = FontStyle.Regular, string preferred = "Segoe UI")
+        {
+            string[] families = { preferred, "Segoe UI", "Tahoma", "Arial" };
+            foreach (var name in families)
+            {
+                try
+                {
+                    var f = new Font(name, size, style);
+                    if (f.Name.Equals(name, StringComparison.OrdinalIgnoreCase))
+                        return f;
+                    f.Dispose();
+                }
+                catch { }
+            }
+            return new Font(SystemFonts.DefaultFont.FontFamily, size, style);
+        }
+
+        /// <summary>
+        /// Find the game exe in the given folder. Returns full path or null.
+        /// Checks both "Not Tonight.exe" and "NotTonight.exe".
+        /// </summary>
+        private static string FindGameExe(string folder)
+        {
+            foreach (var name in GameExeNames)
+            {
+                string path = Path.Combine(folder, name);
+                if (File.Exists(path))
+                    return path;
+            }
+            return null;
         }
 
         private void BrowseButton_Click(object sender, EventArgs e)
@@ -260,12 +308,12 @@ namespace NotTonightRussianInstaller
                 return;
             }
 
-            string exePath = Path.Combine(gamePath, "Not Tonight.exe");
-            if (!File.Exists(exePath))
+            if (FindGameExe(gamePath) == null)
             {
                 MessageBox.Show(
-                    "\u0424\u0430\u0439\u043b \"Not Tonight.exe\" \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d \u0432:\n" + gamePath +
-                    "\n\n\u041f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u043f\u0443\u0442\u044c \u0438 \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0441\u043d\u043e\u0432\u0430.",
+                    "\u0424\u0430\u0439\u043b \u0438\u0433\u0440\u044b \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d \u0432:\n" + gamePath +
+                    "\n\n\u041f\u0440\u043e\u0432\u0435\u0440\u044c\u0442\u0435 \u043f\u0443\u0442\u044c \u0438 \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0439\u0442\u0435 \u0441\u043d\u043e\u0432\u0430.\n\n" +
+                    "\u041e\u0436\u0438\u0434\u0430\u0435\u0442\u0441\u044f: Not Tonight.exe \u0438\u043b\u0438 NotTonight.exe",
                     "\u041e\u0448\u0438\u0431\u043a\u0430", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
@@ -273,6 +321,8 @@ namespace NotTonightRussianInstaller
             try
             {
                 var procs = Process.GetProcessesByName("Not Tonight");
+                if (procs.Length == 0)
+                    procs = Process.GetProcessesByName("NotTonight");
                 if (procs.Length > 0)
                 {
                     MessageBox.Show(
@@ -512,27 +562,30 @@ namespace NotTonightRussianInstaller
         {
             // Method 1: Common Steam library paths
             string[] drives = { "C", "D", "E", "F", "G", "H" };
-            string[] prefixes =
+            string[] steamRoots =
             {
-                @":\Program Files (x86)\Steam\steamapps\common\Not Tonight",
-                @":\Program Files\Steam\steamapps\common\Not Tonight",
-                @":\Steam\steamapps\common\Not Tonight",
-                @":\SteamLibrary\steamapps\common\Not Tonight",
-                @":\Games\Steam\steamapps\common\Not Tonight",
-                @":\Games\SteamLibrary\steamapps\common\Not Tonight"
+                @":\Program Files (x86)\Steam\steamapps\common",
+                @":\Program Files\Steam\steamapps\common",
+                @":\Steam\steamapps\common",
+                @":\SteamLibrary\steamapps\common",
+                @":\Games\Steam\steamapps\common",
+                @":\Games\SteamLibrary\steamapps\common"
             };
 
             foreach (var drive in drives)
             {
-                foreach (var prefix in prefixes)
+                foreach (var root in steamRoots)
                 {
-                    string path = drive + prefix;
-                    if (File.Exists(Path.Combine(path, "Not Tonight.exe")))
-                        return path;
+                    foreach (var folder in GameFolderNames)
+                    {
+                        string path = drive + root + "\\" + folder;
+                        if (FindGameExe(path) != null)
+                            return path;
+                    }
                 }
             }
 
-            // Method 2: Steam registry
+            // Method 2: Steam registry + libraryfolders.vdf
             try
             {
                 using (var key = Registry.CurrentUser.OpenSubKey(@"Software\Valve\Steam"))
@@ -544,10 +597,15 @@ namespace NotTonightRussianInstaller
                         {
                             steamPath = steamPath.Replace("/", "\\");
 
-                            string mainLib = Path.Combine(steamPath, "steamapps", "common", "Not Tonight");
-                            if (File.Exists(Path.Combine(mainLib, "Not Tonight.exe")))
-                                return mainLib;
+                            // Check main Steam library
+                            foreach (var folder in GameFolderNames)
+                            {
+                                string mainLib = Path.Combine(steamPath, "steamapps", "common", folder);
+                                if (FindGameExe(mainLib) != null)
+                                    return mainLib;
+                            }
 
+                            // Check additional libraries from VDF
                             string vdfPath = Path.Combine(steamPath, "steamapps", "libraryfolders.vdf");
                             if (File.Exists(vdfPath))
                             {
@@ -562,9 +620,12 @@ namespace NotTonightRussianInstaller
                                     int q2 = vdf.IndexOf("\"", q1 + 1);
                                     if (q2 < 0) break;
                                     string libPath = vdf.Substring(q1 + 1, q2 - q1 - 1).Replace("\\\\", "\\");
-                                    string check = Path.Combine(libPath, "steamapps", "common", "Not Tonight");
-                                    if (File.Exists(Path.Combine(check, "Not Tonight.exe")))
-                                        return check;
+                                    foreach (var folder in GameFolderNames)
+                                    {
+                                        string check = Path.Combine(libPath, "steamapps", "common", folder);
+                                        if (FindGameExe(check) != null)
+                                            return check;
+                                    }
                                     idx = q2 + 1;
                                 }
                             }
@@ -574,9 +635,9 @@ namespace NotTonightRussianInstaller
             }
             catch { }
 
-            // Method 3: Installer next to game
+            // Method 3: Installer placed next to game exe
             string selfDir = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-            if (File.Exists(Path.Combine(selfDir, "Not Tonight.exe")))
+            if (!string.IsNullOrEmpty(selfDir) && FindGameExe(selfDir) != null)
                 return selfDir;
 
             return null;
@@ -605,9 +666,15 @@ namespace NotTonightRussianInstaller
 
     static class Program
     {
+        [DllImport("user32.dll")]
+        private static extern bool SetProcessDPIAware();
+
         [STAThread]
         static void Main()
         {
+            // Enable DPI awareness before any UI is created
+            try { SetProcessDPIAware(); } catch { }
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new InstallerForm());
