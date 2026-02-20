@@ -15,7 +15,7 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.1.0")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.2.0")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
         private bool _injected = false;
@@ -23,7 +23,7 @@ namespace NotTonightRussian
 
         void Awake()
         {
-            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.1.0");
+            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.2.0");
             UILabel_Patch.Log = Logger;
 
             InstallFontToUserDir();
@@ -71,15 +71,16 @@ namespace NotTonightRussian
             SceneManager.sceneLoaded += OnSceneLoaded;
         }
 
+        // Font files to install: { filename, registry display name }
+        private static readonly string[][] FontsToInstall = new string[][]
+        {
+            new string[] { "LanaPixel.ttf", "LanaPixel (TrueType)" },
+            new string[] { "PressStart2P-Regular.ttf", "Press Start 2P (TrueType)" },
+        };
+
         void InstallFontToUserDir()
         {
             string pluginDir = Path.GetDirectoryName(Info.Location);
-            string srcFont = Path.Combine(pluginDir, "PressStart2P-Regular.ttf");
-            if (!File.Exists(srcFont))
-            {
-                Logger.LogWarning("Source font not found: " + srcFont);
-                return;
-            }
 
             try
             {
@@ -89,26 +90,36 @@ namespace NotTonightRussian
                 userFontsDir = Path.Combine(userFontsDir, "Fonts");
                 Directory.CreateDirectory(userFontsDir);
 
-                string destFont = Path.Combine(userFontsDir, "PressStart2P-Regular.ttf");
-                if (!File.Exists(destFont))
+                foreach (var font in FontsToInstall)
                 {
-                    File.Copy(srcFont, destFont, true);
-                    Logger.LogInfo("Copied font to: " + destFont);
-
-                    // Register in per-user font registry
-                    using (var key = Registry.CurrentUser.OpenSubKey(
-                        @"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", true))
+                    string srcFont = Path.Combine(pluginDir, font[0]);
+                    if (!File.Exists(srcFont))
                     {
-                        if (key != null)
+                        Logger.LogWarning("Font not found: " + srcFont);
+                        continue;
+                    }
+
+                    string destFont = Path.Combine(userFontsDir, font[0]);
+                    if (!File.Exists(destFont))
+                    {
+                        File.Copy(srcFont, destFont, true);
+                        Logger.LogInfo("Installed font: " + font[0]);
+
+                        // Register in per-user font registry
+                        using (var key = Registry.CurrentUser.OpenSubKey(
+                            @"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", true))
                         {
-                            key.SetValue("Press Start 2P (TrueType)", destFont);
-                            Logger.LogInfo("Registered font in user registry");
+                            if (key != null)
+                            {
+                                key.SetValue(font[1], destFont);
+                                Logger.LogInfo("Registered: " + font[1]);
+                            }
                         }
                     }
-                }
-                else
-                {
-                    Logger.LogInfo("Font already installed in user fonts dir");
+                    else
+                    {
+                        Logger.LogInfo("Font already installed: " + font[0]);
+                    }
                 }
             }
             catch (Exception ex)

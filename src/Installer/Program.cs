@@ -12,6 +12,14 @@ using Microsoft.Win32;
 
 namespace NotTonightRussianInstaller
 {
+    // P/Invoke for unblocking files (remove Zone.Identifier ADS)
+    static class NativeMethods
+    {
+        [DllImport("kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
+        [return: MarshalAs(UnmanagedType.Bool)]
+        public static extern bool DeleteFile(string lpFileName);
+    }
+
     public class InstallerForm : Form
     {
         private Label titleLabel;
@@ -28,7 +36,7 @@ namespace NotTonightRussianInstaller
         private Label statusLabel;
         private BackgroundWorker worker;
 
-        private const string ModVersion = "1.1.0";
+        private const string ModVersion = "1.2.0";
 
         // Game exe can be either "Not Tonight.exe" or "NotTonight.exe"
         private static readonly string[] GameExeNames = { "Not Tonight.exe", "NotTonight.exe" };
@@ -657,6 +665,9 @@ namespace NotTonightRussianInstaller
                 string rel = file.Substring(source.Length).TrimStart('\\');
                 string dest = Path.Combine(target, rel);
                 File.Copy(file, dest, true);
+                // Remove Windows "downloaded from internet" block — without this,
+                // .NET/Mono refuses to load BepInEx DLLs on other users' machines
+                NativeMethods.DeleteFile(dest + ":Zone.Identifier");
                 count++;
             }
 
