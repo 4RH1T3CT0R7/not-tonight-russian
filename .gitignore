@@ -24,12 +24,20 @@ release.bat
 # Built DLL (CI builds it)
 data/BepInEx/plugins/NotTonightRussian/NotTonightRussian.dll
 
+# XML docs in BepInEx core (not needed at runtime)
+data/BepInEx/core/*.xml
+
 # Debug symbols
 *.pdb
 
 # Generated archives
 src/Installer/data.zip
 NotTonightRussian-Data.zip
+
+# Framework DLLs (not needed — only game-specific refs in libs/)
+libs/mscorlib.dll
+libs/System.dll
+libs/System.Core.dll
 
 # OS
 Thumbs.db
