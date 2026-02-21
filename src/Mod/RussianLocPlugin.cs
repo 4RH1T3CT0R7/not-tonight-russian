@@ -15,24 +15,55 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.3.0")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.4.0")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
         // Win32: register font for current session (available immediately, no restart needed)
         [DllImport("gdi32.dll", CharSet = CharSet.Unicode)]
         private static extern int AddFontResourceEx(string lpszFilename, uint fl, IntPtr pdv);
 
+        // Win32: broadcast font change to all windows so Unity picks up newly registered fonts
+        [DllImport("user32.dll")]
+        private static extern IntPtr SendMessage(IntPtr hWnd, uint Msg, IntPtr wParam, IntPtr lParam);
+
+        private const uint WM_FONTCHANGE = 0x001D;
+        private static readonly IntPtr HWND_BROADCAST = new IntPtr(0xFFFF);
+
         private bool _injected = false;
         internal static Font CyrillicFont;
         internal static bool IsPixelFont = false; // true if LanaPixel/PressStart2P, false if Arial fallback
 
+        // Diagnostic log for remote debugging (users can share this file)
+        private static StringBuilder _diag = new StringBuilder();
+        private static string _diagPath;
+
+        internal static void DiagLog(string msg)
+        {
+            _diag.AppendLine("[" + DateTime.Now.ToString("HH:mm:ss.fff") + "] " + msg);
+        }
+
+        internal static void DiagFlush()
+        {
+            if (_diagPath != null && _diag.Length > 0)
+            {
+                try { File.WriteAllText(_diagPath, _diag.ToString(), Encoding.UTF8); }
+                catch { }
+            }
+        }
+
         void Awake()
         {
-            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.3.0");
+            string pluginDir = Path.GetDirectoryName(Info.Location);
+            _diagPath = Path.Combine(pluginDir, "NotTonightRussian_diag.txt");
+
+            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.4.0");
+            DiagLog("=== Not Tonight Russian v1.4.0 ===");
+            DiagLog("Plugin dir: " + pluginDir);
             UILabel_Patch.Log = Logger;
 
             InstallFontToUserDir();
             FindCyrillicFont();
+            DiagFlush();
 
             // Apply Harmony patches
             try
@@ -49,10 +80,12 @@ namespace NotTonightRussian
                         BindingFlags.Static | BindingFlags.Public);
                     harmony.Patch(original, new HarmonyMethod(prefix));
                     Logger.LogInfo("Patched UILabel.ProcessText()");
+                    DiagLog("Harmony: Patched UILabel.ProcessText()");
                 }
                 else
                 {
                     Logger.LogWarning("UILabel.ProcessText() not found, trying other overloads...");
+                    DiagLog("Harmony: ProcessText() not found, trying overloads...");
                     var methods = typeof(UILabel).GetMethods(
                         BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
                     foreach (var m in methods)
@@ -63,6 +96,7 @@ namespace NotTonightRussian
                                 BindingFlags.Static | BindingFlags.Public);
                             harmony.Patch(m, new HarmonyMethod(prefix));
                             Logger.LogInfo("Patched first ProcessText overload");
+                            DiagLog("Harmony: Patched first ProcessText overload");
                             break;
                         }
                     }
@@ -71,8 +105,10 @@ namespace NotTonightRussian
             catch (Exception ex)
             {
                 Logger.LogError("Harmony patch error: " + ex.Message);
+                DiagLog("Harmony ERROR: " + ex.Message);
             }
 
+            DiagFlush();
             SceneManager.sceneLoaded += OnSceneLoaded;
         }
 
@@ -88,6 +124,7 @@ namespace NotTonightRussian
             string pluginDir = Path.GetDirectoryName(Info.Location);
 
             // Step 1: Register fonts from plugin dir for CURRENT session (immediate availability)
+            bool anyRegistered = false;
             foreach (var font in FontsToInstall)
             {
                 string srcFont = Path.Combine(pluginDir, font[0]);
@@ -97,11 +134,35 @@ namespace NotTonightRussian
                     {
                         int result = AddFontResourceEx(srcFont, 0, IntPtr.Zero);
                         Logger.LogInfo("AddFontResourceEx(" + font[0] + ") = " + result);
+                        DiagLog("AddFontResourceEx(" + font[0] + ") = " + result + " (file: " + srcFont + ")");
+                        if (result > 0) anyRegistered = true;
                     }
                     catch (Exception ex)
                     {
                         Logger.LogWarning("AddFontResourceEx failed: " + ex.Message);
+                        DiagLog("AddFontResourceEx FAILED: " + ex.Message);
                     }
+                }
+                else
+                {
+                    Logger.LogWarning("Font file not found: " + srcFont);
+                    DiagLog("Font file NOT FOUND: " + srcFont);
+                }
+            }
+
+            // Broadcast WM_FONTCHANGE so Unity picks up newly registered fonts
+            if (anyRegistered)
+            {
+                try
+                {
+                    SendMessage(HWND_BROADCAST, WM_FONTCHANGE, IntPtr.Zero, IntPtr.Zero);
+                    Logger.LogInfo("Sent WM_FONTCHANGE broadcast");
+                    DiagLog("WM_FONTCHANGE broadcast sent");
+                }
+                catch (Exception ex)
+                {
+                    Logger.LogWarning("WM_FONTCHANGE failed: " + ex.Message);
+                    DiagLog("WM_FONTCHANGE FAILED: " + ex.Message);
                 }
             }
 
@@ -123,6 +184,7 @@ namespace NotTonightRussian
                     {
                         File.Copy(srcFont, destFont, true);
                         Logger.LogInfo("Installed font: " + font[0]);
+                        DiagLog("Installed font to user dir: " + destFont);
 
                         using (var key = Registry.CurrentUser.OpenSubKey(
                             @"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", true))
@@ -134,18 +196,27 @@ namespace NotTonightRussian
                             }
                         }
                     }
+                    else
+                    {
+                        DiagLog("Font already in user dir: " + destFont);
+                    }
                 }
             }
             catch (Exception ex)
             {
                 Logger.LogWarning("Font install error: " + ex.Message);
+                DiagLog("Font install error: " + ex.Message);
             }
         }
 
         Font TryLoadFont(string name)
         {
             Font f = Font.CreateDynamicFontFromOSFont(name, 16);
-            if (f == null || !f.dynamic) return null;
+            if (f == null || !f.dynamic)
+            {
+                DiagLog("TryLoadFont('" + name + "'): null or not dynamic");
+                return null;
+            }
 
             // Verify it's actually this font, not Arial fallback
             f.RequestCharactersInTexture("ТЙ", 16);
@@ -160,15 +231,35 @@ namespace NotTonightRussian
             if (ci.advance != arialCi.advance)
             {
                 Logger.LogInfo("Font '" + name + "': advance=" + ci.advance + " (Arial=" + arialCi.advance + ") - OK");
+                DiagLog("TryLoadFont('" + name + "'): advance=" + ci.advance + " (Arial=" + arialCi.advance + ") -> OK");
                 return f;
             }
 
             Logger.LogInfo("Font '" + name + "': advance=" + ci.advance + " = Arial, skipping");
+            DiagLog("TryLoadFont('" + name + "'): advance=" + ci.advance + " = Arial=" + arialCi.advance + " -> REJECTED (same as Arial)");
             return null;
         }
 
         void FindCyrillicFont()
         {
+            // Log available OS fonts for diagnostics
+            try
+            {
+                string[] osFonts = Font.GetOSInstalledFontNames();
+                DiagLog("OS fonts count: " + osFonts.Length);
+                // Log only fonts containing "lana", "press", "pixel" (case-insensitive)
+                foreach (string fn in osFonts)
+                {
+                    string lower = fn.ToLower();
+                    if (lower.Contains("lana") || lower.Contains("press") || lower.Contains("pixel"))
+                        DiagLog("  OS font match: '" + fn + "'");
+                }
+            }
+            catch (Exception ex)
+            {
+                DiagLog("GetOSInstalledFontNames error: " + ex.Message);
+            }
+
             // Try pixel fonts in preference order: LanaPixel (11px, best Cyrillic), Press Start 2P (8px)
             string[] candidates = new string[] {
                 "LanaPixel",
@@ -185,6 +276,7 @@ namespace NotTonightRussian
                     IsPixelFont = true;
                     UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
                     Logger.LogInfo("Using pixel font: " + name);
+                    DiagLog("RESULT: Using pixel font '" + name + "', IsPixelFont=true");
                     return;
                 }
             }
@@ -192,17 +284,23 @@ namespace NotTonightRussian
             // Fallback: Arial
             IsPixelFont = false;
             Logger.LogInfo("No pixel font found, using Arial");
+            DiagLog("RESULT: No pixel font found, using Arial, IsPixelFont=false");
             CyrillicFont = Font.CreateDynamicFontFromOSFont("Arial", 16);
             if (CyrillicFont != null)
                 UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
 
             if (CyrillicFont == null)
+            {
                 Logger.LogError("No Cyrillic font available!");
+                DiagLog("CRITICAL: No Cyrillic font available at all!");
+            }
         }
 
         void OnSceneLoaded(Scene scene, LoadSceneMode mode)
         {
             Logger.LogInfo("Scene: " + scene.name);
+            DiagLog("Scene loaded: " + scene.name);
+            DiagFlush();
             if (!_injected)
             {
                 StartCoroutine(InjectWithDelay());
@@ -246,6 +344,8 @@ namespace NotTonightRussian
                     if (label.trueTypeFont != CyrillicFont)
                     {
                         int origSize = label.fontSize;
+                        // Clear bitmapFont explicitly before setting trueTypeFont
+                        label.bitmapFont = null;
                         label.trueTypeFont = CyrillicFont;
                         label.fontSize = origSize;
                         swapped++;
@@ -353,6 +453,7 @@ namespace NotTonightRussian
     public static class UILabel_Patch
     {
         internal static ManualLogSource Log;
+        private static int _msgObjectLogCount = 0; // limit diagnostic spam
 
         // Dynamic text translations for strings not in I2 (venue names, map labels, etc.)
         private static readonly Dictionary<string, string> DynamicTranslations =
@@ -633,20 +734,50 @@ namespace NotTonightRussian
 
             if (__instance.trueTypeFont != RussianLocPlugin.CyrillicFont)
             {
-                __instance.trueTypeFont = RussianLocPlugin.CyrillicFont;
-
                 int origSize = __instance.fontSize;
                 string snippet = __instance.text != null
                     ? __instance.text.Replace("\n", "\\n")
                     : "";
-                if (snippet.Length > 40) snippet = snippet.Substring(0, 40);
+                if (snippet.Length > 60) snippet = snippet.Substring(0, 60);
+
+                bool isMsgObject = __instance.gameObject.name.Contains("MsgObject");
+                bool isRadioMsg = __instance.gameObject.name.Contains("RadioMsg");
+
+                // Diagnostic logging for dialog labels (first 50 per type)
+                if ((isMsgObject || isRadioMsg) && _msgObjectLogCount < 50)
+                {
+                    _msgObjectLogCount++;
+                    string bfName = "null";
+                    try { if (__instance.bitmapFont != null) bfName = __instance.bitmapFont.name; } catch { }
+                    string ttfName = "null";
+                    try { if (__instance.trueTypeFont != null) ttfName = __instance.trueTypeFont.name; } catch { }
+
+                    string diagMsg = "DIALOG #" + _msgObjectLogCount + ": "
+                        + __instance.gameObject.name
+                        + " bitmapFont=" + bfName
+                        + " trueTypeFont=" + ttfName
+                        + " origSz=" + origSize
+                        + " ov=" + __instance.overflowMethod
+                        + " w=" + __instance.width + " h=" + __instance.height
+                        + " IsPixelFont=" + RussianLocPlugin.IsPixelFont
+                        + " [" + snippet + "]";
+                    if (Log != null) Log.LogInfo(diagMsg);
+                    RussianLocPlugin.DiagLog(diagMsg);
+                    RussianLocPlugin.DiagFlush();
+                }
+
+                // Clear bitmapFont explicitly before setting trueTypeFont
+                // (trueTypeFont setter does this internally, but we do it explicitly to be safe)
+                try { __instance.bitmapFont = null; } catch { }
+
+                __instance.trueTypeFont = RussianLocPlugin.CyrillicFont;
 
                 // Cinematic titles (sz=100, huge widgets)
                 if (origSize >= 80)
                     __instance.fontSize = 40;
 
                 // Dialog speech bubbles (MsgObjectInput clones, sz=60)
-                if (__instance.gameObject.name.Contains("MsgObject"))
+                if (isMsgObject)
                 {
                     if (RussianLocPlugin.IsPixelFont)
                     {
@@ -660,15 +791,17 @@ namespace NotTonightRussian
                     }
                     else
                     {
-                        // Arial/system font: larger line height, \n would push text out of bounds
-                        if (__instance.fontSize > 18)
-                            __instance.fontSize = 18;
+                        // Arial/system font: use size 24 (not 18, which was too small)
+                        if (__instance.fontSize > 24)
+                            __instance.fontSize = 24;
                         __instance.useFloatSpacing = true;
-                        __instance.floatSpacingY = -2f;
+                        __instance.floatSpacingY = -4f;
+                        // Force ShrinkContent to prevent text clipping
+                        __instance.overflowMethod = UILabel.Overflow.ShrinkContent;
                     }
                 }
                 // Radio message (RadioMsg, origSz=60)
-                else if (__instance.gameObject.name.Contains("RadioMsg"))
+                else if (isRadioMsg)
                 {
                     if (RussianLocPlugin.IsPixelFont)
                     {
@@ -681,10 +814,11 @@ namespace NotTonightRussian
                     }
                     else
                     {
-                        if (__instance.fontSize > 22)
-                            __instance.fontSize = 22;
+                        if (__instance.fontSize > 26)
+                            __instance.fontSize = 26;
                         __instance.useFloatSpacing = true;
-                        __instance.floatSpacingY = 2f;
+                        __instance.floatSpacingY = 0f;
+                        __instance.overflowMethod = UILabel.Overflow.ShrinkContent;
                     }
                 }
                 else
