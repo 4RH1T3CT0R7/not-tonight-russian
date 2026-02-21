@@ -15,7 +15,7 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.4.0")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.4.1")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
         // Win32: register font for current session (available immediately, no restart needed)
@@ -32,6 +32,13 @@ namespace NotTonightRussian
         private bool _injected = false;
         internal static Font CyrillicFont;
         internal static bool IsPixelFont = false; // true if LanaPixel/PressStart2P, false if Arial fallback
+
+        // Reflection: direct access to UILabel.mFont (bitmap font backing field)
+        // NGUI's bitmapFont property setter may not clear mFont when trueTypeFont is set,
+        // causing bitmap font (ThinPixel_60) to take priority over trueTypeFont (Arial).
+        // We use reflection to force-clear it.
+        internal static FieldInfo MFontField;
+        private static bool _mFontFieldResolved = false;
 
         // Diagnostic log for remote debugging (users can share this file)
         private static StringBuilder _diag = new StringBuilder();
@@ -56,8 +63,8 @@ namespace NotTonightRussian
             string pluginDir = Path.GetDirectoryName(Info.Location);
             _diagPath = Path.Combine(pluginDir, "NotTonightRussian_diag.txt");
 
-            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.4.0");
-            DiagLog("=== Not Tonight Russian v1.4.0 ===");
+            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.4.1");
+            DiagLog("=== Not Tonight Russian v1.4.1 ===");
             DiagLog("Plugin dir: " + pluginDir);
             UILabel_Patch.Log = Logger;
 
@@ -106,6 +113,24 @@ namespace NotTonightRussian
             {
                 Logger.LogError("Harmony patch error: " + ex.Message);
                 DiagLog("Harmony ERROR: " + ex.Message);
+            }
+
+            // Resolve UILabel.mFont field via reflection for force-clearing bitmap fonts
+            if (!_mFontFieldResolved)
+            {
+                MFontField = typeof(UILabel).GetField("mFont",
+                    BindingFlags.Instance | BindingFlags.NonPublic);
+                _mFontFieldResolved = true;
+                if (MFontField != null)
+                {
+                    Logger.LogInfo("Resolved UILabel.mFont field via reflection");
+                    DiagLog("Reflection: UILabel.mFont field resolved OK");
+                }
+                else
+                {
+                    Logger.LogWarning("UILabel.mFont field NOT found — bitmap font clearing may fail!");
+                    DiagLog("Reflection: UILabel.mFont field NOT FOUND!");
+                }
             }
 
             DiagFlush();
@@ -240,8 +265,51 @@ namespace NotTonightRussian
             return null;
         }
 
+        // Try loading font by file path — Unity's CreateDynamicFontFromOSFont
+        // accepts file paths in addition to font family names
+        Font TryLoadFontByPath(string filePath, string displayName)
+        {
+            if (!File.Exists(filePath)) return null;
+
+            try
+            {
+                Font f = Font.CreateDynamicFontFromOSFont(filePath, 16);
+                if (f == null || !f.dynamic)
+                {
+                    DiagLog("TryLoadFontByPath('" + displayName + "'): null or not dynamic");
+                    return null;
+                }
+
+                // Verify it renders Cyrillic (not just Arial fallback)
+                f.RequestCharactersInTexture("ТЙ", 16);
+                CharacterInfo ci;
+                f.GetCharacterInfo('Т', out ci, 16);
+
+                Font arial = Font.CreateDynamicFontFromOSFont("Arial", 16);
+                arial.RequestCharactersInTexture("Т", 16);
+                CharacterInfo arialCi;
+                arial.GetCharacterInfo('Т', out arialCi, 16);
+
+                if (ci.advance != arialCi.advance)
+                {
+                    Logger.LogInfo("Font by path '" + displayName + "': advance=" + ci.advance + " (Arial=" + arialCi.advance + ") - OK");
+                    DiagLog("TryLoadFontByPath('" + displayName + "'): advance=" + ci.advance + " -> OK");
+                    return f;
+                }
+
+                DiagLog("TryLoadFontByPath('" + displayName + "'): advance=" + ci.advance + " = Arial -> REJECTED");
+            }
+            catch (Exception ex)
+            {
+                DiagLog("TryLoadFontByPath('" + displayName + "'): ERROR " + ex.Message);
+            }
+            return null;
+        }
+
         void FindCyrillicFont()
         {
+            string pluginDir = Path.GetDirectoryName(Info.Location);
+
             // Log available OS fonts for diagnostics
             try
             {
@@ -260,7 +328,7 @@ namespace NotTonightRussian
                 DiagLog("GetOSInstalledFontNames error: " + ex.Message);
             }
 
-            // Try pixel fonts in preference order: LanaPixel (11px, best Cyrillic), Press Start 2P (8px)
+            // Method 1: Try pixel fonts by family name
             string[] candidates = new string[] {
                 "LanaPixel",
                 "Lana Pixel",
@@ -276,9 +344,56 @@ namespace NotTonightRussian
                     IsPixelFont = true;
                     UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
                     Logger.LogInfo("Using pixel font: " + name);
-                    DiagLog("RESULT: Using pixel font '" + name + "', IsPixelFont=true");
+                    DiagLog("RESULT: Using pixel font '" + name + "' (by name), IsPixelFont=true");
                     return;
                 }
+            }
+
+            // Method 2: Try loading by full file path (bypasses OS font registry)
+            DiagLog("Trying font loading by file path...");
+            string[] fontFiles = new string[] {
+                "LanaPixel.ttf",
+                "PressStart2P-Regular.ttf"
+            };
+            foreach (string fileName in fontFiles)
+            {
+                string filePath = Path.Combine(pluginDir, fileName);
+                Font f = TryLoadFontByPath(filePath, fileName);
+                if (f != null)
+                {
+                    CyrillicFont = f;
+                    IsPixelFont = true;
+                    UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
+                    Logger.LogInfo("Using pixel font from file: " + fileName);
+                    DiagLog("RESULT: Using pixel font '" + fileName + "' (by path), IsPixelFont=true");
+                    return;
+                }
+            }
+
+            // Method 3: Try user fonts dir paths
+            try
+            {
+                string localAppData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
+                string userFontsDir = Path.Combine(Path.Combine(localAppData, "Microsoft"), "Windows");
+                userFontsDir = Path.Combine(userFontsDir, "Fonts");
+                foreach (string fileName in fontFiles)
+                {
+                    string filePath = Path.Combine(userFontsDir, fileName);
+                    Font f = TryLoadFontByPath(filePath, "userfonts/" + fileName);
+                    if (f != null)
+                    {
+                        CyrillicFont = f;
+                        IsPixelFont = true;
+                        UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
+                        Logger.LogInfo("Using pixel font from user dir: " + fileName);
+                        DiagLog("RESULT: Using pixel font '" + fileName + "' (user dir), IsPixelFont=true");
+                        return;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                DiagLog("User fonts dir scan error: " + ex.Message);
             }
 
             // Fallback: Arial
@@ -344,8 +459,9 @@ namespace NotTonightRussian
                     if (label.trueTypeFont != CyrillicFont)
                     {
                         int origSize = label.fontSize;
-                        // Clear bitmapFont explicitly before setting trueTypeFont
-                        label.bitmapFont = null;
+                        // Force-clear bitmap font backing field via reflection
+                        if (MFontField != null)
+                            MFontField.SetValue(label, null);
                         label.trueTypeFont = CyrillicFont;
                         label.fontSize = origSize;
                         swapped++;
@@ -766,11 +882,44 @@ namespace NotTonightRussian
                     RussianLocPlugin.DiagFlush();
                 }
 
-                // Clear bitmapFont explicitly before setting trueTypeFont
-                // (trueTypeFont setter does this internally, but we do it explicitly to be safe)
-                try { __instance.bitmapFont = null; } catch { }
+                // Force-clear bitmap font backing field via reflection.
+                // CRITICAL: NGUI prioritizes bitmapFont (mFont) over trueTypeFont.
+                // Dialog labels use bitmapFont=ThinPixel_60 (Latin-only atlas).
+                // If mFont isn't cleared, Cyrillic text renders as empty glyphs.
+                // The property setter bitmapFont=null also clears mTrueTypeFont,
+                // so we bypass it and directly null the backing field.
+                bool hadBitmapFont = false;
+                if (RussianLocPlugin.MFontField != null)
+                {
+                    object mFontVal = RussianLocPlugin.MFontField.GetValue(__instance);
+                    if (mFontVal != null)
+                    {
+                        hadBitmapFont = true;
+                        RussianLocPlugin.MFontField.SetValue(__instance, null);
+                    }
+                }
 
                 __instance.trueTypeFont = RussianLocPlugin.CyrillicFont;
+
+                // Post-swap verification: ensure mFont is actually null
+                if (RussianLocPlugin.MFontField != null)
+                {
+                    object postSwap = RussianLocPlugin.MFontField.GetValue(__instance);
+                    if (postSwap != null)
+                    {
+                        // Still set! Force clear again
+                        RussianLocPlugin.MFontField.SetValue(__instance, null);
+                        if (Log != null)
+                            Log.LogWarning("FORCE-CLEARED mFont post-swap on " + __instance.gameObject.name);
+                        RussianLocPlugin.DiagLog("FORCE-CLEARED mFont post-swap: " + __instance.gameObject.name);
+                    }
+                    else if (hadBitmapFont && (isMsgObject || isRadioMsg) && _msgObjectLogCount <= 50)
+                    {
+                        RussianLocPlugin.DiagLog("  -> bitmapFont cleared OK, trueTypeFont="
+                            + (__instance.trueTypeFont != null ? __instance.trueTypeFont.name : "null"));
+                        RussianLocPlugin.DiagFlush();
+                    }
+                }
 
                 // Cinematic titles (sz=100, huge widgets)
                 if (origSize >= 80)
