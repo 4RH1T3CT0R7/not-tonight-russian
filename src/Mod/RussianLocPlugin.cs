@@ -15,7 +15,7 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.4.1")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.4.2")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
         // Win32: register font for current session (available immediately, no restart needed)
@@ -33,12 +33,19 @@ namespace NotTonightRussian
         internal static Font CyrillicFont;
         internal static bool IsPixelFont = false; // true if LanaPixel/PressStart2P, false if Arial fallback
 
-        // Reflection: direct access to UILabel.mFont (bitmap font backing field)
-        // NGUI's bitmapFont property setter may not clear mFont when trueTypeFont is set,
-        // causing bitmap font (ThinPixel_60) to take priority over trueTypeFont (Arial).
-        // We use reflection to force-clear it.
-        internal static FieldInfo MFontField;
-        private static bool _mFontFieldResolved = false;
+        // Reflection: direct access to NGUI UILabel backing fields.
+        // CRITICAL: NGUI property setters (trueTypeFont, fontSize, text) call
+        // RemoveFromPanel() and ProcessAndRequest(), which:
+        //   1. Remove the widget from its rendering panel (panel=null)
+        //   2. Trigger recursive ProcessText calls
+        //   3. MarkAsChanged() fails because panel is null → widget never re-rendered
+        // By setting backing fields directly via reflection, we bypass ALL setter
+        // side effects and manually manage the panel/draw call lifecycle.
+        internal static FieldInfo MFontField;       // UILabel.mFont (UIFont - bitmap font)
+        internal static FieldInfo MTrueTypeFontField; // UILabel.mTrueTypeFont (Font - dynamic font)
+        internal static FieldInfo MFontSizeField;    // UILabel.mFontSize (int)
+        internal static FieldInfo MTextField;        // UILabel.mText (string)
+        private static bool _fieldsResolved = false;
 
         // Diagnostic log for remote debugging (users can share this file)
         private static StringBuilder _diag = new StringBuilder();
@@ -63,8 +70,8 @@ namespace NotTonightRussian
             string pluginDir = Path.GetDirectoryName(Info.Location);
             _diagPath = Path.Combine(pluginDir, "NotTonightRussian_diag.txt");
 
-            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.4.1");
-            DiagLog("=== Not Tonight Russian v1.4.1 ===");
+            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.4.2");
+            DiagLog("=== Not Tonight Russian v1.4.2 ===");
             DiagLog("Plugin dir: " + pluginDir);
             UILabel_Patch.Log = Logger;
 
@@ -115,21 +122,32 @@ namespace NotTonightRussian
                 DiagLog("Harmony ERROR: " + ex.Message);
             }
 
-            // Resolve UILabel.mFont field via reflection for force-clearing bitmap fonts
-            if (!_mFontFieldResolved)
+            // Resolve UILabel backing fields via reflection
+            if (!_fieldsResolved)
             {
-                MFontField = typeof(UILabel).GetField("mFont",
-                    BindingFlags.Instance | BindingFlags.NonPublic);
-                _mFontFieldResolved = true;
-                if (MFontField != null)
+                _fieldsResolved = true;
+                var bf = BindingFlags.Instance | BindingFlags.NonPublic;
+                MFontField = typeof(UILabel).GetField("mFont", bf);
+                MTrueTypeFontField = typeof(UILabel).GetField("mTrueTypeFont", bf);
+                MFontSizeField = typeof(UILabel).GetField("mFontSize", bf);
+                MTextField = typeof(UILabel).GetField("mText", bf);
+
+                bool allOk = MFontField != null && MTrueTypeFontField != null
+                    && MFontSizeField != null && MTextField != null;
+                if (allOk)
                 {
-                    Logger.LogInfo("Resolved UILabel.mFont field via reflection");
-                    DiagLog("Reflection: UILabel.mFont field resolved OK");
+                    Logger.LogInfo("Resolved all UILabel backing fields via reflection");
+                    DiagLog("Reflection: all fields resolved OK (mFont, mTrueTypeFont, mFontSize, mText)");
                 }
                 else
                 {
-                    Logger.LogWarning("UILabel.mFont field NOT found — bitmap font clearing may fail!");
-                    DiagLog("Reflection: UILabel.mFont field NOT FOUND!");
+                    Logger.LogWarning("Some UILabel fields NOT found: mFont="
+                        + (MFontField != null) + " mTrueTypeFont=" + (MTrueTypeFontField != null)
+                        + " mFontSize=" + (MFontSizeField != null) + " mText=" + (MTextField != null));
+                    DiagLog("Reflection: PARTIAL — mFont=" + (MFontField != null)
+                        + " mTrueTypeFont=" + (MTrueTypeFontField != null)
+                        + " mFontSize=" + (MFontSizeField != null)
+                        + " mText=" + (MTextField != null));
                 }
             }
 
@@ -459,11 +477,18 @@ namespace NotTonightRussian
                     if (label.trueTypeFont != CyrillicFont)
                     {
                         int origSize = label.fontSize;
-                        // Force-clear bitmap font backing field via reflection
+                        // Set backing fields via reflection to avoid RemoveFromPanel/ProcessAndRequest
                         if (MFontField != null)
                             MFontField.SetValue(label, null);
-                        label.trueTypeFont = CyrillicFont;
-                        label.fontSize = origSize;
+                        if (MTrueTypeFontField != null)
+                            MTrueTypeFontField.SetValue(label, CyrillicFont);
+                        else
+                            label.trueTypeFont = CyrillicFont; // fallback
+                        if (MFontSizeField != null)
+                            MFontSizeField.SetValue(label, origSize);
+                        // Reassign draw call: remove from old (bitmap material) → add to new (TTF material)
+                        label.RemoveFromPanel();
+                        label.CreatePanel();
                         swapped++;
                     }
                 }
@@ -882,70 +907,74 @@ namespace NotTonightRussian
                     RussianLocPlugin.DiagFlush();
                 }
 
-                // Force-clear bitmap font backing field via reflection.
-                // CRITICAL: NGUI prioritizes bitmapFont (mFont) over trueTypeFont.
-                // Dialog labels use bitmapFont=ThinPixel_60 (Latin-only atlas).
-                // If mFont isn't cleared, Cyrillic text renders as empty glyphs.
-                // The property setter bitmapFont=null also clears mTrueTypeFont,
-                // so we bypass it and directly null the backing field.
+                // ── Font swap via REFLECTION (bypass ALL property setters) ──
+                // NGUI property setters (trueTypeFont, fontSize, text) call:
+                //   RemoveFromPanel() → panel=null → widget orphaned from rendering
+                //   ProcessAndRequest() → recursive ProcessText (causes re-entry)
+                //   MarkAsChanged() → noop when panel=null
+                // By setting backing fields directly, we avoid these side effects.
+                // Then we manually call RemoveFromPanel+CreatePanel to reassign
+                // the widget to the correct draw call (new font material).
+
                 bool hadBitmapFont = false;
                 if (RussianLocPlugin.MFontField != null)
                 {
                     object mFontVal = RussianLocPlugin.MFontField.GetValue(__instance);
-                    if (mFontVal != null)
-                    {
-                        hadBitmapFont = true;
+                    hadBitmapFont = mFontVal != null;
+                    if (hadBitmapFont)
                         RussianLocPlugin.MFontField.SetValue(__instance, null);
-                    }
                 }
 
-                __instance.trueTypeFont = RussianLocPlugin.CyrillicFont;
+                // Set TrueType font via reflection (NO RemoveFromPanel, NO recursive ProcessText)
+                if (RussianLocPlugin.MTrueTypeFontField != null)
+                    RussianLocPlugin.MTrueTypeFontField.SetValue(__instance, RussianLocPlugin.CyrillicFont);
+                else
+                    __instance.trueTypeFont = RussianLocPlugin.CyrillicFont; // fallback
 
-                // Post-swap verification: ensure mFont is actually null
-                if (RussianLocPlugin.MFontField != null)
+                // Reassign draw call: old bitmap font material → new TrueType font material
+                __instance.RemoveFromPanel();
+                __instance.CreatePanel();
+
+                // Diagnostic: verify swap worked
+                if ((isMsgObject || isRadioMsg) && _msgObjectLogCount <= 50)
                 {
-                    object postSwap = RussianLocPlugin.MFontField.GetValue(__instance);
-                    if (postSwap != null)
-                    {
-                        // Still set! Force clear again
-                        RussianLocPlugin.MFontField.SetValue(__instance, null);
-                        if (Log != null)
-                            Log.LogWarning("FORCE-CLEARED mFont post-swap on " + __instance.gameObject.name);
-                        RussianLocPlugin.DiagLog("FORCE-CLEARED mFont post-swap: " + __instance.gameObject.name);
-                    }
-                    else if (hadBitmapFont && (isMsgObject || isRadioMsg) && _msgObjectLogCount <= 50)
-                    {
-                        RussianLocPlugin.DiagLog("  -> bitmapFont cleared OK, trueTypeFont="
-                            + (__instance.trueTypeFont != null ? __instance.trueTypeFont.name : "null"));
-                        RussianLocPlugin.DiagFlush();
-                    }
+                    string panelName = "null";
+                    try { var p = __instance.GetComponentInParent<UIPanel>(); if (p != null) panelName = p.name; } catch { }
+                    RussianLocPlugin.DiagLog("  -> font swap: mFont=" + (RussianLocPlugin.MFontField != null ? "" + RussianLocPlugin.MFontField.GetValue(__instance) : "?")
+                        + " ttf=" + (__instance.trueTypeFont != null ? __instance.trueTypeFont.name : "null")
+                        + " panel=" + panelName);
+                    RussianLocPlugin.DiagFlush();
                 }
+
+                // Set fontSize via reflection (avoid ProcessAndRequest recursion)
+                int targetSize = origSize;
 
                 // Cinematic titles (sz=100, huge widgets)
                 if (origSize >= 80)
-                    __instance.fontSize = 40;
+                    targetSize = 40;
 
                 // Dialog speech bubbles (MsgObjectInput clones, sz=60)
                 if (isMsgObject)
                 {
                     if (RussianLocPlugin.IsPixelFont)
                     {
-                        // Pixel font: small line height, need \n to push past top clip edge
-                        if (__instance.fontSize > 22)
-                            __instance.fontSize = 22;
+                        if (targetSize > 22) targetSize = 22;
                         __instance.useFloatSpacing = true;
                         __instance.floatSpacingY = 0f;
+                        // Prepend \n via reflection (avoid text setter's ProcessAndRequest)
                         if (__instance.text != null && __instance.text.Length > 0 && __instance.text[0] != '\n')
-                            __instance.text = "\n" + __instance.text;
+                        {
+                            if (RussianLocPlugin.MTextField != null)
+                                RussianLocPlugin.MTextField.SetValue(__instance, "\n" + __instance.text);
+                            else
+                                __instance.text = "\n" + __instance.text;
+                        }
                     }
                     else
                     {
-                        // Arial/system font: use size 24 (not 18, which was too small)
-                        if (__instance.fontSize > 24)
-                            __instance.fontSize = 24;
+                        if (targetSize > 24) targetSize = 24;
                         __instance.useFloatSpacing = true;
                         __instance.floatSpacingY = -4f;
-                        // Force ShrinkContent to prevent text clipping
                         __instance.overflowMethod = UILabel.Overflow.ShrinkContent;
                     }
                 }
@@ -954,17 +983,20 @@ namespace NotTonightRussian
                 {
                     if (RussianLocPlugin.IsPixelFont)
                     {
-                        if (__instance.fontSize > 28)
-                            __instance.fontSize = 28;
+                        if (targetSize > 28) targetSize = 28;
                         __instance.useFloatSpacing = true;
                         __instance.floatSpacingY = 8f;
                         if (__instance.text != null && __instance.text.Length > 0 && __instance.text[0] != '\n')
-                            __instance.text = "\n" + __instance.text;
+                        {
+                            if (RussianLocPlugin.MTextField != null)
+                                RussianLocPlugin.MTextField.SetValue(__instance, "\n" + __instance.text);
+                            else
+                                __instance.text = "\n" + __instance.text;
+                        }
                     }
                     else
                     {
-                        if (__instance.fontSize > 26)
-                            __instance.fontSize = 26;
+                        if (targetSize > 26) targetSize = 26;
                         __instance.useFloatSpacing = true;
                         __instance.floatSpacingY = 0f;
                         __instance.overflowMethod = UILabel.Overflow.ShrinkContent;
@@ -973,8 +1005,8 @@ namespace NotTonightRussian
                 else
                 {
                     // Cap labels with inflated fontSize designed for bitmap font
-                    if (__instance.fontSize > 40)
-                        __instance.fontSize = 32;
+                    if (targetSize > 40)
+                        targetSize = 32;
 
                     // Cinematic text spacingY
                     if (origSize >= 80)
@@ -983,9 +1015,18 @@ namespace NotTonightRussian
                         __instance.spacingY = 4;
                 }
 
+                // Apply fontSize via reflection (avoid ProcessAndRequest recursion)
+                if (targetSize != origSize)
+                {
+                    if (RussianLocPlugin.MFontSizeField != null)
+                        RussianLocPlugin.MFontSizeField.SetValue(__instance, targetSize);
+                    else
+                        __instance.fontSize = targetSize; // fallback
+                }
+
                 if (Log != null)
                     Log.LogInfo("FontPatch: " + __instance.gameObject.name
-                        + " origSz=" + origSize + " newSz=" + __instance.fontSize
+                        + " origSz=" + origSize + " newSz=" + targetSize
                         + " ov=" + __instance.overflowMethod
                         + " w=" + __instance.width + " h=" + __instance.height
                         + " spY=" + __instance.spacingY
