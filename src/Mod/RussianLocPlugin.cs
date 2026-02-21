@@ -15,7 +15,7 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.5.0")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.6.0")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
         // Win32: register font for current session
@@ -325,6 +325,7 @@ namespace NotTonightRussian
     {
         internal static ManualLogSource Log;
         private static int _dialogLogCount = 0;
+        private static int _idNameLogCount = 0;
 
         // Dynamic translations
         private static readonly Dictionary<string, string> DynamicTranslations =
@@ -372,6 +373,8 @@ namespace NotTonightRussian
             {"ELECTRONIC", "ЭЛЕКТРОНИКА"}, {"Electronic", "Электроника"},
             {"HIP HOP", "ХИП-ХОП"}, {"Hip Hop", "Хип-хоп"},
             {"DANCE", "ДЭНС"}, {"Dance", "Дэнс"},
+            {"Dance hits", "Танц. хиты"}, {"DANCE HITS", "ТАНЦ. ХИТЫ"},
+            {"Танцевальные хиты", "Танц. хиты"}, {"ТАНЦЕВАЛЬНЫЕ ХИТЫ", "ТАНЦ. ХИТЫ"},
             {"Jupp Security", "Безопасность Юппа"}, {"JUPP SECURITY", "БЕЗОПАСНОСТЬ ЮППА"},
             {"HARRISON PACE", "ГАРРИСОН ПЕЙС"},
             {"ОБЩАЯ ОЧЕРЕДЬ", "ОБЩ. ОЧЕРЕДЬ"},
@@ -602,8 +605,14 @@ namespace NotTonightRussian
                     Vector3 pos = __instance.transform.localPosition;
                     pos.y -= 9f;
                     __instance.transform.localPosition = pos;
-                    __instance.spacingY = 2;
                 }
+            }
+
+            // ID card name: ensure small line spacing (runs every ProcessText call)
+            if (__instance.text != null && __instance.text.Contains("\n")
+                && __instance.GetComponentInParent<ClubberID>() != null)
+            {
+                __instance.spacingY = -5;
             }
         }
     }
