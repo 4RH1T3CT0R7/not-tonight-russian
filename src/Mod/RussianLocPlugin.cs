@@ -15,39 +15,21 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.4.2")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.5.0")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
-        // Win32: register font for current session (available immediately, no restart needed)
+        // Win32: register font for current session
         [DllImport("gdi32.dll", CharSet = CharSet.Unicode)]
         private static extern int AddFontResourceEx(string lpszFilename, uint fl, IntPtr pdv);
-
-        // Win32: broadcast font change to all windows so Unity picks up newly registered fonts
         [DllImport("user32.dll")]
         private static extern IntPtr SendMessage(IntPtr hWnd, uint Msg, IntPtr wParam, IntPtr lParam);
-
         private const uint WM_FONTCHANGE = 0x001D;
         private static readonly IntPtr HWND_BROADCAST = new IntPtr(0xFFFF);
 
         private bool _injected = false;
         internal static Font CyrillicFont;
-        internal static bool IsPixelFont = false; // true if LanaPixel/PressStart2P, false if Arial fallback
 
-        // Reflection: direct access to NGUI UILabel backing fields.
-        // CRITICAL: NGUI property setters (trueTypeFont, fontSize, text) call
-        // RemoveFromPanel() and ProcessAndRequest(), which:
-        //   1. Remove the widget from its rendering panel (panel=null)
-        //   2. Trigger recursive ProcessText calls
-        //   3. MarkAsChanged() fails because panel is null → widget never re-rendered
-        // By setting backing fields directly via reflection, we bypass ALL setter
-        // side effects and manually manage the panel/draw call lifecycle.
-        internal static FieldInfo MFontField;       // UILabel.mFont (UIFont - bitmap font)
-        internal static FieldInfo MTrueTypeFontField; // UILabel.mTrueTypeFont (Font - dynamic font)
-        internal static FieldInfo MFontSizeField;    // UILabel.mFontSize (int)
-        internal static FieldInfo MTextField;        // UILabel.mText (string)
-        private static bool _fieldsResolved = false;
-
-        // Diagnostic log for remote debugging (users can share this file)
+        // Diagnostic log
         private static StringBuilder _diag = new StringBuilder();
         private static string _diagPath;
 
@@ -70,8 +52,8 @@ namespace NotTonightRussian
             string pluginDir = Path.GetDirectoryName(Info.Location);
             _diagPath = Path.Combine(pluginDir, "NotTonightRussian_diag.txt");
 
-            Logger.LogInfo("Not Tonight Russian Localization plugin loaded v1.4.2");
-            DiagLog("=== Not Tonight Russian v1.4.2 ===");
+            Logger.LogInfo("Not Tonight Russian v1.4.3");
+            DiagLog("=== Not Tonight Russian v1.4.3 (clean test) ===");
             DiagLog("Plugin dir: " + pluginDir);
             UILabel_Patch.Log = Logger;
 
@@ -79,11 +61,10 @@ namespace NotTonightRussian
             FindCyrillicFont();
             DiagFlush();
 
-            // Apply Harmony patches
+            // Apply Harmony patch — ONLY Prefix, NO Postfix (same as v1.0.0)
             try
             {
                 var harmony = new Harmony("com.nottonight.russianlocalization");
-
                 var original = typeof(UILabel).GetMethod("ProcessText",
                     BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic,
                     null, Type.EmptyTypes, null);
@@ -93,71 +74,20 @@ namespace NotTonightRussian
                     var prefix = typeof(UILabel_Patch).GetMethod("Prefix",
                         BindingFlags.Static | BindingFlags.Public);
                     harmony.Patch(original, new HarmonyMethod(prefix));
-                    Logger.LogInfo("Patched UILabel.ProcessText()");
-                    DiagLog("Harmony: Patched UILabel.ProcessText()");
-                }
-                else
-                {
-                    Logger.LogWarning("UILabel.ProcessText() not found, trying other overloads...");
-                    DiagLog("Harmony: ProcessText() not found, trying overloads...");
-                    var methods = typeof(UILabel).GetMethods(
-                        BindingFlags.Instance | BindingFlags.Public | BindingFlags.NonPublic);
-                    foreach (var m in methods)
-                    {
-                        if (m.Name == "ProcessText" && m.DeclaringType == typeof(UILabel))
-                        {
-                            var prefix = typeof(UILabel_Patch).GetMethod("Prefix",
-                                BindingFlags.Static | BindingFlags.Public);
-                            harmony.Patch(m, new HarmonyMethod(prefix));
-                            Logger.LogInfo("Patched first ProcessText overload");
-                            DiagLog("Harmony: Patched first ProcessText overload");
-                            break;
-                        }
-                    }
+                    DiagLog("Harmony: Patched UILabel.ProcessText() (prefix only)");
                 }
             }
             catch (Exception ex)
             {
-                Logger.LogError("Harmony patch error: " + ex.Message);
                 DiagLog("Harmony ERROR: " + ex.Message);
-            }
-
-            // Resolve UILabel backing fields via reflection
-            if (!_fieldsResolved)
-            {
-                _fieldsResolved = true;
-                var bf = BindingFlags.Instance | BindingFlags.NonPublic;
-                MFontField = typeof(UILabel).GetField("mFont", bf);
-                MTrueTypeFontField = typeof(UILabel).GetField("mTrueTypeFont", bf);
-                MFontSizeField = typeof(UILabel).GetField("mFontSize", bf);
-                MTextField = typeof(UILabel).GetField("mText", bf);
-
-                bool allOk = MFontField != null && MTrueTypeFontField != null
-                    && MFontSizeField != null && MTextField != null;
-                if (allOk)
-                {
-                    Logger.LogInfo("Resolved all UILabel backing fields via reflection");
-                    DiagLog("Reflection: all fields resolved OK (mFont, mTrueTypeFont, mFontSize, mText)");
-                }
-                else
-                {
-                    Logger.LogWarning("Some UILabel fields NOT found: mFont="
-                        + (MFontField != null) + " mTrueTypeFont=" + (MTrueTypeFontField != null)
-                        + " mFontSize=" + (MFontSizeField != null) + " mText=" + (MTextField != null));
-                    DiagLog("Reflection: PARTIAL — mFont=" + (MFontField != null)
-                        + " mTrueTypeFont=" + (MTrueTypeFontField != null)
-                        + " mFontSize=" + (MFontSizeField != null)
-                        + " mText=" + (MTextField != null));
-                }
             }
 
             DiagFlush();
             SceneManager.sceneLoaded += OnSceneLoaded;
         }
 
-        // Font files to install: { filename, registry display name }
-        private static readonly string[][] FontsToInstall = new string[][]
-        {
+        // Font files to install
+        private static readonly string[][] FontsToInstall = new string[][] {
             new string[] { "LanaPixel.ttf", "LanaPixel (TrueType)" },
             new string[] { "PressStart2P-Regular.ttf", "Press Start 2P (TrueType)" },
         };
@@ -165,8 +95,6 @@ namespace NotTonightRussian
         void InstallFontToUserDir()
         {
             string pluginDir = Path.GetDirectoryName(Info.Location);
-
-            // Step 1: Register fonts from plugin dir for CURRENT session (immediate availability)
             bool anyRegistered = false;
             foreach (var font in FontsToInstall)
             {
@@ -176,272 +104,123 @@ namespace NotTonightRussian
                     try
                     {
                         int result = AddFontResourceEx(srcFont, 0, IntPtr.Zero);
-                        Logger.LogInfo("AddFontResourceEx(" + font[0] + ") = " + result);
-                        DiagLog("AddFontResourceEx(" + font[0] + ") = " + result + " (file: " + srcFont + ")");
+                        DiagLog("AddFontResourceEx(" + font[0] + ") = " + result);
                         if (result > 0) anyRegistered = true;
                     }
-                    catch (Exception ex)
-                    {
-                        Logger.LogWarning("AddFontResourceEx failed: " + ex.Message);
-                        DiagLog("AddFontResourceEx FAILED: " + ex.Message);
-                    }
-                }
-                else
-                {
-                    Logger.LogWarning("Font file not found: " + srcFont);
-                    DiagLog("Font file NOT FOUND: " + srcFont);
+                    catch (Exception ex) { DiagLog("AddFontResourceEx FAILED: " + ex.Message); }
                 }
             }
-
-            // Broadcast WM_FONTCHANGE so Unity picks up newly registered fonts
             if (anyRegistered)
             {
-                try
-                {
-                    SendMessage(HWND_BROADCAST, WM_FONTCHANGE, IntPtr.Zero, IntPtr.Zero);
-                    Logger.LogInfo("Sent WM_FONTCHANGE broadcast");
-                    DiagLog("WM_FONTCHANGE broadcast sent");
-                }
-                catch (Exception ex)
-                {
-                    Logger.LogWarning("WM_FONTCHANGE failed: " + ex.Message);
-                    DiagLog("WM_FONTCHANGE FAILED: " + ex.Message);
-                }
+                try { SendMessage(HWND_BROADCAST, WM_FONTCHANGE, IntPtr.Zero, IntPtr.Zero); DiagLog("WM_FONTCHANGE sent"); }
+                catch { }
             }
 
-            // Step 2: Permanently install to user fonts dir (for future sessions)
+            // Install to user fonts dir
             try
             {
                 string localAppData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
                 string userFontsDir = Path.Combine(Path.Combine(localAppData, "Microsoft"), "Windows");
                 userFontsDir = Path.Combine(userFontsDir, "Fonts");
                 Directory.CreateDirectory(userFontsDir);
-
                 foreach (var font in FontsToInstall)
                 {
                     string srcFont = Path.Combine(pluginDir, font[0]);
                     if (!File.Exists(srcFont)) continue;
-
                     string destFont = Path.Combine(userFontsDir, font[0]);
                     if (!File.Exists(destFont))
                     {
                         File.Copy(srcFont, destFont, true);
-                        Logger.LogInfo("Installed font: " + font[0]);
-                        DiagLog("Installed font to user dir: " + destFont);
-
-                        using (var key = Registry.CurrentUser.OpenSubKey(
-                            @"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", true))
-                        {
-                            if (key != null)
-                            {
-                                key.SetValue(font[1], destFont);
-                                Logger.LogInfo("Registered: " + font[1]);
-                            }
-                        }
-                    }
-                    else
-                    {
-                        DiagLog("Font already in user dir: " + destFont);
+                        using (var key = Registry.CurrentUser.OpenSubKey(@"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", true))
+                        { if (key != null) key.SetValue(font[1], destFont); }
+                        DiagLog("Installed font: " + destFont);
                     }
                 }
             }
-            catch (Exception ex)
-            {
-                Logger.LogWarning("Font install error: " + ex.Message);
-                DiagLog("Font install error: " + ex.Message);
-            }
+            catch (Exception ex) { DiagLog("Font install error: " + ex.Message); }
         }
 
         Font TryLoadFont(string name)
         {
             Font f = Font.CreateDynamicFontFromOSFont(name, 16);
-            if (f == null || !f.dynamic)
-            {
-                DiagLog("TryLoadFont('" + name + "'): null or not dynamic");
-                return null;
-            }
-
-            // Verify it's actually this font, not Arial fallback
+            if (f == null || !f.dynamic) return null;
             f.RequestCharactersInTexture("ТЙ", 16);
             CharacterInfo ci;
             f.GetCharacterInfo('Т', out ci, 16);
-
             Font arial = Font.CreateDynamicFontFromOSFont("Arial", 16);
             arial.RequestCharactersInTexture("Т", 16);
             CharacterInfo arialCi;
             arial.GetCharacterInfo('Т', out arialCi, 16);
-
             if (ci.advance != arialCi.advance)
             {
-                Logger.LogInfo("Font '" + name + "': advance=" + ci.advance + " (Arial=" + arialCi.advance + ") - OK");
                 DiagLog("TryLoadFont('" + name + "'): advance=" + ci.advance + " (Arial=" + arialCi.advance + ") -> OK");
                 return f;
             }
-
-            Logger.LogInfo("Font '" + name + "': advance=" + ci.advance + " = Arial, skipping");
-            DiagLog("TryLoadFont('" + name + "'): advance=" + ci.advance + " = Arial=" + arialCi.advance + " -> REJECTED (same as Arial)");
+            DiagLog("TryLoadFont('" + name + "'): same as Arial -> REJECTED");
             return null;
         }
 
-        // Try loading font by file path — Unity's CreateDynamicFontFromOSFont
-        // accepts file paths in addition to font family names
         Font TryLoadFontByPath(string filePath, string displayName)
         {
             if (!File.Exists(filePath)) return null;
-
             try
             {
                 Font f = Font.CreateDynamicFontFromOSFont(filePath, 16);
-                if (f == null || !f.dynamic)
-                {
-                    DiagLog("TryLoadFontByPath('" + displayName + "'): null or not dynamic");
-                    return null;
-                }
-
-                // Verify it renders Cyrillic (not just Arial fallback)
+                if (f == null || !f.dynamic) return null;
                 f.RequestCharactersInTexture("ТЙ", 16);
-                CharacterInfo ci;
-                f.GetCharacterInfo('Т', out ci, 16);
-
+                CharacterInfo ci; f.GetCharacterInfo('Т', out ci, 16);
                 Font arial = Font.CreateDynamicFontFromOSFont("Arial", 16);
                 arial.RequestCharactersInTexture("Т", 16);
-                CharacterInfo arialCi;
-                arial.GetCharacterInfo('Т', out arialCi, 16);
-
+                CharacterInfo arialCi; arial.GetCharacterInfo('Т', out arialCi, 16);
                 if (ci.advance != arialCi.advance)
                 {
-                    Logger.LogInfo("Font by path '" + displayName + "': advance=" + ci.advance + " (Arial=" + arialCi.advance + ") - OK");
-                    DiagLog("TryLoadFontByPath('" + displayName + "'): advance=" + ci.advance + " -> OK");
+                    DiagLog("TryLoadFontByPath('" + displayName + "'): OK");
                     return f;
                 }
-
-                DiagLog("TryLoadFontByPath('" + displayName + "'): advance=" + ci.advance + " = Arial -> REJECTED");
             }
-            catch (Exception ex)
-            {
-                DiagLog("TryLoadFontByPath('" + displayName + "'): ERROR " + ex.Message);
-            }
+            catch { }
             return null;
         }
 
         void FindCyrillicFont()
         {
             string pluginDir = Path.GetDirectoryName(Info.Location);
-
-            // Log available OS fonts for diagnostics
-            try
-            {
-                string[] osFonts = Font.GetOSInstalledFontNames();
-                DiagLog("OS fonts count: " + osFonts.Length);
-                // Log only fonts containing "lana", "press", "pixel" (case-insensitive)
-                foreach (string fn in osFonts)
-                {
-                    string lower = fn.ToLower();
-                    if (lower.Contains("lana") || lower.Contains("press") || lower.Contains("pixel"))
-                        DiagLog("  OS font match: '" + fn + "'");
-                }
-            }
-            catch (Exception ex)
-            {
-                DiagLog("GetOSInstalledFontNames error: " + ex.Message);
-            }
-
-            // Method 1: Try pixel fonts by family name
-            string[] candidates = new string[] {
-                "LanaPixel",
-                "Lana Pixel",
-                "Press Start 2P"
-            };
-
+            string[] candidates = new string[] { "LanaPixel", "Lana Pixel", "Press Start 2P" };
             foreach (string name in candidates)
             {
                 Font f = TryLoadFont(name);
                 if (f != null)
                 {
                     CyrillicFont = f;
-                    IsPixelFont = true;
                     UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
-                    Logger.LogInfo("Using pixel font: " + name);
-                    DiagLog("RESULT: Using pixel font '" + name + "' (by name), IsPixelFont=true");
+                    DiagLog("RESULT: Using '" + name + "'");
                     return;
                 }
             }
-
-            // Method 2: Try loading by full file path (bypasses OS font registry)
-            DiagLog("Trying font loading by file path...");
-            string[] fontFiles = new string[] {
-                "LanaPixel.ttf",
-                "PressStart2P-Regular.ttf"
-            };
-            foreach (string fileName in fontFiles)
+            // Try by path
+            foreach (string fn in new[] { "LanaPixel.ttf", "PressStart2P-Regular.ttf" })
             {
-                string filePath = Path.Combine(pluginDir, fileName);
-                Font f = TryLoadFontByPath(filePath, fileName);
+                Font f = TryLoadFontByPath(Path.Combine(pluginDir, fn), fn);
                 if (f != null)
                 {
                     CyrillicFont = f;
-                    IsPixelFont = true;
                     UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
-                    Logger.LogInfo("Using pixel font from file: " + fileName);
-                    DiagLog("RESULT: Using pixel font '" + fileName + "' (by path), IsPixelFont=true");
+                    DiagLog("RESULT: Using '" + fn + "' (by path)");
                     return;
                 }
             }
-
-            // Method 3: Try user fonts dir paths
-            try
-            {
-                string localAppData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
-                string userFontsDir = Path.Combine(Path.Combine(localAppData, "Microsoft"), "Windows");
-                userFontsDir = Path.Combine(userFontsDir, "Fonts");
-                foreach (string fileName in fontFiles)
-                {
-                    string filePath = Path.Combine(userFontsDir, fileName);
-                    Font f = TryLoadFontByPath(filePath, "userfonts/" + fileName);
-                    if (f != null)
-                    {
-                        CyrillicFont = f;
-                        IsPixelFont = true;
-                        UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
-                        Logger.LogInfo("Using pixel font from user dir: " + fileName);
-                        DiagLog("RESULT: Using pixel font '" + fileName + "' (user dir), IsPixelFont=true");
-                        return;
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                DiagLog("User fonts dir scan error: " + ex.Message);
-            }
-
             // Fallback: Arial
-            IsPixelFont = false;
-            Logger.LogInfo("No pixel font found, using Arial");
-            DiagLog("RESULT: No pixel font found, using Arial, IsPixelFont=false");
             CyrillicFont = Font.CreateDynamicFontFromOSFont("Arial", 16);
-            if (CyrillicFont != null)
-                UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
-
-            if (CyrillicFont == null)
-            {
-                Logger.LogError("No Cyrillic font available!");
-                DiagLog("CRITICAL: No Cyrillic font available at all!");
-            }
+            if (CyrillicFont != null) UnityEngine.Object.DontDestroyOnLoad(CyrillicFont);
+            DiagLog("RESULT: Using Arial fallback");
         }
 
         void OnSceneLoaded(Scene scene, LoadSceneMode mode)
         {
-            Logger.LogInfo("Scene: " + scene.name);
             DiagLog("Scene loaded: " + scene.name);
             DiagFlush();
-            if (!_injected)
-            {
-                StartCoroutine(InjectWithDelay());
-            }
-            else
-            {
-                StartCoroutine(SwapFontsDelayed());
-            }
+            if (!_injected) StartCoroutine(InjectWithDelay());
+            else StartCoroutine(SwapFontsDelayed());
         }
 
         IEnumerator SwapFontsDelayed()
@@ -460,15 +239,8 @@ namespace NotTonightRussian
 
         void SwapAllLabelFonts()
         {
-            if (CyrillicFont == null)
-            {
-                Logger.LogWarning("No CyrillicFont to swap to");
-                return;
-            }
-
+            if (CyrillicFont == null) return;
             var labels = UnityEngine.Object.FindObjectsOfType<UILabel>();
-            Logger.LogInfo("Found " + labels.Length + " UILabels in scene");
-
             int swapped = 0;
             foreach (var label in labels)
             {
@@ -477,63 +249,35 @@ namespace NotTonightRussian
                     if (label.trueTypeFont != CyrillicFont)
                     {
                         int origSize = label.fontSize;
-                        // Set backing fields via reflection to avoid RemoveFromPanel/ProcessAndRequest
-                        if (MFontField != null)
-                            MFontField.SetValue(label, null);
-                        if (MTrueTypeFontField != null)
-                            MTrueTypeFontField.SetValue(label, CyrillicFont);
-                        else
-                            label.trueTypeFont = CyrillicFont; // fallback
-                        if (MFontSizeField != null)
-                            MFontSizeField.SetValue(label, origSize);
-                        // Reassign draw call: remove from old (bitmap material) → add to new (TTF material)
-                        label.RemoveFromPanel();
-                        label.CreatePanel();
+                        label.trueTypeFont = CyrillicFont;
+                        label.fontSize = origSize;
                         swapped++;
                     }
                 }
-                catch (Exception ex)
-                {
-                    Logger.LogWarning("Error swapping font on label: " + ex.Message);
-                }
+                catch { }
             }
-
-            Logger.LogInfo("Swapped font on " + swapped + "/" + labels.Length + " labels");
+            DiagLog("SwapAllLabelFonts: " + swapped + "/" + labels.Length);
+            DiagFlush();
         }
 
         void InjectTranslations()
         {
             if (_injected) return;
-
             try
             {
                 var sources = LocalizationManager.Sources;
-                if (sources == null || sources.Count == 0)
-                {
-                    Logger.LogWarning("No I2 LanguageSource found!");
-                    return;
-                }
-
+                if (sources == null || sources.Count == 0) return;
                 var translations = LoadTranslations();
-                if (translations.Count == 0)
-                {
-                    Logger.LogError("No translations loaded!");
-                    return;
-                }
-
-                Logger.LogInfo("Loaded " + translations.Count + " translations");
-
+                if (translations.Count == 0) return;
                 int totalInjected = 0;
                 foreach (var source in sources)
                 {
                     int enIdx = source.GetLanguageIndex("English");
                     if (enIdx < 0) continue;
-
                     int injected = 0;
                     foreach (var term in source.mTerms)
                     {
-                        if (term.Languages == null || enIdx >= term.Languages.Length)
-                            continue;
+                        if (term.Languages == null || enIdx >= term.Languages.Length) continue;
                         string ru;
                         if (translations.TryGetValue(term.Term, out ru))
                         {
@@ -541,18 +285,13 @@ namespace NotTonightRussian
                             injected++;
                         }
                     }
-                    Logger.LogInfo("Source (" + source.mTerms.Count + "): injected " + injected);
                     totalInjected += injected;
                 }
-
-                Logger.LogInfo("Total injected: " + totalInjected);
+                DiagLog("Injected " + totalInjected + " translations");
                 LocalizationManager.LocalizeAll(true);
                 _injected = true;
             }
-            catch (Exception ex)
-            {
-                Logger.LogError("Inject error: " + ex);
-            }
+            catch (Exception ex) { DiagLog("Inject error: " + ex); }
         }
 
         Dictionary<string, string> LoadTranslations()
@@ -562,12 +301,7 @@ namespace NotTonightRussian
             string filePath = Path.Combine(pluginDir, "translations.txt");
             if (!File.Exists(filePath))
                 filePath = Path.Combine(Path.Combine(pluginDir, "NotTonightRussian"), "translations.txt");
-            if (!File.Exists(filePath))
-            {
-                Logger.LogError("Translation file not found: " + filePath);
-                return translations;
-            }
-
+            if (!File.Exists(filePath)) return translations;
             string[] lines = File.ReadAllLines(filePath, Encoding.UTF8);
             foreach (string line in lines)
             {
@@ -584,120 +318,99 @@ namespace NotTonightRussian
             return translations;
         }
 
-        void OnDestroy()
-        {
-            SceneManager.sceneLoaded -= OnSceneLoaded;
-        }
+        void OnDestroy() { SceneManager.sceneLoaded -= OnSceneLoaded; }
     }
 
-    // Separate patch class
     public static class UILabel_Patch
     {
         internal static ManualLogSource Log;
-        private static int _msgObjectLogCount = 0; // limit diagnostic spam
+        private static int _dialogLogCount = 0;
 
-        // Dynamic text translations for strings not in I2 (venue names, map labels, etc.)
+        // Dynamic translations
         private static readonly Dictionary<string, string> DynamicTranslations =
             new Dictionary<string, string>
         {
-            // Venue titles
             {"The King's Head, Bampton, Devon", "Королевская Голова, Бэмптон, Девон"},
             {"Home, Block B, Flat 7", "Дом, Блок Б, Квартира 7"},
-            // Map marker short names (game sends UPPERCASE, with/without trailing space)
             {"Kings Head", "Королевская Голова"},
             {"KINGS HEAD", "КОРОЛЕВСКАЯ ГОЛОВА"},
-            // Map tab/section labels
-            {"FLAT", "КВАРТИРА"},
-            {"Flat", "Квартира"},
-            // Owner names
-            {"Dave Stobart", "Дэйв Стобарт"},
-            {"DAVE STOBART", "ДЭЙВ СТОБАРТ"},
-            // Story NPCs
-            {"Harrison Pace", "Гаррисон Пейс"},
-            {"Simon Tavener", "Саймон Тавенер"},
+            {"FLAT", "КВАРТИРА"}, {"Flat", "Квартира"},
+            {"Dave Stobart", "Дэйв Стобарт"}, {"DAVE STOBART", "ДЭЙВ СТОБАРТ"},
+            {"Harrison Pace", "Гаррисон Пейс"}, {"Simon Tavener", "Саймон Тавенер"},
             {"Brian Prendegast", "Брайан Прендегаст"},
             {"Tarquin Futtock-Smythe", "Тарквин Фатток-Смайт"},
-            {"Susan Kozlowska", "Сьюзан Козловска"},
-            {"Officer Jupp", "Офицер Юпп"},
-            // Gender on ID cards
-            {"F", "Ж"},
-            {"M", "М"},
-            // Phone contacts — single names (game shows UPPERCASE)
-            {"JUPP", "ЮПП"},
-            {"DAVE", "ДЭЙВ"},
-            {"FERRISS", "ФЕРРИС"},
-            {"MYLARNA", "МИЛАРНА"},
-            {"SHANNON", "ШЕННОН"},
-            {"LUCILLE", "ЛЮСИЛЬ"},
-            {"GALAHAD", "ГАЛАХАД"},
-            {"GUINEVERE", "ГВИНЕВРА"},
-            {"JONESY", "ДЖОНСИ"},
-            {"BONESY", "БОНСИ"},
-            {"FRANÇOIS", "ФРАНСУА"},
-            {"TONI", "ТОНИ"},
-            // Mixed-case variants
-            {"Jupp", "Юпп"},
-            {"Dave", "Дэйв"},
-            {"Ferriss", "Феррис"},
-            {"Mylarna", "Миларна"},
-            {"Shannon", "Шеннон"},
-            {"Lucille", "Люсиль"},
-            {"Galahad", "Галахад"},
-            {"Guinevere", "Гвиневра"},
-            {"Jonesy", "Джонси"},
-            {"Bonesy", "Бонси"},
-            {"François", "Франсуа"},
-            {"Toni", "Тони"},
-            // Phone contact compound names
+            {"Susan Kozlowska", "Сьюзан Козловска"}, {"Officer Jupp", "Офицер Юпп"},
+            {"F", "Ж"}, {"M", "М"},
+            {"JUPP", "ЮПП"}, {"DAVE", "ДЭЙВ"}, {"FERRISS", "ФЕРРИС"},
+            {"MYLARNA", "МИЛАРНА"}, {"SHANNON", "ШЕННОН"}, {"LUCILLE", "ЛЮСИЛЬ"},
+            {"GALAHAD", "ГАЛАХАД"}, {"GUINEVERE", "ГВИНЕВРА"},
+            {"JONESY", "ДЖОНСИ"}, {"BONESY", "БОНСИ"},
+            {"FRANÇOIS", "ФРАНСУА"}, {"TONI", "ТОНИ"},
+            {"Jupp", "Юпп"}, {"Dave", "Дэйв"}, {"Ferriss", "Феррис"},
+            {"Mylarna", "Миларна"}, {"Shannon", "Шеннон"}, {"Lucille", "Люсиль"},
+            {"Galahad", "Галахад"}, {"Guinevere", "Гвиневра"},
+            {"Jonesy", "Джонси"}, {"Bonesy", "Бонси"},
+            {"François", "Франсуа"}, {"Toni", "Тони"},
             {"DAVE@PUB", "ДЭЙВ@ПАБ"},
-            // Venue names (job cards, map labels)
-            {"BRITISH MUSEUM", "БРИТАНСКИЙ МУЗЕЙ"},
-            {"British Museum", "Британский музей"},
+            {"BRITISH MUSEUM", "БРИТАНСКИЙ МУЗЕЙ"}, {"British Museum", "Британский музей"},
             {"THE BRITISH MUSEUM", "БРИТАНСКИЙ МУЗЕЙ"},
-            {"TIKI HEAD", "ТИКИ-ХЕД"},
-            {"Tiki Head", "Тики-Хед"},
-            {"TIKI HEAD DAY", "ТИКИ-ХЕД ДЕНЬ"},
-            {"TIKI HEAD NIGHTS", "ТИКИ-ХЕД НОЧИ"},
-            {"CLUB NEO", "КЛУБ НЕО"},
-            {"Club Neo", "Клуб Нео"},
-            {"FIRE AND ICE", "ОГОНЬ И ЛЁД"},
-            {"Fire and Ice", "Огонь и Лёд"},
+            {"TIKI HEAD", "ТИКИ-ХЕД"}, {"Tiki Head", "Тики-Хед"},
+            {"TIKI HEAD DAY", "ТИКИ-ХЕД ДЕНЬ"}, {"TIKI HEAD NIGHTS", "ТИКИ-ХЕД НОЧИ"},
+            {"CLUB NEO", "КЛУБ НЕО"}, {"Club Neo", "Клуб Нео"}, {"NEO", "НЕО"}, {"Neo", "Нео"},
+            {"FIRE AND ICE", "ОГОНЬ И ЛЁД"}, {"Fire and Ice", "Огонь и Лёд"},
             {"FIRE & ICE", "ОГОНЬ И ЛЁД"},
-            {"CLUB FERRISS", "КЛУБ ФЕРРИС"},
-            {"Club Ferriss", "Клуб Феррис"},
-            {"BOOZE BARGE", "БУХАЯ БАРЖА"},
-            {"Booze Barge", "Бухая Баржа"},
-            {"LE ROSBIF", "ЛЕ РОСБИФ"},
-            {"Le Rosbif", "Ле Росбиф"},
-            {"THE INDIE FEST", "ИНДИ-ФЕСТ"},
-            {"The Indie Fest", "Инди-Фест"},
-            {"INDIE FEST", "ИНДИ-ФЕСТ"},
-            {"Indie Fest", "Инди-Фест"},
+            {"CLUB FERRISS", "КЛУБ ФЕРРИС"}, {"Club Ferriss", "Клуб Феррис"},
+            {"BOOZE BARGE", "БУХАЯ БАРЖА"}, {"Booze Barge", "Бухая Баржа"},
+            {"LE ROSBIF", "ЛЕ РОСБИФ"}, {"Le Rosbif", "Ле Росбиф"},
+            {"THE INDIE FEST", "ИНДИ-ФЕСТ"}, {"The Indie Fest", "Инди-Фест"},
+            {"INDIE FEST", "ИНДИ-ФЕСТ"}, {"Indie Fest", "Инди-Фест"},
             {"AL FRESCO", "НА СВЕЖЕМ ВОЗДУХЕ"},
-            // Music genre labels
-            {"CLASSICAL", "КЛАССИКА"},
-            {"Classical", "Классика"},
-            {"ROCK", "РОК"},
-            {"Rock", "Рок"},
-            {"POP", "ПОП"},
-            {"Pop", "Поп"},
-            {"INDIE", "ИНДИ"},
-            {"Indie", "Инди"},
-            {"ELECTRONIC", "ЭЛЕКТРОНИКА"},
-            {"Electronic", "Электроника"},
-            {"HIP HOP", "ХИП-ХОП"},
-            {"Hip Hop", "Хип-хоп"},
-            {"DANCE", "ДЭНС"},
-            {"Dance", "Дэнс"},
-            // Compound NPC references
-            {"Jupp Security", "Безопасность Юппа"},
-            {"JUPP SECURITY", "БЕЗОПАСНОСТЬ ЮППА"},
+            {"CLASSICAL", "КЛАССИКА"}, {"Classical", "Классика"},
+            {"ROCK", "РОК"}, {"Rock", "Рок"},
+            {"POP", "ПОП"}, {"Pop", "Поп"},
+            {"INDIE", "ИНДИ"}, {"Indie", "Инди"},
+            {"ELECTRONIC", "ЭЛЕКТРОНИКА"}, {"Electronic", "Электроника"},
+            {"HIP HOP", "ХИП-ХОП"}, {"Hip Hop", "Хип-хоп"},
+            {"DANCE", "ДЭНС"}, {"Dance", "Дэнс"},
+            {"Jupp Security", "Безопасность Юппа"}, {"JUPP SECURITY", "БЕЗОПАСНОСТЬ ЮППА"},
             {"HARRISON PACE", "ГАРРИСОН ПЕЙС"},
-            // UI labels that overflow their widgets
             {"ОБЩАЯ ОЧЕРЕДЬ", "ОБЩ. ОЧЕРЕДЬ"},
+            // Map venue location subtitles (NightclubName, NightclubLocation)
+            {"Club Neo, Exeter, Devon", "Клуб Нео, Эксетер, Девон"},
+            {"Fire and Ice, Exeter, Devon", "Огонь и Лёд, Эксетер, Девон"},
+            {"The Tiki Head, Exeter, Devon", "Тики-Хед, Эксетер, Девон"},
+            {"The King's Head, Exeter, Devon", "Королевская Голова, Эксетер, Девон"},
+            {"King's Head, Bampton, Devon", "Королевская Голова, Бэмптон, Девон"},
+            {"The King's Head 3, Bampton, Devon", "Королевская Голова, Бэмптон, Девон"},
+            {"The King's Head?, Bampton, Devon", "Королевская Голова?, Бэмптон, Девон"},
+            {"The Kings Head 3, Bampton, Devon", "Королевская Голова, Бэмптон, Девон"},
+            {"The Kings Head 4, Bampton, Devon", "Королевская Голова, Бэмптон, Девон"},
+            {"Angels, Exeter, Devon", "Ангелы, Эксетер, Девон"},
+            {"Carpark Popup, Exeter, Devon", "Парковка-попап, Эксетер, Девон"},
+            {"British Museum, London, England", "Британский музей, Лондон, Англия"},
+            {"Casino, Exeter, Devon", "Казино, Эксетер, Девон"},
+            {"The Gammon, Bristol, Somerset", "Гэммон, Бристоль, Сомерсет"},
+            {"The Indie Festival, Glasto, Somerset", "Инди-фест, Гласто, Сомерсет"},
+            {"The Indie festival, Glasto, Somerset", "Инди-фест, Гласто, Сомерсет"},
+            {"Festival of Rock, Glasto, Somerset", "Рок-фест, Гласто, Сомерсет"},
+            {"Cheese and Chunes Fest, Glasto, Somerset", "Фест «Сыр и Мелодии», Гласто, Сомерсет"},
+            {"The London Wall, London, England", "Лондонская стена, Лондон, Англия"},
+            {"The Dover border, Dover", "Границa в Дувре, Дувр"},
+            {"Le RosBif, Toulouse", "Ле Росбиф, Тулуза"},
+            {"Le Coq Café, Toulouse", "Le Coq Café, Тулуза"},
+            {"Le Petit Bateau, Toulouse", "Le Petit Bateau, Тулуза"},
+            {"Ferriss' apartment, Toulouse", "Квартира Ферриса, Тулуза"},
+            {"JULY BALL, Exeter, Devon", "ИЮЛЬСКИЙ БАЛ, Эксетер, Девон"},
+            {"January Ball, Exeter, Devon", "Январский бал, Эксетер, Девон"},
+            {"October Ball, Exeter, Devon", "Октябрьский бал, Эксетер, Девон"},
+            {"Spring Ball, Exeter, Devon", "Весенний бал, Эксетер, Девон"},
+            {"The Election, Wincanton, Somerset", "Выборы, Уинкантон, Сомерсет"},
+            {"The Election, Wincanton, England", "Выборы, Уинкантон, Англия"},
+            {"Town hall, Exeter, Devon", "Ратуша, Эксетер, Девон"},
+            {"Home, Block B, Flat 7, Exeter, Devon", "Дом, Блок Б, Кв. 7, Эксетер, Девон"},
+            {"Europeans Citizens Relocation Block C, Yeovil, Somerset", "Блок переселения евро-граждан C, Йовил, Сомерсет"},
         };
 
-        // Day abbreviation fixes: game truncates "Среда" to "СРЕ" (3 chars) — replace with 2-char
         private static readonly Dictionary<string, string> DayAbbrevFix =
             new Dictionary<string, string>
         {
@@ -705,43 +418,32 @@ namespace NotTonightRussian
             {"ЧЕТ", "ЧТ"}, {"ПЯТ", "ПТ"}, {"СУБ", "СБ"}, {"ВОС", "ВС"},
         };
 
-        // Month name/abbreviation -> number for date reformatting
         private static readonly Dictionary<string, string> MonthMap = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
         {
-            // Full English
             {"January","01"},{"February","02"},{"March","03"},{"April","04"},
             {"May","05"},{"June","06"},{"July","07"},{"August","08"},
             {"September","09"},{"October","10"},{"November","11"},{"December","12"},
-            // Full Russian
             {"Январь","01"},{"Февраль","02"},{"Март","03"},{"Апрель","04"},
             {"Май","05"},{"Июнь","06"},{"Июль","07"},{"Август","08"},
             {"Сентябрь","09"},{"Октябрь","10"},{"Ноябрь","11"},{"Декабрь","12"},
-            // Abbreviated Russian (game truncates to 3 chars)
             {"ЯНВ","01"},{"ФЕВ","02"},{"МАР","03"},{"АПР","04"},
             {"ИЮН","06"},{"ИЮЛ","07"},{"АВГ","08"},{"СЕН","09"},
             {"ОКТ","10"},{"НОЯ","11"},{"ДЕК","12"},
-            // Abbreviated English
             {"JAN","01"},{"FEB","02"},{"MAR","03"},{"APR","04"},
             {"JUN","06"},{"JUL","07"},{"AUG","08"},{"SEP","09"},
             {"OCT","10"},{"NOV","11"},{"DEC","12"},
         };
 
-        // Reformat "Nth MonthName YYYY" -> "DD.MM.YYYY"
         private static string ReformatNamedDate(string text)
         {
             if (text == null || text.Length < 6) return text;
-
             foreach (var kv in MonthMap)
             {
                 int mi = text.IndexOf(kv.Key, StringComparison.OrdinalIgnoreCase);
                 if (mi < 0) continue;
-                // Avoid partial match: check word boundary before month name
                 if (mi > 0 && char.IsLetter(text[mi - 1])) continue;
-                // Check word boundary after month name
                 int afterName = mi + kv.Key.Length;
                 if (afterName < text.Length && char.IsLetter(text[afterName])) continue;
-
-                // Find year after month
                 int ys = afterName;
                 while (ys < text.Length && text[ys] == ' ') ys++;
                 if (ys + 4 > text.Length) continue;
@@ -749,82 +451,54 @@ namespace NotTonightRussian
                 int year;
                 if (!int.TryParse(yearStr, out year) || year < 1900 || year > 2100) continue;
                 if (ys + 4 < text.Length && char.IsDigit(text[ys + 4])) continue;
-
-                // Find day before month
                 int p = mi - 1;
                 while (p >= 0 && (text[p] == ' ' || text[p] == ',')) p--;
-                // Skip ordinal suffixes
                 if (p >= 1)
                 {
                     string suf = text.Substring(p - 1, 2).ToLower();
-                    if (suf == "st" || suf == "nd" || suf == "rd" || suf == "th")
-                        p -= 2;
+                    if (suf == "st" || suf == "nd" || suf == "rd" || suf == "th") p -= 2;
                 }
                 int dayEnd = p + 1;
                 while (p >= 0 && char.IsDigit(text[p])) p--;
                 int dayStart = p + 1;
-
                 if (dayStart < dayEnd)
                 {
                     int day;
                     if (int.TryParse(text.Substring(dayStart, dayEnd - dayStart), out day) && day >= 1 && day <= 31)
                     {
                         string fmt = day.ToString("D2") + "." + kv.Value + "." + yearStr;
-                        text = text.Substring(0, dayStart) + fmt + text.Substring(ys + 4);
-                        return text;
+                        return text.Substring(0, dayStart) + fmt + text.Substring(ys + 4);
                     }
                 }
-
-                // No day found - month+year only (expiry dates like "ИЮН 2019")
                 string fmtNoDay = kv.Value + "." + yearStr;
-                text = text.Substring(0, mi) + fmtNoDay + text.Substring(ys + 4);
-                return text;
+                return text.Substring(0, mi) + fmtNoDay + text.Substring(ys + 4);
             }
             return text;
         }
 
-        // Reformat numeric dates: "22,2,2000" -> "22.02.2000", "2.1.18" -> "02.01.18"
         private static string ReformatNumericDate(string text)
         {
             if (text == null || text.Length < 5) return text;
-
             for (int i = 0; i <= text.Length - 5; i++)
             {
                 if (!char.IsDigit(text[i])) continue;
                 if (i > 0 && char.IsDigit(text[i - 1])) continue;
-
-                // Read day
                 int de = i + 1;
                 while (de < text.Length && char.IsDigit(text[de])) de++;
-                int day;
-                if (!int.TryParse(text.Substring(i, de - i), out day) || day < 1 || day > 31) continue;
-
-                // Separator
+                int day; if (!int.TryParse(text.Substring(i, de - i), out day) || day < 1 || day > 31) continue;
                 if (de >= text.Length) continue;
-                char s1 = text[de];
-                if (s1 != ',' && s1 != '.') continue;
-
-                // Read month
-                int ms = de + 1;
-                int me = ms;
+                char s1 = text[de]; if (s1 != ',' && s1 != '.') continue;
+                int ms = de + 1; int me = ms;
                 while (me < text.Length && char.IsDigit(text[me])) me++;
-                int month;
-                if (!int.TryParse(text.Substring(ms, me - ms), out month) || month < 1 || month > 12) continue;
-
-                // Second separator
+                int month; if (!int.TryParse(text.Substring(ms, me - ms), out month) || month < 1 || month > 12) continue;
                 if (me >= text.Length) continue;
-                char s2 = text[me];
-                if (s2 != ',' && s2 != '.') continue;
-
-                // Read year
-                int yrs = me + 1;
-                int yre = yrs;
+                char s2 = text[me]; if (s2 != ',' && s2 != '.') continue;
+                int yrs = me + 1; int yre = yrs;
                 while (yre < text.Length && char.IsDigit(text[yre])) yre++;
                 int yLen = yre - yrs;
                 if (yLen != 2 && yLen != 4) continue;
                 if (yre < text.Length && char.IsDigit(text[yre])) continue;
                 string yearStr = text.Substring(yrs, yLen);
-
                 string fmt = day.ToString("D2") + "." + month.ToString("D2") + "." + yearStr;
                 text = text.Substring(0, i) + fmt + text.Substring(yre);
                 i += fmt.Length - 1;
@@ -832,11 +506,12 @@ namespace NotTonightRussian
             return text;
         }
 
+        // === EXACT v1.0.0 Prefix logic + diagnostics ===
         public static void Prefix(UILabel __instance)
         {
             if (RussianLocPlugin.CyrillicFont == null) return;
 
-            // Dynamic text replacement (runs every ProcessText call)
+            // Dynamic text replacement
             if (__instance.text != null && __instance.text.Length > 0)
             {
                 string replacement;
@@ -844,20 +519,15 @@ namespace NotTonightRussian
                     __instance.text = replacement;
                 else
                 {
-                    // Retry with trimmed text (game sometimes sends trailing spaces)
                     string trimmed = __instance.text.Trim();
                     if (trimmed != __instance.text && DynamicTranslations.TryGetValue(trimmed, out replacement))
                         __instance.text = replacement;
                     else
                     {
-                        // Reformat dates: "2nd January 2018" -> "02.01.2018"
                         string after = ReformatNamedDate(__instance.text);
-                        // Reformat numeric: "22,2,2000" -> "22.02.2000"
                         after = ReformatNumericDate(after);
-                        if (after != __instance.text)
-                            __instance.text = after;
+                        if (after != __instance.text) __instance.text = after;
 
-                        // Fix 3-char day abbreviations (game truncates "Среда"→"СРЕ")
                         if (__instance.text.Length >= 4 && !char.IsLetter(__instance.text[3]))
                         {
                             string dayRepl;
@@ -865,7 +535,6 @@ namespace NotTonightRussian
                                 __instance.text = dayRepl + __instance.text.Substring(3);
                         }
 
-                        // Transliterate English names to Cyrillic
                         string nameResult;
                         if (NameTransliterator.TryTransliterate(__instance.text, out nameResult))
                             __instance.text = nameResult;
@@ -873,164 +542,68 @@ namespace NotTonightRussian
                 }
             }
 
+            // Font swap — EXACT v1.0.0 logic (simple property setter)
             if (__instance.trueTypeFont != RussianLocPlugin.CyrillicFont)
             {
+                __instance.trueTypeFont = RussianLocPlugin.CyrillicFont;
+
                 int origSize = __instance.fontSize;
-                string snippet = __instance.text != null
-                    ? __instance.text.Replace("\n", "\\n")
-                    : "";
-                if (snippet.Length > 60) snippet = snippet.Substring(0, 60);
 
-                bool isMsgObject = __instance.gameObject.name.Contains("MsgObject");
-                bool isRadioMsg = __instance.gameObject.name.Contains("RadioMsg");
-
-                // Diagnostic logging for dialog labels (first 50 per type)
-                if ((isMsgObject || isRadioMsg) && _msgObjectLogCount < 50)
+                // Dialog speech bubbles
+                if (__instance.gameObject.name.Contains("MsgObject"))
                 {
-                    _msgObjectLogCount++;
-                    string bfName = "null";
-                    try { if (__instance.bitmapFont != null) bfName = __instance.bitmapFont.name; } catch { }
-                    string ttfName = "null";
-                    try { if (__instance.trueTypeFont != null) ttfName = __instance.trueTypeFont.name; } catch { }
+                    if (__instance.fontSize > 22)
+                        __instance.fontSize = 22;
+                    __instance.useFloatSpacing = true;
+                    __instance.floatSpacingY = 0f;
+                    if (__instance.text != null && __instance.text.Length > 0 && __instance.text[0] != '\n')
+                        __instance.text = "\n" + __instance.text;
 
-                    string diagMsg = "DIALOG #" + _msgObjectLogCount + ": "
-                        + __instance.gameObject.name
-                        + " bitmapFont=" + bfName
-                        + " trueTypeFont=" + ttfName
-                        + " origSz=" + origSize
-                        + " ov=" + __instance.overflowMethod
-                        + " w=" + __instance.width + " h=" + __instance.height
-                        + " IsPixelFont=" + RussianLocPlugin.IsPixelFont
-                        + " [" + snippet + "]";
-                    if (Log != null) Log.LogInfo(diagMsg);
-                    RussianLocPlugin.DiagLog(diagMsg);
-                    RussianLocPlugin.DiagFlush();
-                }
-
-                // ── Font swap via REFLECTION (bypass ALL property setters) ──
-                // NGUI property setters (trueTypeFont, fontSize, text) call:
-                //   RemoveFromPanel() → panel=null → widget orphaned from rendering
-                //   ProcessAndRequest() → recursive ProcessText (causes re-entry)
-                //   MarkAsChanged() → noop when panel=null
-                // By setting backing fields directly, we avoid these side effects.
-                // Then we manually call RemoveFromPanel+CreatePanel to reassign
-                // the widget to the correct draw call (new font material).
-
-                bool hadBitmapFont = false;
-                if (RussianLocPlugin.MFontField != null)
-                {
-                    object mFontVal = RussianLocPlugin.MFontField.GetValue(__instance);
-                    hadBitmapFont = mFontVal != null;
-                    if (hadBitmapFont)
-                        RussianLocPlugin.MFontField.SetValue(__instance, null);
-                }
-
-                // Set TrueType font via reflection (NO RemoveFromPanel, NO recursive ProcessText)
-                if (RussianLocPlugin.MTrueTypeFontField != null)
-                    RussianLocPlugin.MTrueTypeFontField.SetValue(__instance, RussianLocPlugin.CyrillicFont);
-                else
-                    __instance.trueTypeFont = RussianLocPlugin.CyrillicFont; // fallback
-
-                // Reassign draw call: old bitmap font material → new TrueType font material
-                __instance.RemoveFromPanel();
-                __instance.CreatePanel();
-
-                // Diagnostic: verify swap worked
-                if ((isMsgObject || isRadioMsg) && _msgObjectLogCount <= 50)
-                {
-                    string panelName = "null";
-                    try { var p = __instance.GetComponentInParent<UIPanel>(); if (p != null) panelName = p.name; } catch { }
-                    RussianLocPlugin.DiagLog("  -> font swap: mFont=" + (RussianLocPlugin.MFontField != null ? "" + RussianLocPlugin.MFontField.GetValue(__instance) : "?")
-                        + " ttf=" + (__instance.trueTypeFont != null ? __instance.trueTypeFont.name : "null")
-                        + " panel=" + panelName);
-                    RussianLocPlugin.DiagFlush();
-                }
-
-                // Set fontSize via reflection (avoid ProcessAndRequest recursion)
-                int targetSize = origSize;
-
-                // Cinematic titles (sz=100, huge widgets)
-                if (origSize >= 80)
-                    targetSize = 40;
-
-                // Dialog speech bubbles (MsgObjectInput clones, sz=60)
-                if (isMsgObject)
-                {
-                    if (RussianLocPlugin.IsPixelFont)
+                    _dialogLogCount++;
+                    if (_dialogLogCount <= 10)
                     {
-                        if (targetSize > 22) targetSize = 22;
-                        __instance.useFloatSpacing = true;
-                        __instance.floatSpacingY = 0f;
-                        // Prepend \n via reflection (avoid text setter's ProcessAndRequest)
-                        if (__instance.text != null && __instance.text.Length > 0 && __instance.text[0] != '\n')
-                        {
-                            if (RussianLocPlugin.MTextField != null)
-                                RussianLocPlugin.MTextField.SetValue(__instance, "\n" + __instance.text);
-                            else
-                                __instance.text = "\n" + __instance.text;
-                        }
-                    }
-                    else
-                    {
-                        if (targetSize > 24) targetSize = 24;
-                        __instance.useFloatSpacing = true;
-                        __instance.floatSpacingY = -4f;
-                        __instance.overflowMethod = UILabel.Overflow.ShrinkContent;
+                        string snippet = __instance.text != null ? __instance.text.Replace("\n", "\\n") : "";
+                        if (snippet.Length > 60) snippet = snippet.Substring(0, 60);
+                        RussianLocPlugin.DiagLog("DLG #" + _dialogLogCount
+                            + " origSz=" + origSize + " newSz=" + __instance.fontSize
+                            + " ov=" + __instance.overflowMethod
+                            + " w=" + __instance.width + " h=" + __instance.height
+                            + " [" + snippet + "]");
+                        RussianLocPlugin.DiagFlush();
                     }
                 }
-                // Radio message (RadioMsg, origSz=60)
-                else if (isRadioMsg)
+                // Radio messages
+                else if (__instance.gameObject.name.Contains("RadioMsg"))
                 {
-                    if (RussianLocPlugin.IsPixelFont)
-                    {
-                        if (targetSize > 28) targetSize = 28;
-                        __instance.useFloatSpacing = true;
-                        __instance.floatSpacingY = 8f;
-                        if (__instance.text != null && __instance.text.Length > 0 && __instance.text[0] != '\n')
-                        {
-                            if (RussianLocPlugin.MTextField != null)
-                                RussianLocPlugin.MTextField.SetValue(__instance, "\n" + __instance.text);
-                            else
-                                __instance.text = "\n" + __instance.text;
-                        }
-                    }
-                    else
-                    {
-                        if (targetSize > 26) targetSize = 26;
-                        __instance.useFloatSpacing = true;
-                        __instance.floatSpacingY = 0f;
-                        __instance.overflowMethod = UILabel.Overflow.ShrinkContent;
-                    }
+                    if (__instance.fontSize > 28)
+                        __instance.fontSize = 28;
+                    __instance.useFloatSpacing = true;
+                    __instance.floatSpacingY = 8f;
+                    if (__instance.text != null && __instance.text.Length > 0 && __instance.text[0] != '\n')
+                        __instance.text = "\n" + __instance.text;
                 }
-                else
+                // Cinematic titles
+                else if (origSize >= 80)
                 {
-                    // Cap labels with inflated fontSize designed for bitmap font
-                    if (targetSize > 40)
-                        targetSize = 32;
-
-                    // Cinematic text spacingY
-                    if (origSize >= 80)
-                        __instance.spacingY = 8;
-                    else if (__instance.height > 50 && __instance.spacingY < 4)
-                        __instance.spacingY = 4;
+                    __instance.fontSize = 40;
+                    __instance.spacingY = 8;
                 }
-
-                // Apply fontSize via reflection (avoid ProcessAndRequest recursion)
-                if (targetSize != origSize)
+                // General labels with bitmap font sizing
+                else if (__instance.fontSize > 40)
                 {
-                    if (RussianLocPlugin.MFontSizeField != null)
-                        RussianLocPlugin.MFontSizeField.SetValue(__instance, targetSize);
-                    else
-                        __instance.fontSize = targetSize; // fallback
+                    __instance.fontSize = 32;
                 }
+                // No spacingY changes for general labels — causes overlap
 
-                if (Log != null)
-                    Log.LogInfo("FontPatch: " + __instance.gameObject.name
-                        + " origSz=" + origSize + " newSz=" + targetSize
-                        + " ov=" + __instance.overflowMethod
-                        + " w=" + __instance.width + " h=" + __instance.height
-                        + " spY=" + __instance.spacingY
-                        + " [" + snippet + "]");
+                // ID card name: shift down a few pixels so tall Cyrillic letters (Ш, Ф) don't clip at top
+                if (__instance.text != null && __instance.text.Contains("\n")
+                    && __instance.GetComponentInParent<ClubberID>() != null)
+                {
+                    Vector3 pos = __instance.transform.localPosition;
+                    pos.y -= 9f;
+                    __instance.transform.localPosition = pos;
+                    __instance.spacingY = 2;
+                }
             }
         }
     }
