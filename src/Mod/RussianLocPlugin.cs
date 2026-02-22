@@ -15,15 +15,16 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.6.0")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.7.0")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
         // Win32: register font for current session
         [DllImport("gdi32.dll", CharSet = CharSet.Unicode)]
         private static extern int AddFontResourceEx(string lpszFilename, uint fl, IntPtr pdv);
         [DllImport("user32.dll")]
-        private static extern IntPtr SendMessage(IntPtr hWnd, uint Msg, IntPtr wParam, IntPtr lParam);
+        private static extern IntPtr SendMessageTimeout(IntPtr hWnd, uint Msg, IntPtr wParam, IntPtr lParam, uint fuFlags, uint uTimeout, out IntPtr lpdwResult);
         private const uint WM_FONTCHANGE = 0x001D;
+        private const uint SMTO_ABORTIFHUNG = 0x0002;
         private static readonly IntPtr HWND_BROADCAST = new IntPtr(0xFFFF);
 
         private bool _injected = false;
@@ -52,12 +53,12 @@ namespace NotTonightRussian
             string pluginDir = Path.GetDirectoryName(Info.Location);
             _diagPath = Path.Combine(pluginDir, "NotTonightRussian_diag.txt");
 
-            Logger.LogInfo("Not Tonight Russian v1.4.3");
-            DiagLog("=== Not Tonight Russian v1.4.3 (clean test) ===");
+            Logger.LogInfo("Not Tonight Russian v1.6.1");
+            DiagLog("=== Not Tonight Russian v1.6.1 ===");
             DiagLog("Plugin dir: " + pluginDir);
             UILabel_Patch.Log = Logger;
 
-            InstallFontToUserDir();
+            InstallFonts();
             FindCyrillicFont();
             DiagFlush();
 
@@ -92,10 +93,41 @@ namespace NotTonightRussian
             new string[] { "PressStart2P-Regular.ttf", "Press Start 2P (TrueType)" },
         };
 
-        void InstallFontToUserDir()
+        void InstallFonts()
         {
             string pluginDir = Path.GetDirectoryName(Info.Location);
             bool anyRegistered = false;
+
+            // Try to install to system fonts dir (C:\Windows\Fonts) — requires admin
+            try
+            {
+                string winDir = Environment.GetEnvironmentVariable("WINDIR") ?? @"C:\Windows";
+                string systemFontsDir = Path.Combine(winDir, "Fonts");
+                foreach (var font in FontsToInstall)
+                {
+                    string srcFont = Path.Combine(pluginDir, font[0]);
+                    if (!File.Exists(srcFont)) continue;
+                    string destFont = Path.Combine(systemFontsDir, font[0]);
+                    if (!File.Exists(destFont))
+                    {
+                        File.Copy(srcFont, destFont, true);
+                        using (var key = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", true))
+                        { if (key != null) key.SetValue(font[1], font[0]); }
+                        DiagLog("Installed font to system: " + destFont);
+                    }
+                    else
+                    {
+                        DiagLog("Font already in system dir: " + destFont);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                DiagLog("System font install failed (no admin?): " + ex.Message);
+                DiagLog("HINT: Right-click font files in plugin folder -> 'Install for all users', then restart the game");
+            }
+
+            // Register fonts for current session
             foreach (var font in FontsToInstall)
             {
                 string srcFont = Path.Combine(pluginDir, font[0]);
@@ -112,32 +144,14 @@ namespace NotTonightRussian
             }
             if (anyRegistered)
             {
-                try { SendMessage(HWND_BROADCAST, WM_FONTCHANGE, IntPtr.Zero, IntPtr.Zero); DiagLog("WM_FONTCHANGE sent"); }
+                try
+                {
+                    IntPtr res;
+                    SendMessageTimeout(HWND_BROADCAST, WM_FONTCHANGE, IntPtr.Zero, IntPtr.Zero, SMTO_ABORTIFHUNG, 1000, out res);
+                    DiagLog("WM_FONTCHANGE sent (timeout=1s)");
+                }
                 catch { }
             }
-
-            // Install to user fonts dir
-            try
-            {
-                string localAppData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
-                string userFontsDir = Path.Combine(Path.Combine(localAppData, "Microsoft"), "Windows");
-                userFontsDir = Path.Combine(userFontsDir, "Fonts");
-                Directory.CreateDirectory(userFontsDir);
-                foreach (var font in FontsToInstall)
-                {
-                    string srcFont = Path.Combine(pluginDir, font[0]);
-                    if (!File.Exists(srcFont)) continue;
-                    string destFont = Path.Combine(userFontsDir, font[0]);
-                    if (!File.Exists(destFont))
-                    {
-                        File.Copy(srcFont, destFont, true);
-                        using (var key = Registry.CurrentUser.OpenSubKey(@"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", true))
-                        { if (key != null) key.SetValue(font[1], destFont); }
-                        DiagLog("Installed font: " + destFont);
-                    }
-                }
-            }
-            catch (Exception ex) { DiagLog("Font install error: " + ex.Message); }
         }
 
         Font TryLoadFont(string name)
@@ -154,6 +168,12 @@ namespace NotTonightRussian
             if (ci.advance != arialCi.advance)
             {
                 DiagLog("TryLoadFont('" + name + "'): advance=" + ci.advance + " (Arial=" + arialCi.advance + ") -> OK");
+                return f;
+            }
+            // Font found by name but metrics match Arial — trust if Unity returned correct name
+            if (f.name == name)
+            {
+                DiagLog("TryLoadFont('" + name + "'): metrics match Arial but font.name OK -> TRUSTING");
                 return f;
             }
             DiagLog("TryLoadFont('" + name + "'): same as Arial -> REJECTED");
@@ -324,8 +344,6 @@ namespace NotTonightRussian
     public static class UILabel_Patch
     {
         internal static ManualLogSource Log;
-        private static int _dialogLogCount = 0;
-        private static int _idNameLogCount = 0;
 
         // Dynamic translations
         private static readonly Dictionary<string, string> DynamicTranslations =
@@ -561,19 +579,6 @@ namespace NotTonightRussian
                     __instance.floatSpacingY = 0f;
                     if (__instance.text != null && __instance.text.Length > 0 && __instance.text[0] != '\n')
                         __instance.text = "\n" + __instance.text;
-
-                    _dialogLogCount++;
-                    if (_dialogLogCount <= 10)
-                    {
-                        string snippet = __instance.text != null ? __instance.text.Replace("\n", "\\n") : "";
-                        if (snippet.Length > 60) snippet = snippet.Substring(0, 60);
-                        RussianLocPlugin.DiagLog("DLG #" + _dialogLogCount
-                            + " origSz=" + origSize + " newSz=" + __instance.fontSize
-                            + " ov=" + __instance.overflowMethod
-                            + " w=" + __instance.width + " h=" + __instance.height
-                            + " [" + snippet + "]");
-                        RussianLocPlugin.DiagFlush();
-                    }
                 }
                 // Radio messages
                 else if (__instance.gameObject.name.Contains("RadioMsg"))
