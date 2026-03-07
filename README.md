@@ -15,6 +15,7 @@
 
 1. Скачайте `NotTonightRussian-Data.zip` из [последнего релиза](https://github.com/4RH1T3CT0R7/not-tonight-russian/releases/latest)
 2. Распакуйте содержимое в папку с игрой (где находится `Not Tonight.exe`)
+3. Установите шрифты для ВСЕХ пользователей
 
 ## Что устанавливается
 
