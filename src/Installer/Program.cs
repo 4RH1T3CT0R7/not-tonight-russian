@@ -12,12 +12,29 @@ using Microsoft.Win32;
 
 namespace NotTonightRussianInstaller
 {
-    // P/Invoke for unblocking files (remove Zone.Identifier ADS)
+    // P/Invoke for unblocking files (remove Zone.Identifier ADS) and font management
     static class NativeMethods
     {
         [DllImport("kernel32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
         [return: MarshalAs(UnmanagedType.Bool)]
         public static extern bool DeleteFile(string lpFileName);
+
+        // Register a font for the current GDI session. flags=0 makes the font visible
+        // to OTHER processes too (game launches as separate process). FR_PRIVATE (0x10)
+        // would make it private to current process only — useless for our case.
+        [DllImport("gdi32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
+        public static extern int AddFontResourceEx(string lpszFilename, uint fl, IntPtr pdv);
+
+        [DllImport("gdi32.dll", CharSet = CharSet.Unicode, SetLastError = true)]
+        public static extern bool RemoveFontResourceEx(string lpFileName, uint fl, IntPtr pdv);
+
+        [DllImport("user32.dll")]
+        public static extern IntPtr SendMessageTimeout(IntPtr hWnd, uint Msg, IntPtr wParam,
+            IntPtr lParam, uint fuFlags, uint uTimeout, out IntPtr lpdwResult);
+
+        public const uint WM_FONTCHANGE = 0x001D;
+        public const uint SMTO_ABORTIFHUNG = 0x0002;
+        public static readonly IntPtr HWND_BROADCAST = new IntPtr(0xFFFF);
     }
 
     public class InstallerForm : Form
@@ -36,12 +53,30 @@ namespace NotTonightRussianInstaller
         private Label statusLabel;
         private BackgroundWorker worker;
 
-        private const string ModVersion = "1.7.0";
+        private const string ModVersion = "1.8.0";
 
         // Game exe can be either "Not Tonight.exe" or "NotTonight.exe"
         private static readonly string[] GameExeNames = { "Not Tonight.exe", "NotTonight.exe" };
         // Game folder can be either "Not Tonight" or "NotTonight"
         private static readonly string[] GameFolderNames = { "Not Tonight", "NotTonight" };
+
+        // Fonts shipped with the mod. RegName is the Windows registry value name for
+        // the font; data part differs between HKLM (just filename) and HKCU (full path).
+        // Family names (LanaPixel / Press Start 2P) are verified against the actual TTF
+        // name table — they match what RussianLocPlugin.FindCyrillicFont() searches for.
+        private class FontEntry
+        {
+            public string FileName;
+            public string RegName;
+        }
+
+        private static readonly FontEntry[] FontsToInstall = new[]
+        {
+            new FontEntry { FileName = "LanaPixel.ttf",            RegName = "LanaPixel (TrueType)" },
+            new FontEntry { FileName = "PressStart2P-Regular.ttf", RegName = "Press Start 2P (TrueType)" },
+        };
+
+        private const string FontsRegSubKey = @"SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts";
 
         public InstallerForm()
         {
@@ -400,13 +435,17 @@ namespace NotTonightRussianInstaller
             string tempDir = Path.Combine(Path.GetTempPath(),
                 "NotTonightRussian_install_" + Guid.NewGuid().ToString("N").Substring(0, 8));
 
+            bool fontsOk = true;
+            string fontFailureDetails = null;
+            string pluginDir = Path.Combine(gamePath, "BepInEx", "plugins", "NotTonightRussian");
+
             try
             {
                 Directory.CreateDirectory(tempDir);
 
                 // Step 1: Extract
                 worker.ReportProgress(10, "\u0420\u0430\u0441\u043f\u0430\u043a\u043e\u0432\u043a\u0430 \u0434\u0430\u043d\u043d\u044b\u0445...");
-                Log("[1/3] \u0420\u0430\u0441\u043f\u0430\u043a\u043e\u0432\u043a\u0430 \u0434\u0430\u043d\u043d\u044b\u0445...");
+                Log("[1/4] \u0420\u0430\u0441\u043f\u0430\u043a\u043e\u0432\u043a\u0430 \u0434\u0430\u043d\u043d\u044b\u0445...");
 
                 string zipTemp = Path.Combine(tempDir, "data.zip");
                 var assembly = Assembly.GetExecutingAssembly();
@@ -429,15 +468,40 @@ namespace NotTonightRussianInstaller
                 Log("   \u0420\u0430\u0441\u043f\u0430\u043a\u043e\u0432\u043a\u0430 OK", Color.FromArgb(100, 200, 120));
 
                 // Step 2: Copy
-                worker.ReportProgress(40, "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u043e\u0432...");
-                Log("[2/3] \u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u043e\u0432...");
+                worker.ReportProgress(35, "\u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u043e\u0432...");
+                Log("[2/4] \u041a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0444\u0430\u0439\u043b\u043e\u0432...");
 
                 int copied = CopyDirectory(tempDir, gamePath);
                 Log("   \u0421\u043a\u043e\u043f\u0438\u0440\u043e\u0432\u0430\u043d\u043e: " + copied + " \u0444\u0430\u0439\u043b\u043e\u0432", Color.FromArgb(100, 200, 120));
 
-                // Step 3: Verify
-                worker.ReportProgress(80, "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430...");
-                Log("[3/3] \u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430...");
+                // Step 3: Install fonts (system-wide if admin, else per-user fallback)
+                worker.ReportProgress(60, "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0448\u0440\u0438\u0444\u0442\u043e\u0432...");
+                Log("[3/4] \u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430 \u0448\u0440\u0438\u0444\u0442\u043e\u0432...");
+
+                // \u0423\u0434\u0430\u043b\u0438\u0442\u044c \u0443\u0441\u0442\u0430\u0440\u0435\u0432\u0448\u0438\u0439 diag-\u043b\u043e\u0433 \u043c\u043e\u0434\u0430 \u2014 \u043e\u043d \u0441\u0431\u0438\u0432\u0430\u0435\u0442 \u0441 \u0442\u043e\u043b\u043a\u0443 \u043f\u0440\u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e\u0439 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0435
+                TryDeleteStaleDiagLog(pluginDir);
+
+                fontsOk = InstallFonts(pluginDir, out fontFailureDetails);
+                if (fontsOk)
+                {
+                    Log("   \u0428\u0440\u0438\u0444\u0442\u044b \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u044b \u0438 \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u044b", Color.FromArgb(100, 200, 120));
+                }
+                else
+                {
+                    Log("   \u0428\u0440\u0438\u0444\u0442\u044b \u041d\u0415 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u044b \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438:", Color.FromArgb(255, 200, 100));
+                    if (!string.IsNullOrEmpty(fontFailureDetails))
+                    {
+                        foreach (var line in fontFailureDetails.Split('\n'))
+                        {
+                            if (!string.IsNullOrEmpty(line))
+                                Log("     " + line, Color.FromArgb(255, 200, 100));
+                        }
+                    }
+                }
+
+                // Step 4: Verify
+                worker.ReportProgress(85, "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430...");
+                Log("[4/4] \u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430...");
 
                 string[] checkFiles = new string[]
                 {
@@ -446,6 +510,8 @@ namespace NotTonightRussianInstaller
                     "BepInEx\\core\\BepInEx.dll",
                     "BepInEx\\plugins\\NotTonightRussian\\NotTonightRussian.dll",
                     "BepInEx\\plugins\\NotTonightRussian\\translations.txt",
+                    "BepInEx\\plugins\\NotTonightRussian\\LanaPixel.ttf",
+                    "BepInEx\\plugins\\NotTonightRussian\\PressStart2P-Regular.ttf",
                     "BepInEx\\config\\AutoTranslatorConfig.ini",
                     "BepInEx\\Translation\\ru\\Text\\_AutoGeneratedTranslations.txt"
                 };
@@ -484,6 +550,19 @@ namespace NotTonightRussianInstaller
                 {
                     if (Directory.Exists(tempDir))
                         Directory.Delete(tempDir, true);
+                }
+                catch { }
+            }
+
+            // Show font-failure dialog after the install flow finishes (regardless of
+            // verify outcome). MessageBox must run on UI thread \u2014 marshal via Invoke.
+            // C# 7.3 requires explicit MethodInvoker cast for the lambda.
+            if (!fontsOk)
+            {
+                try
+                {
+                    string capturedPluginDir = pluginDir;
+                    this.Invoke((MethodInvoker)delegate { ShowFontInstallFailedDialog(capturedPluginDir); });
                 }
                 catch { }
             }
@@ -672,6 +751,282 @@ namespace NotTonightRussianInstaller
             }
 
             return count;
+        }
+
+        // ========== FONT INSTALLATION ==========
+
+        private static bool IsRunningAsAdmin()
+        {
+            try
+            {
+                var identity = System.Security.Principal.WindowsIdentity.GetCurrent();
+                var principal = new System.Security.Principal.WindowsPrincipal(identity);
+                return principal.IsInRole(System.Security.Principal.WindowsBuiltInRole.Administrator);
+            }
+            catch { return false; }
+        }
+
+        // Per-user font installation (HKCU + %LOCALAPPDATA%\Microsoft\Windows\Fonts)
+        // is only supported since Windows 10 version 1809 (build 17763). Earlier
+        // builds will accept the registry write but GDI/FontCache won't pick it up.
+        // Environment.OSVersion lies on Win10/11 without an OS-version manifest, so
+        // we read the build number from the registry instead.
+        private static bool SupportsPerUserFonts()
+        {
+            try
+            {
+                using (var key = Registry.LocalMachine.OpenSubKey(@"SOFTWARE\Microsoft\Windows NT\CurrentVersion"))
+                {
+                    if (key == null) return false;
+                    string buildStr = key.GetValue("CurrentBuildNumber") as string;
+                    int build;
+                    return !string.IsNullOrEmpty(buildStr)
+                        && int.TryParse(buildStr, out build)
+                        && build >= 17763;
+                }
+            }
+            catch { return false; }
+        }
+
+        private static bool FilesAreEqual(string a, string b)
+        {
+            try
+            {
+                var fiA = new FileInfo(a);
+                var fiB = new FileInfo(b);
+                if (!fiA.Exists || !fiB.Exists) return false;
+                if (fiA.Length != fiB.Length) return false;
+
+                const int bufSize = 64 * 1024;
+                using (var sa = fiA.OpenRead())
+                using (var sb = fiB.OpenRead())
+                {
+                    byte[] ba = new byte[bufSize];
+                    byte[] bb = new byte[bufSize];
+                    int read;
+                    while ((read = sa.Read(ba, 0, bufSize)) > 0)
+                    {
+                        int read2 = sb.Read(bb, 0, bufSize);
+                        if (read != read2) return false;
+                        for (int i = 0; i < read; i++)
+                            if (ba[i] != bb[i]) return false;
+                    }
+                }
+                return true;
+            }
+            catch { return false; }
+        }
+
+        private bool InstallFonts(string pluginDir, out string failureDetails)
+        {
+            var failures = new System.Collections.Generic.List<string>();
+            bool admin = IsRunningAsAdmin();
+            bool perUserOk = SupportsPerUserFonts();
+            bool anyRegistered = false;
+            bool allOk = true;
+
+            string winFontsDir = Path.Combine(
+                Environment.GetEnvironmentVariable("WINDIR") ?? @"C:\Windows", "Fonts");
+            string userFontsDir = Path.Combine(
+                Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+                "Microsoft", "Windows", "Fonts");
+
+            foreach (var font in FontsToInstall)
+            {
+                string srcPath = Path.Combine(pluginDir, font.FileName);
+                if (!File.Exists(srcPath))
+                {
+                    failures.Add(font.FileName + ": не найден в " + pluginDir);
+                    allOk = false;
+                    continue;
+                }
+
+                bool installed = false;
+                string lastError = null;
+
+                // Strategy 1: system-wide install (only with admin rights)
+                if (admin)
+                {
+                    string destPath = Path.Combine(winFontsDir, font.FileName);
+                    try
+                    {
+                        if (!File.Exists(destPath) || !FilesAreEqual(srcPath, destPath))
+                        {
+                            // Try to copy. If the file is locked by Font Cache Service,
+                            // first unregister, then retry the copy once.
+                            try
+                            {
+                                File.Copy(srcPath, destPath, true);
+                            }
+                            catch (Exception copyEx)
+                                when (copyEx is IOException || copyEx is UnauthorizedAccessException)
+                            {
+                                try { NativeMethods.RemoveFontResourceEx(destPath, 0, IntPtr.Zero); } catch { }
+                                File.Copy(srcPath, destPath, true);
+                            }
+                        }
+
+                        using (var key = Registry.LocalMachine.OpenSubKey(FontsRegSubKey, true))
+                        {
+                            if (key == null)
+                                throw new InvalidOperationException("HKLM\\" + FontsRegSubKey + " недоступен");
+                            key.SetValue(font.RegName, font.FileName);
+                        }
+
+                        NativeMethods.AddFontResourceEx(destPath, 0, IntPtr.Zero);
+
+                        // Verify by re-reading the registry — most reliable signal
+                        using (var key = Registry.LocalMachine.OpenSubKey(FontsRegSubKey))
+                        {
+                            string val = key != null ? key.GetValue(font.RegName) as string : null;
+                            if (string.Equals(val, font.FileName, StringComparison.OrdinalIgnoreCase))
+                            {
+                                Log("   " + font.FileName + " -> " + winFontsDir + " [система]",
+                                    Color.FromArgb(100, 200, 120));
+                                installed = true;
+                                anyRegistered = true;
+                            }
+                            else
+                            {
+                                lastError = "запись в HKLM не подтверждена (значение: '" + (val ?? "<нет>") + "')";
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        lastError = "система: " + ex.Message;
+                    }
+                }
+
+                // Strategy 2: per-user install (no admin needed, Win10 1809+ only)
+                if (!installed && perUserOk)
+                {
+                    string destPath = Path.Combine(userFontsDir, font.FileName);
+                    try
+                    {
+                        Directory.CreateDirectory(userFontsDir);
+
+                        if (!File.Exists(destPath) || !FilesAreEqual(srcPath, destPath))
+                        {
+                            try
+                            {
+                                File.Copy(srcPath, destPath, true);
+                            }
+                            catch (Exception copyEx)
+                                when (copyEx is IOException || copyEx is UnauthorizedAccessException)
+                            {
+                                try { NativeMethods.RemoveFontResourceEx(destPath, 0, IntPtr.Zero); } catch { }
+                                File.Copy(srcPath, destPath, true);
+                            }
+                        }
+
+                        // HKCU stores the FULL PATH (different from HKLM convention)
+                        using (var key = Registry.CurrentUser.CreateSubKey(FontsRegSubKey))
+                        {
+                            if (key == null)
+                                throw new InvalidOperationException("HKCU\\" + FontsRegSubKey + " недоступен");
+                            key.SetValue(font.RegName, destPath);
+                        }
+
+                        NativeMethods.AddFontResourceEx(destPath, 0, IntPtr.Zero);
+
+                        using (var key = Registry.CurrentUser.OpenSubKey(FontsRegSubKey))
+                        {
+                            string val = key != null ? key.GetValue(font.RegName) as string : null;
+                            if (string.Equals(val, destPath, StringComparison.OrdinalIgnoreCase))
+                            {
+                                Log("   " + font.FileName + " -> " + userFontsDir + " [для пользователя]",
+                                    Color.FromArgb(100, 200, 120));
+                                installed = true;
+                                anyRegistered = true;
+                            }
+                            else
+                            {
+                                lastError = "запись в HKCU не подтверждена";
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        if (lastError != null) lastError += "; ";
+                        lastError = (lastError ?? "") + "пользователь: " + ex.Message;
+                    }
+                }
+                else if (!installed && !perUserOk && !admin)
+                {
+                    // Neither admin nor Win10 1809+ — nothing we can do automatically.
+                    if (lastError == null)
+                        lastError = "нет прав администратора, а Windows < 10 1809 не поддерживает установку для пользователя";
+                }
+
+                if (!installed)
+                {
+                    allOk = false;
+                    failures.Add(font.FileName + ": " + (lastError ?? "неизвестная ошибка"));
+                }
+            }
+
+            // Notify all top-level windows that the font set has changed so the
+            // Font Cache Service rescans before the game launches.
+            if (anyRegistered)
+            {
+                try
+                {
+                    IntPtr res;
+                    NativeMethods.SendMessageTimeout(NativeMethods.HWND_BROADCAST,
+                        NativeMethods.WM_FONTCHANGE, IntPtr.Zero, IntPtr.Zero,
+                        NativeMethods.SMTO_ABORTIFHUNG, 1500, out res);
+                }
+                catch { }
+            }
+
+            failureDetails = allOk ? null : string.Join("\n", failures.ToArray());
+            return allOk;
+        }
+
+        private void ShowFontInstallFailedDialog(string pluginDir)
+        {
+            string msg =
+                "ВНИМАНИЕ: шрифты для русификации не удалось установить автоматически.\n\n" +
+                "Без них пиксельный шрифт игры заменяется на Arial,\n" +
+                "и имена персонажей могут наезжать на возраст и интерфейс.\n\n" +
+                "КАК УСТАНОВИТЬ ВРУЧНУЮ:\n" +
+                "1. Нажмите «Да» — откроется папка с .ttf файлами\n" +
+                "2. Кликните правой кнопкой по LanaPixel.ttf\n" +
+                "3. На Windows 11 выберите «Показать дополнительные параметры»\n" +
+                "4. Нажмите «Установить для всех пользователей»\n" +
+                "5. Подтвердите запрос UAC, если он появится\n" +
+                "6. Повторите шаги 2–5 для PressStart2P-Regular.ttf\n" +
+                "7. Перезапустите игру\n\n" +
+                "Открыть папку с шрифтами сейчас?";
+
+            DialogResult result;
+            try
+            {
+                result = MessageBox.Show(this, msg,
+                    "Шрифты не установлены автоматически",
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            }
+            catch
+            {
+                return;
+            }
+
+            if (result == DialogResult.Yes && Directory.Exists(pluginDir))
+            {
+                try { Process.Start("explorer.exe", "\"" + pluginDir + "\""); }
+                catch { }
+            }
+        }
+
+        private static void TryDeleteStaleDiagLog(string pluginDir)
+        {
+            try
+            {
+                string log = Path.Combine(pluginDir, "NotTonightRussian_diag.txt");
+                if (File.Exists(log)) File.Delete(log);
+            }
+            catch { }
         }
     }
 

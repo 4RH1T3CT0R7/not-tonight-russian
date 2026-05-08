@@ -15,7 +15,7 @@ using I2.Loc;
 
 namespace NotTonightRussian
 {
-    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.7.0")]
+    [BepInPlugin("com.nottonight.russianlocalization", "Not Tonight Russian", "1.8.0")]
     public class RussianLocPlugin : BaseUnityPlugin
     {
         // Win32: register font for current session
