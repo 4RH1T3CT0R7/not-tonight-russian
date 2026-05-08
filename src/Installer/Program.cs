@@ -53,7 +53,7 @@ namespace NotTonightRussianInstaller
         private Label statusLabel;
         private BackgroundWorker worker;
 
-        private const string ModVersion = "1.8.0";
+        private const string ModVersion = "1.9.0";
 
         // Game exe can be either "Not Tonight.exe" or "NotTonight.exe"
         private static readonly string[] GameExeNames = { "Not Tonight.exe", "NotTonight.exe" };
